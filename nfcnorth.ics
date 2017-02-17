@@ -1,0 +1,805 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:NFC North
+X-WR-CALDESC:Scott Crevier, smc@smcnet.com
+PRODID:-//Scott Crevier//SouthEndZone.com//EN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:US-Central
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETTO:-0600
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETTO:-0500
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:2016p00GRBIND@southendzone.com
+SUMMARY:Green Bay at Indianapolis
+DESCRIPTION:_afcsouth\n\nTV: ESPN (Natl)\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160807T190000
+DTEND;TZID=US-Central:20160807T220000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p01DENCHI@southendzone.com
+SUMMARY:Denver 22 at Chicago 0
+DESCRIPTION:NorthZone\nBroncos 22\, Bears 0\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160811T190000
+DTEND;TZID=US-Central:20160811T220000
+LOCATION:_afcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p01MINCIN@southendzone.com
+SUMMARY:Minnesota 17 at Cincinnati 16
+DESCRIPTION:_afcnorth\nVikings 17\, Bengals 16\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160812T183000
+DTEND;TZID=US-Central:20160812T213000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p01DETPGH@southendzone.com
+SUMMARY:Detroit 30 at Pittsburgh 17
+DESCRIPTION:_afcnorth\nLions 30\, Steelers 17\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160812T183000
+DTEND;TZID=US-Central:20160812T213000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p01CLEGRB@southendzone.com
+SUMMARY:Cleveland 11 at Green Bay 17
+DESCRIPTION:NorthZone\nBrowns 11\, Packers 17\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160812T190000
+DTEND;TZID=US-Central:20160812T220000
+LOCATION:_afcnorth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p02CINDET@southendzone.com
+SUMMARY:Cincinnati 30 at Detroit 14
+DESCRIPTION:NorthZone\nBengals 30\, Lions 14\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160818T183000
+DTEND;TZID=US-Central:20160818T213000
+LOCATION:_afcnorth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p02OAKGRB@southendzone.com
+SUMMARY:Oakland 12 at Green Bay 20
+DESCRIPTION:NorthZone\nRaiders 12\, Packers 20\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160818T190000
+DTEND;TZID=US-Central:20160818T220000
+LOCATION:_afcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p02CHINEP@southendzone.com
+SUMMARY:Chicago 22 at New England 23
+DESCRIPTION:_afceast\nBears 22\, Patriots 23\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160818T190000
+DTEND;TZID=US-Central:20160818T220000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p02MINSEA@southendzone.com
+SUMMARY:Minnesota 18 at Seattle 11
+DESCRIPTION:_nfcwest\nVikings 18\, Seahawks 11\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160818T210000
+DTEND;TZID=US-Central:20160819T000000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p03GRBSFF@southendzone.com
+SUMMARY:Green Bay 21 at San Francisco 10
+DESCRIPTION:_nfcwest\nPackers 21\, 49ers 10\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160826T210000
+DTEND;TZID=US-Central:20160827T000000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p03KCCCHI@southendzone.com
+SUMMARY:Kansas City 23 at Chicago 7
+DESCRIPTION:NorthZone\nChiefs 23\, Bears 7\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160827T120000
+DTEND;TZID=US-Central:20160827T150000
+LOCATION:_afcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p03DETBAL@southendzone.com
+SUMMARY:Detroit 9 at Baltimore 30
+DESCRIPTION:_afcnorth\nLions 9\, Ravens 30\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160827T180000
+DTEND;TZID=US-Central:20160827T210000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p03SDCMIN@southendzone.com
+SUMMARY:San Diego 10 at Minnesota 23
+DESCRIPTION:NorthZone\nChargers 10\, Vikings 23\nTV: FOX (Natl)\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160828T120000
+DTEND;TZID=US-Central:20160828T150000
+LOCATION:_afcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p04BUFDET@southendzone.com
+SUMMARY:Buffalo 0 at Detroit 31
+DESCRIPTION:NorthZone\nBills 0\, Lions 31\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160901T183000
+DTEND;TZID=US-Central:20160901T213000
+LOCATION:_afceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p04STLMIN@southendzone.com
+SUMMARY:L.A. Rams 25 at Minnesota 27
+DESCRIPTION:NorthZone\nRams 25\, Vikings 27\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160901T190000
+DTEND;TZID=US-Central:20160901T220000
+LOCATION:_nfcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p04CHICLE@southendzone.com
+SUMMARY:Chicago 21 at Cleveland 7
+DESCRIPTION:_afcnorth\nBears 21\, Browns 7\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160901T190000
+DTEND;TZID=US-Central:20160901T220000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016p04GRBKCC@southendzone.com
+SUMMARY:Green Bay 7 at Kansas City 17
+DESCRIPTION:_afcwest\nPackers 7\, Chiefs 17\n\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160901T190000
+DTEND;TZID=US-Central:20160901T220000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w01CHIHOU@southendzone.com
+SUMMARY:Chicago 14 at Houston 23
+DESCRIPTION:_afcsouth\nBears 14\, Texans 23\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160911T120000
+DTEND;TZID=US-Central:20160911T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w01GRBJAX@southendzone.com
+SUMMARY:Green Bay 27 at Jacksonville 23
+DESCRIPTION:_afcsouth\nPackers 27\, Jaguars 23\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160911T120000
+DTEND;TZID=US-Central:20160911T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w01MINTEN@southendzone.com
+SUMMARY:Minnesota 25 at Tennessee 16
+DESCRIPTION:_afcsouth\nVikings 25\, Titans 16\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160911T120000
+DTEND;TZID=US-Central:20160911T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w01DETIND@southendzone.com
+SUMMARY:Detroit 39 at Indianapolis 35
+DESCRIPTION:_afcsouth\nLions 39\, Colts 35\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160911T152500
+DTEND;TZID=US-Central:20160911T182500
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w02TENDET@southendzone.com
+SUMMARY:Tennessee 16 at Detroit 15
+DESCRIPTION:NorthZone\nTitans 16\, Lions 15\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160918T120000
+DTEND;TZID=US-Central:20160918T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w02GRBMIN@southendzone.com
+SUMMARY:Green Bay 14 at Minnesota 17
+DESCRIPTION:NorthZone\nPackers 14\, Vikings 17\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160918T193000
+DTEND;TZID=US-Central:20160918T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w02PHLCHI@southendzone.com
+SUMMARY:Philadelphia 29 at Chicago 14
+DESCRIPTION:NorthZone\nEagles 29\, Bears 14\nTV: ESPN (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160919T193000
+DTEND;TZID=US-Central:20160919T223000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w03MINCAR@southendzone.com
+SUMMARY:Minnesota 22 at Carolina 10
+DESCRIPTION:_nfcsouth\nVikings 22\, Panthers 10\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160925T120000
+DTEND;TZID=US-Central:20160925T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w03DETGRB@southendzone.com
+SUMMARY:Detroit 27 at Green Bay 34
+DESCRIPTION:NorthZone\nLions 27\, Packers 34\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160925T120000
+DTEND;TZID=US-Central:20160925T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w03CHIDAL@southendzone.com
+SUMMARY:Chicago 17 at Dallas 31
+DESCRIPTION:_nfceast\nBears 17\, Cowboys 31\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20160925T193000
+DTEND;TZID=US-Central:20160925T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w04DETCHI@southendzone.com
+SUMMARY:Detroit 14 at Chicago 17
+DESCRIPTION:NorthZone\nLions 14\, Bears 17\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161002T120000
+DTEND;TZID=US-Central:20161002T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w04NYGMIN@southendzone.com
+SUMMARY:NY Giants 10 at Minnesota 24
+DESCRIPTION:NorthZone\nGiants 10\, Vikings 24\nTV: ESPN (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161003T193000
+DTEND;TZID=US-Central:20161003T223000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w05PHLDET@southendzone.com
+SUMMARY:Philadelphia 23 at Detroit 24
+DESCRIPTION:NorthZone\nEagles 23\, Lions 24\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161009T120000
+DTEND;TZID=US-Central:20161009T150000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w05CHIIND@southendzone.com
+SUMMARY:Chicago 23 at Indianapolis 29
+DESCRIPTION:_afcsouth\nBears 23\, Colts 29\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161009T120000
+DTEND;TZID=US-Central:20161009T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w05HOUMIN@southendzone.com
+SUMMARY:Houston 13 at Minnesota 31
+DESCRIPTION:NorthZone\nTexans 13\, Vikings 31\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161009T120000
+DTEND;TZID=US-Central:20161009T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w05NYGGRB@southendzone.com
+SUMMARY:NY Giants 16 at Green Bay 23
+DESCRIPTION:NorthZone\nGiants 16\, Packers 23\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161009T193000
+DTEND;TZID=US-Central:20161009T223000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w06JAXCHI@southendzone.com
+SUMMARY:Jacksonville 17 at Chicago 16
+DESCRIPTION:NorthZone\nJaguars 17\, Bears 16\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161016T120000
+DTEND;TZID=US-Central:20161016T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w06STLDET@southendzone.com
+SUMMARY:L.A. Rams 28 at Detroit 31
+DESCRIPTION:NorthZone\nRams 28\, Lions 31\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161016T120000
+DTEND;TZID=US-Central:20161016T150000
+LOCATION:_nfcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w06DALGRB@southendzone.com
+SUMMARY:Dallas 30 at Green Bay 16
+DESCRIPTION:NorthZone\nCowboys 30\, Packers 16\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161016T152500
+DTEND;TZID=US-Central:20161016T182500
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w07CHIGRB@southendzone.com
+SUMMARY:Chicago 10 at Green Bay 26
+DESCRIPTION:NorthZone\nBears 10\, Packers 26\nTV: CBS (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161020T192500
+DTEND;TZID=US-Central:20161020T222500
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w07WASDET@southendzone.com
+SUMMARY:Washington 17 at Detroit 20
+DESCRIPTION:NorthZone\nRedskins 17\, Lions 20\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161023T120000
+DTEND;TZID=US-Central:20161023T150000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w07MINPHL@southendzone.com
+SUMMARY:Minnesota 10 at Philadelphia 21
+DESCRIPTION:_nfceast\nVikings 10\, Eagles 21\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161023T120000
+DTEND;TZID=US-Central:20161023T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w08GRBATL@southendzone.com
+SUMMARY:Green Bay 32 at Atlanta 33
+DESCRIPTION:_nfcsouth\nPackers 32\, Falcons 33\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161030T152500
+DTEND;TZID=US-Central:20161030T182500
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w08DETHOU@southendzone.com
+SUMMARY:Detroit 13 at Houston 20
+DESCRIPTION:_afcsouth\nLions 13\, Texans 20\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161030T120000
+DTEND;TZID=US-Central:20161030T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w08MINCHI@southendzone.com
+SUMMARY:Minnesota 10 at Chicago 20
+DESCRIPTION:NorthZone\nVikings 10\, Bears 20\nTV: ESPN (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161031T193000
+DTEND;TZID=US-Central:20161031T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w09DETMIN@southendzone.com
+SUMMARY:Detroit 22 at Minnesota 16
+DESCRIPTION:NorthZone\nLions 22\, Vikings 16\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161106T120000
+DTEND;TZID=US-Central:20161106T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w09INDGRB@southendzone.com
+SUMMARY:Indianapolis 31 at Green Bay 26
+DESCRIPTION:NorthZone\nColts 31\, Packers 26\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161106T152500
+DTEND;TZID=US-Central:20161106T182500
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w10CHITBB@southendzone.com
+SUMMARY:Chicago 10 at Tampa Bay 36
+DESCRIPTION:_nfcsouth\nBears 10\, Buccaneers 36\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161113T120000
+DTEND;TZID=US-Central:20161113T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w10GRBTEN@southendzone.com
+SUMMARY:Green Bay 25 at Tennessee 47
+DESCRIPTION:_afcsouth\nPackers 25\, Titans 47\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161113T120000
+DTEND;TZID=US-Central:20161113T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w10MINWAS@southendzone.com
+SUMMARY:Minnesota 20 at Washington 26
+DESCRIPTION:_nfceast\nVikings 20\, Redskins 26\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161113T120000
+DTEND;TZID=US-Central:20161113T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w11JAXDET@southendzone.com
+SUMMARY:Jacksonville 19 at Detroit 26
+DESCRIPTION:NorthZone\nJaguars 19\, Lions 26\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161120T120000
+DTEND;TZID=US-Central:20161120T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w11ARZMIN@southendzone.com
+SUMMARY:Arizona 24 at Minnesota 30
+DESCRIPTION:NorthZone\nCardinals 24\, Vikings 30\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161120T120000
+DTEND;TZID=US-Central:20161120T150000
+LOCATION:_nfcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w11CHINYG@southendzone.com
+SUMMARY:Chicago 16 at NY Giants 22
+DESCRIPTION:_nfceast\nBears 16\, Giants 22\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161120T120000
+DTEND;TZID=US-Central:20161120T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w11GRBWAS@southendzone.com
+SUMMARY:Green Bay 24 at Washington 42
+DESCRIPTION:_nfceast\nPackers 24\, Redskins 42\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161120T193000
+DTEND;TZID=US-Central:20161120T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w12MINDET@southendzone.com
+SUMMARY:Minnesota 13 at Detroit 16
+DESCRIPTION:NorthZone\nVikings 13\, Lions 16\nTV: CBS (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161124T113000
+DTEND;TZID=US-Central:20161124T143000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w12TENCHI@southendzone.com
+SUMMARY:Tennessee 27 at Chicago 21
+DESCRIPTION:NorthZone\nTitans 27\, Bears 21\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161127T120000
+DTEND;TZID=US-Central:20161127T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w12GRBPHL@southendzone.com
+SUMMARY:Green Bay 27 at Philadelphia 13
+DESCRIPTION:_nfceast\nPackers 27\, Eagles 13\nTV: ESPN (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161128T193000
+DTEND;TZID=US-Central:20161128T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w13DALMIN@southendzone.com
+SUMMARY:Dallas 17 at Minnesota 15
+DESCRIPTION:NorthZone\nCowboys 17\, Vikings 15\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161201T192500
+DTEND;TZID=US-Central:20161201T222500
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w13SFFCHI@southendzone.com
+SUMMARY:San Francisco 6 at Chicago 26
+DESCRIPTION:NorthZone\n49ers 6\, Bears 26\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161204T120000
+DTEND;TZID=US-Central:20161204T150000
+LOCATION:_nfcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w13HOUGRB@southendzone.com
+SUMMARY:Houston 13 at Green Bay 21
+DESCRIPTION:NorthZone\nTexans 13\, Packers 21\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161204T120000
+DTEND;TZID=US-Central:20161204T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w13DETNOS@southendzone.com
+SUMMARY:Detroit 28 at New Orleans 13
+DESCRIPTION:_nfcsouth\nLions 28\, Saints 13\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161204T120000
+DTEND;TZID=US-Central:20161204T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w14CHIDET@southendzone.com
+SUMMARY:Chicago 17 at Detroit 20
+DESCRIPTION:NorthZone\nBears 17\, Lions 20\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161211T120000
+DTEND;TZID=US-Central:20161211T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w14MINJAX@southendzone.com
+SUMMARY:Minnesota 25 at Jacksonville 16
+DESCRIPTION:_afcsouth\nVikings 25\, Jaguars 16\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161211T120000
+DTEND;TZID=US-Central:20161211T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w14SEAGRB@southendzone.com
+SUMMARY:Seattle 10 at Green Bay 38
+DESCRIPTION:NorthZone\nSeahawks 10\, Packers 38\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161211T152500
+DTEND;TZID=US-Central:20161211T182500
+LOCATION:_nfcwest
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w15GRBCHI@southendzone.com
+SUMMARY:Green Bay 30 at Chicago 27
+DESCRIPTION:NorthZone\nPackers 30\, Bears 27\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161218T120000
+DTEND;TZID=US-Central:20161218T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w15INDMIN@southendzone.com
+SUMMARY:Indianapolis 34 at Minnesota 6
+DESCRIPTION:NorthZone\nColts 34\, Vikings 6\nTV: CBS\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161218T120000
+DTEND;TZID=US-Central:20161218T150000
+LOCATION:_afcsouth
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w15DETNYG@southendzone.com
+SUMMARY:Detroit 6 at NY Giants 17
+DESCRIPTION:_nfceast\nLions 6\, Giants 17\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161218T120000
+DTEND;TZID=US-Central:20161218T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w16MINGRB@southendzone.com
+SUMMARY:Minnesota 25 at Green Bay 38
+DESCRIPTION:NorthZone\nVikings 25\, Packers 38\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161224T120000
+DTEND;TZID=US-Central:20161224T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w16WASCHI@southendzone.com
+SUMMARY:Washington 41 at Chicago 21
+DESCRIPTION:NorthZone\nRedskins 41\, Bears 21\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161224T120000
+DTEND;TZID=US-Central:20161224T150000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w16DETDAL@southendzone.com
+SUMMARY:Detroit 21 at Dallas 42
+DESCRIPTION:_nfceast\nLions 21\, Cowboys 42\nTV: ESPN (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20161226T193000
+DTEND;TZID=US-Central:20161226T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w17CHIMIN@southendzone.com
+SUMMARY:Chicago 10 at Minnesota 38
+DESCRIPTION:NorthZone\nBears 10\, Vikings 38\nTV: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170101T120000
+DTEND;TZID=US-Central:20170101T150000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w17GRBDET@southendzone.com
+SUMMARY:Green Bay 31 at Detroit 24
+DESCRIPTION:NorthZone\nPackers 31\, Lions 24\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170101T193000
+DTEND;TZID=US-Central:20170101T223000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w18DETSEA@southendzone.com
+SUMMARY:Detroit 6 at Seattle 26
+DESCRIPTION:_nfcwest\nLions 6\, Seahawks 26\nTV: NBC (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170107T191500
+DTEND;TZID=US-Central:20170107T221500
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w18NYGGRB@southendzone.com
+SUMMARY:NY Giants 13 at Green Bay 38
+DESCRIPTION:NorthZone\nGiants 13\, Packers 38\nTV: FOX (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170108T154000
+DTEND;TZID=US-Central:20170108T184000
+LOCATION:_nfceast
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w19GRBDAL@southendzone.com
+SUMMARY:Green Bay 34 at Dallas 31
+DESCRIPTION:_nfceast\nPackers 34\, Cowboys 31\nTV: FOX (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170115T154000
+DTEND;TZID=US-Central:20170115T184000
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+UID:2016w20GRBATL@southendzone.com
+SUMMARY:Green Bay 21 at Atlanta 44
+DESCRIPTION:_nfcsouth\nPackers 21\, Falcons 44\nTV: FOX (Natl)\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n22Jan2017 08:53pm CT data updated by Scott\n31Jan2017 3:15pm CT data updated by your calendar program\n
+DTSTART;TZID=US-Central:20170122T140500
+DTEND;TZID=US-Central:20170122T170500
+LOCATION:NorthZone
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US-Central:20170107
+DTEND;TZID=US-Central:20170108
+RRULE:FREQ=DAILY;UNTIL=20170108
+UID:2016x1@southendzone.com
+SUMMARY:NFL Wild Card
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US-Central:20170114
+DTEND;TZID=US-Central:20170115
+RRULE:FREQ=DAILY;UNTIL=20170115
+UID:2016x2@southendzone.com
+SUMMARY:NFL Divisional Playoffs
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US-Central:20170122
+DTEND;TZID=US-Central:20170123
+RRULE:FREQ=DAILY;UNTIL=20170122
+UID:2016x3@southendzone.com
+SUMMARY:NFL Conference Championships
+DESCRIPTION:
+LOCATION:
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US-Central:20170129T190000
+DTEND;TZID=US-Central:20170129T220000
+UID:2016x4@southendzone.com
+SUMMARY:NFL Pro Bowl
+DESCRIPTION:TV: ESPN (Natl)
+LOCATION:Camping World Stadium\, Orlando\, FL
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=US-Central:20170205T170000
+DTEND;TZID=US-Central:20170205T200000
+UID:2016x5@southendzone.com
+SUMMARY:Super Bowl 51
+DESCRIPTION:TV: FOX (Natl)
+LOCATION:NRG Stadium\, Houston\, TX
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
