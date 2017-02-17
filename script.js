@@ -5,7 +5,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
   this.selectedDates = [new Date().setHours(0, 0, 0, 0)];
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
-  var ical_file = 'nfcnorth.ics';
+  var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
   $scope.show2pickers = false;
   $scope.countries = [];
     $scope.selectedLoc = "Not Selected";
