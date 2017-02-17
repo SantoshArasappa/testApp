@@ -2,7 +2,7 @@
  * @license MIT http://jseppi.mit-license.org/license.html
  */
 (function (window, angular) {
-  'use strict';
+  
 
   var dd = angular.module('ngDropdowns', []);
 

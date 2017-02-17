@@ -23,7 +23,7 @@ SOFTWARE.
 */
 
 (function (angular) {
-	'use strict';
+	
 	
 	angular.module('gm.datepickerMultiSelect', ['ui.bootstrap'])
 	.config(['$provide', '$injector', function ($provide, $injector) {
