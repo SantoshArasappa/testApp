@@ -1,0 +1,823 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook 16.0 MIMEDIR//EN
+VERSION:2.0
+METHOD:PUBLISH
+X-CALSTART:20170211T010000Z
+X-CALEND:20170413T053000Z
+X-WR-RELCALID:{0000002E-2ECD-7DFA-BADC-9D5C4FB07910}
+X-WR-CALNAME:NBA - Golden State Warriors
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:16011104T020000
+RRULE:FREQ=YEARLY;BYDAY=1SU;BYMONTH=11
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010311T020000
+RRULE:FREQ=YEARLY;BYDAY=2SU;BYMONTH=3
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900208\n\nGear up at the ESPN Fan Shop powered by Dick
+	’s Sporting Goods: http://www.dickssportinggoods.com/category/index.jsp?
+	categoryId=15504446&camp=Part:ESPNPart_NBA:Shop:CalendarEventsLink\n\nShar
+	e - https://espn.calreply.net/nba/share\n\nYou may unsubscribe by followin
+	g - http://espn.calreply.net/unsubscribe/18bc37cd306745e997f57389db90e776\
+	n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170210T230000
+DTSTAMP:20170214T024640Z
+DTSTART;TZID=America/New_York:20170210T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:FINAL: Golden State Warriors 122 - 107 Memphis Grizzlies
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Memphis Grizzlies
+TRANSP:TRANSPARENT
+UID:5e91d41d-1e6d-4eb7-807a-0dcec9edb43a
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Golden State Warriors take on the Oklahoma City Thund
+	er LIVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900218&
+	sport=nba\n\nFollow along online for live updates at: http://espn.go.com/n
+	ba/gamecast?gameId=400900218\n\nGear up at the ESPN Fan Shop powered by Di
+	ck’s Sporting Goods: http://www.dickssportinggoods.com/category/index.js
+	p?categoryId=15504446&camp=Part:ESPNPart_NBA:Shop:CalendarEventsLink\n\nSh
+	are - https://espn.calreply.net/nba/share\n\nYou may unsubscribe by follow
+	ing - http://espn.calreply.net/unsubscribe/18bc37cd306745e997f57389db90e77
+	6\n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170211T233000
+DTSTAMP:20170214T024640Z
+DTSTART;TZID=America/New_York:20170211T203000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:FINAL: Golden State Warriors 130 - 114 Oklahoma City Thunder
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+TRANSP:TRANSPARENT
+UID:4d1f8ac1-5818-42e6-bd99-b0c0b3e1fda2
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900232\n\nGear up at the ESPN Fan Shop powered by Dick
+	’s Sporting Goods: http://www.dickssportinggoods.com/category/index.jsp?
+	categoryId=15504446&camp=Part:ESPNPart_NBA:Shop:CalendarEventsLink\n\nShar
+	e - https://espn.calreply.net/nba/share\n\nYou may unsubscribe by followin
+	g - http://espn.calreply.net/unsubscribe/18bc37cd306745e997f57389db90e776\
+	n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170214T000000
+DTSTAMP:20170214T080830Z
+DTSTART;TZID=America/New_York:20170213T210000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:FINAL: Golden State Warriors 110 - 132 Denver Nuggets
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Golden State Warriors @ Denver Nuggets
+TRANSP:TRANSPARENT
+UID:edf53fc6-b305-4d7c-a281-c9812b4a16b3
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900253\n\nGear up at the ESPN Fan Shop powered by Dick
+	’s Sporting Goods: http://www.dickssportinggoods.com/category/index.jsp?
+	categoryId=15504446&camp=Part:ESPNPart_NBA:Shop:CalendarEventsLink\n\nShar
+	e - https://espn.calreply.net/nba/share\n\nYou may unsubscribe by followin
+	g - http://espn.calreply.net/unsubscribe/18bc37cd306745e997f57389db90e776\
+	n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170216T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170215T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:FINAL: Sacramento Kings 86 - 109 Golden State Warriors
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Sacramento Kings @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:c3f63717-babe-4e92-955b-addbc3b6f5db
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900260\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-2-23-212082
+	8.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170224T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170223T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on TNT
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:LA Clippers @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:1aed7ecb-56e8-4cf2-addd-400fcecc3e7f
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900279\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-2-25-212083
+	0.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170226T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170225T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Brooklyn Nets @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:8447ae9d-82e4-4b83-8017-757a0f6b9ae8
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900289\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/philadelphia-76ers-tickets/76ers-vs-warriors-2-27-
+	2121136.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGea
+	r up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.d
+	ickssportinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESP
+	NPart_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba
+	/share\n\nYou may unsubscribe by following - http://espn.calreply.net/unsu
+	bscribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://c
+	alrep.ly/poweredby
+DTEND;TZID=America/New_York:20170227T220000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170227T190000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Wells Fargo Center - Philadelphia\, PA
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Golden State Warriors @ Philadelphia 76ers
+TRANSP:TRANSPARENT
+UID:2f24100f-cb5e-4b1f-8d37-aa6f15f7290f
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900295\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/washington-wizards-tickets/wizards-vs-warriors-2-2
+	8-2121813.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nG
+	ear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www
+	.dickssportinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:E
+	SPNPart_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/n
+	ba/share\n\nYou may unsubscribe by following - http://espn.calreply.net/un
+	subscribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http:/
+	/calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170228T220000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170228T190000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on NBATV
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Golden State Warriors @ Washington Wizards
+TRANSP:TRANSPARENT
+UID:742eb559-ac27-43b4-9932-b1a9d9df2b7a
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900301\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/chicago-bulls-tickets/bulls-vs-warriors-3-2-212097
+	4.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170302T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170302T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on TNT
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Chicago Bulls
+TRANSP:TRANSPARENT
+UID:7d519676-7087-4ee3-a402-a232d03b00f0
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Golden State Warriors take on the New York Knicks LIV
+	E on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900323&sport=
+	nba\n\nFollow along online for live updates at: http://espn.go.com/nba/gam
+	ecast?gameId=400900323\n\nBuy Tickets with StubHub! https://www.vividseats
+	.com/nba-basketball/new-york-knicks-tickets/knicks-3-5-2120749.html?wsUser
+	=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at the ESPN Fa
+	n Shop powered by Dick’s Sporting Goods: http://www.dickssportinggoods.c
+	om/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NBA:Shop:Cale
+	ndarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n\nYou may u
+	nsubscribe by following - http://espn.calreply.net/unsubscribe/18bc37cd306
+	745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170305T183000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170305T153000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on ABC
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Golden State Warriors @ New York Knicks
+TRANSP:TRANSPARENT
+UID:9b2cb0b9-dc8d-4a6e-aed8-ba52c7d8aaf6
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900332\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/atlanta-hawks-tickets/hawks-vs-warriors-3-6-212128
+	0.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170306T223000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170306T193000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Philips Arena - Atlanta\, GA
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Golden State Warriors @ Atlanta Hawks
+TRANSP:TRANSPARENT
+UID:9e44e64c-6e7b-4602-a9da-928e0b45d84c
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Boston Celtics take on the Golden State Warriors LIVE
+	 on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900354&sport=n
+	ba\n\nFollow along online for live updates at: http://espn.go.com/nba/game
+	cast?gameId=400900354\n\nBuy Tickets with StubHub! https://www.vividseats.
+	com/nba-basketball/golden-state-warriors-tickets/warriors-3-8-2120833.html
+	?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at the 
+	ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssporting
+	goods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NBA:Sh
+	op:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n\nYo
+	u may unsubscribe by following - http://espn.calreply.net/unsubscribe/18bc
+	37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/pow
+	eredby
+DTEND;TZID=America/New_York:20170309T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170308T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on ESPN
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Boston Celtics @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:f4eb0722-d481-41fa-a503-0557f98fdb0e
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900363\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/minnesota-timberwolves-tickets/timberwolves-vs-war
+	riors-3-10-2121149.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PART
+	ESPN\n\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: h
+	ttp://www.dickssportinggoods.com/category/index.jsp?categoryId=15504446&ca
+	mp=Part:ESPNPart_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calre
+	ply.net/nba/share\n\nYou may unsubscribe by following - http://espn.calrep
+	ly.net/unsubscribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply
+	 - http://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170310T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170310T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on NBATV
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Minnesota Timberwolves
+TRANSP:TRANSPARENT
+UID:b6d4c02e-571a-4343-a187-6b6f10a61266
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Golden State Warriors take on the San Antonio Spurs L
+	IVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900375&spor
+	t=nba\n\nFollow along online for live updates at: http://espn.go.com/nba/g
+	amecast?gameId=400900375\n\nBuy Tickets with StubHub! https://www.vividsea
+	ts.com/nba-basketball/san-antonio-spurs-tickets/spurs-vs-warriors-3-11-212
+	0859.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear u
+	p at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dick
+	ssportinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPa
+	rt_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/sh
+	are\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubsc
+	ribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calr
+	ep.ly/poweredby
+DTEND;TZID=America/New_York:20170311T233000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170311T203000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on ABC
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ San Antonio Spurs
+TRANSP:TRANSPARENT
+UID:51cb820d-651d-432d-a5e9-49436faf9781
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900398\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-3-14-212083
+	8.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170315T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170314T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Philadelphia 76ers @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:d6064323-27d0-4d75-8c7d-646b75545733
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900414\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-3-16-212084
+	6.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170317T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170316T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Orlando Magic @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:a05ca09b-89bf-4964-89c1-2bdd76c5a37c
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900430\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-3-18-212085
+	2.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170319T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170318T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Milwaukee Bucks @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:a1a69f89-a382-40e7-a327-264013c999e7
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900444\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/oklahoma-city-thunder-tickets/thunder-vs-warriors-
+	3-20-2121158.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n
+	\nGear up at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://
+	www.dickssportinggoods.com/category/index.jsp?categoryId=15504446&camp=Par
+	t:ESPNPart_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.ne
+	t/nba/share\n\nYou may unsubscribe by following - http://espn.calreply.net
+	/unsubscribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - htt
+	p://calrep.ly/poweredby
+DTEND;TZID=America/New_York:20170320T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170320T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on TNT
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Oklahoma City Thunder
+TRANSP:TRANSPARENT
+UID:d03feb64-e8fa-4ccf-bc24-59c199ec4b5b
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900450\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/dallas-mavericks-tickets/mavericks-3-21-2121642.ht
+	ml?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at th
+	e ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssporti
+	nggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NBA:
+	Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n\n
+	You may unsubscribe by following - http://espn.calreply.net/unsubscribe/18
+	bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/p
+	oweredby
+DTEND;TZID=America/New_York:20170321T233000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170321T203000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:American Airlines Center - Dallas\, TX
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Dallas Mavericks
+TRANSP:TRANSPARENT
+UID:78a2d5b5-0e0a-4ed9-84e7-da1e0d211077
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900476\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-3-24-212085
+	8.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170325T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170324T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Sacramento Kings @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:30342733-5c00-4d18-912a-1d4f588cefee
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900489\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-3-26-212086
+	4.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170326T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170326T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Memphis Grizzlies @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:918176ec-0e67-4d41-b2dd-3d9f84c6bd23
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900503\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/houston-rockets-tickets/rockets-3-28-2121389.html?
+	wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at the E
+	SPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssportingg
+	oods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NBA:Sho
+	p:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n\nYou
+	 may unsubscribe by following - http://espn.calreply.net/unsubscribe/18bc3
+	7cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/powe
+	redby
+DTEND;TZID=America/New_York:20170328T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170328T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on NBATV
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Houston Rockets
+TRANSP:TRANSPARENT
+UID:82c43593-8ac2-46b6-8c42-fa96b723517b
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Golden State Warriors take on the San Antonio Spurs L
+	IVE on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900513&spor
+	t=nba\n\nFollow along online for live updates at: http://espn.go.com/nba/g
+	amecast?gameId=400900513\n\nBuy Tickets with StubHub! https://www.vividsea
+	ts.com/nba-basketball/san-antonio-spurs-tickets/spurs-vs-warriors-3-29-212
+	0873.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear u
+	p at the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dick
+	ssportinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPa
+	rt_NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/sh
+	are\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubsc
+	ribe/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calr
+	ep.ly/poweredby
+DTEND;TZID=America/New_York:20170330T003000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170329T213000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on ESPN
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ San Antonio Spurs
+TRANSP:TRANSPARENT
+UID:fb3e0d24-6977-45b6-8e2f-3dfcbd053364
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Watch the Houston Rockets take on the Golden State Warriors LIV
+	E on WatchESPN! http://espn.go.com/watchespn/index?gameId=400900531&sport=
+	nba\n\nFollow along online for live updates at: http://espn.go.com/nba/gam
+	ecast?gameId=400900531\n\nBuy Tickets with StubHub! https://www.vividseats
+	.com/nba-basketball/golden-state-warriors-tickets/warriors-3-31-2120871.ht
+	ml?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at th
+	e ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssporti
+	nggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NBA:
+	Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n\n
+	You may unsubscribe by following - http://espn.calreply.net/unsubscribe/18
+	bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/p
+	oweredby
+DTEND;TZID=America/New_York:20170401T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170331T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Watch on ESPN
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Houston Rockets @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:467dc126-21e0-4d85-b8af-53d27b7f7fb4
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400899474\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-4-2-2120890
+	.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at
+	 the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dicksspo
+	rtinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_N
+	BA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\
+	n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscribe
+	/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.l
+	y/poweredby
+DTEND;TZID=America/New_York:20170402T230000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170402T200000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:2
+SUMMARY:Washington Wizards @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:a0467de0-ecc6-4907-8375-15a9a90f7364
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900540\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-4-4-2120898
+	.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at
+	 the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dicksspo
+	rtinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_N
+	BA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\
+	n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscribe
+	/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.l
+	y/poweredby
+DTEND;TZID=America/New_York:20170405T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170404T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Minnesota Timberwolves @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:c827507f-8635-4917-a10d-ba3f6a53d453
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900549\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/phoenix-suns-tickets/suns-vs-warriors-4-5-2121844.
+	html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at 
+	the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dicksspor
+	tinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_NB
+	A:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\n
+	\nYou may unsubscribe by following - http://espn.calreply.net/unsubscribe/
+	18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly
+	/poweredby
+DTEND;TZID=America/New_York:20170406T010000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170405T220000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Talking Stick Resort Arena - Phoenix\, AZ
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Golden State Warriors @ Phoenix Suns
+TRANSP:TRANSPARENT
+UID:4d2384e6-9cb1-4575-a820-bd5993a27ecd
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900573\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-4-8-2120905
+	.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up at
+	 the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dicksspo
+	rtinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_N
+	BA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share\
+	n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscribe
+	/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.l
+	y/poweredby
+DTEND;TZID=America/New_York:20170409T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170408T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:New Orleans Pelicans @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:d3f0c5cd-6345-4521-89df-1b515e9c68ce
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900589\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-4-10-212091
+	8.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170411T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170410T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Utah Jazz @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:f157e8bb-1d4f-4c89-ae0a-02714e000d69
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:Follow along online for live updates at: http://espn.go.com/nba
+	/gamecast?gameId=400900607\n\nBuy Tickets with StubHub! https://www.vivids
+	eats.com/nba-basketball/golden-state-warriors-tickets/warriors-4-12-212092
+	0.html?wsUser=717?gcid=CHAFF--GEOUS-_-CMPCALEXPORT-_-PARTESPN\n\nGear up a
+	t the ESPN Fan Shop powered by Dick’s Sporting Goods: http://www.dickssp
+	ortinggoods.com/category/index.jsp?categoryId=15504446&camp=Part:ESPNPart_
+	NBA:Shop:CalendarEventsLink\n\nShare - https://espn.calreply.net/nba/share
+	\n\nYou may unsubscribe by following - http://espn.calreply.net/unsubscrib
+	e/18bc37cd306745e997f57389db90e776\n\nPowered by CalReply - http://calrep.
+	ly/poweredby
+DTEND;TZID=America/New_York:20170413T013000
+DTSTAMP:20170216T080956Z
+DTSTART;TZID=America/New_York:20170412T223000
+LAST-MODIFIED:20170217T192737Z
+LOCATION:ORACLE Arena - Oakland\, CA
+PRIORITY:5
+SEQUENCE:1
+SUMMARY:Los Angeles Lakers @ Golden State Warriors
+TRANSP:TRANSPARENT
+UID:900dd511-8be7-4d65-bc96-521fdf1e9a1e
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+CLASS:PUBLIC
+CREATED:20170217T192737Z
+DESCRIPTION:\n\nShare - https://espn.calreply.net/nba/share\n\nYou may unsu
+	bscribe by following - http://espn.calreply.net/unsubscribe/18bc37cd306745
+	e997f57389db90e776\n\nPowered by CalReply - http://calrep.ly/poweredby
+DTEND:20170217T191900Z
+DTSTAMP:20170217T191403Z
+DTSTART:20170217T191400Z
+LAST-MODIFIED:20170217T192737Z
+LOCATION:Your calendar will be updated automatically when new events become
+	 available
+PRIORITY:5
+SEQUENCE:0
+SUMMARY:You have successfully subscribed to the NBA calendar
+TRANSP:TRANSPARENT
+UID:18bc37cd-3067-45e9-97f5-7389db90e776
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+END:VCALENDAR

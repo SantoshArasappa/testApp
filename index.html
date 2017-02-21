@@ -19,11 +19,12 @@
       <tr>
         <td>
           <uib-datepicker ng-model='$app.activeDate' multi-select='$app.selectedDates' select-range='true' template-url='multi-datepicker.tpl.html'></uib-datepicker>
-        <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.filterEvents()'>Search Events</button>    
+        <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.filterEvents()'>Search Events</button>
+        <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.clearFilters()'>Clear Search</button>
         </td>
         <td style='width:50px'>
             <h1>Select Location</h1>
-                <div dropdown-select="locationdd" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled"></div> 
+                <div dropdown-select="locationOptions" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled"></div> 
             
             <!--<div>
                 <ul id='places'>
@@ -69,12 +70,13 @@
               </span>
           	</div>-->
         	
-            <div>
+            <div ng-show="showEvents">
                 <h1>Events in the selected Date Range</h1>
                 <ul id='calendar'>
-                    
-                    <li ng-repeat='event in eventsResultsFiltered'>
+                    <li ng-if="eventsResultsFiltered.length == 0"> No evenets Found</li>
+                    <li ng-repeat='event in eventsResultsFiltered | orderBy: "start_date"'>
                         <strong>{{event.SUMMARY}} </strong><br/> {{event.day}} : {{event.start_time}} - {{event.end_time}}({{event.start_date}})
+                        <br/>Game: {{gameSelected}}<br/>Place: {{placeSelected}}
                     </li>
                 </ul>    
               </div>

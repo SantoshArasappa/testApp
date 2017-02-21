@@ -2,6 +2,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 .controller('AppCtrl', function($scope) {
   this.activeDate = null;
   this.activeDate2 = null;
+  $scope.showEvents = false;    
   this.selectedDates = [new Date().setHours(0, 0, 0, 0)];
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
@@ -12,21 +13,67 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
     $scope.selectedGame = 'NFL';
   $scope.ddSelectOptions = [
     {
-      text: 'NFL',
-      value: 'NFL',
+      text: 'NBA',
+      value: 'NBA'
     }, {
       text: 'Cricket',
-      value: 'Cricket',
+      value: 'Cricket'
     },
       {
       text: 'Soccer',
-      value: 'Soccer',
+      value: 'Soccer'
     },
     {
       text: 'Rugby',
-      value: 'Rugby',
+      value: 'Rugby'
     }  
   ];         
+    
+    $scope.locationOptions = [
+    {
+      text: 'USA',
+      value: 'USA'
+    }, {
+      text: 'India',
+      value: 'India'
+    },
+    {
+      text: 'UK',
+      value: 'UK'
+    }  
+  ];
+    
+    
+    $scope.folderStructure = [
+        
+        {
+          text:  'USA',
+          value: [
+                {
+                   text: 'NBA',
+                   value: 'NBA'
+                }
+            ]
+        },
+         {  text: "India",
+            value: [
+                {
+                   text: 'Cricket',
+                   value: 'Cricket'
+                }
+            ]
+         },
+          {  text: "UK",
+             value: [
+                {
+                   text: 'Rugby',
+                   value: 'Rugby'
+                }
+            ]
+          }
+    ];
+    
+    
     
     $scope.locationdd = [];
     
@@ -35,7 +82,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
   };    
      
     
-    getCityList = function(events){
+    getCityList1 = function(events){
       var objPush1 = {
       text: 'Not Selected',
       someprop: 'Not Selected'
@@ -78,25 +125,31 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
     };
     
     displayDemoWithFilters = function(events,datesRangeMap){
-        $scope.eventsResultsFiltered = [];
+        var eventsResultsFilteredLocal = [];
+        
       //Foreach event
 				events.forEach(function(event){
-                    if(datesRangeMap.get(event.start_date) && ($scope.selectedLoc.text === event.LOCATION)){
-                        $scope.eventsResultsFiltered.push(event);
+                    if(datesRangeMap.get(event.start_date) 
+                       /*&& 
+                       ($scope.selectedLoc.text === null || $scope.selectedLoc.text === "" || $scope.selectedLoc.text === event.LOCATION)
+                      && 
+                      ($scope.selectedGame.text === null || $scope.selectedGame.text === "" || $scope.selectedGame.text === event.LOCATION)*/
+                      ){
+                        eventsResultsFilteredLocal.push(event);
                         //Create a list item
                         var li = document.createElement('li');
                         //Add details from cal file.
-                        li.innerHTML = '<strong>' +event.SUMMARY + '</strong><br/> ' +
-                        event.day + ': ' +event.start_time + ' - ' + event.end_time + ' ('+event.start_date+ ')' ;
+                       // li.innerHTML = '<strong>' +event.SUMMARY + '</strong><br/> ' +
+                        //event.day + ': ' +event.start_time + ' - ' + event.end_time + ' ('+event.start_date+ ')' ;
                         //Add list item to list.
                        // document.getElementById('calendar').appendChild(li);
                     }
 				});
         
-        
+        return eventsResultsFilteredLocal;
     };
     
-  ical_parser = function (feed_url, callback){
+  ical_parser = function (feed_url, callback,dateFirst){
 	//store of unproccesed data.
 	this.raw_data = null;
 	//Store of proccessed data.
@@ -131,15 +184,31 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 * @param String ical_date 
 	 * @return dt object, includes javascript Date + day name, hour/minutes/day/month/year etc.
 	 */
-	this.makeDate = function(ical_date){
+	this.makeDate = function(ical_date,dateFirst){
 		//break date apart
-		var dt =  {
-			year: ical_date.substr(0,4),
-			month: ical_date.substr(4,2),
-			day: ical_date.substr(6,2),
-			hour: ical_date.substr(9,2),
-			minute: ical_date.substr(11,2)
-		}
+        
+        var dt = {};
+        
+        if(dateFirst){
+        
+            dt =  {
+                year: ical_date.substr(0,4),
+                day: ical_date.substr(4,2),
+                month: ical_date.substr(6,2),
+                hour: ical_date.substr(9,2),
+                minute: ical_date.substr(11,2)
+            }
+        }else{
+            
+            dt =  {
+                year: ical_date.substr(0,4),
+                month: ical_date.substr(4,2),
+                day: ical_date.substr(6,2),
+                hour: ical_date.substr(9,2),
+                minute: ical_date.substr(11,2)
+            }
+            
+        }
 		//Create JS date (months start at 0 in JS - don't ask)
 		dt.date = new Date(dt.year, (dt.month-1), dt.day, dt.hour, dt.minute);
 		//Get the full name of the given day
@@ -154,7 +223,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 *
 	 * @param data Raw ICAL data
 	 */
-	this.parseICAL = function(data){
+	this.parseICAL = function(data,dateFirst){
 		//Ensure cal is empty
 		this.events = [];
 		
@@ -189,7 +258,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//If the type is a start date, proccess it and store details
 				//if(type =='DTSTART'){
                 if(type.indexOf('DTSTART') != -1 ){
-					dt = this.makeDate(val);
+					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
 					cur_event.start_time = dt.hour+':'+dt.minute;
@@ -199,7 +268,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//If the type is an end date, do the same as above
 				//if(type =='DTEND'){
                 if(type.indexOf('DTEND') != -1 ){
-					dt = this.makeDate(val);
+					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
 					cur_event.end_time = dt.hour+':'+dt.minute;
@@ -209,7 +278,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//Convert timestamp
 				//if(type =='DTSTAMP') 
                 if(type.indexOf('DTSTAMP') != -1 ){
-                    val = this.makeDate(val).date;
+                    val = this.makeDate(val,dateFirst).date;
                 }
 				//Add the value to our event object.
 				cur_event[type] = val;
@@ -262,13 +331,13 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 *
 	 * @param ical file url
 	 */
-	this.load = function(ical_file){
+	this.load = function(ical_file,dateFirst){
 		var tmp_this = this;
 		this.raw_data = null;
 		this.loadFile(ical_file, function(data){
 			//if the file loads, store the data and invoke the parser
 			tmp_this.raw_data = data;
-			tmp_this.parseICAL(data);
+			tmp_this.parseICAL(data,dateFirst);
 		});
 	}
 	
@@ -277,7 +346,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	//Store the feed url
 	this.feed_url = feed_url;
 	//Load the file
-	this.load(this.feed_url);
+	this.load(this.feed_url,dateFirst);
 };    
   
   this.removeFromSelected = function(dt) {
@@ -311,16 +380,16 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
                     //return this.eventsResults;
 					//And display them
 					//this.displayDemo(events);
-                    this.getCityList($scope.eventsResults);
+                    //this.getCityList($scope.eventsResults);
        return ;
-				}); 
+				},false); 
        
        
        
    };
     
    this.filterEvents = function(){
-       
+       $scope.showEvents = false;
        //var formatedDates = [];
        var formatedDates = new Map();
        this.selectedDates.forEach(function(dt){
@@ -359,11 +428,80 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
            formatedDates.set(time,time);
           
         });
+     $scope.folderStructure.forEach(function(folders){
+      if($scope.selectedLoc.text === folders.text){
+          
+          var game = folders.value[0].text;
+          
+          $scope.eventsResultsFiltered = [];
+          if($scope.selectedGame.text === undefined || $scope.selectedGame.text === "" || $scope.selectedGame.text === game){
+                var fileLocation = folders.text + '/' + game + '.ics';
+                $scope.gameSelected = game;
+                $scope.placeSelected = folders.text;
+              var dateFirst = false;
+              if(game === 'Cricket'){
+                  
+                  dateFirst = true;
+              }
+              ical_parser(fileLocation, function(cal){
+                        //When ical parser has loaded file
+                        //get future events
+                        //events = cal.getFutureEvents();
+                        this.events = cal.events;
+                        $scope.eventsResults = cal.events;
+                        $scope.places = [];
+                        //$scope.eventsResultsFiltered = cal.events;
+                        var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDates);
+                        $scope.$apply(function(){$scope.eventsResultsFiltered = returnResults;$scope.showEvents = true;});
+                        
+                        var summary = "";
+                        $scope.eventsResults.forEach(function(events){
+                           summary = events.SUMMARY.split("at ");
+
+
+                            //Add details from cal file.
+                            if(summary.length > 1 && $scope.places.indexOf(summary) === -1){
+                               $scope.places.push(events.SUMMARY.split("at ")[1]);
+                            }
+
+                        });
+
+                        this.showCal = true;
+                        //return this.eventsResults;
+                        //And display them
+                        //this.displayDemo(events);
+                       // this.getCityList($scope.eventsResults);
+                        return ;
+                    },dateFirst); 
+          
+            }
+
+          }
+          
+      });
+         
+         
+         
+    // }
        
-       displayDemoWithFilters($scope.eventsResults,formatedDates);
+      
+                      
+       
+       
+      // displayDemoWithFilters($scope.eventsResults,formatedDates);
        
        
    }
+   
+   this.clearFilters = function(){
+       this.selectedDates = [new Date().setHours(0, 0, 0, 0)];
+       $scope.eventsResultsFiltered = [];
+       $scope.selectedLoc = "Not Selected";
+        $scope.selectedGame = 'Not Selected';
+       $scope.showEvents = false;
+   }
+   
+   
   this.showCal = false;
   this.getEventsDetails();
   //this.eventsResults = this.getEventsDetails();
