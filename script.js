@@ -7,6 +7,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
+  var file_ref = 'https://cdn.rawgit.com/SantoshArasappa/testApp/b92736c8/';
   $scope.show2pickers = false;
   $scope.countries = [];
     $scope.selectedLoc = "Not Selected";
@@ -435,7 +436,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
           
           $scope.eventsResultsFiltered = [];
           if($scope.selectedGame.text === undefined || $scope.selectedGame.text === "" || $scope.selectedGame.text === game){
-                var fileLocation = folders.text + '/' + game + '.ics';
+                var fileLocation = file_ref + folders.text + '/' + game + '.ics';
                 $scope.gameSelected = game;
                 $scope.placeSelected = folders.text;
               var dateFirst = false;
