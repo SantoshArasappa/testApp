@@ -1,0 +1,845 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:1st match Sunrisers Hyderabad v Royal Challengers Bangalore
+DTSTART:20170405T143000Z
+DTEND:20170405T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082591_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:2nd match Rising Pune Supergiants v Mumbai Indians
+DTSTART:20170406T143000Z
+DTEND:20170406T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082592_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:3rd match Gujarat Lions v Kolkata Knight Riders
+DTSTART:20170407T143000Z
+DTEND:20170407T183000Z
+LOCATION:Saurashtra Cricket Association Stadium, Rajkot
+TRANSP:OPAQUE
+UID:1082593_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:4th match Kings XI Punjab v Rising Pune Supergiants
+DTSTART:20170408T103000Z
+DTEND:20170408T143000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1082594_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:5th match Royal Challengers Bangalore v Delhi Daredevils
+DTSTART:20170408T143000Z
+DTEND:20170408T183000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082595_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:6th match Sunrisers Hyderabad v Gujarat Lions
+DTSTART:20170409T103000Z
+DTEND:20170409T143000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082596_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:7th match Mumbai Indians v Kolkata Knight Riders
+DTSTART:20170409T143000Z
+DTEND:20170409T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082597_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:8th match Kings XI Punjab v Royal Challengers Bangalore
+DTSTART:20170410T143000Z
+DTEND:20170410T183000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1082598_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:9th match Rising Pune Supergiants v Delhi Daredevils
+DTSTART:20170411T143000Z
+DTEND:20170411T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082599_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:10th match Mumbai Indians v Sunrisers Hyderabad
+DTSTART:20170412T143000Z
+DTEND:20170412T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082600_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:11th match Kolkata Knight Riders v Kings XI Punjab
+DTSTART:20170413T143000Z
+DTEND:20170413T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082601_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:12th match Royal Challengers Bangalore v Mumbai Indians
+DTSTART:20170414T103000Z
+DTEND:20170414T143000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082602_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:13th match Gujarat Lions v Rising Pune Supergiants
+DTSTART:20170414T143000Z
+DTEND:20170414T183000Z
+LOCATION:Saurashtra Cricket Association Stadium, Rajkot
+TRANSP:OPAQUE
+UID:1082603_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:14th match Kolkata Knight Riders v Sunrisers Hyderabad
+DTSTART:20170415T103000Z
+DTEND:20170415T143000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082604_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:15th match Delhi Daredevils v Kings XI Punjab
+DTSTART:20170415T143000Z
+DTEND:20170415T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082605_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:16th match Mumbai Indians v Gujarat Lions
+DTSTART:20170416T103000Z
+DTEND:20170416T143000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082606_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:17th match Royal Challengers Bangalore v Rising Pune Supergiants
+DTSTART:20170416T143000Z
+DTEND:20170416T183000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082607_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:18th match Delhi Daredevils v Kolkata Knight Riders
+DTSTART:20170417T103000Z
+DTEND:20170417T143000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082608_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:19th match Sunrisers Hyderabad v Kings XI Punjab
+DTSTART:20170417T143000Z
+DTEND:20170417T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082609_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:20th match Gujarat Lions v Royal Challengers Bangalore
+DTSTART:20170418T143000Z
+DTEND:20170418T183000Z
+LOCATION:Saurashtra Cricket Association Stadium, Rajkot
+TRANSP:OPAQUE
+UID:1082610_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:21st match Sunrisers Hyderabad v Delhi Daredevils
+DTSTART:20170419T143000Z
+DTEND:20170419T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082611_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:22nd match Kings XI Punjab v Mumbai Indians
+DTSTART:20170420T143000Z
+DTEND:20170420T183000Z
+LOCATION:Holkar Cricket Stadium, Indore
+TRANSP:OPAQUE
+UID:1082612_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:23rd match Kolkata Knight Riders v Gujarat Lions
+DTSTART:20170421T143000Z
+DTEND:20170421T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082613_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:24th match Delhi Daredevils v Mumbai Indians
+DTSTART:20170422T103000Z
+DTEND:20170422T143000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082614_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:25th match Rising Pune Supergiants v Sunrisers Hyderabad
+DTSTART:20170422T143000Z
+DTEND:20170422T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082615_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:26th match Gujarat Lions v Kings XI Punjab
+DTSTART:20170423T103000Z
+DTEND:20170423T143000Z
+LOCATION:Saurashtra Cricket Association Stadium, Rajkot
+TRANSP:OPAQUE
+UID:1082616_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:27th match Kolkata Knight Riders v Royal Challengers Bangalore
+DTSTART:20170423T143000Z
+DTEND:20170423T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082617_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:28th match Mumbai Indians v Rising Pune Supergiants
+DTSTART:20170424T143000Z
+DTEND:20170424T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082618_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:29th match Royal Challengers Bangalore v Sunrisers Hyderabad
+DTSTART:20170425T143000Z
+DTEND:20170425T183000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082619_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:30th match Rising Pune Supergiants v Kolkata Knight Riders
+DTSTART:20170426T143000Z
+DTEND:20170426T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082620_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:31st match Royal Challengers Bangalore v Gujarat Lions
+DTSTART:20170427T143000Z
+DTEND:20170427T183000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082621_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:32nd match Kolkata Knight Riders v Delhi Daredevils
+DTSTART:20170428T103000Z
+DTEND:20170428T143000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082622_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:33rd match Kings XI Punjab v Sunrisers Hyderabad
+DTSTART:20170428T143000Z
+DTEND:20170428T183000Z
+LOCATION:Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+TRANSP:OPAQUE
+UID:1082623_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:34th match Rising Pune Supergiants v Royal Challengers Bangalore
+DTSTART:20170429T103000Z
+DTEND:20170429T143000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082624_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:35th match Gujarat Lions v Mumbai Indians
+DTSTART:20170429T143000Z
+DTEND:20170429T183000Z
+LOCATION:Saurashtra Cricket Association Stadium, Rajkot
+TRANSP:OPAQUE
+UID:1082625_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:36th match Kings XI Punjab v Delhi Daredevils
+DTSTART:20170430T103000Z
+DTEND:20170430T143000Z
+LOCATION:Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+TRANSP:OPAQUE
+UID:1082626_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:37th match Sunrisers Hyderabad v Kolkata Knight Riders
+DTSTART:20170430T143000Z
+DTEND:20170430T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082627_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:38th match Mumbai Indians v Royal Challengers Bangalore
+DTSTART:20170501T103000Z
+DTEND:20170501T143000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082628_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:39th match Rising Pune Supergiants v Gujarat Lions
+DTSTART:20170501T143000Z
+DTEND:20170501T183000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082629_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:40th match Delhi Daredevils v Sunrisers Hyderabad
+DTSTART:20170502T143000Z
+DTEND:20170502T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082630_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:41st match Kolkata Knight Riders v Rising Pune Supergiants
+DTSTART:20170503T143000Z
+DTEND:20170503T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082631_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:42nd match Delhi Daredevils v Gujarat Lions
+DTSTART:20170504T143000Z
+DTEND:20170504T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082632_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:43rd match Royal Challengers Bangalore v Kings XI Punjab
+DTSTART:20170505T143000Z
+DTEND:20170505T183000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082633_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:44th match Sunrisers Hyderabad v Rising Pune Supergiants
+DTSTART:20170506T103000Z
+DTEND:20170506T143000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082634_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:45th match Mumbai Indians v Delhi Daredevils
+DTSTART:20170506T143000Z
+DTEND:20170506T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082635_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:46th match Royal Challengers Bangalore v Kolkata Knight Riders
+DTSTART:20170507T103000Z
+DTEND:20170507T143000Z
+LOCATION:M Chinnaswamy Stadium, Bangalore
+TRANSP:OPAQUE
+UID:1082636_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:47th match Kings XI Punjab v Gujarat Lions
+DTSTART:20170507T143000Z
+DTEND:20170507T183000Z
+LOCATION:Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+TRANSP:OPAQUE
+UID:1082637_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:48th match Sunrisers Hyderabad v Mumbai Indians
+DTSTART:20170508T143000Z
+DTEND:20170508T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082638_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:49th match Kings XI Punjab v Kolkata Knight Riders
+DTSTART:20170509T143000Z
+DTEND:20170509T183000Z
+LOCATION:Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh
+TRANSP:OPAQUE
+UID:1082639_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:50th match Gujarat Lions v Delhi Daredevils
+DTSTART:20170510T143000Z
+DTEND:20170510T183000Z
+LOCATION:Green Park, Kanpur
+TRANSP:OPAQUE
+UID:1082640_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:51st match Mumbai Indians v Kings XI Punjab
+DTSTART:20170511T143000Z
+DTEND:20170511T183000Z
+LOCATION:Wankhede Stadium, Mumbai
+TRANSP:OPAQUE
+UID:1082641_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:52nd match Delhi Daredevils v Rising Pune Supergiants
+DTSTART:20170512T143000Z
+DTEND:20170512T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082642_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:53rd match Gujarat Lions v Sunrisers Hyderabad
+DTSTART:20170513T103000Z
+DTEND:20170513T143000Z
+LOCATION:Green Park, Kanpur
+TRANSP:OPAQUE
+UID:1082643_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:54th match Kolkata Knight Riders v Mumbai Indians
+DTSTART:20170513T143000Z
+DTEND:20170513T183000Z
+LOCATION:Eden Gardens, Kolkata
+TRANSP:OPAQUE
+UID:1082644_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:55th match Rising Pune Supergiants v Kings XI Punjab
+DTSTART:20170514T103000Z
+DTEND:20170514T143000Z
+LOCATION:Maharashtra Cricket Association Stadium, Pune
+TRANSP:OPAQUE
+UID:1082645_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:56th match Delhi Daredevils v Royal Challengers Bangalore
+DTSTART:20170514T143000Z
+DTEND:20170514T183000Z
+LOCATION:Feroz Shah Kotla, Delhi
+TRANSP:OPAQUE
+UID:1082646_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:Qualifier 1 TBD v TBD
+DTSTART:20170516T000000Z
+DTEND:20170516T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1082647_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:Eliminator TBD v TBD
+DTSTART:20170517T000000Z
+DTEND:20170517T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1082648_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:Qualifier 2 TBD v TBD
+DTSTART:20170519T000000Z
+DTEND:20170519T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1082649_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
+SUMMARY:Final TBD v TBD
+DTSTART:20170521T143000Z
+DTEND:20170521T183000Z
+LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
+TRANSP:OPAQUE
+UID:1082650_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

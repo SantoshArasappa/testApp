@@ -1,32 +1,231 @@
-angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
-.controller('AppCtrl', function($scope) {
+angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap'])
+
+.factory('services', function($http) {
+
+    var getData = function(url,dateInLoop) {
+
+        // Angular $http() and then() both return promises themselves 
+        return $http({method:"GET", url:url}).then(function(result){
+            var object = {
+              url:  '',
+              value: ''
+            };
+            // What we return here is the data that will be accessible 
+            // to us after the promise resolves
+            object.url = url;
+            object.value = result.data;
+            object.dateInLoop = dateInLoop;
+            return object;
+        });
+    };
+
+    return { getData: getData };
+})
+
+.controller('AppCtrl', function($scope, $http, services) {
   this.activeDate = null;
   this.activeDate2 = null;
-  this.selectedDates = [new Date().setHours(0, 0, 0, 0)];
+  $scope.showEvents = false;    
+  this.selectedDates = new Date();
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
+  var parentFolder = '/Games';
   $scope.show2pickers = false;
   $scope.countries = [];
-    $scope.selectedLoc = "Not Selected";
-    $scope.selectedGame = 'NFL';
+  $scope.isError = false;    
+    
+    
+    // Date pick start
+    
+    $scope.today = function() {
+    $scope.dt = new Date();
+  };
+  $scope.today();
+
+  $scope.clear = function() {
+    $scope.dt = null;
+  };
+
+  $scope.inlineOptions = {
+    customClass: getDayClass,
+    minDate: new Date(),
+    showWeeks: true
+  };
+
+  $scope.dateOptions = {
+    
+    formatYear: 'yy',
+    maxDate: new Date(2020, 5, 22),
+    minDate: new Date(),
+    startingDay: 1
+  };
+
+  // Disable weekend selection
+  function disabled(data) {
+    var date = data.date,
+      mode = data.mode;
+    return mode === 'day' && (date.getDay() === 0 || date.getDay() === 6);
+  }
+
+  $scope.toggleMin = function() {
+    $scope.inlineOptions.minDate = $scope.inlineOptions.minDate ? null : new Date();
+    $scope.dateOptions.minDate = $scope.inlineOptions.minDate;
+  };
+
+  //$scope.toggleMin();
+
+  $scope.open1 = function() {
+    $scope.popup1.opened = true;
+  };
+
+  $scope.open2 = function() {
+    $scope.popup2.opened = true;
+  };
+
+  $scope.setDate = function(year, month, day) {
+    $scope.dt = new Date(year, month, day);
+  };
+
+  $scope.formats = ['dd-MMMM-yyyy', 'yyyy/MM/dd', 'dd.MM.yyyy', 'shortDate'];
+  $scope.format = $scope.formats[0];
+  $scope.altInputFormats = ['M!/d!/yyyy'];
+
+  $scope.popup1 = {
+    opened: false
+  };
+
+  $scope.popup2 = {
+    opened: false
+  };
+
+  var tomorrow = new Date();
+  tomorrow.setDate(tomorrow.getDate() + 1);
+  var afterTomorrow = new Date();
+  afterTomorrow.setDate(tomorrow.getDate() + 1);
+  $scope.events = [
+    {
+      date: tomorrow,
+      status: 'full'
+    },
+    {
+      date: afterTomorrow,
+      status: 'partially'
+    }
+  ];
+
+  function getDayClass(data) {
+    var date = data.date,
+      mode = data.mode;
+    if (mode === 'day') {
+      var dayToCheck = new Date(date).setHours(0,0,0,0);
+
+      for (var i = 0; i < $scope.events.length; i++) {
+        var currentDay = new Date($scope.events[i].date).setHours(0,0,0,0);
+
+        if (dayToCheck === currentDay) {
+          return $scope.events[i].status;
+        }
+      }
+    }
+
+    return '';
+  }
+    
+    
+    // Date pick end
+    
+    
+    $scope.selectedLoc = "Country";
+    $scope.selectedGame = 'Sport';
   $scope.ddSelectOptions = [
     {
-      text: 'NFL',
-      value: 'NFL',
+      text: 'NBA',
+      value: 'NBA'
     }, {
       text: 'Cricket',
-      value: 'Cricket',
+      value: 'Cricket'
     },
       {
       text: 'Soccer',
-      value: 'Soccer',
+      value: 'Soccer'
     },
     {
       text: 'Rugby',
-      value: 'Rugby',
+      value: 'Rugby'
     }  
   ];         
+    
+    $scope.locationOptions = [
+    {
+      text: 'USA',
+      value: 'USA'
+    }, {
+      text: 'India',
+      value: 'India'
+    },
+    {
+      text: 'UK',
+      value: 'UK'
+    }  
+  ];
+    
+    
+    $scope.folderStructure = [
+        
+        {
+          text:  'USA',
+          value: [
+                {
+                   text: 'NBA',
+                   value: 'NBA'
+                }
+            ]
+        },
+         {  text: "India",
+            value: [
+                {
+                   text: 'Cricket',
+                   value: 'Cricket'
+                }
+            ]
+         },
+          {  text: "UK",
+             value: [
+                {
+                   text: 'Rugby',
+                   value: 'Rugby'
+                }
+            ]
+          }
+    ];
+    
+    
+    $scope.getFiles = function(url){
+        
+        
+        /*$http.get(url)
+        .then(function(response) {
+            //First function handles success
+            return response.data;
+        }, function(response) {
+            //Second function handles error
+            $scope.content = "Something went wrong";
+        });*/
+        
+        
+        var myDataPromise = services.getData(url,null);
+        myDataPromise.then(function(result) {  
+
+            // this is only run after getData() resolves
+            return result;
+            console.log("data.name"+$scope.data.name);
+        });
+        
+        
+    }
+    
+    
     
     $scope.locationdd = [];
     
@@ -35,7 +234,12 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
   };    
      
     
-    getCityList = function(events){
+    
+    
+    
+    
+    
+    getCityList1 = function(events){
       var objPush1 = {
       text: 'Not Selected',
       someprop: 'Not Selected'
@@ -78,32 +282,42 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
     };
     
     displayDemoWithFilters = function(events,datesRangeMap){
-        $scope.eventsResultsFiltered = [];
+        var eventsResultsFilteredLocal = [];
+        
       //Foreach event
 				events.forEach(function(event){
-                    if(datesRangeMap.get(event.start_date) && ($scope.selectedLoc.text === event.LOCATION)){
-                        $scope.eventsResultsFiltered.push(event);
+                    if(datesRangeMap.get(event.start_date) 
+                       /*&& 
+                       ($scope.selectedLoc.text === null || $scope.selectedLoc.text === "" || $scope.selectedLoc.text === event.LOCATION)
+                      && 
+                      ($scope.selectedGame.text === null || $scope.selectedGame.text === "" || $scope.selectedGame.text === event.LOCATION)*/
+                      ){
+                        eventsResultsFilteredLocal.push(event);
                         //Create a list item
                         var li = document.createElement('li');
                         //Add details from cal file.
-                        li.innerHTML = '<strong>' +event.SUMMARY + '</strong><br/> ' +
-                        event.day + ': ' +event.start_time + ' - ' + event.end_time + ' ('+event.start_date+ ')' ;
+                       // li.innerHTML = '<strong>' +event.SUMMARY + '</strong><br/> ' +
+                        //event.day + ': ' +event.start_time + ' - ' + event.end_time + ' ('+event.start_date+ ')' ;
                         //Add list item to list.
                        // document.getElementById('calendar').appendChild(li);
                     }
 				});
         
-        
+        return eventsResultsFilteredLocal;
     };
     
-  ical_parser = function (feed_url, callback){
+  ical_parser = function (feed_url, callback,dateFirst,dateInLoop){
 	//store of unproccesed data.
 	this.raw_data = null;
 	//Store of proccessed data.
 	this.events = [];
     
-      
-      
+    this.url = feed_url;
+    this.folds = ((feed_url).substr(1)).split("/");
+    this.country = this.folds[1];
+    this.game = this.folds[2];
+    this.league = this.folds[3];
+    this.dateInLoop = dateInLoop;  
 	
 	/**
 	 * loadFile
@@ -111,7 +325,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 * @param url URL of .ics file
 	 * @param callback Function to call on completion.
 	 */
-	this.loadFile = function(url, callback){
+	/*this.loadFile = function(url, callback){
 		//Create request object
 		try {xmlhttp = window.XMLHttpRequest?new XMLHttpRequest(): new ActiveXObject("Microsoft.XMLHTTP");}  catch (e) { }
 		//Grab file
@@ -123,7 +337,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 		}
 		xmlhttp.open("GET", url, true);
 		xmlhttp.send(null);
-	}
+	}*/
 	
 	/**
 	 * makeDate
@@ -131,15 +345,31 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 * @param String ical_date 
 	 * @return dt object, includes javascript Date + day name, hour/minutes/day/month/year etc.
 	 */
-	this.makeDate = function(ical_date){
+	this.makeDate = function(ical_date,dateFirst){
 		//break date apart
-		var dt =  {
-			year: ical_date.substr(0,4),
-			month: ical_date.substr(4,2),
-			day: ical_date.substr(6,2),
-			hour: ical_date.substr(9,2),
-			minute: ical_date.substr(11,2)
-		}
+        
+        var dt = {};
+        
+        if(dateFirst){
+        
+            dt =  {
+                year: ical_date.substr(0,4),
+                day: ical_date.substr(4,2),
+                month: ical_date.substr(6,2),
+                hour: ical_date.substr(9,2),
+                minute: ical_date.substr(11,2)
+            }
+        }else{
+            
+            dt =  {
+                year: ical_date.substr(0,4),
+                month: ical_date.substr(4,2),
+                day: ical_date.substr(6,2),
+                hour: ical_date.substr(9,2),
+                minute: ical_date.substr(11,2)
+            }
+            
+        }
 		//Create JS date (months start at 0 in JS - don't ask)
 		dt.date = new Date(dt.year, (dt.month-1), dt.day, dt.hour, dt.minute);
 		//Get the full name of the given day
@@ -154,7 +384,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 *
 	 * @param data Raw ICAL data
 	 */
-	this.parseICAL = function(data){
+	this.parseICAL = function(data,dateFirst,country,game){
 		//Ensure cal is empty
 		this.events = [];
 		
@@ -175,6 +405,9 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
 				in_event = false;
+                cur_event["sport"] = game;
+                cur_event["country"] = country;
+                cur_event["league"] = this.league;
 				this.events.push(cur_event);
 				cur_event = null;
 			}
@@ -189,7 +422,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//If the type is a start date, proccess it and store details
 				//if(type =='DTSTART'){
                 if(type.indexOf('DTSTART') != -1 ){
-					dt = this.makeDate(val);
+					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
 					cur_event.start_time = dt.hour+':'+dt.minute;
@@ -199,7 +432,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//If the type is an end date, do the same as above
 				//if(type =='DTEND'){
                 if(type.indexOf('DTEND') != -1 ){
-					dt = this.makeDate(val);
+					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
 					cur_event.end_time = dt.hour+':'+dt.minute;
@@ -209,7 +442,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 				//Convert timestamp
 				//if(type =='DTSTAMP') 
                 if(type.indexOf('DTSTAMP') != -1 ){
-                    val = this.makeDate(val).date;
+                    val = this.makeDate(val,dateFirst).date;
                 }
 				//Add the value to our event object.
 				cur_event[type] = val;
@@ -262,22 +495,38 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
 	 *
 	 * @param ical file url
 	 */
-	this.load = function(ical_file){
+	/*this.load = function(ical_file,dateFirst){
 		var tmp_this = this;
 		this.raw_data = null;
 		this.loadFile(ical_file, function(data){
 			//if the file loads, store the data and invoke the parser
 			tmp_this.raw_data = data;
-			tmp_this.parseICAL(data);
+			tmp_this.parseICAL(data,dateFirst);
 		});
-	}
+	}*/
+    
+    this.load = function(ical_file,dateFirst,dateInLoop){
+        var myDataPromise = services.getData(ical_file,dateInLoop);
+        var tmp_this = this;
+		this.raw_data = null;
+        myDataPromise.then(function(result) {
+            tmp_this.raw_data = result.value;
+            this.url = result.url;
+            var folds = ((this.url).substr(1)).split("/");
+            this.country = folds[1];
+            this.game = folds[2];
+            this.league = (folds[3]).replace(".ics","");
+            this.dateInLoop = dateInLoop;
+			tmp_this.parseICAL(tmp_this.raw_data,dateFirst,country,game);
+        });
+    }
 	
 	//Store this so we can use it in the callback from the load function.
 	var tmp_this = this;
 	//Store the feed url
 	this.feed_url = feed_url;
 	//Load the file
-	this.load(this.feed_url);
+	this.load(this.feed_url,dateFirst,dateInLoop);
 };    
   
   this.removeFromSelected = function(dt) {
@@ -286,8 +535,125 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
     this.selectedDates.splice(this.selectedDates.indexOf(dt), 1);
   }
   
+  $scope.getListFromHtml = function(data,foldersToExclude){
+      var listReturn = [];
+      var exclude = (foldersToExclude.substr(1)).split("/");
+      var linkStart = 0
+       var linkEnd = 0
+       var hrefValue = '';
+       var folderName = '';
+      var count = 0;
+       //while (linkStart <= linkEnd) {
+      while (linkStart > -1) {
+          linkStart = data.indexOf('<a', linkEnd);
+          count = count + 1;
+          if (linkStart > -1) {
+             linkEnd = data.indexOf('</a>', linkStart);// + 4;
+
+             if (linkEnd > -1) {
+                 hrefValue = data.substring(linkStart, linkEnd);
+                 folderName = hrefValue.substr((hrefValue.indexOf('">') + 1));
+                 //folderName = folderName.replace(/[&\/\\#,+()$~%.'":*?<>{}]/g,'');
+                 folderName = folderName.replace(/[&\/\\#,+()$~%'":*?<>{}]/g,'');
+                 if(exclude.indexOf(folderName) == -1 && folderName != "" && folderName != ".."){
+                     listReturn.push(folderName);
+                 }
+                 
+                 data = data.replace("<a","");
+                 data = data.replace("</a","");
+                /*var hvs = data.indexOf('href="', linkStart) + 6;
+                var hve = data.indexOf('"', hvs) - 1;
+                var tnvs = data.indexOf('>', linkStart) + 1;
+                var tnve = data.indexOf('<', tnvs) - 1;
+                if (data.substring(hvs, hve) == data.substring(tnvs, tnve)) {
+                   alert(data.substring(tnvs, tnve))
+                   operations[data.substring(tnvs, tnve)] = null;
+                }*/
+             }
+          }
+       }
+      
+      return listReturn;
+      
+      
+  }
+  
+  
   this.getEventsDetails = function(){
        
+      //var folderStrut = $scope.getFiles(parentFolder);
+      $scope.games = [];
+      var gameList = [];
+      $scope.filesFolderStructure = [];
+      $scope.folderStructureList = [];
+      $scope.gameFileList = [];
+      var object = {
+          text:  '',
+          value: [
+                
+            ]
+        };
+      var myDataPromise = services.getData(parentFolder,null);
+        myDataPromise.then(function(result) {  
+
+            // this is only run after getData() resolves
+            var folderStrut = result.value;
+            $scope.countries = $scope.getListFromHtml(folderStrut,parentFolder);   
+            var length = $scope.countries.length;
+            $scope.countries.forEach(function(country){
+                    var url = parentFolder + "/" + country;
+					myDataPromise = services.getData(url,null);
+                    myDataPromise.then(function(result) {   
+                        gameList = $scope.getListFromHtml(result.value,result.url); 
+                        
+                        
+                        
+                        gameList.forEach(function(game){
+                          
+                            url = result.url + "/" + game;
+                            myDataPromise = services.getData(url,null);
+                            myDataPromise.then(function(files) { 
+                                
+                                var filesList = ($scope.getListFromHtml(files.value,files.url)).join(); 
+                                
+                                var gameObject = {
+                                      text:  '',
+                                      value: [
+
+                                        ]
+                                    };
+                                gameObject.url = files.url;
+                                gameObject.value = filesList;
+                                object.value = filesList;
+                                 $scope.gameFileList.push(gameObject);
+                                object.text = game;
+                                $scope.filesFolderStructure.push(object);
+
+                            });
+                            
+                            
+                            if($scope.games.indexOf(game) == -1){
+                                $scope.games.push(game);
+                            }
+                            
+                        });
+                        
+                        
+                        
+                    });   
+                
+                object.text = country;
+                object.value = gameList;
+                $scope.folderStructureList.push(object);
+					
+            });
+            
+            
+        });
+      
+      
+      $scope.folderStructureList1 = $scope.folderStructureList;
+      
    ical_parser(ical_file, function(cal){
 					//When ical parser has loaded file
 					//get future events
@@ -311,19 +677,85 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
                     //return this.eventsResults;
 					//And display them
 					//this.displayDemo(events);
-                    this.getCityList($scope.eventsResults);
+                    //this.getCityList($scope.eventsResults);
        return ;
-				}); 
+				},false); 
        
        
        
    };
     
+   /* $scope.getDates = function(currentDate, end){
+        
+        if(this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates.length > 0 || this.selectedDates === undefined){
+            
+            
+            while (currentDate <= end) {
+                between.push(new Date(currentDate));
+                currentDate.setDate(currentDate.getDate() + 1);
+            } 
+            
+        }
+        
+    }*/
+    
+    
    this.filterEvents = function(){
+       $scope.isError = false;
+       var dateSelectedList = [];
+        $scope.eventsResultsFiltered = [];
+       $scope.eventsResultsFilteredNew = [];
+       var dateFirst = false;
+       if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && (this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates === undefined || this.selectedDates.length > 0) ){
+        
+           $scope.errorMessage = "Please select at least one on of the fields to be choosen"
+           $scope.isError = true;
+       }else{
+           
+        
+         /* if(((this.selectedDates2 === undefined || this.selectedDates2.length > 0) && 
+             (this.selectedDates != undefined || this.selectedDates.length == 0)) || ((this.selectedDates === undefined || this.selectedDates.length > 0) && 
+             (this.selectedDates2 != undefined || this.selectedDates2.length == 0))){
+                
+                
+             
+             
+             }*/
+           
+           if((this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates.length > 0 || this.selectedDates === undefined)){
+               $scope.errorMessage = "Please select the Date"
+               $scope.isError = true;
+               
+           }else {
+                if((this.selectedDates2 === undefined || this.selectedDates2.length > 0)){
+                    dateSelectedList.push(this.selectedDates);
+                }else if((this.selectedDates === undefined || this.selectedDates.length > 0)){
+                           dateSelectedList.push(this.selectedDates2);
+                       }else{
+                           if(this.selectedDates > this.selectedDates2){
+                               $scope.errorMessage = "From date cannot be greater than To date"
+                                $scope.isError = true;
+                           }else{
+                               
+                               var currentDate = new Date(this.selectedDates.getTime());
+                               while (currentDate <= this.selectedDates2) {
+                                    dateSelectedList.push(new Date(currentDate));
+                                    currentDate.setDate(currentDate.getDate() + 1);
+                                }
+                           }
+                           
+                       }
+           
+           }
+           if(!$scope.isError){
        
+       $scope.isError = false;
+       $scope.showEvents = false;
        //var formatedDates = [];
        var formatedDates = new Map();
-       this.selectedDates.forEach(function(dt){
+       
+      // dateSelectedList.push(this.selectedDates);
+       dateSelectedList.forEach(function(dt){
            var pattern = /(\d{4})(\d{2})(\d{2})/;
           dt = dt + "";
          // $scope.date = new Date(dt.replace(pattern, '$1-$2-$3'));
@@ -332,7 +764,7 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
             $scope.date1 = $scope.date;
           
           
-          var d = new Date(dt * 1),	// Convert the passed timestamp to milliseconds
+          var d = new Date(dt),	// Convert the passed timestamp to milliseconds
 		yyyy = d.getFullYear(),
 		mm = ('0' + (d.getMonth() + 1)).slice(-2),	// Months are zero based. Add leading 0.
 		dd = ('0' + d.getDate()).slice(-2),			// Add leading 0.
@@ -359,17 +791,348 @@ angular.module('app', ['gm.datepickerMultiSelect','ngDropdowns'])
            formatedDates.set(time,time);
           
         });
+     /*$scope.folderStructure.forEach(function(folders){
+      if($scope.selectedLoc.text === folders.text){
+          
+          var game = folders.value[0].text;
+          
+          $scope.eventsResultsFiltered = [];
+          if($scope.selectedGame.text === undefined || $scope.selectedGame.text === "" || $scope.selectedGame.text === game){
+                var fileLocation = folders.text + '/' + game + '.ics';
+                $scope.gameSelected = game;
+                $scope.placeSelected = folders.text;
+              var dateFirst = false;
+              if(game === 'Cricket'){
+                  
+                  dateFirst = true;
+              }
+              ical_parser(fileLocation, function(cal){
+                        //When ical parser has loaded file
+                        //get future events
+                        //events = cal.getFutureEvents();
+                        this.events = cal.events;
+                        $scope.eventsResults = cal.events;
+                        $scope.places = [];
+                        //$scope.eventsResultsFiltered = cal.events;
+                        var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDates);
+                        $scope.$apply(function(){$scope.eventsResultsFiltered = returnResults;$scope.showEvents = true;});
+                        
+                        var summary = "";
+                        $scope.eventsResults.forEach(function(events){
+                           summary = events.SUMMARY.split("at ");
+
+
+                            //Add details from cal file.
+                            if(summary.length > 1 && $scope.places.indexOf(summary) === -1){
+                               $scope.places.push(events.SUMMARY.split("at ")[1]);
+                            }
+
+                        });
+
+                        this.showCal = true;
+                        //return this.eventsResults;
+                        //And display them
+                        //this.displayDemo(events);
+                       // this.getCityList($scope.eventsResults);
+                        return ;
+                    },dateFirst); 
+          
+            }
+
+          }
+          
+      });*/
+         
+        
+        formatedDates.forEach(function(dateInLoop){
+           $scope.gameFileList.forEach(function(folders){
+
+               var folds = ((folders.url).substr(1)).split("/");
+               var listValue = folders.value;
+               var country = folds[1];
+               var game = folds[2];
+
+               if(game === 'Cricket'){
+                   dateFirst = true;
+               }else{
+                   dateFirst = false;
+               }
+               if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country)){
+
+                   var fileList = listValue.split(",");
+                   fileList.forEach(function(file){
+                       var fileLocation = folders.url + "/" + file;
+                        ical_parser(fileLocation, function(cal){
+                            //When ical parser has loaded file
+                            //get future events
+                            //events = cal.getFutureEvents();
+                            this.events = cal.events;
+                            $scope.eventsResults = cal.events;
+                            $scope.places = [];
+                            this.game = cal.game;
+                            //$scope.eventsResultsFiltered = cal.events;
+                            var formatedDatesList = new Map();
+                            formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                            var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList);
+
+                            /*if(returnResults.length > 0){
+                                if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.country)){
+                                    $scope.findAndReplace($scope.eventsResultsFiltered, cal.country, returnResults);
+                                }else{
+                                    var Object = {
+                                        'country':cal.country,
+                                        'listValue' : returnResults
+                                    };
+                                    $scope.eventsResultsFiltered.push(Object);
+                                }
+
+                            }*/
+                            
+                                if(returnResults.length > 0){
+                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
+                                        //if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.country)){
+                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, cal.country, cal.dateInLoop, returnResults);
+                                       /* }else{
+
+                                        }*/
+                                    }else{
+
+                                        var listValue = [
+                                            {
+                                                'country':cal.country,
+                                                'listValue' : returnResults
+                                            }
+
+                                        ]; 
+
+
+
+                                        var Object = {
+                                            'time':cal.dateInLoop,
+                                            'listValue' : listValue
+                                        };
+                                        $scope.eventsResultsFiltered.push(Object);
+                                    }
+                                
+                            }
+                            //
+                            //$scope.showEvents = true;
+                           // $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
+                            /*if(!$scope.$$phase) {
+                                $scope.$apply(function(){$scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;$scope.showEvents = true;});
+                            }*/
+                            //$scope.$apply();
+                           // $scope.$apply(function(){$scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;$scope.showEvents = true;});
+
+                            /*var summary = "";
+                            $scope.eventsResults.forEach(function(events){
+                               summary = events.SUMMARY.split("at ");
+
+
+                                //Add details from cal file.
+                                if(summary.length > 1 && $scope.places.indexOf(summary) === -1){
+                                   $scope.places.push(events.SUMMARY.split("at ")[1]);
+                                }
+
+                            });*/
+
+                            this.showCal = true;
+                            //return this.eventsResults;
+                            //And display them
+                            //this.displayDemo(events);
+                           // this.getCityList($scope.eventsResults);
+                            return ;
+                        },dateFirst,dateInLoop); 
+
+
+                    });
+
+
+               }
+
+
+          /*if($scope.selectedLoc.text === folders.text){
+
+              var game = folders.value[0].text;
+
+              $scope.eventsResultsFiltered = [];
+              if($scope.selectedGame.text === undefined || $scope.selectedGame.text === "" || $scope.selectedGame.text === game){
+                    var fileLocation = folders.text + '/' + game + '.ics';
+                    $scope.gameSelected = game;
+                    $scope.placeSelected = folders.text;
+                  var dateFirst = false;
+                  if(game === 'Cricket'){
+
+                      dateFirst = true;
+                  }
+                  ical_parser(fileLocation, function(cal){
+                            //When ical parser has loaded file
+                            //get future events
+                            //events = cal.getFutureEvents();
+                            this.events = cal.events;
+                            $scope.eventsResults = cal.events;
+                            $scope.places = [];
+                            //$scope.eventsResultsFiltered = cal.events;
+                            var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDates);
+                            $scope.$apply(function(){$scope.eventsResultsFiltered = returnResults;$scope.showEvents = true;});
+
+                            var summary = "";
+                            $scope.eventsResults.forEach(function(events){
+                               summary = events.SUMMARY.split("at ");
+
+
+                                //Add details from cal file.
+                                if(summary.length > 1 && $scope.places.indexOf(summary) === -1){
+                                   $scope.places.push(events.SUMMARY.split("at ")[1]);
+                                }
+
+                            });
+
+                            this.showCal = true;
+                            //return this.eventsResults;
+                            //And display them
+                            //this.displayDemo(events);
+                           // this.getCityList($scope.eventsResults);
+                            return ;
+                        },dateFirst); 
+
+                }
+
+              }*/
+
+          });
        
-       displayDemoWithFilters($scope.eventsResults,formatedDates);
+      });
+       
+         
+    // }
+       
+      
+                    
+       }
+       
+            setTimeout(function () {
+                    $scope.$apply(function () {
+                        $scope.message = "Timeout called!";
+                        $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
+                        $scope.showEvents = true;
+                    });
+                }, 2000); 
+           
+      // displayDemoWithFilters($scope.eventsResults,formatedDates);
+   }
+       
        
        
    }
+   
+   this.clearFilters = function(){
+       this.selectedDates = new Date();
+     //  this.selectedDates = new Date();
+       this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+       $scope.eventsResultsFiltered = [];
+       $scope.selectedLoc = "";
+        $scope.selectedGame = '';
+       $scope.showEvents = false;
+       $scope.isError = false;
+   }
+   
+
+
+    $scope.findAndReplace = function(object, value, replacevalue){
+        var found = false;
+        for(var x in object){
+       
+        if(!found && object[x].country == value){
+            found = true;
+            object[x].listValue = object[x].listValue.concat(replacevalue);
+          // break; // uncomment to stop after first replacement
+        }
+      }
+        
+        if(!found){
+            var obj = {
+                'country':value,
+                'listValue' : replacevalue
+            };
+            $scope.eventsResultsFiltered.push(obj);
+        }
+        
+    };
+
+    
+    $scope.findAndReplaceWithTime = function(object, value, dateInLoop, replacevalue){
+        var found = false;
+        for(var x in object){
+       
+        if(!found && object[x].time == dateInLoop){
+            found = true;
+            var countryFound = false;
+            listValues = object[x].listValue; // object[x].listValue.concat(replacevalue);
+            
+            for(var y in listValues){
+                
+                if(!countryFound && listValues[y].country == value){
+                    countryFound = true;
+                    listValues[y].listValue = listValues[y].listValue.concat(replacevalue);
+                    object[x].listValue = listValues;
+                }
+            }
+            
+            if(!countryFound){
+                listValues.push({
+                                    'country': value,
+                                    'listValue' : replacevalue
+                                });    
+                /*var obj = {
+                    'time':dateInLoop,
+                    'listValue' : listValues 
+                };*/
+                $scope.eventsResultsFiltered[x].listValue = listValues;
+            }
+            
+            
+          // break; // uncomment to stop after first replacement
+        }
+      }
+        
+        if(!found){
+            
+            
+            var listSubValue = [
+                {
+                    'country':value,
+                    'listValue' : replacevalue
+                }
+
+            ]; 
+
+
+
+            var Object = {
+                'time':dateInLoop,
+                'listValue' : listSubValue
+            };
+            $scope.eventsResultsFiltered.push(Object);
+            
+            /*
+            var obj = {
+                'country':value,
+                'listValue' : replacevalue
+            };
+            $scope.eventsResultsFiltered.push(obj);*/
+        }
+        
+    };
+    
+    
+  
   this.showCal = false;
   this.getEventsDetails();
   //this.eventsResults = this.getEventsDetails();
   
   
-  this.removeFromSelected2 = function(dt) {
+  /*this.removeFromSelected2 = function(dt) {
     this.selectedDates2.splice(this.selectedDates2.indexOf(dt), 1);
-  }
+  }*/
 });
