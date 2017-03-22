@@ -2,7 +2,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 
 .factory('services', function($http) {
 
-    var getData = function(url,dateInLoop) {
+    var getData = function(url,dateInLoop,filesUrl) {
 
         // Angular $http() and then() both return promises themselves 
         return $http({method:"GET", url:url}).then(function(result){
@@ -13,6 +13,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
             // What we return here is the data that will be accessible 
             // to us after the promise resolves
             object.url = url;
+            object.filesUrl = filesUrl;
             object.value = result.data;
             object.dateInLoop = dateInLoop;
             return object;
@@ -30,7 +31,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
-  var parentFolder = '/Games';
+  var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65/';
+  var parentFolder ='https://github.com/SantoshArasappa/testApp/tree/master/Games';
+ // var parentFolder = '/Games';
   $scope.show2pickers = false;
   $scope.countries = [];
   $scope.isError = false;    
@@ -214,7 +217,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
         });*/
         
         
-        var myDataPromise = services.getData(url,null);
+        var myDataPromise = services.getData(url,null,null);
         myDataPromise.then(function(result) {  
 
             // this is only run after getData() resolves
@@ -506,7 +509,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 	}*/
     
     this.load = function(ical_file,dateFirst,dateInLoop){
-        var myDataPromise = services.getData(ical_file,dateInLoop);
+        var myDataPromise = services.getData(ical_file,dateInLoop,null);
         var tmp_this = this;
 		this.raw_data = null;
         myDataPromise.then(function(result) {
@@ -602,7 +605,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
             var length = $scope.countries.length;
             $scope.countries.forEach(function(country){
                     var url = parentFolder + "/" + country;
-					myDataPromise = services.getData(url,null);
+                    var filesUrl = fileUrl + "/" + country;
+					myDataPromise = services.getData(url,null,filesUrl);
                     myDataPromise.then(function(result) {   
                         gameList = $scope.getListFromHtml(result.value,result.url); 
                         
@@ -611,7 +615,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
                         gameList.forEach(function(game){
                           
                             url = result.url + "/" + game;
-                            myDataPromise = services.getData(url,null);
+                            filesUrl = result.filesUrl + "/" + game;
+                            myDataPromise = services.getData(url,null,filesUrl);
                             myDataPromise.then(function(files) { 
                                 
                                 var filesList = ($scope.getListFromHtml(files.value,files.url)).join(); 
@@ -622,7 +627,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 
                                         ]
                                     };
-                                gameObject.url = files.url;
+                               // gameObject.url = files.url;
+                                gameObject.url = files.filesUrl;
                                 gameObject.value = filesList;
                                 object.value = filesList;
                                  $scope.gameFileList.push(gameObject);
