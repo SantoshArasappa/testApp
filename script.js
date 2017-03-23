@@ -25,6 +25,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 
 .controller('AppCtrl', function($scope, $http, services) {
   this.activeDate = null;
+  var test123456 = null;
   this.activeDate2 = null;
   $scope.showEvents = false;    
   this.selectedDates = new Date();
