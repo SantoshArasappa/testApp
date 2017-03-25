@@ -1,7 +1,12 @@
 angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap'])
 
 .factory('services', function($http) {
-
+    
+    var headers = {
+				'Access-Control-Allow-Origin' : '*',
+				'Access-Control-Allow-Methods' : 'POST, GET, OPTIONS, PUT'
+			};
+    
     var getData = function(url,dateInLoop,filesUrl) {
 
         // Angular $http() and then() both return promises themselves 
@@ -32,13 +37,67 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
-  var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65/';
-  var parentFolder ='https://github.com/SantoshArasappa/testApp/tree/master/Games';
- // var parentFolder = '/Games';
+  var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65';
+  fileUrl = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games';    
+ // var parentFolder = 'https://github.com/SantoshArasappa/testApp/tree/7e0ef7ffb8e09571e575da7c8b05031fda7d28ca/Games';
+    //'https://github.com/SantoshArasappa/testApp.git/tree/master/Games?raw=true';
+  var parentFolder = '/Games';
   $scope.show2pickers = false;
   $scope.countries = [];
-  $scope.isError = false;    
+  $scope.games = [];
+  $scope.isError = false;  
     
+  $scope.countries.push('India');    
+  $scope.countries.push('USA');    
+  $scope.countries.push('UK'); 
+    
+    
+    
+  $scope.games.push('Cricket');     
+  $scope.games.push('Kabbaddi');
+  $scope.games.push('NBA');   
+  $scope.games.push('Rugby');       
+    
+      
+  $scope.gameFileListNew = 
+[
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Cricket",
+		value: "Cricket.ics,Indian_Premier_League.ics"
+
+	},
+
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/NBA",
+		value: "NBA.ics,NBA_Golden_State_Warriors.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
+		value: "IPL1.ics,Indian_Premier_League.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Rugby",
+		value: "Rugby.ics,premier-premiership.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Kabbaddi",
+		value: "Cricket.ics,Indian_Premier_League.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/UK/Rugby",
+		value: "Rugby.ics,premier-premiership.ics"
+
+	}
+
+
+];
     
     // Date pick start
     
@@ -517,9 +576,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
             tmp_this.raw_data = result.value;
             this.url = result.url;
             var folds = ((this.url).substr(1)).split("/");
-            this.country = folds[1];
-            this.game = folds[2];
-            this.league = (folds[3]).replace(".ics","");
+            var leng = folds.length;
+            this.country = folds[leng - 3]  // folds[1];
+            this.game = folds[leng - 2]; // folds[2];
+            this.league =   (folds[leng - 1]).replace(".ics",""); //  (folds[3]).replace(".ics","");
             this.dateInLoop = dateInLoop;
 			tmp_this.parseICAL(tmp_this.raw_data,dateFirst,country,game);
         });
@@ -586,7 +646,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   this.getEventsDetails = function(){
        
       //var folderStrut = $scope.getFiles(parentFolder);
-      $scope.games = [];
+     /* $scope.games = [];
       var gameList = [];
       $scope.filesFolderStructure = [];
       $scope.folderStructureList = [];
@@ -596,8 +656,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
           value: [
                 
             ]
-        };
-      var myDataPromise = services.getData(parentFolder,null);
+        };*/
+      /*var myDataPromise = services.getData(parentFolder,null);
         myDataPromise.then(function(result) {  
 
             // this is only run after getData() resolves
@@ -656,12 +716,12 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
             });
             
             
-        });
+        });*/
       
       
       $scope.folderStructureList1 = $scope.folderStructureList;
       
-   ical_parser(ical_file, function(cal){
+   /*ical_parser(ical_file, function(cal){
 					//When ical parser has loaded file
 					//get future events
 					//events = cal.getFutureEvents();
@@ -686,7 +746,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 					//this.displayDemo(events);
                     //this.getCityList($scope.eventsResults);
        return ;
-				},false); 
+				},false); */
        
        
        
@@ -852,12 +912,13 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
          
         
         formatedDates.forEach(function(dateInLoop){
-           $scope.gameFileList.forEach(function(folders){
+           $scope.gameFileListNew.forEach(function(folders){
 
                var folds = ((folders.url).substr(1)).split("/");
                var listValue = folders.value;
-               var country = folds[1];
-               var game = folds[2];
+               var size = folds.length;
+               var country = folds[size - 2]; //folds[1];
+               var game = folds[size - 1];
 
                if(game === 'Cricket'){
                    dateFirst = true;
