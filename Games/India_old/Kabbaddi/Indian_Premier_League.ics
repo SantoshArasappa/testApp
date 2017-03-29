@@ -18,7 +18,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:2nd match Rising Pune Supergiant v Mumbai Indians
+SUMMARY:2nd match Rising Pune Supergiants v Mumbai Indians
 DTSTART:20170406T143000Z
 DTEND:20170406T183000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune
@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:4th match Kings XI Punjab v Rising Pune Supergiant
+SUMMARY:4th match Kings XI Punjab v Rising Pune Supergiants
 DTSTART:20170408T103000Z
 DTEND:20170408T143000Z
 LOCATION:Holkar Cricket Stadium, Indore
@@ -116,7 +116,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:9th match Rising Pune Supergiant v Delhi Daredevils
+SUMMARY:9th match Rising Pune Supergiants v Delhi Daredevils
 DTSTART:20170411T143000Z
 DTEND:20170411T183000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:13th match Gujarat Lions v Rising Pune Supergiant
+SUMMARY:13th match Gujarat Lions v Rising Pune Supergiants
 DTSTART:20170414T143000Z
 DTEND:20170414T183000Z
 LOCATION:Saurashtra Cricket Association Stadium, Rajkot
@@ -228,7 +228,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:17th match Royal Challengers Bangalore v Rising Pune Supergiant
+SUMMARY:17th match Royal Challengers Bangalore v Rising Pune Supergiants
 DTSTART:20170416T143000Z
 DTEND:20170416T183000Z
 LOCATION:M Chinnaswamy Stadium, Bangalore
@@ -326,12 +326,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:24th match Rising Pune Supergiant v Sunrisers Hyderabad
+SUMMARY:24th match Delhi Daredevils v Mumbai Indians
 DTSTART:20170422T103000Z
 DTEND:20170422T143000Z
-LOCATION:Maharashtra Cricket Association Stadium, Pune
+LOCATION:Feroz Shah Kotla, Delhi
 TRANSP:OPAQUE
-UID:1082615_0
+UID:1082614_0
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -340,12 +340,12 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:25th match Mumbai Indians v Delhi Daredevils
+SUMMARY:25th match Rising Pune Supergiants v Sunrisers Hyderabad
 DTSTART:20170422T143000Z
 DTEND:20170422T183000Z
-LOCATION:Wankhede Stadium, Mumbai
+LOCATION:Maharashtra Cricket Association Stadium, Pune
 TRANSP:OPAQUE
-UID:1082614_0
+UID:1082615_0
 BEGIN:VALARM
 TRIGGER:-PT15M
 ACTION:DISPLAY
@@ -382,7 +382,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:28th match Mumbai Indians v Rising Pune Supergiant
+SUMMARY:28th match Mumbai Indians v Rising Pune Supergiants
 DTSTART:20170424T143000Z
 DTEND:20170424T183000Z
 LOCATION:Wankhede Stadium, Mumbai
@@ -410,7 +410,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:30th match Rising Pune Supergiant v Kolkata Knight Riders
+SUMMARY:30th match Rising Pune Supergiants v Kolkata Knight Riders
 DTSTART:20170426T143000Z
 DTEND:20170426T183000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune
@@ -466,7 +466,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:34th match Rising Pune Supergiant v Royal Challengers Bangalore
+SUMMARY:34th match Rising Pune Supergiants v Royal Challengers Bangalore
 DTSTART:20170429T103000Z
 DTEND:20170429T143000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune
@@ -536,7 +536,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:39th match Rising Pune Supergiant v Gujarat Lions
+SUMMARY:39th match Rising Pune Supergiants v Gujarat Lions
 DTSTART:20170501T143000Z
 DTEND:20170501T183000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune
@@ -564,7 +564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:41st match Kolkata Knight Riders v Rising Pune Supergiant
+SUMMARY:41st match Kolkata Knight Riders v Rising Pune Supergiants
 DTSTART:20170503T143000Z
 DTEND:20170503T183000Z
 LOCATION:Eden Gardens, Kolkata
@@ -606,7 +606,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:44th match Sunrisers Hyderabad v Rising Pune Supergiant
+SUMMARY:44th match Sunrisers Hyderabad v Rising Pune Supergiants
 DTSTART:20170506T103000Z
 DTEND:20170506T143000Z
 LOCATION:Rajiv Gandhi International Stadium, Uppal, Hyderabad
@@ -620,10 +620,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:45th match Delhi Daredevils v Mumbai Indians
+SUMMARY:45th match Mumbai Indians v Delhi Daredevils
 DTSTART:20170506T143000Z
 DTEND:20170506T183000Z
-LOCATION:Feroz Shah Kotla, Delhi
+LOCATION:Wankhede Stadium, Mumbai
 TRANSP:OPAQUE
 UID:1082635_0
 BEGIN:VALARM
@@ -718,7 +718,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:52nd match Delhi Daredevils v Rising Pune Supergiant
+SUMMARY:52nd match Delhi Daredevils v Rising Pune Supergiants
 DTSTART:20170512T143000Z
 DTEND:20170512T183000Z
 LOCATION:Feroz Shah Kotla, Delhi
@@ -760,7 +760,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n 
-SUMMARY:55th match Rising Pune Supergiant v Kings XI Punjab
+SUMMARY:55th match Rising Pune Supergiants v Kings XI Punjab
 DTSTART:20170514T103000Z
 DTEND:20170514T143000Z
 LOCATION:Maharashtra Cricket Association Stadium, Pune

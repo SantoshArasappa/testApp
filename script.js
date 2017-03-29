@@ -47,18 +47,35 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   $scope.games = [];
   $scope.isError = false;  
     
+  $scope.countries.push('Australia');    
+  $scope.countries.push('Bangladesh');    
+  $scope.countries.push('Europe'); 
+  
   $scope.countries.push('India');    
-  $scope.countries.push('USA');    
-  $scope.countries.push('UK'); 
+  $scope.countries.push('New_Zealand');    
+  $scope.countries.push('Pakistan'); 
+  
+  $scope.countries.push('South_Africa');    
+  $scope.countries.push('Sri_Lanka');    
+  $scope.countries.push('United_Kingdom'); 
+  
+  $scope.countries.push('United_States_of_America');    
+  $scope.countries.push('West_Indies');    
+  $scope.countries.push('Zimbabwe'); 
+  
     
     
     
   $scope.games.push('Cricket');     
-  $scope.games.push('Kabbaddi');
-  $scope.games.push('NBA');   
-  $scope.games.push('Rugby');       
-    
-      
+  $scope.games.push('AFL');
+  $scope.games.push('Football');   
+  $scope.games.push('Rugby');      
+
+  $scope.games.push('Baseball');     
+  $scope.games.push('Basketball');
+  $scope.games.push('Boxing');   
+  
+ /*     
   $scope.gameFileListNew = 
 [
 	{
@@ -93,6 +110,115 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/UK/Rugby",
 		value: "Rugby.ics,premier-premiership.ics"
+
+	}
+
+
+];*/
+
+$scope.gameFileListNew = 
+[
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
+		value: "Big_Bash_League.ics,Cricket.ics"
+	},
+
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/AFL",
+		value: "West_Coast_Eagles.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Rugby",
+		value: "Super_Rugby.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Bangladesh/Cricket",
+		value: "Cricket.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Football",
+		value: "La_Liga.ics,UEFA_Champions_League.ics,UEFA_Europe_League.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Rugby",
+		value: "Six_Nations.ics"
+
+	},
+
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
+		value: "Cricket.ics,Indian_Premier_League.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Cricket",
+		value: "Cricket.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Pakistan/Cricket",
+		value: "Cricket.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
+		value: "Cricket.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Sri_Lanka/Cricket",
+		value: "Cricket.ics"
+
+	},
+
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Rubgy",
+		value: "Premier_Premiership.ics,Pro_12.ics,Six_Nations.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Cricket",
+		value: "Cricket.ics,NatWest_T20.ics,Royal_London_OneDayCup.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
+		value: "SF_Giants.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Basketball",
+		value: "Boston.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Boxing",
+		value: "UFC.ics"
+
+	},
+	
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
+		value: "Cricket.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Zimbabwe/Cricket",
+		value: "Cricket.ics"
 
 	}
 

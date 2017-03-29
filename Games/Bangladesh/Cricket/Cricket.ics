@@ -1,0 +1,370 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd ODI Sri Lanka v Bangladesh
+DTSTART:20170328T090000Z
+DTEND:20170328T170000Z
+LOCATION:Rangiri Dambulla International Stadium
+TRANSP:OPAQUE
+UID:1083447_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:3rd ODI Sri Lanka v Bangladesh
+DTSTART:20170401T040000Z
+DTEND:20170401T120000Z
+LOCATION:Sinhalese Sports Club Ground, Colombo
+TRANSP:OPAQUE
+UID:1083448_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st T20I Sri Lanka v Bangladesh
+DTSTART:20170404T133000Z
+DTEND:20170404T173000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1083449_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd T20I Sri Lanka v Bangladesh
+DTSTART:20170406T133000Z
+DTEND:20170406T173000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1083450_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Match Ireland v Bangladesh
+DTSTART:20170512T000000Z
+DTEND:20170512T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033361_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:3rd Match Bangladesh v New Zealand
+DTSTART:20170517T000000Z
+DTEND:20170517T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033365_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:4th Match Ireland v Bangladesh
+DTSTART:20170519T000000Z
+DTEND:20170519T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033367_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:6th Match Bangladesh v New Zealand
+DTSTART:20170524T000000Z
+DTEND:20170524T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033371_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:Group A England v Bangladesh
+DTSTART:20170601T093000Z
+DTEND:20170601T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022347_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:Group A Australia v Bangladesh
+DTSTART:20170605T123000Z
+DTEND:20170605T203000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022355_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:Group A New Zealand v Bangladesh
+DTSTART:20170609T093000Z
+DTEND:20170609T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1022363_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 1)
+DTSTART:20170928T080000Z
+DTEND:20170928T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 2)
+DTSTART:20170929T080000Z
+DTEND:20170929T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 3)
+DTSTART:20170930T080000Z
+DTEND:20170930T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 4)
+DTSTART:20171001T080000Z
+DTEND:20171001T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 5)
+DTSTART:20171002T080000Z
+DTEND:20171002T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 1)
+DTSTART:20171006T080000Z
+DTEND:20171006T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 2)
+DTSTART:20171007T080000Z
+DTEND:20171007T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 3)
+DTSTART:20171008T080000Z
+DTEND:20171008T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 4)
+DTSTART:20171009T080000Z
+DTEND:20171009T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 5)
+DTSTART:20171010T080000Z
+DTEND:20171010T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st ODI South Africa v Bangladesh
+DTSTART:20171015T080000Z
+DTEND:20171015T160000Z
+LOCATION:De Beers Diamond Oval, Kimberley
+TRANSP:OPAQUE
+UID:1075504_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd ODI South Africa v Bangladesh
+DTSTART:20171018T080000Z
+DTEND:20171018T160000Z
+LOCATION:Boland Park, Paarl
+TRANSP:OPAQUE
+UID:1075505_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:3rd ODI South Africa v Bangladesh
+DTSTART:20171022T080000Z
+DTEND:20171022T160000Z
+LOCATION:Buffalo Park, East London
+TRANSP:OPAQUE
+UID:1075506_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:1st T20I South Africa v Bangladesh
+DTSTART:20171026T160000Z
+DTEND:20171026T200000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075507_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/bangladesh/content/team/25.html \n\n 
+SUMMARY:2nd T20I South Africa v Bangladesh
+DTSTART:20171029T123000Z
+DTEND:20171029T163000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075508_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

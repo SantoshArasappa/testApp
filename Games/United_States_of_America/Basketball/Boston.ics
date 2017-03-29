@@ -1,0 +1,443 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Boston Celtics
+X-WR-TIMEZONE:UTC
+BEGIN:VEVENT
+DTSTART:20170320T233000Z
+DTEND:20170321T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4964
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/17\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Washington at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170324T233000Z
+DTEND:20170325T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4966
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/19\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Phoenix at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170331T233000Z
+DTEND:20170401T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4969
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Orlando at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170315T233000Z
+DTEND:20170316T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4961
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/13\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Minnesota at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170412T233000Z
+DTEND:20170413T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496f
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Milwaukee at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170329T233000Z
+DTEND:20170330T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4968
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/21\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Milwaukee at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170326T220000Z
+DTEND:20170327T010000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4967
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/20\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Miami at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170322T233000Z
+DTEND:20170323T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4965
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/18\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Indiana at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170406T000000Z
+DTEND:20170406T030000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496b
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE/ESPN\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daac
+ d2d7ed123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed
+ 123a54a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58da
+ acd2d7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75
+ a01/4\n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\
+ nFacebook\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhtt
+ p://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com
+ /ln/58daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2
+ d7ed123a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75
+ a01/10\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nIns
+ tagram\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp:/
+ /ql.ecal.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/
+ ln/58daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Cleveland at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170410T233000Z
+DTEND:20170411T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496e
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:TD Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Brooklyn at Boston
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170319T170000Z
+DTEND:20170319T200000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4963
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/16\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:Wells Fargo Center
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Boston at Philadelphia
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170402T173000Z
+DTEND:20170402T193000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496a
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: ABC\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a
+ 75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a7
+ 5a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4\n
+ \nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFacebo
+ ok\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://ql.
+ ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/58d
+ aacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed123
+ a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/10\
+ n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagram\
+ nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.eca
+ l.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58da
+ acd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:Madison Square Garden
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Boston at New York
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T220000Z
+DTEND:20170409T010000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496d
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:Time Warner Cable Arena
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Boston at Charlotte
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170317T233000Z
+DTEND:20170318T023000Z
+DTSTAMP:20170328T183619Z
+UID:57acf171e0ee089c26fb4962
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: CSNNE\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a5
+ 4a75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d
+ 7ed123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54
+ a75a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4
+ \n\nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFace
+ book\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://q
+ l.ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/5
+ 8daacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/1
+ 0\n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagra
+ m\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.e
+ cal.com/ln/58daacd2d7ed123a54a75a01/15\n\nAndroid\nhttp://ql.ecal.com/ln/58
+ daacd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:Barclays Center
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Boston at Brooklyn
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T000000Z
+DTEND:20170407T030000Z
+DTSTAMP:20170328T183619Z
+UID:57acf172e0ee089c26fb496c
+CLASS:PUBLIC
+CREATED:20170328T183553Z
+DESCRIPTION:On TV: TNT\n\nFind Tickets\nhttp://ql.ecal.com/ln/58daacd2d7ed1
+ 23a54a75a01/0\n\nJoin Club Green\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a
+ 75a01/1\n\nBecome a Season Ticket Holder\nhttp://ql.ecal.com/ln/58daacd2d7e
+ d123a54a75a01/2\n\nCeltics News\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a7
+ 5a01/3\n\nCeltics Video\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/4\n
+ \nCeltics Store\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/5\n\nFacebo
+ ok\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/6\n\nTwitter\nhttp://ql.
+ ecal.com/ln/58daacd2d7ed123a54a75a01/7\n\nGoogle\nhttp://ql.ecal.com/ln/58d
+ aacd2d7ed123a54a75a01/8\n\nPinterest\nhttp://ql.ecal.com/ln/58daacd2d7ed123
+ a54a75a01/9\n\nLinkedin\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/10\
+ n\nYoutube\nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/11\n\nInstagram\
+ nhttp://ql.ecal.com/ln/58daacd2d7ed123a54a75a01/12\n\nIphone\nhttp://ql.eca
+ l.com/ln/58daacd2d7ed123a54a75a01/22\n\nAndroid\nhttp://ql.ecal.com/ln/58da
+ acd2d7ed123a54a75a01/14\n\nPowered By ECAL\nhttp://ecal.com\n\n
+LAST-MODIFIED:20170328T183554Z
+LOCATION:Phillips Arena
+SEQUENCE:1
+STATUS:CONFIRMED
+SUMMARY:Boston at Atlanta
+TRANSP:TRANSPARENT
+X-MICROSOFT-CDO-IMPORTANCE:1
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:2nd ODI Sri Lanka v Bangladesh
+DTSTART:20170328T090000Z
+DTEND:20170328T170000Z
+LOCATION:Rangiri Dambulla International Stadium
+TRANSP:OPAQUE
+UID:1083447_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:3rd ODI Sri Lanka v Bangladesh
+DTSTART:20170401T040000Z
+DTEND:20170401T120000Z
+LOCATION:Sinhalese Sports Club Ground, Colombo
+TRANSP:OPAQUE
+UID:1083448_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:1st T20I Sri Lanka v Bangladesh
+DTSTART:20170404T133000Z
+DTEND:20170404T173000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1083449_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:2nd T20I Sri Lanka v Bangladesh
+DTSTART:20170406T133000Z
+DTEND:20170406T173000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1083450_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:Group B Sri Lanka v South Africa
+DTSTART:20170603T093000Z
+DTEND:20170603T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022351_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:Group B India v Sri Lanka
+DTSTART:20170608T093000Z
+DTEND:20170608T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022361_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/srilanka/content/team/8.html \n\n 
+SUMMARY:Group B Sri Lanka v Pakistan
+DTSTART:20170612T093000Z
+DTEND:20170612T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1022369_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

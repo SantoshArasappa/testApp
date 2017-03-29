@@ -1,0 +1,608 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd T20I West Indies v Pakistan
+DTSTART:20170330T163000Z
+DTEND:20170330T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1077948_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd T20I West Indies v Pakistan
+DTSTART:20170401T163000Z
+DTEND:20170401T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1085495_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:4th  T20I West Indies v Pakistan
+DTSTART:20170402T163000Z
+DTEND:20170402T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1085496_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st ODI West Indies v Pakistan
+DTSTART:20170407T133000Z
+DTEND:20170407T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077949_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd ODI West Indies v Pakistan
+DTSTART:20170409T133000Z
+DTEND:20170409T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077950_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd ODI West Indies v Pakistan
+DTSTART:20170411T133000Z
+DTEND:20170411T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077951_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 1)
+DTSTART:20170422T150000Z
+DTEND:20170422T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 2)
+DTSTART:20170423T150000Z
+DTEND:20170423T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 3)
+DTSTART:20170424T150000Z
+DTEND:20170424T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 4)
+DTSTART:20170425T150000Z
+DTEND:20170425T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 5)
+DTSTART:20170426T150000Z
+DTEND:20170426T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 1)
+DTSTART:20170430T140000Z
+DTEND:20170430T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 2)
+DTSTART:20170501T140000Z
+DTEND:20170501T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 3)
+DTSTART:20170502T140000Z
+DTEND:20170502T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 4)
+DTSTART:20170503T140000Z
+DTEND:20170503T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 5)
+DTSTART:20170504T140000Z
+DTEND:20170504T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 1)
+DTSTART:20170510T140000Z
+DTEND:20170510T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 2)
+DTSTART:20170511T140000Z
+DTEND:20170511T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 3)
+DTSTART:20170512T140000Z
+DTEND:20170512T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 4)
+DTSTART:20170513T140000Z
+DTEND:20170513T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 5)
+DTSTART:20170514T140000Z
+DTEND:20170514T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test England v West Indies (Day 1)
+DTSTART:20170817T130000Z
+DTEND:20170817T210000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1031659_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test England v West Indies (Day 2)
+DTSTART:20170818T130000Z
+DTEND:20170818T210000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1031659_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test England v West Indies (Day 3)
+DTSTART:20170819T130000Z
+DTEND:20170819T210000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1031659_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test England v West Indies (Day 4)
+DTSTART:20170820T130000Z
+DTEND:20170820T210000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1031659_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st Test England v West Indies (Day 5)
+DTSTART:20170821T130000Z
+DTEND:20170821T210000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1031659_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test England v West Indies (Day 1)
+DTSTART:20170825T100000Z
+DTEND:20170825T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031661_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test England v West Indies (Day 2)
+DTSTART:20170826T100000Z
+DTEND:20170826T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031661_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test England v West Indies (Day 3)
+DTSTART:20170827T100000Z
+DTEND:20170827T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031661_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test England v West Indies (Day 4)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031661_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd Test England v West Indies (Day 5)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031661_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test England v West Indies (Day 1)
+DTSTART:20170907T100000Z
+DTEND:20170907T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031663_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test England v West Indies (Day 2)
+DTSTART:20170908T100000Z
+DTEND:20170908T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031663_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test England v West Indies (Day 3)
+DTSTART:20170909T100000Z
+DTEND:20170909T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031663_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test England v West Indies (Day 4)
+DTSTART:20170910T100000Z
+DTEND:20170910T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031663_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd Test England v West Indies (Day 5)
+DTSTART:20170911T100000Z
+DTEND:20170911T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031663_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:Only ODI Ireland v West Indies
+DTSTART:20170913T000000Z
+DTEND:20170913T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033241_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:Only T20I England v West Indies
+DTSTART:20170916T000000Z
+DTEND:20170916T040000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1031665_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:1st ODI England v West Indies
+DTSTART:20170919T000000Z
+DTEND:20170919T080000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031667_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:2nd ODI England v West Indies
+DTSTART:20170921T000000Z
+DTEND:20170921T080000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031669_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:3rd ODI England v West Indies
+DTSTART:20170924T000000Z
+DTEND:20170924T080000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1031671_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:4th ODI England v West Indies
+DTSTART:20170927T000000Z
+DTEND:20170927T080000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031673_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/westindies/content/team/4.html \n\n 
+SUMMARY:5th ODI England v West Indies
+DTSTART:20170929T000000Z
+DTEND:20170929T080000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1031675_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

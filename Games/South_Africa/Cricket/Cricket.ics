@@ -1,0 +1,972 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 1)
+DTSTART:20170324T220000Z
+DTEND:20170325T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 2)
+DTSTART:20170325T220000Z
+DTEND:20170326T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 3)
+DTSTART:20170326T220000Z
+DTEND:20170327T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 4)
+DTSTART:20170327T220000Z
+DTEND:20170328T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 5)
+DTSTART:20170328T220000Z
+DTEND:20170329T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st ODI England v South Africa
+DTSTART:20170524T000000Z
+DTEND:20170524T080000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1031425_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd ODI England v South Africa
+DTSTART:20170527T000000Z
+DTEND:20170527T080000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1031427_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd ODI England v South Africa
+DTSTART:20170529T000000Z
+DTEND:20170529T080000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031429_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:Group B Sri Lanka v South Africa
+DTSTART:20170603T093000Z
+DTEND:20170603T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022351_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:Group B Pakistan v South Africa
+DTSTART:20170607T123000Z
+DTEND:20170607T203000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022359_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:Group B India v South Africa
+DTSTART:20170611T093000Z
+DTEND:20170611T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022367_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st T20I England v South Africa
+DTSTART:20170621T000000Z
+DTEND:20170621T040000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1031431_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd T20I England v South Africa
+DTSTART:20170623T000000Z
+DTEND:20170623T040000Z
+LOCATION:County Ground, Taunton
+TRANSP:OPAQUE
+UID:1031433_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd T20I England v South Africa
+DTSTART:20170625T000000Z
+DTEND:20170625T040000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1031435_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 1)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 2)
+DTSTART:20170707T100000Z
+DTEND:20170707T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 3)
+DTSTART:20170708T100000Z
+DTEND:20170708T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 4)
+DTSTART:20170709T100000Z
+DTEND:20170709T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 5)
+DTSTART:20170710T100000Z
+DTEND:20170710T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 1)
+DTSTART:20170714T100000Z
+DTEND:20170714T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 2)
+DTSTART:20170715T100000Z
+DTEND:20170715T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 3)
+DTSTART:20170716T100000Z
+DTEND:20170716T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 4)
+DTSTART:20170717T100000Z
+DTEND:20170717T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 5)
+DTSTART:20170718T100000Z
+DTEND:20170718T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 1)
+DTSTART:20170727T100000Z
+DTEND:20170727T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 2)
+DTSTART:20170728T100000Z
+DTEND:20170728T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 3)
+DTSTART:20170729T100000Z
+DTEND:20170729T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 4)
+DTSTART:20170730T100000Z
+DTEND:20170730T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 5)
+DTSTART:20170731T100000Z
+DTEND:20170731T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 1)
+DTSTART:20170804T100000Z
+DTEND:20170804T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 2)
+DTSTART:20170805T100000Z
+DTEND:20170805T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 3)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 4)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 5)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 1)
+DTSTART:20170928T080000Z
+DTEND:20170928T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 2)
+DTSTART:20170929T080000Z
+DTEND:20170929T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 3)
+DTSTART:20170930T080000Z
+DTEND:20170930T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 4)
+DTSTART:20171001T080000Z
+DTEND:20171001T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Bangladesh (Day 5)
+DTSTART:20171002T080000Z
+DTEND:20171002T160000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075502_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 1)
+DTSTART:20171006T080000Z
+DTEND:20171006T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 2)
+DTSTART:20171007T080000Z
+DTEND:20171007T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 3)
+DTSTART:20171008T080000Z
+DTEND:20171008T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 4)
+DTSTART:20171009T080000Z
+DTEND:20171009T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Bangladesh (Day 5)
+DTSTART:20171010T080000Z
+DTEND:20171010T160000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075503_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st ODI South Africa v Bangladesh
+DTSTART:20171015T080000Z
+DTEND:20171015T160000Z
+LOCATION:De Beers Diamond Oval, Kimberley
+TRANSP:OPAQUE
+UID:1075504_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd ODI South Africa v Bangladesh
+DTSTART:20171018T080000Z
+DTEND:20171018T160000Z
+LOCATION:Boland Park, Paarl
+TRANSP:OPAQUE
+UID:1075505_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd ODI South Africa v Bangladesh
+DTSTART:20171022T080000Z
+DTEND:20171022T160000Z
+LOCATION:Buffalo Park, East London
+TRANSP:OPAQUE
+UID:1075506_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st T20I South Africa v Bangladesh
+DTSTART:20171026T160000Z
+DTEND:20171026T200000Z
+LOCATION:Mangaung Oval, Bloemfontein
+TRANSP:OPAQUE
+UID:1075507_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd T20I South Africa v Bangladesh
+DTSTART:20171029T123000Z
+DTEND:20171029T163000Z
+LOCATION:Senwes Park, Potchefstroom
+TRANSP:OPAQUE
+UID:1075508_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 1)
+DTSTART:20180301T080000Z
+DTEND:20180301T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 2)
+DTSTART:20180302T080000Z
+DTEND:20180302T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 3)
+DTSTART:20180303T080000Z
+DTEND:20180303T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 4)
+DTSTART:20180304T080000Z
+DTEND:20180304T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 5)
+DTSTART:20180305T080000Z
+DTEND:20180305T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 1)
+DTSTART:20180309T080000Z
+DTEND:20180309T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 2)
+DTSTART:20180310T080000Z
+DTEND:20180310T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 3)
+DTSTART:20180311T080000Z
+DTEND:20180311T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 4)
+DTSTART:20180312T080000Z
+DTEND:20180312T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 5)
+DTSTART:20180313T080000Z
+DTEND:20180313T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 1)
+DTSTART:20180322T080000Z
+DTEND:20180322T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 2)
+DTSTART:20180323T080000Z
+DTEND:20180323T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 3)
+DTSTART:20180324T080000Z
+DTEND:20180324T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 4)
+DTSTART:20180325T080000Z
+DTEND:20180325T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 5)
+DTSTART:20180326T080000Z
+DTEND:20180326T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 1)
+DTSTART:20180330T080000Z
+DTEND:20180330T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 2)
+DTSTART:20180331T080000Z
+DTEND:20180331T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 3)
+DTSTART:20180401T080000Z
+DTEND:20180401T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 4)
+DTSTART:20180402T080000Z
+DTEND:20180402T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/southafrica/content/team/3.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 5)
+DTSTART:20180403T080000Z
+DTEND:20180403T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

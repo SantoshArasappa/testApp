@@ -1,0 +1,1083 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Durham v Derbyshire
+DTSTART:20170427T100000Z
+DTEND:20170427T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068435_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Worcestershire v Nottinghamshire
+DTSTART:20170427T100000Z
+DTEND:20170427T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068432_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Gloucestershire v Glamorgan
+DTSTART:20170427T100000Z
+DTEND:20170427T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068433_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Kent v Hampshire
+DTSTART:20170427T100000Z
+DTEND:20170427T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068434_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Middlesex v Sussex
+DTSTART:20170427T100000Z
+DTEND:20170427T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068431_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Northamptonshire v Warwickshire
+DTSTART:20170427T130000Z
+DTEND:20170427T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068430_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Somerset v Surrey
+DTSTART:20170428T100000Z
+DTEND:20170428T180000Z
+LOCATION:County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068437_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Lancashire v Leicestershire
+DTSTART:20170428T130000Z
+DTEND:20170428T210000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068436_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Nottinghamshire v Yorkshire
+DTSTART:20170429T100000Z
+DTEND:20170429T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068438_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Derbyshire v Northamptonshire
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068439_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Leicestershire v Worcestershire
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068442_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Essex v Hampshire
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068440_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Glamorgan v Surrey
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068441_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Middlesex v Gloucestershire
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068443_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Sussex v Somerset
+DTSTART:20170430T100000Z
+DTEND:20170430T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068444_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Warwickshire v Durham
+DTSTART:20170501T100000Z
+DTEND:20170501T180000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068445_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Yorkshire v Lancashire
+DTSTART:20170501T100000Z
+DTEND:20170501T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068446_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Derbyshire v Nottinghamshire
+DTSTART:20170502T100000Z
+DTEND:20170502T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068451_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Leicestershire v Warwickshire
+DTSTART:20170502T100000Z
+DTEND:20170502T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068447_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Somerset v Kent
+DTSTART:20170502T100000Z
+DTEND:20170502T180000Z
+LOCATION:County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068448_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Surrey v Essex
+DTSTART:20170502T100000Z
+DTEND:20170502T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068449_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Sussex v Glamorgan
+DTSTART:20170502T100000Z
+DTEND:20170502T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068450_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Northamptonshire v Worcestershire
+DTSTART:20170503T100000Z
+DTEND:20170503T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068453_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Yorkshire v Durham
+DTSTART:20170503T100000Z
+DTEND:20170503T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068454_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Hampshire v Middlesex
+DTSTART:20170503T130000Z
+DTEND:20170503T210000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068452_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Essex v Gloucestershire
+DTSTART:20170504T100000Z
+DTEND:20170504T180000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068455_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Durham v Leicestershire
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068456_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Lancashire v Northamptonshire
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:Aigburth, Liverpool
+TRANSP:OPAQUE
+UID:1068460_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Warwickshire v Nottinghamshire
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068457_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Worcestershire v Yorkshire
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068459_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Glamorgan v Somerset
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068462_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Kent v Sussex
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068461_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Surrey v Middlesex
+DTSTART:20170505T100000Z
+DTEND:20170505T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068458_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Durham v Northamptonshire
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068469_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Nottinghamshire v Leicestershire
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:Welbeck Colliery Cricket Club Ground, Market Warsop
+TRANSP:OPAQUE
+UID:1068466_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Warwickshire v Lancashire
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068463_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Yorkshire v Derbyshire
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068464_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Glamorgan v Essex
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068468_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Hampshire v Gloucestershire
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068470_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Kent v Middlesex
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068467_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Sussex v Surrey
+DTSTART:20170507T100000Z
+DTEND:20170507T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068465_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Derbyshire v Warwickshire
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068474_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Lancashire v Worcestershire
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068475_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Northamptonshire v Yorkshire
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068473_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Gloucestershire v Kent
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068471_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Middlesex v Glamorgan
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:Radlett Cricket Club, Radlett
+TRANSP:OPAQUE
+UID:1068477_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Somerset v Hampshire
+DTSTART:20170510T100000Z
+DTEND:20170510T180000Z
+LOCATION:County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068472_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Essex v Sussex
+DTSTART:20170510T130000Z
+DTEND:20170510T210000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068476_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Nottinghamshire v Durham
+DTSTART:20170511T130000Z
+DTEND:20170511T210000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068478_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Leicestershire v Northamptonshire
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068485_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Worcestershire v Warwickshire
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068482_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Essex v Middlesex
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068484_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Gloucestershire v Somerset
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068483_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Hampshire v Glamorgan
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068480_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Surrey v Kent
+DTSTART:20170512T100000Z
+DTEND:20170512T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068481_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Lancashire v Derbyshire
+DTSTART:20170512T130000Z
+DTEND:20170512T210000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068479_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Leicestershire v Derbyshire
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068491_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Nottinghamshire v Lancashire
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068490_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Warwickshire v Yorkshire
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068486_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Worcestershire v Durham
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068487_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Glamorgan v Kent
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:St Helen's, Swansea
+TRANSP:OPAQUE
+UID:1068492_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Somerset v Essex
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068493_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Surrey v Hampshire
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068489_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Sussex v Gloucestershire
+DTSTART:20170514T100000Z
+DTEND:20170514T180000Z
+LOCATION:The Saffrons, Eastbourne
+TRANSP:OPAQUE
+UID:1068488_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Derbyshire v Worcestershire
+DTSTART:20170516T130000Z
+DTEND:20170516T210000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068495_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Durham v Lancashire
+DTSTART:20170516T130000Z
+DTEND:20170516T210000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068497_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Northamptonshire v Nottinghamshire
+DTSTART:20170516T130000Z
+DTEND:20170516T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068494_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:North Group Yorkshire v Leicestershire
+DTSTART:20170516T130000Z
+DTEND:20170516T210000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068496_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Gloucestershire v Surrey
+DTSTART:20170517T130000Z
+DTEND:20170517T210000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068501_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Hampshire v Sussex
+DTSTART:20170517T130000Z
+DTEND:20170517T210000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068498_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Kent v Essex
+DTSTART:20170517T130000Z
+DTEND:20170517T210000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068499_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:South Group Middlesex v Somerset
+DTSTART:20170517T130000Z
+DTEND:20170517T210000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068500_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:1st Quarter-Final TBD v TBD
+DTSTART:20170613T000000Z
+DTEND:20170613T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068502_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:2nd Quarter-Final TBD v TBD
+DTSTART:20170613T000000Z
+DTEND:20170613T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068503_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:1st Semi-Final TBD v TBD
+DTSTART:20170616T000000Z
+DTEND:20170616T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068504_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:2nd Semi-Final TBD v TBD
+DTSTART:20170617T000000Z
+DTEND:20170617T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068505_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/ci/content/series/1068072.html \n\n 
+SUMMARY:Final TBD v TBD
+DTSTART:20170701T100000Z
+DTEND:20170701T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068506_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,230 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 1)
+DTSTART:20170324T220000Z
+DTEND:20170325T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 2)
+DTSTART:20170325T220000Z
+DTEND:20170326T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 3)
+DTSTART:20170326T220000Z
+DTEND:20170327T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 4)
+DTSTART:20170327T220000Z
+DTEND:20170328T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Test New Zealand v South Africa (Day 5)
+DTSTART:20170328T220000Z
+DTEND:20170329T060000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1020045_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:2nd Match Ireland v New Zealand
+DTSTART:20170514T000000Z
+DTEND:20170514T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033363_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:3rd Match Bangladesh v New Zealand
+DTSTART:20170517T000000Z
+DTEND:20170517T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033365_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:5th Match Ireland v New Zealand
+DTSTART:20170521T000000Z
+DTEND:20170521T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033369_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:6th Match Bangladesh v New Zealand
+DTSTART:20170524T000000Z
+DTEND:20170524T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1033371_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:Group A Australia v New Zealand
+DTSTART:20170602T093000Z
+DTEND:20170602T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022349_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:Group A England v New Zealand
+DTSTART:20170606T093000Z
+DTEND:20170606T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1022357_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:Group A New Zealand v Bangladesh
+DTSTART:20170609T093000Z
+DTEND:20170609T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1022363_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:1st Match Australia v New Zealand
+DTSTART:20180203T000000Z
+DTEND:20180203T040000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072316_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:4th Match New Zealand v England
+DTSTART:20180214T000000Z
+DTEND:20180214T040000Z
+LOCATION:Westpac Stadium, Wellington
+TRANSP:OPAQUE
+UID:1072319_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:5th Match New Zealand v Australia
+DTSTART:20180216T000000Z
+DTEND:20180216T040000Z
+LOCATION:Eden Park, Auckland
+TRANSP:OPAQUE
+UID:1072320_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/newzealand/content/team/5.html \n\n 
+SUMMARY:6th Match New Zealand v England
+DTSTART:20180218T000000Z
+DTEND:20180218T040000Z
+LOCATION:Seddon Park, Hamilton
+TRANSP:OPAQUE
+UID:1072321_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

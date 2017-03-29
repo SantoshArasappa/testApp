@@ -1,0 +1,325 @@
+BEGIN:VCALENDAR
+PRODID:-//Google Inc//Google Calendar 70.9054//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:OFFICIAL UFC SCHEDULE (United Kingdom)
+X-WR-TIMEZONE:America/New_York
+X-WR-CALDESC:This is the Official Calendar for the UFC Schedule. \n\nClick 
+ the ADD TO MY CALENDAR button to download the UFC schedule to your calendar
+  and receive pre-fight reminders.  \n
+BEGIN:VEVENT
+DTSTART:20170328T184715Z
+DTEND:20170328T185215Z
+DTSTAMP:20170328T184904Z
+UID:12apk9l24b5ofpjbpfm8pt2co4@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:You have successfully subscribed to the OFF
+ ICIAL UFC SCHEDULE (United Kingdom)
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nShare - https://ufc.calreply.net/unitedkingdom/share\n\nYou
+  may unsubscribe by following - http://calendar.ufc.com/unsubscribe/e9a9b0d
+ 7e4b247aeb35890159820ee71\n\nPowered by CalReply - http://calrep.ly/powered
+ by
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Your calendar will be updated automatically when new events become
+  available
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:You have successfully subscribed to the OFFICIAL UFC SCHEDULE (Unit
+ ed Kingdom)
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170626T020000Z
+DTEND:20170626T040000Z
+DTSTAMP:20170328T184904Z
+UID:34p9brbqelpdiu8ttf1fn9vsog@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: TBA vs TBD
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-ok
+ lahoma-city-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy
+  event tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-vie
+ w: http://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\
+ n\nShare - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscr
+ ibe by following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb358
+ 90159820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on FS1 (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: TBA vs TBD
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T020000Z
+DTEND:20170409T040000Z
+DTSTAMP:20170328T184904Z
+UID:5ipnmlb08loogbebmkt2i2gjlg@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC 210: Cormier vs. Johnson 2
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-210\nGet UFC F
+ ight Pass: http://www.ufc.tv/page/fightpass\nBuy event tickets: http://www.
+ ufc.com/event-ticket-info\nOrder via Pay-per-view: http://www.ufc.tv/events
+ \nBuy UFC merchandise: http://www.ufcstore.com/\n\nShare - https://ufc.calr
+ eply.net/unitedkingdom/share\n\nYou may unsubscribe by following - http://c
+ alendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb35890159820ee71\n\nPowered by 
+ CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on BT Sport
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC 210: Cormier vs. Johnson 2
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170717T020000Z
+DTEND:20170717T040000Z
+DTSTAMP:20170328T184904Z
+UID:6q0m0g2ouk7nkbmv0pjiusi95g@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: TBA vs TBD
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-gl
+ asgow-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy event
+  tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view: htt
+ p://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\nSha
+ re - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscribe by
+  following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb358901598
+ 20ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on TBD (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: TBA vs TBD
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170611T020000Z
+DTEND:20170611T040000Z
+DTSTAMP:20170328T184904Z
+UID:cicnb70al7qjp7d363v1ihg3vs@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: Lewis vs Hunt
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-au
+ ckland-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy even
+ t tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view: ht
+ tp://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\nSh
+ are - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscribe b
+ y following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb35890159
+ 820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on FS1 (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: Lewis vs Hunt
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T020000Z
+DTEND:20170514T040000Z
+DTSTAMP:20170328T184904Z
+UID:ghettfp7udpib51aodlk5uoao4@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC 211: Miocic vs Dos Santos
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-211\nGet UFC F
+ ight Pass: http://www.ufc.tv/page/fightpass\nBuy event tickets: http://www.
+ ufc.com/event-ticket-info\nOrder via Pay-per-view: http://www.ufc.tv/events
+ \nBuy UFC merchandise: http://www.ufcstore.com/\n\nShare - https://ufc.calr
+ eply.net/unitedkingdom/share\n\nYou may unsubscribe by following - http://c
+ alendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb35890159820ee71\n\nPowered by 
+ CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on BT Sport (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC 211: Miocic vs Dos Santos
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170618T020000Z
+DTEND:20170618T040000Z
+DTSTAMP:20170328T184904Z
+UID:mf3e26a0apk1glqhs62nnjlnes@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: TBA vs TBD
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-si
+ ngapore-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy eve
+ nt tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view: h
+ ttp://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\nS
+ hare - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscribe 
+ by following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb3589015
+ 9820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on TBD (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: TBA vs TBD
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T170000Z
+DTEND:20170528T190000Z
+DTSTAMP:20170328T184904Z
+UID:ncpdbsdqfiodvb50ku3ef8flbo@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: Gustafsson vs Teixeira
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-st
+ ockholm-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy eve
+ nt tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view: h
+ ttp://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\nS
+ hare - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscribe 
+ by following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb3589015
+ 9820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on FS1
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: Gustafsson vs Teixeira
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170423T020000Z
+DTEND:20170423T040000Z
+DTSTAMP:20170328T184904Z
+UID:o8rvavpringbdsf1k7i1jgud44@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: Swanson vs Lobov
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-na
+ shville-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy eve
+ nt tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view: h
+ ttp://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\nS
+ hare - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscribe 
+ by following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb3589015
+ 9820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on BT Sport
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: Swanson vs Lobov
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170604T020000Z
+DTEND:20170604T040000Z
+DTSTAMP:20170328T184904Z
+UID:tr1j3uplendj9d1ugctgn59hi4@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC 212: Aldo vs Holloway
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-212\nGet UFC F
+ ight Pass: http://www.ufc.tv/page/fightpass\nBuy event tickets: http://www.
+ ufc.com/event-ticket-info\nOrder via Pay-per-view: http://www.ufc.tv/events
+ \nBuy UFC merchandise: http://www.ufcstore.com/\n\nShare - https://ufc.calr
+ eply.net/unitedkingdom/share\n\nYou may unsubscribe by following - http://c
+ alendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb35890159820ee71\n\nPowered by 
+ CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on BT Sport (Time subject to change)
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC 212: Aldo vs Holloway
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170416T000000Z
+DTEND:20170416T020000Z
+DTSTAMP:20170328T184904Z
+UID:vn1161pgk6f059kd8hbpr2kud4@google.com
+X-GOOGLE-CALENDAR-CONTENT-TITLE:👊  UFC Fight Night: Johnson vs Reis
+X-GOOGLE-CALENDAR-CONTENT-DISPLAY:CHIP
+X-GOOGLE-CALENDAR-CONTENT-ICON:https://d136swi17h0tnq.cloudfront.net/client
+ -logo/cr_icon_positive_rgb_17x17_360.png
+CREATED:20170328T184715Z
+DESCRIPTION:\n\nView fight card: http://uk.ufc.com/Event/ufc-fight-night-ka
+ nsas-city-2017\nGet UFC Fight Pass: http://www.ufc.tv/page/fightpass\nBuy e
+ vent tickets: http://www.ufc.com/event-ticket-info\nOrder via Pay-per-view:
+  http://www.ufc.tv/events\nBuy UFC merchandise: http://www.ufcstore.com/\n\
+ nShare - https://ufc.calreply.net/unitedkingdom/share\n\nYou may unsubscrib
+ e by following - http://calendar.ufc.com/unsubscribe/e9a9b0d7e4b247aeb35890
+ 159820ee71\n\nPowered by CalReply - http://calrep.ly/poweredby
+LAST-MODIFIED:20170328T184715Z
+LOCATION:Live on BT Sport
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:👊  UFC Fight Night: Johnson vs Reis
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This is an event reminder
+TRIGGER:-P0DT0H15M0S
+END:VALARM
+END:VEVENT
+END:VCALENDAR

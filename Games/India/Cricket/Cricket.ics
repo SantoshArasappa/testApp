@@ -1,0 +1,104 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:4th Test India v Australia (Day 1)
+DTSTART:20170325T040000Z
+DTEND:20170325T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:4th Test India v Australia (Day 2)
+DTSTART:20170326T040000Z
+DTEND:20170326T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:4th Test India v Australia (Day 3)
+DTSTART:20170327T040000Z
+DTEND:20170327T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:4th Test India v Australia (Day 4)
+DTSTART:20170328T040000Z
+DTEND:20170328T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:Group B India v Pakistan
+DTSTART:20170604T093000Z
+DTEND:20170604T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022353_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:Group B India v Sri Lanka
+DTSTART:20170608T093000Z
+DTEND:20170608T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022361_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/india/content/team/6.html \n\n 
+SUMMARY:Group B India v South Africa
+DTSTART:20170611T093000Z
+DTEND:20170611T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022367_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

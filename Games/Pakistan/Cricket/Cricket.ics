@@ -1,0 +1,342 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd T20I West Indies v Pakistan
+DTSTART:20170330T163000Z
+DTEND:20170330T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1077948_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd T20I West Indies v Pakistan
+DTSTART:20170401T163000Z
+DTEND:20170401T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1085495_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:4th  T20I West Indies v Pakistan
+DTSTART:20170402T163000Z
+DTEND:20170402T203000Z
+LOCATION:Queen's Park Oval, Port of Spain, Trinidad
+TRANSP:OPAQUE
+UID:1085496_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st ODI West Indies v Pakistan
+DTSTART:20170407T133000Z
+DTEND:20170407T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077949_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd ODI West Indies v Pakistan
+DTSTART:20170409T133000Z
+DTEND:20170409T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077950_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd ODI West Indies v Pakistan
+DTSTART:20170411T133000Z
+DTEND:20170411T213000Z
+LOCATION:Providence Stadium, Guyana
+TRANSP:OPAQUE
+UID:1077951_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 1)
+DTSTART:20170422T150000Z
+DTEND:20170422T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 2)
+DTSTART:20170423T150000Z
+DTEND:20170423T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 3)
+DTSTART:20170424T150000Z
+DTEND:20170424T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 4)
+DTSTART:20170425T150000Z
+DTEND:20170425T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:1st Test West Indies v Pakistan (Day 5)
+DTSTART:20170426T150000Z
+DTEND:20170426T230000Z
+LOCATION:Sabina Park, Kingston, Jamaica
+TRANSP:OPAQUE
+UID:1077953_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 1)
+DTSTART:20170430T140000Z
+DTEND:20170430T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 2)
+DTSTART:20170501T140000Z
+DTEND:20170501T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 3)
+DTSTART:20170502T140000Z
+DTEND:20170502T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 4)
+DTSTART:20170503T140000Z
+DTEND:20170503T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:2nd Test West Indies v Pakistan (Day 5)
+DTSTART:20170504T140000Z
+DTEND:20170504T220000Z
+LOCATION:Kensington Oval, Bridgetown, Barbados
+TRANSP:OPAQUE
+UID:1077954_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 1)
+DTSTART:20170510T140000Z
+DTEND:20170510T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 2)
+DTSTART:20170511T140000Z
+DTEND:20170511T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 3)
+DTSTART:20170512T140000Z
+DTEND:20170512T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 4)
+DTSTART:20170513T140000Z
+DTEND:20170513T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:3rd Test West Indies v Pakistan (Day 5)
+DTSTART:20170514T140000Z
+DTEND:20170514T220000Z
+LOCATION:Windsor Park, Roseau, Dominica
+TRANSP:OPAQUE
+UID:1077955_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:Group B India v Pakistan
+DTSTART:20170604T093000Z
+DTEND:20170604T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022353_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:Group B Pakistan v South Africa
+DTSTART:20170607T123000Z
+DTEND:20170607T203000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022359_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/pakistan/content/team/7.html \n\n 
+SUMMARY:Group B Sri Lanka v Pakistan
+DTSTART:20170612T093000Z
+DTEND:20170612T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1022369_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

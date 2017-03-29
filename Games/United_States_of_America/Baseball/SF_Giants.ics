@@ -1,0 +1,2596 @@
+BEGIN:VCALENDAR
+PRODID:-//MLB.com//Schedule Calendar 0.001//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:San Francisco Giants
+X-WR-CALNAME:San Francisco Giants
+TZ:+00
+BEGIN:VEVENT
+DTSTART:20170224T200500Z
+DTEND:20170224T230500Z
+DTSTAMP:20170328T180144Z
+UID:509907@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Cincinnati Reds 4 - San Francisco Giants 6\nWinning Pitcher: Ramirez, Neil\nLosing Pitcher: Shackelford, Kevin\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_24_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Cincinnati Reds 4 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170225T200500Z
+DTEND:20170225T230500Z
+DTSTAMP:20170328T180144Z
+UID:509908@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Chicago Cubs 6 - San Francisco Giants 8\nWinning Pitcher: Kontos, George\nLosing Pitcher: Henderson, Jim\nSave Pitcher: Strickland, Hunter\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_25_chnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Chicago Cubs 6 - San Francisco Giants 8
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170226T200500Z
+DTEND:20170226T230500Z
+DTSTAMP:20170328T180144Z
+UID:509613@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 9 - Cincinnati Reds 5\nWinning Pitcher: Reynolds, Matt\nLosing Pitcher: Stephenson, Robert\nGoodyear Ballpark, Goodyear\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_26_sfnmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Goodyear Ballpark\, Goodyear
+SUMMARY:FINAL Spring: San Francisco Giants 9 - Cincinnati Reds 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170227T200500Z
+DTEND:20170227T230500Z
+DTSTAMP:20170328T180144Z
+UID:509909@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Oakland Athletics 5 - San Francisco Giants 4\nWinning Pitcher: Castro, Simon\nLosing Pitcher: Suarez, Andrew\nSave Pitcher: Finnegan, Kyle\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_27_oakmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Oakland Athletics 5 - San Francisco Giants 4
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170228T201000Z
+DTEND:20170228T231000Z
+DTSTAMP:20170328T180144Z
+UID:509891@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 5 - San Diego Padres 9\nWinning Pitcher: McGrath, Kyle\nLosing Pitcher: Strickland, Hunter\nPeoria Stadium, Peoria\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_28_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Peoria Stadium\, Peoria
+SUMMARY:FINAL Spring: San Francisco Giants 5 - San Diego Padres 9
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170302T010500Z
+DTEND:20170302T040500Z
+DTSTAMP:20170328T180144Z
+UID:509910@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Los Angeles Dodgers 7 - San Francisco Giants 6\nWinning Pitcher: Younginer, Madison\nLosing Pitcher: Kontos, George\nSave Pitcher: Johnson, Michael\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_01_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Los Angeles Dodgers 7 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170302T201000Z
+DTEND:20170302T231000Z
+DTSTAMP:20170328T180144Z
+UID:509715@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 4 - Los Angeles Angels 5\nWinning Pitcher: Pounders, Brooks\nLosing Pitcher: Alvarado, Carlos\nSave Pitcher: Parker, Blake\nTempe Diablo Stadium, Tempe\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_02_sfnmlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Tempe Diablo Stadium\, Tempe
+SUMMARY:FINAL Spring: San Francisco Giants 4 - Los Angeles Angels 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170302T200500Z
+DTEND:20170302T230500Z
+DTSTAMP:20170328T180144Z
+UID:509911@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 8 - San Francisco Giants 6\nWinning Pitcher: Holland, Derek\nLosing Pitcher: Moore, Matt\nSave Pitcher: Muhammad, El'Hajj\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_02_chamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Chicago White Sox 8 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170303T200500Z
+DTEND:20170303T230500Z
+DTSTAMP:20170328T180144Z
+UID:509838@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 1 - Oakland Athletics 6\nWinning Pitcher: Graveman, Kendall\nLosing Pitcher: Samardzija, Jeff\nHohokam Stadium, Mesa\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_03_sfnmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Hohokam Stadium\, Mesa
+SUMMARY:FINAL Spring: San Francisco Giants 1 - Oakland Athletics 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170304T200500Z
+DTEND:20170304T230500Z
+DTSTAMP:20170328T180144Z
+UID:509699@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 0 - Kansas City Royals 2\nWinning Pitcher: Alexander, Scott\nLosing Pitcher: Sitton, Kraig\nSave Pitcher: Parnell, Bobby\nSurprise Stadium, Surprise\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_04_sfnmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Surprise Stadium\, Surprise
+SUMMARY:FINAL Spring: San Francisco Giants 0 - Kansas City Royals 2
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170305T200500Z
+DTEND:20170305T230500Z
+DTSTAMP:20170328T180144Z
+UID:509912@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Kansas City Royals 4 - San Francisco Giants 3\nWinning Pitcher: McCarthy, Kevin\nLosing Pitcher: Suarez, Albert\nSave Pitcher: Culver, Malcom\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_05_kcamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Kansas City Royals 4 - San Francisco Giants 3
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170306T200500Z
+DTEND:20170306T230500Z
+DTSTAMP:20170328T180144Z
+UID:509913@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Cleveland Indians 2 - San Francisco Giants 3\nWinning Pitcher: Slania, Dan\nLosing Pitcher: Morimando, Shawn\nSave Pitcher: Strickland, Hunter\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_06_clemlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Cleveland Indians 2 - San Francisco Giants 3
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170307T200500Z
+DTEND:20170307T230500Z
+DTSTAMP:20170328T180144Z
+UID:509734@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 4 - Los Angeles Dodgers 2\nWinning Pitcher: Beede, Tyler\nLosing Pitcher: Avilan, Luis\nSave Pitcher: Dominguez, Jose\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_07_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Francisco Giants 4 - Los Angeles Dodgers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170308T200500Z
+DTEND:20170308T230500Z
+DTSTAMP:20170328T180144Z
+UID:509914@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Exhibition: Puerto Rico 5 - San Francisco Giants 6\nWinning Pitcher: Okert, Steven\nLosing Pitcher: Pagan, Emilio\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_08_purint_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Exhibition: Puerto Rico 5 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170310T200500Z
+DTEND:20170310T230500Z
+DTSTAMP:20170328T180144Z
+UID:509915@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Cleveland Indians 7 - San Francisco Giants 6\nWinning Pitcher: Martin, Josh\nLosing Pitcher: Law, Derek\nSave Pitcher: Plutko, Adam\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_10_clemlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Cleveland Indians 7 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170311T201000Z
+DTEND:20170311T231000Z
+DTSTAMP:20170328T180144Z
+UID:509515@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 1 - Arizona Diamondbacks 5\nWinning Pitcher: Ray, Robbie\nLosing Pitcher: Blach, Ty\nSalt River Fields at Talking Stick, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_11_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Salt River Fields at Talking Stick\, Scottsdale
+SUMMARY:FINAL Spring: San Francisco Giants 1 - Arizona Diamondbacks 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170311T200500Z
+DTEND:20170311T230500Z
+DTSTAMP:20170328T180144Z
+UID:509916@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Cincinnati Reds 7 - San Francisco Giants 9\nWinning Pitcher: Stratton, Chris\nLosing Pitcher: Mahle, Tyler\nSave Pitcher: Kontos, George\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_11_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Cincinnati Reds 7 - San Francisco Giants 9
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170312T200500Z
+DTEND:20170312T230500Z
+DTSTAMP:20170328T180144Z
+UID:509917@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Arizona Diamondbacks 4 - San Francisco Giants 12\nWinning Pitcher: Moore, Matt\nLosing Pitcher: Bradley, Archie\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_12_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Arizona Diamondbacks 4 - San Francisco Giants 12
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170314T010500Z
+DTEND:20170314T040500Z
+DTSTAMP:20170328T180144Z
+UID:509985@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 1 - Texas Rangers 7\nWinning Pitcher: Darvish, Yu\nLosing Pitcher: Samardzija, Jeff\nSurprise Stadium, Surprise\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_13_sfnmlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Surprise Stadium\, Surprise
+SUMMARY:FINAL Spring: San Francisco Giants 1 - Texas Rangers 7
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170314T200500Z
+DTEND:20170314T230500Z
+DTSTAMP:20170328T180144Z
+UID:509638@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 6 - Cleveland Indians 5\nWinning Pitcher: Suarez, Albert\nLosing Pitcher: Tomlin, Josh\nSave Pitcher: Law, Derek\nGoodyear Ballpark, Goodyear\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_14_sfnmlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Goodyear Ballpark\, Goodyear
+SUMMARY:FINAL Spring: San Francisco Giants 6 - Cleveland Indians 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170315T200500Z
+DTEND:20170315T230500Z
+DTSTAMP:20170328T180144Z
+UID:509918@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Los Angeles Angels 4 - San Francisco Giants 7\nWinning Pitcher: Blach, Ty\nLosing Pitcher: Miller, Justin\nSave Pitcher: Okert, Steven\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_15_anamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Los Angeles Angels 4 - San Francisco Giants 7
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170318T010500Z
+DTEND:20170318T040500Z
+DTSTAMP:20170328T180144Z
+UID:509919@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Colorado Rockies 5 - San Francisco Giants 1\nWinning Pitcher: Musgrave, Harrison\nLosing Pitcher: Cain, Matt\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_17_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Colorado Rockies 5 - San Francisco Giants 1
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170318T201000Z
+DTEND:20170318T231000Z
+DTSTAMP:20170328T180144Z
+UID:509935@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 5 - Seattle Mariners 6\nWinning Pitcher: Gillies, Darin\nLosing Pitcher: Dominguez, Jose\nSave Pitcher: Bergman, Christian\nPeoria Stadium, Peoria\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_18_sfnmlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Peoria Stadium\, Peoria
+SUMMARY:FINAL Spring: San Francisco Giants 5 - Seattle Mariners 6
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170319T200500Z
+DTEND:20170319T230500Z
+DTSTAMP:20170328T180144Z
+UID:509920@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Milwaukee Brewers 6 - San Francisco Giants 4\nWinning Pitcher: Davies, Zach\nLosing Pitcher: Samardzija, Jeff\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_19_milmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Milwaukee Brewers 6 - San Francisco Giants 4
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170320T200500Z
+DTEND:20170320T230500Z
+DTSTAMP:20170328T180144Z
+UID:509608@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 2\nWinning Pitcher: Strickland, Hunter\nLosing Pitcher: Kahnle, Tommy\nSave Pitcher: Ramirez, Neil\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_20_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 2
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170321T200500Z
+DTEND:20170321T230500Z
+DTSTAMP:20170328T180144Z
+UID:509921@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Diego Padres 3 - San Francisco Giants 5\nWinning Pitcher: Gearrin, Cory\nLosing Pitcher: Quackenbush, Kevin\nSave Pitcher: Law, Derek\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_21_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: San Diego Padres 3 - San Francisco Giants 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170322T200500Z
+DTEND:20170322T230500Z
+DTSTAMP:20170328T180144Z
+UID:509778@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 6 - Milwaukee Brewers 4\nWinning Pitcher: Gomez, Roberto\nLosing Pitcher: Torres, Carlos\nSave Pitcher: Suarez, Albert\nMaryvale Baseball Park, Phoenix\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_22_sfnmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Maryvale Baseball Park\, Phoenix
+SUMMARY:FINAL Spring: San Francisco Giants 6 - Milwaukee Brewers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170324T010500Z
+DTEND:20170324T040500Z
+DTSTAMP:20170328T180144Z
+UID:509922@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Seattle Mariners 9 - San Francisco Giants 2\nWinning Pitcher: Hernandez, Felix\nLosing Pitcher: Moore, Matt\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_23_seamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Seattle Mariners 9 - San Francisco Giants 2
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170324T201000Z
+DTEND:20170324T231000Z
+DTSTAMP:20170328T180144Z
+UID:509659@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 6 - Colorado Rockies 5\nWinning Pitcher: Samardzija, Jeff\nLosing Pitcher: Gray, Jon\nSave Pitcher: Moronta, Reyes\nSalt River Fields at Talking Stick, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_24_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Salt River Fields at Talking Stick\, Scottsdale
+SUMMARY:FINAL Spring: San Francisco Giants 6 - Colorado Rockies 5
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170325T220500Z
+DTEND:20170326T010500Z
+DTSTAMP:20170328T180144Z
+UID:509923@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Diego Padres 7 - San Francisco Giants 8\nWinning Pitcher: Ramirez, Neil\nLosing Pitcher: Fisher, Carlos\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_25_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: San Diego Padres 7 - San Francisco Giants 8
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170326T200500Z
+DTEND:20170326T230500Z
+DTSTAMP:20170328T180144Z
+UID:509611@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 4\nWinning Pitcher: Smith, Blake\nLosing Pitcher: Ramirez, Neil\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_26_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170327T200500Z
+DTEND:20170327T230500Z
+DTSTAMP:20170328T180144Z
+UID:509924@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:FINAL Spring: Cincinnati Reds 2 - San Francisco Giants 14\nWinning Pitcher: Bumgarner, Madison\nLosing Pitcher: Reed, Cody\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_27_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Cincinnati Reds 2 - San Francisco Giants 14
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170328T200500Z
+DTEND:20170328T230500Z
+DTSTAMP:20170328T180144Z
+UID:509594@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago Cubs\nFirst pitch: 3:05:00 PM CDT\nSloan Park, Mesa\n\nProbable Starters:\nSF: Cain, Matt\nCHC: Arrieta, Jake\n\nBuy Tickets: http://mlb.mlb.com/ticketing/index.jsp?c_id=chc&affiliateId=iCal-SGT-sf\n\nLocal TV: MLBN\nLocal Radio: MLB.com\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_28_sfnmlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Sloan Park\, Mesa
+SUMMARY:San Francisco Giants vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170331T021500Z
+DTEND:20170331T051500Z
+DTSTAMP:20170328T180144Z
+UID:502120@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Oakland Athletics vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nMystery Promo Item\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_30_oakmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Oakland Athletics vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T021500Z
+DTEND:20170401T051500Z
+DTSTAMP:20170328T180144Z
+UID:502121@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Oakland Athletics vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/index.jsp?c_id=sf&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nMystery Promo Item\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_31_oakmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Oakland Athletics vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T190500Z
+DTEND:20170401T220500Z
+DTSTAMP:20170328T180144Z
+UID:502119@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Oakland Athletics\nFirst pitch: 12:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/index.jsp?c_id=oak&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_01_sfnmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:San Francisco Giants vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170402T201000Z
+DTEND:20170402T231000Z
+DTSTAMP:20170328T180144Z
+UID:490110@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 1:10:00 PM MST\nChase Field, Phoenix\n\nProbable Starters:\nSF: Bumgarner, Madison\nARI: Greinke, Zack\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490110&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA, ESPN2\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_02_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170405T014000Z
+DTEND:20170405T044000Z
+DTSTAMP:20170328T180144Z
+UID:490118@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490118&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_04_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170406T014000Z
+DTEND:20170406T044000Z
+DTSTAMP:20170328T180144Z
+UID:490132@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490132&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_05_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T014000Z
+DTEND:20170407T044000Z
+DTSTAMP:20170328T180144Z
+UID:490145@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490145&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_06_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T224000Z
+DTEND:20170408T014000Z
+DTSTAMP:20170328T180144Z
+UID:490159@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 3:40:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=490159&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_07_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T004000Z
+DTEND:20170409T034000Z
+DTSTAMP:20170328T180144Z
+UID:490174@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 5:40:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=490174&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_08_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T204000Z
+DTEND:20170409T234000Z
+DTSTAMP:20170328T180144Z
+UID:490189@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 1:40:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=490189&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_09_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170410T203500Z
+DTEND:20170410T233500Z
+DTSTAMP:20170328T180144Z
+UID:490193@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 1:35:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490193&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nOpening Day Calendar\n\nLocal TV: CSBA, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_10_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170412T021500Z
+DTEND:20170412T051500Z
+DTSTAMP:20170328T180144Z
+UID:490203@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490203&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants SF Heart Flag\nSPECIAL EVENT: University of California, Berkeley Night\n\nLocal TV: CSBA, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_11_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170413T021500Z
+DTEND:20170413T051500Z
+DTSTAMP:20170328T180144Z
+UID:490215@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490215&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGold Glove Foam Finger\nSPECIAL EVENT: San Francisco State University Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_12_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170414T021500Z
+DTEND:20170414T051500Z
+DTSTAMP:20170328T180144Z
+UID:490232@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490232&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Stanford University Night\nSPECIAL EVENT: Hotel Heroes Night at AT&T Park\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_13_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T021500Z
+DTEND:20170415T051500Z
+DTSTAMP:20170328T180144Z
+UID:490243@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490243&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nFireworks Night\nSPECIAL EVENT: San Jose State University Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_14_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T200500Z
+DTEND:20170415T230500Z
+DTSTAMP:20170328T180144Z
+UID:490258@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490258&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nJohnny Cueto Shimmy Bobble\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_15_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170416T200500Z
+DTEND:20170416T230500Z
+DTSTAMP:20170328T180144Z
+UID:490273@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490273&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nBrandon Crawford Backpack with Cape\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_16_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170419T001500Z
+DTEND:20170419T031500Z
+DTSTAMP:20170328T180144Z
+UID:490307@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490307&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_18_sfnmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:San Francisco Giants vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170420T001500Z
+DTEND:20170420T031500Z
+DTSTAMP:20170328T180144Z
+UID:490322@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490322&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_19_sfnmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:San Francisco Giants vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170422T004000Z
+DTEND:20170422T034000Z
+DTSTAMP:20170328T180144Z
+UID:490346@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=490346&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_21_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170423T001000Z
+DTEND:20170423T031000Z
+DTSTAMP:20170328T180144Z
+UID:490361@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=490361&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_22_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170423T191000Z
+DTEND:20170423T221000Z
+DTSTAMP:20170328T180144Z
+UID:490376@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 1:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=490376&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_23_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170425T021500Z
+DTEND:20170425T051500Z
+DTSTAMP:20170328T180144Z
+UID:490384@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490384&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: MARVEL Day 1\nSPECIAL EVENT: MARVEL Super Heroes Day VIP Experience\n\nLocal TV: CSBA, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_24_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T021500Z
+DTEND:20170426T051500Z
+DTSTAMP:20170328T180144Z
+UID:490395@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490395&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Irish Heritage Night 1\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_25_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T021500Z
+DTEND:20170427T051500Z
+DTSTAMP:20170328T180144Z
+UID:490410@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490410&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: #BayAreaUnite Night - A Giants and Warriors Collaboration\nSPECIAL EVENT: Saint Mary's College Night\n\nLocal TV: NBC Bay Area, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_26_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T194500Z
+DTEND:20170427T224500Z
+DTSTAMP:20170328T180144Z
+UID:490422@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490422&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_27_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170429T021500Z
+DTEND:20170429T051500Z
+DTSTAMP:20170328T180144Z
+UID:490442@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490442&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Player Scarf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_28_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170430T010500Z
+DTEND:20170430T040500Z
+DTSTAMP:20170328T180144Z
+UID:490457@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 6:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490457&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nTwo Flaps Down Hat\nSPECIAL EVENT: Brewfest\n\nLocal TV: CSBA, MLBN\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_29_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170430T200500Z
+DTEND:20170430T230500Z
+DTSTAMP:20170328T180144Z
+UID:490472@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490472&affiliateId=iCal-SGT-sf\n\nAdditional Information:\n"Pence on Board" Plush Window Cling\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_30_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T021000Z
+DTEND:20170502T051000Z
+DTSTAMP:20170328T180144Z
+UID:490482@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=490482&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_01_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170503T021000Z
+DTEND:20170503T051000Z
+DTSTAMP:20170328T180144Z
+UID:490497@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=490497&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_02_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T021000Z
+DTEND:20170504T051000Z
+DTSTAMP:20170328T180144Z
+UID:490513@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=490513&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_03_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170505T224000Z
+DTEND:20170506T014000Z
+DTSTAMP:20170328T180144Z
+UID:490539@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Cincinnati Reds\nFirst pitch: 6:40:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490539&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_05_sfnmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:San Francisco Giants vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T231000Z
+DTEND:20170507T021000Z
+DTSTAMP:20170328T180144Z
+UID:490554@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Cincinnati Reds\nFirst pitch: 7:10:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490554&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_06_sfnmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:San Francisco Giants vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170507T201000Z
+DTEND:20170507T231000Z
+DTSTAMP:20170328T180144Z
+UID:490569@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Cincinnati Reds\nFirst pitch: 4:10:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490569&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_07_sfnmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:San Francisco Giants vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170508T231000Z
+DTEND:20170509T021000Z
+DTSTAMP:20170328T180144Z
+UID:490580@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. New York Mets\nFirst pitch: 7:10:00 PM EDT\nCiti Field, Flushing\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nym&game=490580&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_08_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citi Field\, Flushing
+SUMMARY:San Francisco Giants vs. New York Mets
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170509T231000Z
+DTEND:20170510T021000Z
+DTSTAMP:20170328T180144Z
+UID:490593@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. New York Mets\nFirst pitch: 7:10:00 PM EDT\nCiti Field, Flushing\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nym&game=490593&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_09_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citi Field\, Flushing
+SUMMARY:San Francisco Giants vs. New York Mets
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T171000Z
+DTEND:20170510T201000Z
+DTSTAMP:20170328T180144Z
+UID:490609@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. New York Mets\nFirst pitch: 1:10:00 PM EDT\nCiti Field, Flushing\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nym&game=490609&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_10_sfnmlb_nynmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citi Field\, Flushing
+SUMMARY:San Francisco Giants vs. New York Mets
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170512T021500Z
+DTEND:20170512T051500Z
+DTSTAMP:20170328T180144Z
+UID:490614@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cincinnati Reds vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490614&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Filipino Heritage Night 1\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_11_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cincinnati Reds vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T021500Z
+DTEND:20170513T051500Z
+DTSTAMP:20170328T180144Z
+UID:490627@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cincinnati Reds vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490627&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Santa Clara University Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_12_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cincinnati Reds vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T200500Z
+DTEND:20170513T230500Z
+DTSTAMP:20170328T180144Z
+UID:490642@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cincinnati Reds vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490642&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nCollectible Tin Box\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_13_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cincinnati Reds vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T200500Z
+DTEND:20170514T230500Z
+DTSTAMP:20170328T180144Z
+UID:490657@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cincinnati Reds vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490657&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nMother's Day Expandable Tote Bag\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_14_cinmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cincinnati Reds vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170516T021500Z
+DTEND:20170516T051500Z
+DTSTAMP:20170328T180144Z
+UID:490672@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490672&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Korean Heritage Night\nSPECIAL EVENT: Until There's A Cure Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_15_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T021500Z
+DTEND:20170517T051500Z
+DTSTAMP:20170328T180144Z
+UID:490684@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490684&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: University of San Francisco Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_16_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T194500Z
+DTEND:20170517T224500Z
+DTSTAMP:20170328T180144Z
+UID:490698@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490698&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_17_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T001500Z
+DTEND:20170520T031500Z
+DTSTAMP:20170328T180144Z
+UID:490729@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. St. Louis Cardinals\nFirst pitch: 7:15:00 PM CDT\nBusch Stadium, St. Louis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=stl&game=490729&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_19_sfnmlb_slnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Busch Stadium\, St. Louis
+SUMMARY:San Francisco Giants vs. St. Louis Cardinals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T231500Z
+DTEND:20170521T021500Z
+DTSTAMP:20170328T180144Z
+UID:490744@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. St. Louis Cardinals\nFirst pitch: 6:15:00 PM CDT\nBusch Stadium, St. Louis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=stl&game=490744&affiliateId=iCal-SGT-sf\n\nLocal TV: FOX\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_20_sfnmlb_slnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Busch Stadium\, St. Louis
+SUMMARY:San Francisco Giants vs. St. Louis Cardinals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170521T181500Z
+DTEND:20170521T211500Z
+DTSTAMP:20170328T180144Z
+UID:490759@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. St. Louis Cardinals\nFirst pitch: 1:15:00 PM CDT\nBusch Stadium, St. Louis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=stl&game=490759&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_21_sfnmlb_slnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Busch Stadium\, St. Louis
+SUMMARY:San Francisco Giants vs. St. Louis Cardinals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T000500Z
+DTEND:20170523T030500Z
+DTSTAMP:20170328T180144Z
+UID:490771@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago Cubs\nFirst pitch: 7:05:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=490771&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_22_sfnmlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T230500Z
+DTEND:20170524T020500Z
+DTSTAMP:20170328T180144Z
+UID:490782@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago Cubs\nFirst pitch: 6:05:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=490782&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_23_sfnmlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170525T000500Z
+DTEND:20170525T030500Z
+DTSTAMP:20170328T180144Z
+UID:490797@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago Cubs\nFirst pitch: 7:05:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=490797&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_24_sfnmlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170525T182000Z
+DTEND:20170525T212000Z
+DTSTAMP:20170328T180144Z
+UID:490810@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago Cubs\nFirst pitch: 1:20:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=490810&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_25_sfnmlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T021500Z
+DTEND:20170527T051500Z
+DTSTAMP:20170328T180144Z
+UID:490815@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Atlanta Braves vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490815&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nFireworks Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_26_atlmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Atlanta Braves vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T020500Z
+DTEND:20170528T050500Z
+DTSTAMP:20170328T180144Z
+UID:490830@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Atlanta Braves vs. San Francisco Giants\nFirst pitch: 7:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490830&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Car Flag\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_27_atlmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Atlanta Braves vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T200500Z
+DTEND:20170528T230500Z
+DTSTAMP:20170328T180144Z
+UID:490845@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Atlanta Braves vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490845&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Cap\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_28_atlmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Atlanta Braves vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170529T200500Z
+DTEND:20170529T230500Z
+DTSTAMP:20170328T180144Z
+UID:490873@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Washington Nationals vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490873&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nMemorial Day Cooler Bag\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_29_wasmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Washington Nationals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170531T021500Z
+DTEND:20170531T051500Z
+DTSTAMP:20170328T180144Z
+UID:490888@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Washington Nationals vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490888&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Chinese Heritage Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_30_wasmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Washington Nationals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170601T021500Z
+DTEND:20170601T051500Z
+DTSTAMP:20170328T180144Z
+UID:490903@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Washington Nationals vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=490903&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Japanese Heritage Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_31_wasmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Washington Nationals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170602T230500Z
+DTEND:20170603T020500Z
+DTSTAMP:20170328T180144Z
+UID:490923@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Philadelphia Phillies\nFirst pitch: 7:05:00 PM EDT\nCitizens Bank Park, Philadelphia\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=phi&game=490923&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_02_sfnmlb_phimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citizens Bank Park\, Philadelphia
+SUMMARY:San Francisco Giants vs. Philadelphia Phillies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170603T200500Z
+DTEND:20170603T230500Z
+DTSTAMP:20170328T180144Z
+UID:490938@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Philadelphia Phillies\nFirst pitch: 4:05:00 PM EDT\nCitizens Bank Park, Philadelphia\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=phi&game=490938&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_03_sfnmlb_phimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citizens Bank Park\, Philadelphia
+SUMMARY:San Francisco Giants vs. Philadelphia Phillies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170604T173500Z
+DTEND:20170604T203500Z
+DTSTAMP:20170328T180144Z
+UID:490953@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Philadelphia Phillies\nFirst pitch: 1:35:00 PM EDT\nCitizens Bank Park, Philadelphia\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=phi&game=490953&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_04_sfnmlb_phimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Citizens Bank Park\, Philadelphia
+SUMMARY:San Francisco Giants vs. Philadelphia Phillies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170605T234000Z
+DTEND:20170606T024000Z
+DTSTAMP:20170328T180144Z
+UID:490960@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Milwaukee Brewers\nFirst pitch: 6:40:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=490960&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_05_sfnmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:San Francisco Giants vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170606T234000Z
+DTEND:20170607T024000Z
+DTSTAMP:20170328T180144Z
+UID:490975@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Milwaukee Brewers\nFirst pitch: 6:40:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=490975&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_06_sfnmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:San Francisco Giants vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170608T001000Z
+DTEND:20170608T031000Z
+DTSTAMP:20170328T180144Z
+UID:490990@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Milwaukee Brewers\nFirst pitch: 7:10:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=490990&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_07_sfnmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:San Francisco Giants vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170608T181000Z
+DTEND:20170608T211000Z
+DTSTAMP:20170328T180144Z
+UID:491003@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Milwaukee Brewers\nFirst pitch: 1:10:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=491003&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_08_sfnmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:San Francisco Giants vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170610T021500Z
+DTEND:20170610T051500Z
+DTSTAMP:20170328T180144Z
+UID:491014@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Minnesota Twins vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491014&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nBuster Hugs Blanket\nSPECIAL EVENT: Portuguese Heritage Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_09_minmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Minnesota Twins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170610T200500Z
+DTEND:20170610T230500Z
+DTSTAMP:20170328T180144Z
+UID:491029@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Minnesota Twins vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491029&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nWill Clark Jersey Cap\nSPECIAL EVENT: Autism Awareness Day\nSPECIAL EVENT: Autism Awareness Night - A VIP Experience in Triples Alley\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_10_minmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Minnesota Twins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170611T200500Z
+DTEND:20170611T230500Z
+DTSTAMP:20170328T180144Z
+UID:491045@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Minnesota Twins vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491045&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nDog Days of Summer\nMLB Play Ball Bat & Ball Set\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_11_minmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Minnesota Twins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170614T021500Z
+DTEND:20170614T051500Z
+DTSTAMP:20170328T180144Z
+UID:491066@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Kansas City Royals vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491066&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nMadison Bumgarner T-Shirt\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_13_kcamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Kansas City Royals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170614T194500Z
+DTEND:20170614T224500Z
+DTSTAMP:20170328T180144Z
+UID:491082@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Kansas City Royals vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491082&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_14_kcamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Kansas City Royals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170616T004000Z
+DTEND:20170616T034000Z
+DTSTAMP:20170328T180144Z
+UID:491096@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491096&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_15_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170617T004000Z
+DTEND:20170617T034000Z
+DTSTAMP:20170328T180144Z
+UID:491110@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491110&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_16_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170617T191000Z
+DTEND:20170617T221000Z
+DTSTAMP:20170328T180144Z
+UID:491125@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 1:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491125&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_17_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170618T191000Z
+DTEND:20170618T221000Z
+DTSTAMP:20170328T180144Z
+UID:491140@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 1:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491140&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_18_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170619T233500Z
+DTEND:20170620T023500Z
+DTSTAMP:20170328T180144Z
+UID:491153@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Atlanta Braves\nFirst pitch: 7:35:00 PM EDT\nSunTrust Park, Atlanta\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=atl&game=491153&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_19_sfnmlb_atlmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:SunTrust Park\, Atlanta
+SUMMARY:San Francisco Giants vs. Atlanta Braves
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170620T233500Z
+DTEND:20170621T023500Z
+DTSTAMP:20170328T180144Z
+UID:491167@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Atlanta Braves\nFirst pitch: 7:35:00 PM EDT\nSunTrust Park, Atlanta\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=atl&game=491167&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_20_sfnmlb_atlmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:SunTrust Park\, Atlanta
+SUMMARY:San Francisco Giants vs. Atlanta Braves
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170621T233500Z
+DTEND:20170622T023500Z
+DTSTAMP:20170328T180144Z
+UID:491182@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Atlanta Braves\nFirst pitch: 7:35:00 PM EDT\nSunTrust Park, Atlanta\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=atl&game=491182&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_21_sfnmlb_atlmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:SunTrust Park\, Atlanta
+SUMMARY:San Francisco Giants vs. Atlanta Braves
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T233500Z
+DTEND:20170623T023500Z
+DTSTAMP:20170328T180144Z
+UID:491195@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Atlanta Braves\nFirst pitch: 7:35:00 PM EDT\nSunTrust Park, Atlanta\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=atl&game=491195&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_22_sfnmlb_atlmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:SunTrust Park\, Atlanta
+SUMMARY:San Francisco Giants vs. Atlanta Braves
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170624T021500Z
+DTEND:20170624T051500Z
+DTSTAMP:20170328T180144Z
+UID:491207@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:New York Mets vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491207&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Native American Heritage Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_23_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:New York Mets vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170624T231500Z
+DTEND:20170625T021500Z
+DTSTAMP:20170328T180144Z
+UID:491222@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:New York Mets vs. San Francisco Giants\nFirst pitch: 4:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491222&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Retro Bobblehead\n\nLocal TV: FOX\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_24_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:New York Mets vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170625T200500Z
+DTEND:20170625T230500Z
+DTSTAMP:20170328T180144Z
+UID:491237@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:New York Mets vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491237&affiliateId=iCal-SGT-sf\n\nAdditional Information:\n50th Anniversary Summer of Love Blanket\nSPECIAL EVENT: 50th Anniversary of the Summer of Love\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_25_nynmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:New York Mets vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170627T021500Z
+DTEND:20170627T051500Z
+DTSTAMP:20170328T180144Z
+UID:491244@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491244&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: LGBT Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_26_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170628T021500Z
+DTEND:20170628T051500Z
+DTSTAMP:20170328T180144Z
+UID:491253@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491253&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Firefighter Appreciation Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_27_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170628T194500Z
+DTEND:20170628T224500Z
+DTSTAMP:20170328T180144Z
+UID:491268@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491268&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_28_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170630T230500Z
+DTEND:20170701T020500Z
+DTSTAMP:20170328T180144Z
+UID:491303@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Pittsburgh Pirates\nFirst pitch: 7:05:00 PM EDT\nPNC Park, Pittsburgh\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=pit&game=491303&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_30_sfnmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:PNC Park\, Pittsburgh
+SUMMARY:San Francisco Giants vs. Pittsburgh Pirates
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170701T200500Z
+DTEND:20170701T230500Z
+DTSTAMP:20170328T180144Z
+UID:491318@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Pittsburgh Pirates\nFirst pitch: 4:05:00 PM EDT\nPNC Park, Pittsburgh\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=pit&game=491318&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_01_sfnmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:PNC Park\, Pittsburgh
+SUMMARY:San Francisco Giants vs. Pittsburgh Pirates
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170702T173500Z
+DTEND:20170702T203500Z
+DTSTAMP:20170328T180144Z
+UID:491333@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Pittsburgh Pirates\nFirst pitch: 1:35:00 PM EDT\nPNC Park, Pittsburgh\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=pit&game=491333&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_02_sfnmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:PNC Park\, Pittsburgh
+SUMMARY:San Francisco Giants vs. Pittsburgh Pirates
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170704T171000Z
+DTEND:20170704T201000Z
+DTSTAMP:20170328T180144Z
+UID:491360@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=491360&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_04_sfnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:San Francisco Giants vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170705T231000Z
+DTEND:20170706T021000Z
+DTSTAMP:20170328T180144Z
+UID:491375@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=491375&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_05_sfnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:San Francisco Giants vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170706T171000Z
+DTEND:20170706T201000Z
+DTSTAMP:20170328T180144Z
+UID:491388@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=491388&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_06_sfnmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:San Francisco Giants vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170708T021500Z
+DTEND:20170708T051500Z
+DTSTAMP:20170328T180144Z
+UID:491398@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Miami Marlins vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491398&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_07_miamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Miami Marlins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T020500Z
+DTEND:20170709T050500Z
+DTSTAMP:20170328T180144Z
+UID:491413@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Miami Marlins vs. San Francisco Giants\nFirst pitch: 7:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491413&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nJeff Samardzija Shark Snow Globe\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_08_miamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Miami Marlins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T200500Z
+DTEND:20170709T230500Z
+DTSTAMP:20170328T180144Z
+UID:491428@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Miami Marlins vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491428&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Slumber Party\nGrocery Tote\nSPECIAL EVENT: Boy Scout Day\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_09_miamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Miami Marlins vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170712T000000Z
+DTEND:20170712T030000Z
+DTSTAMP:20170328T180144Z
+UID:491434@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:American League All-Stars vs. National League All-Stars\nFirst pitch: 8:00:00 PM EDT\nMarlins Park, Miami\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_11_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:American League All-Stars vs. National League All-Stars
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170715T021000Z
+DTEND:20170715T051000Z
+DTSTAMP:20170328T180144Z
+UID:491443@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 7:10:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=491443&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_14_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T004000Z
+DTEND:20170716T034000Z
+DTSTAMP:20170328T180144Z
+UID:491458@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 5:40:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=491458&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_15_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T204000Z
+DTEND:20170716T234000Z
+DTSTAMP:20170328T180144Z
+UID:491473@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 1:40:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=491473&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_16_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170718T021500Z
+DTEND:20170718T051500Z
+DTSTAMP:20170328T180144Z
+UID:491481@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cleveland Indians vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491481&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Bruce Lee Tribute Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_17_clemlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cleveland Indians vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170719T021500Z
+DTEND:20170719T051500Z
+DTSTAMP:20170328T180144Z
+UID:491495@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cleveland Indians vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491495&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Stitch N Pitch\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_18_clemlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cleveland Indians vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170719T194500Z
+DTEND:20170719T224500Z
+DTSTAMP:20170328T180144Z
+UID:491510@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Cleveland Indians vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491510&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_19_clemlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Cleveland Indians vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170721T021500Z
+DTEND:20170721T051500Z
+DTSTAMP:20170328T180144Z
+UID:491528@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491528&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_20_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T021500Z
+DTEND:20170722T051500Z
+DTSTAMP:20170328T180144Z
+UID:491542@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491542&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Wine Fest\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_21_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T200500Z
+DTEND:20170722T230500Z
+DTSTAMP:20170328T180144Z
+UID:491557@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491557&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nCharlie Brown Anniversary Edition Bobblehead\nSPECIAL EVENT: Peanuts Day - A VIP Experience in Triples Alley\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_22_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170723T200500Z
+DTEND:20170723T230500Z
+DTSTAMP:20170328T180144Z
+UID:491572@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491572&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nGiants Bucket Hat\nSPECIAL EVENT: Girl Scout Day\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_23_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170725T021500Z
+DTEND:20170725T051500Z
+DTSTAMP:20170328T180144Z
+UID:491588@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Pittsburgh Pirates vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491588&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Christmas in July\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_24_pitmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Pittsburgh Pirates vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170726T021500Z
+DTEND:20170726T051500Z
+DTSTAMP:20170328T180144Z
+UID:491603@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Pittsburgh Pirates vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491603&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Law Enforcement Appreciation Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_25_pitmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Pittsburgh Pirates vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170726T194500Z
+DTEND:20170726T224500Z
+DTSTAMP:20170328T180144Z
+UID:491618@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Pittsburgh Pirates vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491618&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_26_pitmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Pittsburgh Pirates vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170729T021000Z
+DTEND:20170729T051000Z
+DTSTAMP:20170328T180144Z
+UID:491640@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=491640&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_28_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170729T200500Z
+DTEND:20170729T230500Z
+DTSTAMP:20170328T180144Z
+UID:491655@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 1:05:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=491655&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA, FS1\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_29_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170730T201000Z
+DTEND:20170730T231000Z
+DTSTAMP:20170328T180144Z
+UID:491670@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 1:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=491670&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_30_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170801T020500Z
+DTEND:20170801T050500Z
+DTSTAMP:20170328T180144Z
+UID:491676@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Oakland Athletics\nFirst pitch: 7:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491676&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_31_sfnmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:San Francisco Giants vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170802T020500Z
+DTEND:20170802T050500Z
+DTSTAMP:20170328T180144Z
+UID:491690@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Oakland Athletics\nFirst pitch: 7:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491690&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_01_sfnmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:San Francisco Giants vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170803T021500Z
+DTEND:20170803T051500Z
+DTSTAMP:20170328T180144Z
+UID:491704@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Oakland Athletics vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491704&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_02_oakmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Oakland Athletics vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170804T021500Z
+DTEND:20170804T051500Z
+DTSTAMP:20170328T180144Z
+UID:491718@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Oakland Athletics vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491718&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Grateful Dead Tribute Night - A VIP Experience in Triples Alley\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_03_oakmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Oakland Athletics vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170805T021500Z
+DTEND:20170805T051500Z
+DTSTAMP:20170328T180144Z
+UID:491724@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491724&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_04_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170806T010500Z
+DTEND:20170806T040500Z
+DTSTAMP:20170328T180144Z
+UID:491739@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 6:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491739&affiliateId=iCal-SGT-sf\n\nAdditional Information:\n1997 Giants Team Reunion\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_05_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170806T200500Z
+DTEND:20170806T230500Z
+DTSTAMP:20170328T180144Z
+UID:491754@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491754&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nHello Kitty Day T-Shirt\nSPECIAL EVENT: Hello Kitty Day\nSPECIAL EVENT: Hello Kitty Day - A VIP Experience in Triples Alley\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_06_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170808T021500Z
+DTEND:20170808T051500Z
+DTSTAMP:20170328T180144Z
+UID:491770@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Chicago Cubs vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491770&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Metallica Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_07_chnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Chicago Cubs vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170809T021500Z
+DTEND:20170809T051500Z
+DTSTAMP:20170328T180144Z
+UID:491778@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Chicago Cubs vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491778&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_08_chnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Chicago Cubs vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170809T194500Z
+DTEND:20170809T224500Z
+DTSTAMP:20170328T180144Z
+UID:491793@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Chicago Cubs vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491793&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_09_chnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Chicago Cubs vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170811T230500Z
+DTEND:20170812T020500Z
+DTSTAMP:20170328T180144Z
+UID:491832@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Washington Nationals\nFirst pitch: 7:05:00 PM EDT\nNationals Park, Washington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=was&game=491832&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_11_sfnmlb_wasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Nationals Park\, Washington
+SUMMARY:San Francisco Giants vs. Washington Nationals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170812T230500Z
+DTEND:20170813T020500Z
+DTSTAMP:20170328T180144Z
+UID:491847@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Washington Nationals\nFirst pitch: 7:05:00 PM EDT\nNationals Park, Washington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=was&game=491847&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_12_sfnmlb_wasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Nationals Park\, Washington
+SUMMARY:San Francisco Giants vs. Washington Nationals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170813T173500Z
+DTEND:20170813T203500Z
+DTSTAMP:20170328T180144Z
+UID:491862@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Washington Nationals\nFirst pitch: 1:35:00 PM EDT\nNationals Park, Washington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=was&game=491862&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_13_sfnmlb_wasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Nationals Park\, Washington
+SUMMARY:San Francisco Giants vs. Washington Nationals
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170814T231000Z
+DTEND:20170815T021000Z
+DTSTAMP:20170328T180144Z
+UID:491871@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Miami Marlins\nFirst pitch: 7:10:00 PM EDT\nMarlins Park, Miami\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mia&game=491871&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_14_sfnmlb_miamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:San Francisco Giants vs. Miami Marlins
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170815T231000Z
+DTEND:20170816T021000Z
+DTSTAMP:20170328T180144Z
+UID:491885@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Miami Marlins\nFirst pitch: 7:10:00 PM EDT\nMarlins Park, Miami\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mia&game=491885&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_15_sfnmlb_miamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:San Francisco Giants vs. Miami Marlins
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170816T171000Z
+DTEND:20170816T201000Z
+DTSTAMP:20170328T180144Z
+UID:491900@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Miami Marlins\nFirst pitch: 1:10:00 PM EDT\nMarlins Park, Miami\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mia&game=491900&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_16_sfnmlb_miamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:San Francisco Giants vs. Miami Marlins
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170818T021500Z
+DTEND:20170818T051500Z
+DTSTAMP:20170328T180144Z
+UID:491909@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Philadelphia Phillies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491909&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_17_phimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Philadelphia Phillies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170819T021500Z
+DTEND:20170819T051500Z
+DTSTAMP:20170328T180144Z
+UID:491923@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Philadelphia Phillies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491923&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Polynesian Heritage Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_18_phimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Philadelphia Phillies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170820T010500Z
+DTEND:20170820T040500Z
+DTSTAMP:20170328T180144Z
+UID:491938@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Philadelphia Phillies vs. San Francisco Giants\nFirst pitch: 6:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491938&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nVirgin America 2-for-1 Flight Voucher\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_19_phimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Philadelphia Phillies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170820T200500Z
+DTEND:20170820T230500Z
+DTSTAMP:20170328T180144Z
+UID:491953@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Philadelphia Phillies vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491953&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nKruk & Kuip Socks\nSPECIAL EVENT: Gamer Day\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_20_phimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Philadelphia Phillies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170822T021500Z
+DTEND:20170822T051500Z
+DTSTAMP:20170328T180144Z
+UID:491961@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Milwaukee Brewers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491961&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Jewish Heritage Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_21_milmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Milwaukee Brewers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170823T021500Z
+DTEND:20170823T051500Z
+DTSTAMP:20170328T180144Z
+UID:491972@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Milwaukee Brewers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491972&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Irish Heritage Night 2\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_22_milmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Milwaukee Brewers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170823T194500Z
+DTEND:20170823T224500Z
+DTSTAMP:20170328T180144Z
+UID:491987@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Milwaukee Brewers vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=491987&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_23_milmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Milwaukee Brewers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170826T014000Z
+DTEND:20170826T044000Z
+DTSTAMP:20170328T180144Z
+UID:492019@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492019&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_25_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170827T001000Z
+DTEND:20170827T031000Z
+DTSTAMP:20170328T180144Z
+UID:492034@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 5:10:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492034&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_26_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170827T201000Z
+DTEND:20170827T231000Z
+DTSTAMP:20170328T180144Z
+UID:492049@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 1:10:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492049&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_27_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170829T021000Z
+DTEND:20170829T051000Z
+DTSTAMP:20170328T180144Z
+UID:492060@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 7:10:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=492060&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_28_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170830T021000Z
+DTEND:20170830T051000Z
+DTSTAMP:20170328T180144Z
+UID:492073@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 7:10:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=492073&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_29_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T011000Z
+DTEND:20170831T041000Z
+DTSTAMP:20170328T180144Z
+UID:492088@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. San Diego Padres\nFirst pitch: 6:10:00 PM PDT\nPetco Park, San Diego\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sd&game=492088&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_30_sfnmlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Petco Park\, San Diego
+SUMMARY:San Francisco Giants vs. San Diego Padres
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170901T021500Z
+DTEND:20170901T051500Z
+DTSTAMP:20170328T180144Z
+UID:492099@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:St. Louis Cardinals vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492099&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Italian Heritage Night\nSPECIAL EVENT: Runner's Night\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_31_slnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:St. Louis Cardinals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170902T021500Z
+DTEND:20170902T051500Z
+DTSTAMP:20170328T180144Z
+UID:492114@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:St. Louis Cardinals vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492114&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Star Trek Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_01_slnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:St. Louis Cardinals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170902T200500Z
+DTEND:20170902T230500Z
+DTSTAMP:20170328T180144Z
+UID:492129@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:St. Louis Cardinals vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492129&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Fellowship Day\n\nLocal TV: CSBA, FS1\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_02_slnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:St. Louis Cardinals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170903T200500Z
+DTEND:20170903T230500Z
+DTSTAMP:20170328T180144Z
+UID:492144@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:St. Louis Cardinals vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492144&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nCable Car Replica\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_03_slnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:St. Louis Cardinals vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170904T191000Z
+DTEND:20170904T221000Z
+DTSTAMP:20170328T180144Z
+UID:492158@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 1:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=492158&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_04_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T004000Z
+DTEND:20170906T034000Z
+DTSTAMP:20170328T180144Z
+UID:492173@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=492173&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_05_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170907T004000Z
+DTEND:20170907T034000Z
+DTSTAMP:20170328T180144Z
+UID:492188@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=492188&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_06_sfnmlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Coors Field\, Denver
+SUMMARY:San Francisco Giants vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T001000Z
+DTEND:20170909T031000Z
+DTSTAMP:20170328T180144Z
+UID:492214@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492214&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_08_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T231000Z
+DTEND:20170910T021000Z
+DTSTAMP:20170328T180144Z
+UID:492229@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492229&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_09_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170910T181000Z
+DTEND:20170910T211000Z
+DTSTAMP:20170328T180144Z
+UID:492244@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492244&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_10_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T021500Z
+DTEND:20170912T051500Z
+DTSTAMP:20170328T180144Z
+UID:492250@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492250&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Mason's Night\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_11_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170913T021500Z
+DTEND:20170913T051500Z
+DTSTAMP:20170328T180144Z
+UID:492261@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492261&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_12_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T021500Z
+DTEND:20170914T051500Z
+DTSTAMP:20170328T180144Z
+UID:492276@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Los Angeles Dodgers vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492276&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: African American Heritage Night\nSPECIAL EVENT: tokidoki Night at AT&T Park\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_13_lanmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Los Angeles Dodgers vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170916T021500Z
+DTEND:20170916T051500Z
+DTSTAMP:20170328T180144Z
+UID:492296@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492296&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: MARVEL Day 2\nSPECIAL EVENT: MARVEL Super Heroes Day VIP Experience 2\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_15_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170917T010500Z
+DTEND:20170917T040500Z
+DTSTAMP:20170328T180144Z
+UID:492311@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 6:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492311&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nFiesta Gigantes\nOrlando Cepeda Statue Replica (80th Birthday)\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_16_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170917T200500Z
+DTEND:20170917T230500Z
+DTSTAMP:20170328T180144Z
+UID:492326@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Arizona Diamondbacks vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492326&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_17_arimlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Arizona Diamondbacks vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T021500Z
+DTEND:20170920T051500Z
+DTSTAMP:20170328T180144Z
+UID:492353@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492353&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSPECIAL EVENT: Filipino Heritage Night 2\nSPECIAL EVENT: #BayAreaUnite Night with the San Jose Sharks\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_19_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T194500Z
+DTEND:20170920T224500Z
+DTSTAMP:20170328T180144Z
+UID:492368@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:Colorado Rockies vs. San Francisco Giants\nFirst pitch: 12:45:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492368&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_20_colmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:Colorado Rockies vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170923T021000Z
+DTEND:20170923T051000Z
+DTSTAMP:20170328T180144Z
+UID:492399@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=492399&affiliateId=iCal-SGT-sf\n\nLocal TV: NBC Bay Area\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_22_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170924T011000Z
+DTEND:20170924T041000Z
+DTSTAMP:20170328T180144Z
+UID:492414@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 6:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=492414&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_23_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170924T201000Z
+DTEND:20170924T231000Z
+DTSTAMP:20170328T180144Z
+UID:492429@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Los Angeles Dodgers\nFirst pitch: 1:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=492429&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_24_sfnmlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:San Francisco Giants vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T014000Z
+DTEND:20170926T044000Z
+DTSTAMP:20170328T180144Z
+UID:492440@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492440&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_25_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T014000Z
+DTEND:20170927T044000Z
+DTSTAMP:20170328T180144Z
+UID:492454@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492454&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_26_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T194000Z
+DTEND:20170927T224000Z
+DTSTAMP:20170328T180144Z
+UID:492469@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Francisco Giants vs. Arizona Diamondbacks\nFirst pitch: 12:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=492469&affiliateId=iCal-SGT-sf\n\nLocal TV: CSBA\nLocal Radio: KNBR 680\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_27_sfnmlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:San Francisco Giants vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T021500Z
+DTEND:20170930T051500Z
+DTSTAMP:20170328T180144Z
+UID:492496@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 7:15:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492496&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nWillie Mac Award\nSPECIAL EVENT: Oktoberfest\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_29_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T200500Z
+DTEND:20170930T230500Z
+DTSTAMP:20170328T180144Z
+UID:492511@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 1:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492511&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nSTAR WARS Day\nSPECIAL EVENT: STAR WARS Day\nSPECIAL EVENT: STAR WARS Day - A VIP Experience in Triples Alley\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_30_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171001T190500Z
+DTEND:20171001T220500Z
+DTSTAMP:20170328T180144Z
+UID:492526@mlb.com
+CREATED:20170328T180144Z
+DESCRIPTION:San Diego Padres vs. San Francisco Giants\nFirst pitch: 12:05:00 PM PDT\nAT&T Park, San Francisco\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sf&game=492526&affiliateId=iCal-SGT-sf\n\nAdditional Information:\nFan Appreciation Day\n\nLocal TV: CSBA\nLocal Radio: KNBR 680, KXZM 93.7\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_10_01_sdnmlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170328T180144Z
+LOCATION:AT&T Park\, San Francisco
+SUMMARY:San Diego Padres vs. San Francisco Giants
+TRANSP:TRANSPARENT
+SEQUENCE:1490724104
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,860 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Team Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test India v Australia (Day 1)
+DTSTART:20170325T040000Z
+DTEND:20170325T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test India v Australia (Day 2)
+DTSTART:20170326T040000Z
+DTEND:20170326T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test India v Australia (Day 3)
+DTSTART:20170327T040000Z
+DTEND:20170327T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test India v Australia (Day 4)
+DTSTART:20170328T040000Z
+DTEND:20170328T120000Z
+LOCATION:Himachal Pradesh Cricket Association Stadium, Dharamsala
+TRANSP:OPAQUE
+UID:1062576_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:Group A Australia v New Zealand
+DTSTART:20170602T093000Z
+DTEND:20170602T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022349_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:Group A Australia v Bangladesh
+DTSTART:20170605T123000Z
+DTEND:20170605T203000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1022355_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:Group A England v Australia
+DTSTART:20170610T093000Z
+DTEND:20170610T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1022365_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test Australia v England (Day 1)
+DTSTART:20171123T000000Z
+DTEND:20171123T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072305_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test Australia v England (Day 2)
+DTSTART:20171124T000000Z
+DTEND:20171124T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072305_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test Australia v England (Day 3)
+DTSTART:20171125T000000Z
+DTEND:20171125T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072305_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test Australia v England (Day 4)
+DTSTART:20171126T000000Z
+DTEND:20171126T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072305_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test Australia v England (Day 5)
+DTSTART:20171127T000000Z
+DTEND:20171127T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072305_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test Australia v England (Day 1)
+DTSTART:20171202T000000Z
+DTEND:20171202T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072306_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test Australia v England (Day 2)
+DTSTART:20171203T000000Z
+DTEND:20171203T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072306_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test Australia v England (Day 3)
+DTSTART:20171204T000000Z
+DTEND:20171204T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072306_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test Australia v England (Day 4)
+DTSTART:20171205T000000Z
+DTEND:20171205T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072306_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test Australia v England (Day 5)
+DTSTART:20171206T000000Z
+DTEND:20171206T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072306_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test Australia v England (Day 1)
+DTSTART:20171214T000000Z
+DTEND:20171214T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072307_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test Australia v England (Day 2)
+DTSTART:20171215T000000Z
+DTEND:20171215T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072307_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test Australia v England (Day 3)
+DTSTART:20171216T000000Z
+DTEND:20171216T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072307_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test Australia v England (Day 4)
+DTSTART:20171217T000000Z
+DTEND:20171217T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072307_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test Australia v England (Day 5)
+DTSTART:20171218T000000Z
+DTEND:20171218T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072307_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test Australia v England (Day 1)
+DTSTART:20171226T000000Z
+DTEND:20171226T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072308_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test Australia v England (Day 2)
+DTSTART:20171227T000000Z
+DTEND:20171227T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072308_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test Australia v England (Day 3)
+DTSTART:20171228T000000Z
+DTEND:20171228T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072308_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test Australia v England (Day 4)
+DTSTART:20171229T000000Z
+DTEND:20171229T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072308_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test Australia v England (Day 5)
+DTSTART:20171230T000000Z
+DTEND:20171230T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072308_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Test Australia v England (Day 1)
+DTSTART:20180104T000000Z
+DTEND:20180104T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072309_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Test Australia v England (Day 2)
+DTSTART:20180105T000000Z
+DTEND:20180105T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072309_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Test Australia v England (Day 3)
+DTSTART:20180106T000000Z
+DTEND:20180106T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072309_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Test Australia v England (Day 4)
+DTSTART:20180107T000000Z
+DTEND:20180107T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072309_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Test Australia v England (Day 5)
+DTSTART:20180108T000000Z
+DTEND:20180108T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072309_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st ODI Australia v England
+DTSTART:20180114T000000Z
+DTEND:20180114T080000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072310_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd ODI Australia v England
+DTSTART:20180119T000000Z
+DTEND:20180119T080000Z
+LOCATION:Brisbane Cricket Ground, Woolloongabba, Brisbane
+TRANSP:OPAQUE
+UID:1072311_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd ODI Australia v England
+DTSTART:20180121T000000Z
+DTEND:20180121T080000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072312_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th ODI Australia v England
+DTSTART:20180126T000000Z
+DTEND:20180126T080000Z
+LOCATION:Adelaide Oval
+TRANSP:OPAQUE
+UID:1072313_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th ODI Australia v England
+DTSTART:20180128T000000Z
+DTEND:20180128T080000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1072314_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Match Australia v New Zealand
+DTSTART:20180203T000000Z
+DTEND:20180203T040000Z
+LOCATION:Sydney Cricket Ground
+TRANSP:OPAQUE
+UID:1072316_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Match Australia v England
+DTSTART:20180207T000000Z
+DTEND:20180207T040000Z
+LOCATION:Bellerive Oval, Hobart
+TRANSP:OPAQUE
+UID:1072317_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Match Australia v England
+DTSTART:20180210T000000Z
+DTEND:20180210T040000Z
+LOCATION:Melbourne Cricket Ground
+TRANSP:OPAQUE
+UID:1072318_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:5th Match New Zealand v Australia
+DTSTART:20180216T000000Z
+DTEND:20180216T040000Z
+LOCATION:Eden Park, Auckland
+TRANSP:OPAQUE
+UID:1072320_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 1)
+DTSTART:20180301T080000Z
+DTEND:20180301T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 2)
+DTSTART:20180302T080000Z
+DTEND:20180302T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 3)
+DTSTART:20180303T080000Z
+DTEND:20180303T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 4)
+DTSTART:20180304T080000Z
+DTEND:20180304T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:1st Test South Africa v Australia (Day 5)
+DTSTART:20180305T080000Z
+DTEND:20180305T160000Z
+LOCATION:Kingsmead, Durban
+TRANSP:OPAQUE
+UID:1075982_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 1)
+DTSTART:20180309T080000Z
+DTEND:20180309T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 2)
+DTSTART:20180310T080000Z
+DTEND:20180310T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 3)
+DTSTART:20180311T080000Z
+DTEND:20180311T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 4)
+DTSTART:20180312T080000Z
+DTEND:20180312T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:2nd Test South Africa v Australia (Day 5)
+DTSTART:20180313T080000Z
+DTEND:20180313T160000Z
+LOCATION:St George's Park, Port Elizabeth
+TRANSP:OPAQUE
+UID:1075983_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 1)
+DTSTART:20180322T080000Z
+DTEND:20180322T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 2)
+DTSTART:20180323T080000Z
+DTEND:20180323T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 3)
+DTSTART:20180324T080000Z
+DTEND:20180324T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 4)
+DTSTART:20180325T080000Z
+DTEND:20180325T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:3rd Test South Africa v Australia (Day 5)
+DTSTART:20180326T080000Z
+DTEND:20180326T160000Z
+LOCATION:Newlands, Cape Town
+TRANSP:OPAQUE
+UID:1075984_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 1)
+DTSTART:20180330T080000Z
+DTEND:20180330T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 2)
+DTSTART:20180331T080000Z
+DTEND:20180331T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 3)
+DTSTART:20180401T080000Z
+DTEND:20180401T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 4)
+DTSTART:20180402T080000Z
+DTEND:20180402T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest  news at: http://www.espncricinfo.com/australia/content/team/2.html \n\n 
+SUMMARY:4th Test South Africa v Australia (Day 5)
+DTSTART:20180403T080000Z
+DTEND:20180403T160000Z
+LOCATION:New Wanderers Stadium, Johannesburg
+TRANSP:OPAQUE
+UID:1075985_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+

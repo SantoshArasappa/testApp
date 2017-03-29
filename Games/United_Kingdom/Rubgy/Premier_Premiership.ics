@@ -1,0 +1,1329 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Sotic Ltd//EN
+METHOD:PUBLISH
+X-PRIMARY-CALENDAR:TRUE
+X-MS-OLK-WKHRSTART;TZID="GMT Standard Time":080000
+X-MS-OLK-WKHREND;TZID="GMT Standard Time":170000
+X-MS-OLK-WKHRDAYS:MO,TU,WE,TH,FR
+BEGIN:VEVENT
+DTSTAMP:20170326T100940Z
+DTSTART:20160902T184500Z
+DTEND:20160902T184500Z
+SUMMARY:Gloucester Rugby 31 - 38 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218695
+UID:20160902T184500ZGloucester Rugby 31 - 38 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100940Z
+DTSTART:20160902T190000Z
+DTEND:20160902T190000Z
+SUMMARY:Newcastle Falcons 19 - 17 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218699
+UID:20160902T190000ZNewcastle Falcons 19 - 17 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100941Z
+DTSTART:20160903T130000Z
+DTEND:20160903T130000Z
+SUMMARY:Saracens 35 - 3 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218696
+UID:20160903T130000ZSaracens 35 - 3 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100941Z
+DTSTART:20160903T143000Z
+DTEND:20160903T143000Z
+SUMMARY:Northampton Saints 14 - 18 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218697
+UID:20160903T143000ZNorthampton Saints 14 - 18 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100941Z
+DTSTART:20160903T153000Z
+DTEND:20160903T153000Z
+SUMMARY:Harlequins 21 - 19 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218698
+UID:20160903T153000ZHarlequins 21 - 19 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100941Z
+DTSTART:20160904T140000Z
+DTEND:20160904T140000Z
+SUMMARY:Wasps 25 - 20 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218700
+UID:20160904T140000ZWasps 25 - 20 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100942Z
+DTSTART:20160909T184500Z
+DTEND:20160909T184500Z
+SUMMARY:Worcester Warriors 23 - 23 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218702
+UID:20160909T184500ZWorcester Warriors 23 - 23 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100942Z
+DTSTART:20160909T191500Z
+DTEND:20160909T191500Z
+SUMMARY:Sale Sharks 19 - 10 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218701
+UID:20160909T191500ZSale Sharks 19 - 10 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100942Z
+DTSTART:20160910T140000Z
+DTEND:20160910T140000Z
+SUMMARY:Bath Rugby 58 - 5 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218703
+UID:20160910T140000ZBath Rugby 58 - 5 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100942Z
+DTSTART:20160910T140000Z
+DTEND:20160910T140000Z
+SUMMARY:Leicester Tigers 22 - 34 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218704
+UID:20160910T140000ZLeicester Tigers 22 - 34 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100943Z
+DTSTART:20160911T140000Z
+DTEND:20160911T140000Z
+SUMMARY:Bristol Rugby 10 - 32 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218705
+UID:20160911T140000ZBristol Rugby 10 - 32 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100943Z
+DTSTART:20160911T140000Z
+DTEND:20160911T140000Z
+SUMMARY:Exeter Chiefs 13 - 34 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218706
+UID:20160911T140000ZExeter Chiefs 13 - 34 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100943Z
+DTSTART:20160916T184500Z
+DTEND:20160916T184500Z
+SUMMARY:Sale Sharks 13 - 26 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218707
+UID:20160916T184500ZSale Sharks 13 - 26 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100943Z
+DTSTART:20160917T140000Z
+DTEND:20160917T140000Z
+SUMMARY:Bath Rugby 37 - 22 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218708
+UID:20160917T140000ZBath Rugby 37 - 22 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100944Z
+DTSTART:20160917T140000Z
+DTEND:20160917T140000Z
+SUMMARY:Exeter Chiefs 36 - 25 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218709
+UID:20160917T140000ZExeter Chiefs 36 - 25 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100944Z
+DTSTART:20160917T140000Z
+DTEND:20160917T140000Z
+SUMMARY:Saracens 27 - 12 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218710
+UID:20160917T140000ZSaracens 27 - 12 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100944Z
+DTSTART:20160918T133000Z
+DTEND:20160918T133000Z
+SUMMARY:Wasps 70 - 22 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218711
+UID:20160918T133000ZWasps 70 - 22 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100944Z
+DTSTART:20160918T140000Z
+DTEND:20160918T140000Z
+SUMMARY:Newcastle Falcons 13 - 14 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218712
+UID:20160918T140000ZNewcastle Falcons 13 - 14 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100944Z
+DTSTART:20160923T184500Z
+DTEND:20160923T184500Z
+SUMMARY:Bristol Rugby 17 - 41 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218713
+UID:20160923T184500ZBristol Rugby 17 - 41 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100945Z
+DTSTART:20160924T140000Z
+DTEND:20160924T140000Z
+SUMMARY:Gloucester Rugby 13 - 18 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218714
+UID:20160924T140000ZGloucester Rugby 13 - 18 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100945Z
+DTSTART:20160924T140000Z
+DTEND:20160924T140000Z
+SUMMARY:Harlequins 17 - 10 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218715
+UID:20160924T140000ZHarlequins 17 - 10 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100945Z
+DTSTART:20160924T140000Z
+DTEND:20160924T140000Z
+SUMMARY:Northampton Saints 15 - 20 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218716
+UID:20160924T140000ZNorthampton Saints 15 - 20 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100945Z
+DTSTART:20160924T140000Z
+DTEND:20160924T140000Z
+SUMMARY:Worcester Warriors 34 - 34 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218717
+UID:20160924T140000ZWorcester Warriors 34 - 34 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100946Z
+DTSTART:20160925T140000Z
+DTEND:20160925T140000Z
+SUMMARY:Leicester Tigers 34 - 14 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218718
+UID:20160925T140000ZLeicester Tigers 34 - 14 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100946Z
+DTSTART:20160930T184500Z
+DTEND:20160930T184500Z
+SUMMARY:Bristol Rugby v Saracens 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218723
+UID:20160930T184500ZBristol Rugby v Saracens 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100946Z
+DTSTART:20160930T184500Z
+DTEND:20160930T184500Z
+SUMMARY:Northampton Saints 20 - 19 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218719
+UID:20160930T184500ZNorthampton Saints 20 - 19 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100946Z
+DTSTART:20161001T133000Z
+DTEND:20161001T133000Z
+SUMMARY:Sale Sharks 34 - 30 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218720
+UID:20161001T133000ZSale Sharks 34 - 30 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100947Z
+DTSTART:20161001T140000Z
+DTEND:20161001T140000Z
+SUMMARY:Gloucester Rugby 6 - 15 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218721
+UID:20161001T140000ZGloucester Rugby 6 - 15 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100947Z
+DTSTART:20161002T133000Z
+DTEND:20161002T133000Z
+SUMMARY:Wasps 47 - 18 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218722
+UID:20161002T133000ZWasps 47 - 18 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100947Z
+DTSTART:20161002T140000Z
+DTEND:20161002T140000Z
+SUMMARY:Worcester Warriors 11 - 9 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218724
+UID:20161002T140000ZWorcester Warriors 11 - 9 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100947Z
+DTSTART:20161007T184500Z
+DTEND:20161007T184500Z
+SUMMARY:Bath Rugby 30 - 3 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218725
+UID:20161007T184500ZBath Rugby 30 - 3 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100947Z
+DTSTART:20161008T140000Z
+DTEND:20161008T140000Z
+SUMMARY:Exeter Chiefs 27 - 27 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218726
+UID:20161008T140000ZExeter Chiefs 27 - 27 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100948Z
+DTSTART:20161008T140000Z
+DTEND:20161008T140000Z
+SUMMARY:Harlequins 20 - 9 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218727
+UID:20161008T140000ZHarlequins 20 - 9 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100948Z
+DTSTART:20161008T140000Z
+DTEND:20161008T140000Z
+SUMMARY:Leicester Tigers 34 - 13 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218728
+UID:20161008T140000ZLeicester Tigers 34 - 13 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100948Z
+DTSTART:20161008T140000Z
+DTEND:20161008T140000Z
+SUMMARY:Newcastle Falcons 19 - 14 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218729
+UID:20161008T140000ZNewcastle Falcons 19 - 14 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100948Z
+DTSTART:20161009T140000Z
+DTEND:20161009T140000Z
+SUMMARY:Saracens 30 - 14 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218730
+UID:20161009T140000ZSaracens 30 - 14 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100949Z
+DTSTART:20161028T184500Z
+DTEND:20161028T184500Z
+SUMMARY:Northampton Saints 23 - 20 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218731
+UID:20161028T184500ZNorthampton Saints 23 - 20 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100949Z
+DTSTART:20161029T140000Z
+DTEND:20161029T140000Z
+SUMMARY:Harlequins 36 - 14 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218732
+UID:20161029T140000ZHarlequins 36 - 14 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100949Z
+DTSTART:20161029T140000Z
+DTEND:20161029T140000Z
+SUMMARY:Saracens 24 - 10 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218733
+UID:20161029T140000ZSaracens 24 - 10 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100949Z
+DTSTART:20161030T143000Z
+DTEND:20161030T143000Z
+SUMMARY:Wasps 31 - 6 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218735
+UID:20161030T143000ZWasps 31 - 6 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100950Z
+DTSTART:20161030T150000Z
+DTEND:20161030T150000Z
+SUMMARY:Bristol Rugby 13 - 31 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218734
+UID:20161030T150000ZBristol Rugby 13 - 31 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100950Z
+DTSTART:20161030T150000Z
+DTEND:20161030T150000Z
+SUMMARY:Exeter Chiefs 10 - 13 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218736
+UID:20161030T150000ZExeter Chiefs 10 - 13 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100950Z
+DTSTART:20161118T194500Z
+DTEND:20161118T194500Z
+SUMMARY:Bath Rugby 16 - 9 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:The Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218737
+UID:20161118T194500ZBath Rugby 16 - 9 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100950Z
+DTSTART:20161118T194500Z
+DTEND:20161118T194500Z
+SUMMARY:Worcester Warriors 17 - 18 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218739
+UID:20161118T194500ZWorcester Warriors 17 - 18 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100950Z
+DTSTART:20161118T200000Z
+DTEND:20161118T200000Z
+SUMMARY:Newcastle Falcons 19 - 32 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218742
+UID:20161118T200000ZNewcastle Falcons 19 - 32 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100951Z
+DTSTART:20161119T163000Z
+DTEND:20161119T163000Z
+SUMMARY:Gloucester Rugby 36 - 18 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218738
+UID:20161119T163000ZGloucester Rugby 36 - 18 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100951Z
+DTSTART:20161120T130000Z
+DTEND:20161120T130000Z
+SUMMARY:Sale Sharks 13 - 28 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218740
+UID:20161120T130000ZSale Sharks 13 - 28 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100951Z
+DTSTART:20161120T151500Z
+DTEND:20161120T151500Z
+SUMMARY:Leicester Tigers 25 - 6 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218741
+UID:20161120T151500ZLeicester Tigers 25 - 6 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100951Z
+DTSTART:20161125T194500Z
+DTEND:20161125T194500Z
+SUMMARY:Bristol Rugby 16 - 21 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218748
+UID:20161125T194500ZBristol Rugby 16 - 21 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100952Z
+DTSTART:20161125T194500Z
+DTEND:20161125T194500Z
+SUMMARY:Northampton Saints 16 - 22 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218745
+UID:20161125T194500ZNorthampton Saints 16 - 22 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100952Z
+DTSTART:20161126T163000Z
+DTEND:20161126T163000Z
+SUMMARY:Exeter Chiefs 57 - 22 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218743
+UID:20161126T163000ZExeter Chiefs 57 - 22 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100952Z
+DTSTART:20161127T130000Z
+DTEND:20161127T130000Z
+SUMMARY:Saracens 24 - 20 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218746
+UID:20161127T130000ZSaracens 24 - 20 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100952Z
+DTSTART:20161127T143000Z
+DTEND:20161127T143000Z
+SUMMARY:Wasps 34 - 24 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218747
+UID:20161127T143000ZWasps 34 - 24 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100953Z
+DTSTART:20161127T151500Z
+DTEND:20161127T151500Z
+SUMMARY:Harlequins 21 - 20 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218744
+UID:20161127T151500ZHarlequins 21 - 20 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100953Z
+DTSTART:20161202T194500Z
+DTEND:20161202T194500Z
+SUMMARY:Sale Sharks 3 - 21 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218749
+UID:20161202T194500ZSale Sharks 3 - 21 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100953Z
+DTSTART:20161203T121500Z
+DTEND:20161203T121500Z
+SUMMARY:Bath Rugby 14 - 11 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218750
+UID:20161203T121500ZBath Rugby 14 - 11 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100953Z
+DTSTART:20161203T163000Z
+DTEND:20161203T163000Z
+SUMMARY:Gloucester Rugby 26 - 18 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218751
+UID:20161203T163000ZGloucester Rugby 26 - 18 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100954Z
+DTSTART:20161203T170000Z
+DTEND:20161203T170000Z
+SUMMARY:Leicester Tigers 19 - 11 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218752
+UID:20161203T170000ZLeicester Tigers 19 - 11 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100954Z
+DTSTART:20161204T150000Z
+DTEND:20161204T150000Z
+SUMMARY:Newcastle Falcons 38 - 32 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218754
+UID:20161204T150000ZNewcastle Falcons 38 - 32 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100954Z
+DTSTART:20161204T150000Z
+DTEND:20161204T150000Z
+SUMMARY:Worcester Warriors 12 - 26 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218753
+UID:20161204T150000ZWorcester Warriors 12 - 26 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100954Z
+DTSTART:20161223T194500Z
+DTEND:20161223T194500Z
+SUMMARY:Northampton Saints 24 - 5 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218758
+UID:20161223T194500ZNorthampton Saints 24 - 5 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100954Z
+DTSTART:20161224T133000Z
+DTEND:20161224T133000Z
+SUMMARY:Saracens 21 - 6 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218759
+UID:20161224T133000ZSaracens 21 - 6 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100955Z
+DTSTART:20161224T140000Z
+DTEND:20161224T140000Z
+SUMMARY:Wasps 40 - 26 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218760
+UID:20161224T140000ZWasps 40 - 26 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100955Z
+DTSTART:20161224T150000Z
+DTEND:20161224T150000Z
+SUMMARY:Exeter Chiefs 31 - 10 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218756
+UID:20161224T150000ZExeter Chiefs 31 - 10 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100955Z
+DTSTART:20161226T150000Z
+DTEND:20161226T150000Z
+SUMMARY:Bristol Rugby 28 - 20 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218755
+UID:20161226T150000ZBristol Rugby 28 - 20 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100955Z
+DTSTART:20161227T160000Z
+DTEND:20161227T160000Z
+SUMMARY:Harlequins 28 - 24 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218757
+UID:20161227T160000ZHarlequins 28 - 24 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100956Z
+DTSTART:20161230T194500Z
+DTEND:20161230T194500Z
+SUMMARY:Newcastle Falcons 30 - 34 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218764
+UID:20161230T194500ZNewcastle Falcons 30 - 34 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100956Z
+DTSTART:20161231T150000Z
+DTEND:20161231T150000Z
+SUMMARY:Bath Rugby 11 - 17 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218761
+UID:20161231T150000ZBath Rugby 11 - 17 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100956Z
+DTSTART:20170101T143000Z
+DTEND:20170101T143000Z
+SUMMARY:Sale Sharks 23 - 24 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218765
+UID:20170101T143000ZSale Sharks 23 - 24 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100956Z
+DTSTART:20170101T150000Z
+DTEND:20170101T150000Z
+SUMMARY:Gloucester Rugby 12 - 13 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218762
+UID:20170101T150000ZGloucester Rugby 12 - 13 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100957Z
+DTSTART:20170101T150000Z
+DTEND:20170101T150000Z
+SUMMARY:Leicester Tigers 12 - 16 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218763
+UID:20170101T150000ZLeicester Tigers 12 - 16 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100957Z
+DTSTART:20170101T150000Z
+DTEND:20170101T150000Z
+SUMMARY:Worcester Warriors 24 - 17 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218766
+UID:20170101T150000ZWorcester Warriors 24 - 17 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100957Z
+DTSTART:20170106T194500Z
+DTEND:20170106T194500Z
+SUMMARY:Newcastle Falcons 24 - 22 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218772
+UID:20170106T194500ZNewcastle Falcons 24 - 22 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100957Z
+DTSTART:20170107T150000Z
+DTEND:20170107T150000Z
+SUMMARY:Gloucester Rugby 55 - 19 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218767
+UID:20170107T150000ZGloucester Rugby 55 - 19 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100957Z
+DTSTART:20170107T150000Z
+DTEND:20170107T150000Z
+SUMMARY:Harlequins 29 - 26 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218768
+UID:20170107T150000ZHarlequins 29 - 26 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100958Z
+DTSTART:20170107T150000Z
+DTEND:20170107T150000Z
+SUMMARY:Northampton Saints 32 - 26 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218769
+UID:20170107T150000ZNorthampton Saints 32 - 26 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100958Z
+DTSTART:20170107T150000Z
+DTEND:20170107T150000Z
+SUMMARY:Saracens 13 - 13 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218770
+UID:20170107T150000ZSaracens 13 - 13 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100958Z
+DTSTART:20170108T150000Z
+DTEND:20170108T150000Z
+SUMMARY:Wasps 22 - 16 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218771
+UID:20170108T150000ZWasps 22 - 16 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100958Z
+DTSTART:20170210T194500Z
+DTEND:20170210T194500Z
+SUMMARY:Bath Rugby 32 - 30 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218774
+UID:20170210T194500ZBath Rugby 32 - 30 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100959Z
+DTSTART:20170210T194500Z
+DTEND:20170210T194500Z
+SUMMARY:Bristol Rugby 8 - 42 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218778
+UID:20170210T194500ZBristol Rugby 8 - 42 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100959Z
+DTSTART:20170210T201500Z
+DTEND:20170210T201500Z
+SUMMARY:Sale Sharks 26 - 24 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218773
+UID:20170210T201500ZSale Sharks 26 - 24 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100959Z
+DTSTART:20170211T150000Z
+DTEND:20170211T150000Z
+SUMMARY:Leicester Tigers 34 - 9 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218776
+UID:20170211T150000ZLeicester Tigers 34 - 9 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T100959Z
+DTSTART:20170211T150000Z
+DTEND:20170211T150000Z
+SUMMARY:Worcester Warriors 24 - 18 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218777
+UID:20170211T150000ZWorcester Warriors 24 - 18 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101000Z
+DTSTART:20170212T130000Z
+DTEND:20170212T130000Z
+SUMMARY:Exeter Chiefs 35 - 35 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218775
+UID:20170212T130000ZExeter Chiefs 35 - 35 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101000Z
+DTSTART:20170217T194500Z
+DTEND:20170217T194500Z
+SUMMARY:Gloucester Rugby 31 - 23 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218781
+UID:20170217T194500ZGloucester Rugby 31 - 23 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101000Z
+DTSTART:20170218T150000Z
+DTEND:20170218T150000Z
+SUMMARY:Bath Rugby 22 - 12 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218780
+UID:20170218T150000ZBath Rugby 22 - 12 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101000Z
+DTSTART:20170218T150000Z
+DTEND:20170218T150000Z
+SUMMARY:Leicester Tigers 50 - 17 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218782
+UID:20170218T150000ZLeicester Tigers 50 - 17 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101001Z
+DTSTART:20170218T150000Z
+DTEND:20170218T150000Z
+SUMMARY:Worcester Warriors 32 - 48 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218783
+UID:20170218T150000ZWorcester Warriors 32 - 48 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101001Z
+DTSTART:20170219T150000Z
+DTEND:20170219T150000Z
+SUMMARY:Newcastle Falcons 46 - 31 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218784
+UID:20170219T150000ZNewcastle Falcons 46 - 31 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101001Z
+DTSTART:20170219T150000Z
+DTEND:20170219T150000Z
+SUMMARY:Sale Sharks 34 - 28 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218779
+UID:20170219T150000ZSale Sharks 34 - 28 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101001Z
+DTSTART:20170224T194500Z
+DTEND:20170224T194500Z
+SUMMARY:Harlequins 18 - 27 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218786
+UID:20170224T194500ZHarlequins 18 - 27 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101001Z
+DTSTART:20170225T144500Z
+DTEND:20170225T144500Z
+SUMMARY:Saracens 29 - 18 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218788
+UID:20170225T144500ZSaracens 29 - 18 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101002Z
+DTSTART:20170225T150000Z
+DTEND:20170225T150000Z
+SUMMARY:Exeter Chiefs 36 - 14 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218785
+UID:20170225T150000ZExeter Chiefs 36 - 14 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101002Z
+DTSTART:20170225T150000Z
+DTEND:20170225T150000Z
+SUMMARY:Northampton Saints 24 - 14 Worcester Warriors
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218787
+UID:20170225T150000ZNorthampton Saints 24 - 14 Worcester Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101002Z
+DTSTART:20170226T130000Z
+DTEND:20170226T130000Z
+SUMMARY:Bristol Rugby 12 - 11 Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218790
+UID:20170226T130000ZBristol Rugby 12 - 11 Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101002Z
+DTSTART:20170226T130000Z
+DTEND:20170226T130000Z
+SUMMARY:Wasps 35 - 22 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218789
+UID:20170226T130000ZWasps 35 - 22 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101003Z
+DTSTART:20170303T194500Z
+DTEND:20170303T194500Z
+SUMMARY:Leicester Tigers 15 - 34 Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218794
+UID:20170303T194500ZLeicester Tigers 15 - 34 Exeter Chiefs
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101003Z
+DTSTART:20170303T201500Z
+DTEND:20170303T201500Z
+SUMMARY:Sale Sharks 12 - 32 Northampton Saints
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218791
+UID:20170303T201500ZSale Sharks 12 - 32 Northampton Saints
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101003Z
+DTSTART:20170304T150000Z
+DTEND:20170304T150000Z
+SUMMARY:Bath Rugby 3 - 24 Wasps
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218792
+UID:20170304T150000ZBath Rugby 3 - 24 Wasps
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101003Z
+DTSTART:20170304T150000Z
+DTEND:20170304T150000Z
+SUMMARY:Gloucester Rugby 27 - 30 Harlequins
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218793
+UID:20170304T150000ZGloucester Rugby 27 - 30 Harlequins
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101003Z
+DTSTART:20170305T140000Z
+DTEND:20170305T140000Z
+SUMMARY:Newcastle Falcons 27 - 35 Saracens
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218796
+UID:20170305T140000ZNewcastle Falcons 27 - 35 Saracens
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101004Z
+DTSTART:20170305T150000Z
+DTEND:20170305T150000Z
+SUMMARY:Worcester Warriors 41 - 24 Bristol Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218795
+UID:20170305T150000ZWorcester Warriors 41 - 24 Bristol Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101004Z
+DTSTART:20170324T194500Z
+DTEND:20170324T194500Z
+SUMMARY:Bristol Rugby 14 - 32 Gloucester Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218802
+UID:20170324T194500ZBristol Rugby 14 - 32 Gloucester Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101004Z
+DTSTART:20170325T150000Z
+DTEND:20170325T150000Z
+SUMMARY:Exeter Chiefs 30 - 25 Sale Sharks
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218797
+UID:20170325T150000ZExeter Chiefs 30 - 25 Sale Sharks
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101004Z
+DTSTART:20170325T150000Z
+DTEND:20170325T150000Z
+SUMMARY:Harlequins 53 - 17 Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218798
+UID:20170325T150000ZHarlequins 53 - 17 Newcastle Falcons
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101005Z
+DTSTART:20170325T150000Z
+DTEND:20170325T150000Z
+SUMMARY:Northampton Saints 31 - 36 Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218799
+UID:20170325T150000ZNorthampton Saints 31 - 36 Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101005Z
+DTSTART:20170326T133000Z
+DTEND:20170326T133000Z
+SUMMARY:Wasps v Worcester Warriors 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218801
+UID:20170326T133000ZWasps v Worcester Warriors 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101005Z
+DTSTART:20170326T140000Z
+DTEND:20170326T140000Z
+SUMMARY:Saracens v Bath Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218800
+UID:20170326T140000ZSaracens v Bath Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101005Z
+DTSTART:20170407T184500Z
+DTEND:20170407T184500Z
+SUMMARY:Sale Sharks v Worcester Warriors BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218803
+UID:20170407T184500ZSale Sharks v Worcester Warriors BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101005Z
+DTSTART:20170407T190000Z
+DTEND:20170407T190000Z
+SUMMARY:Newcastle Falcons v Gloucester Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218808
+UID:20170407T190000ZNewcastle Falcons v Gloucester Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101006Z
+DTSTART:20170408T130000Z
+DTEND:20170408T130000Z
+SUMMARY:Bath Rugby v Leicester Tigers BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218804
+UID:20170408T130000ZBath Rugby v Leicester Tigers BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101006Z
+DTSTART:20170408T140000Z
+DTEND:20170408T140000Z
+SUMMARY:Exeter Chiefs v Bristol Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218805
+UID:20170408T140000ZExeter Chiefs v Bristol Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101006Z
+DTSTART:20170408T163000
+DTEND:20170408T163000
+SUMMARY:Saracens v Harlequins BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Wembley Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218806
+UID:20170408T163000Saracens v Harlequins BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101006Z
+DTSTART:20170409T140000Z
+DTEND:20170409T140000Z
+SUMMARY:Wasps v Northampton Saints BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218807
+UID:20170409T140000ZWasps v Northampton Saints BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101007Z
+DTSTART:20170414T184500Z
+DTEND:20170414T184500Z
+SUMMARY:Harlequins v Exeter Chiefs BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218810
+UID:20170414T184500ZHarlequins v Exeter Chiefs BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101007Z
+DTSTART:20170415T140000Z
+DTEND:20170415T140000Z
+SUMMARY:Gloucester Rugby v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218809
+UID:20170415T140000ZGloucester Rugby v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101007Z
+DTSTART:20170415T140000Z
+DTEND:20170415T140000Z
+SUMMARY:Leicester Tigers v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218811
+UID:20170415T140000ZLeicester Tigers v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101007Z
+DTSTART:20170415T140000Z
+DTEND:20170415T140000Z
+SUMMARY:Worcester Warriors v Bath Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218813
+UID:20170415T140000ZWorcester Warriors v Bath Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101008Z
+DTSTART:20170416T140000Z
+DTEND:20170416T140000Z
+SUMMARY:Bristol Rugby v Wasps 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218814
+UID:20170416T140000ZBristol Rugby v Wasps 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101008Z
+DTSTART:20170416T150000
+DTEND:20170416T150000
+SUMMARY:Northampton Saints v Saracens BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:stadiummk
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218812
+UID:20170416T150000Northampton Saints v Saracens BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101008Z
+DTSTART:20170428T184500Z
+DTEND:20170428T184500Z
+SUMMARY:Harlequins v Wasps BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Twickenham Stoop
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218817
+UID:20170428T184500ZHarlequins v Wasps BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101008Z
+DTSTART:20170428T190000Z
+DTEND:20170428T190000Z
+SUMMARY:Newcastle Falcons v Worcester Warriors 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingston Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218820
+UID:20170428T190000ZNewcastle Falcons v Worcester Warriors 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101009Z
+DTSTART:20170429T140000Z
+DTEND:20170429T140000Z
+SUMMARY:Exeter Chiefs v Northampton Saints BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sandy Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218816
+UID:20170429T140000ZExeter Chiefs v Northampton Saints BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101009Z
+DTSTART:20170429T140000Z
+DTEND:20170429T140000Z
+SUMMARY:Leicester Tigers v Sale Sharks 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Welford Road
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218818
+UID:20170429T140000ZLeicester Tigers v Sale Sharks 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101009Z
+DTSTART:20170429T140000Z
+DTEND:20170429T140000Z
+SUMMARY:Saracens v Bristol Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Allianz Park
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218819
+UID:20170429T140000ZSaracens v Bristol Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101009Z
+DTSTART:20170430T140000Z
+DTEND:20170430T140000Z
+SUMMARY:Bath Rugby v Gloucester Rugby BT Sport
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Recreation Ground
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218815
+UID:20170430T140000ZBath Rugby v Gloucester Rugby BT Sport
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101009Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Bristol Rugby v Newcastle Falcons 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218821
+UID:20170506T150000ZBristol Rugby v Newcastle Falcons 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101010Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Gloucester Rugby v Exeter Chiefs 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218822
+UID:20170506T150000ZGloucester Rugby v Exeter Chiefs 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101010Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Northampton Saints v Harlequins 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218823
+UID:20170506T150000ZNorthampton Saints v Harlequins 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101010Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Sale Sharks v Bath Rugby 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218824
+UID:20170506T150000ZSale Sharks v Bath Rugby 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101010Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Wasps v Saracens 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218825
+UID:20170506T150000ZWasps v Saracens 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170326T101011Z
+DTSTART:20170506T150000Z
+DTEND:20170506T150000Z
+SUMMARY:Worcester Warriors v Leicester Tigers 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170506T150000ZWorcester Warriors v Leicester Tigers 
+END:VEVENT
+END:VCALENDAR

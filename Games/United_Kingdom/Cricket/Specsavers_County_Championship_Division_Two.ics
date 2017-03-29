@@ -1,0 +1,3925 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Gloucestershire (Day 1)
+DTSTART:20170407T100000Z
+DTEND:20170407T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068585_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Gloucestershire (Day 2)
+DTSTART:20170408T100000Z
+DTEND:20170408T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068585_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Gloucestershire (Day 3)
+DTSTART:20170409T100000Z
+DTEND:20170409T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068585_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Gloucestershire (Day 4)
+DTSTART:20170410T100000Z
+DTEND:20170410T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068585_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Nottinghamshire (Day 1)
+DTSTART:20170407T100000Z
+DTEND:20170407T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068586_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Nottinghamshire (Day 2)
+DTSTART:20170408T100000Z
+DTEND:20170408T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068586_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Nottinghamshire (Day 3)
+DTSTART:20170409T100000Z
+DTEND:20170409T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068586_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Nottinghamshire (Day 4)
+DTSTART:20170410T100000Z
+DTEND:20170410T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068586_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Glamorgan (Day 1)
+DTSTART:20170407T100000Z
+DTEND:20170407T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068584_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Glamorgan (Day 2)
+DTSTART:20170408T100000Z
+DTEND:20170408T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068584_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Glamorgan (Day 3)
+DTSTART:20170409T100000Z
+DTEND:20170409T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068584_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Glamorgan (Day 4)
+DTSTART:20170410T100000Z
+DTEND:20170410T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068584_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Northamptonshire (Day 1)
+DTSTART:20170414T100000Z
+DTEND:20170414T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068590_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Northamptonshire (Day 2)
+DTSTART:20170415T100000Z
+DTEND:20170415T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068590_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Northamptonshire (Day 3)
+DTSTART:20170416T100000Z
+DTEND:20170416T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068590_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Northamptonshire (Day 4)
+DTSTART:20170417T100000Z
+DTEND:20170417T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068590_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Nottinghamshire (Day 1)
+DTSTART:20170414T100000Z
+DTEND:20170414T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068587_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Nottinghamshire (Day 2)
+DTSTART:20170415T100000Z
+DTEND:20170415T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068587_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Nottinghamshire (Day 3)
+DTSTART:20170416T100000Z
+DTEND:20170416T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068587_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Nottinghamshire (Day 4)
+DTSTART:20170417T100000Z
+DTEND:20170417T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068587_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Worcestershire (Day 1)
+DTSTART:20170414T100000Z
+DTEND:20170414T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068589_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Worcestershire (Day 2)
+DTSTART:20170415T100000Z
+DTEND:20170415T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068589_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Worcestershire (Day 3)
+DTSTART:20170416T100000Z
+DTEND:20170416T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068589_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Worcestershire (Day 4)
+DTSTART:20170417T100000Z
+DTEND:20170417T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068589_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Leicestershire (Day 1)
+DTSTART:20170414T100000Z
+DTEND:20170414T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068591_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Leicestershire (Day 2)
+DTSTART:20170415T100000Z
+DTEND:20170415T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068591_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Leicestershire (Day 3)
+DTSTART:20170416T100000Z
+DTEND:20170416T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068591_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Leicestershire (Day 4)
+DTSTART:20170417T100000Z
+DTEND:20170417T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068591_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Kent (Day 1)
+DTSTART:20170414T100000Z
+DTEND:20170414T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068588_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Kent (Day 2)
+DTSTART:20170415T100000Z
+DTEND:20170415T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068588_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Kent (Day 3)
+DTSTART:20170416T100000Z
+DTEND:20170416T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068588_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Kent (Day 4)
+DTSTART:20170417T100000Z
+DTEND:20170417T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068588_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Durham (Day 1)
+DTSTART:20170421T100000Z
+DTEND:20170421T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068596_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Durham (Day 2)
+DTSTART:20170422T100000Z
+DTEND:20170422T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068596_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Durham (Day 3)
+DTSTART:20170423T100000Z
+DTEND:20170423T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068596_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Durham (Day 4)
+DTSTART:20170424T100000Z
+DTEND:20170424T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068596_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Derbyshire (Day 1)
+DTSTART:20170421T100000Z
+DTEND:20170421T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068595_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Derbyshire (Day 2)
+DTSTART:20170422T100000Z
+DTEND:20170422T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068595_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Derbyshire (Day 3)
+DTSTART:20170423T100000Z
+DTEND:20170423T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068595_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Derbyshire (Day 4)
+DTSTART:20170424T100000Z
+DTEND:20170424T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068595_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Glamorgan (Day 1)
+DTSTART:20170421T100000Z
+DTEND:20170421T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068594_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Glamorgan (Day 2)
+DTSTART:20170422T100000Z
+DTEND:20170422T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068594_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Glamorgan (Day 3)
+DTSTART:20170423T100000Z
+DTEND:20170423T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068594_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Glamorgan (Day 4)
+DTSTART:20170424T100000Z
+DTEND:20170424T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068594_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Sussex (Day 1)
+DTSTART:20170421T100000Z
+DTEND:20170421T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068593_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Sussex (Day 2)
+DTSTART:20170422T100000Z
+DTEND:20170422T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068593_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Sussex (Day 3)
+DTSTART:20170423T100000Z
+DTEND:20170423T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068593_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Sussex (Day 4)
+DTSTART:20170424T100000Z
+DTEND:20170424T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068593_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Northamptonshire (Day 1)
+DTSTART:20170421T100000Z
+DTEND:20170421T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068592_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Northamptonshire (Day 2)
+DTSTART:20170422T100000Z
+DTEND:20170422T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068592_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Northamptonshire (Day 3)
+DTSTART:20170423T100000Z
+DTEND:20170423T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068592_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Northamptonshire (Day 4)
+DTSTART:20170424T100000Z
+DTEND:20170424T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068592_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Worcestershire (Day 1)
+DTSTART:20170519T100000Z
+DTEND:20170519T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068599_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Worcestershire (Day 2)
+DTSTART:20170520T100000Z
+DTEND:20170520T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068599_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Worcestershire (Day 3)
+DTSTART:20170521T100000Z
+DTEND:20170521T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068599_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Worcestershire (Day 4)
+DTSTART:20170522T100000Z
+DTEND:20170522T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068599_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Nottinghamshire (Day 1)
+DTSTART:20170519T100000Z
+DTEND:20170519T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068597_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Nottinghamshire (Day 2)
+DTSTART:20170520T100000Z
+DTEND:20170520T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068597_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Nottinghamshire (Day 3)
+DTSTART:20170521T100000Z
+DTEND:20170521T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068597_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Nottinghamshire (Day 4)
+DTSTART:20170522T100000Z
+DTEND:20170522T180000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068597_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Kent (Day 1)
+DTSTART:20170519T100000Z
+DTEND:20170519T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068598_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Kent (Day 2)
+DTSTART:20170520T100000Z
+DTEND:20170520T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068598_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Kent (Day 3)
+DTSTART:20170521T100000Z
+DTEND:20170521T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068598_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Kent (Day 4)
+DTSTART:20170522T100000Z
+DTEND:20170522T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068598_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Durham (Day 1)
+DTSTART:20170521T100000Z
+DTEND:20170521T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068600_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Durham (Day 2)
+DTSTART:20170522T100000Z
+DTEND:20170522T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068600_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Durham (Day 3)
+DTSTART:20170523T100000Z
+DTEND:20170523T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068600_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Durham (Day 4)
+DTSTART:20170524T100000Z
+DTEND:20170524T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068600_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Leicestershire (Day 1)
+DTSTART:20170525T100000Z
+DTEND:20170525T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068601_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Leicestershire (Day 2)
+DTSTART:20170526T100000Z
+DTEND:20170526T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068601_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Leicestershire (Day 3)
+DTSTART:20170527T100000Z
+DTEND:20170527T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068601_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Leicestershire (Day 4)
+DTSTART:20170528T100000Z
+DTEND:20170528T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068601_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Durham (Day 1)
+DTSTART:20170526T100000Z
+DTEND:20170526T180000Z
+LOCATION:St Helen's, Swansea
+TRANSP:OPAQUE
+UID:1068604_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Durham (Day 2)
+DTSTART:20170527T100000Z
+DTEND:20170527T180000Z
+LOCATION:St Helen's, Swansea
+TRANSP:OPAQUE
+UID:1068604_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Durham (Day 3)
+DTSTART:20170528T100000Z
+DTEND:20170528T180000Z
+LOCATION:St Helen's, Swansea
+TRANSP:OPAQUE
+UID:1068604_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Durham (Day 4)
+DTSTART:20170529T100000Z
+DTEND:20170529T180000Z
+LOCATION:St Helen's, Swansea
+TRANSP:OPAQUE
+UID:1068604_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Sussex (Day 1)
+DTSTART:20170526T100000Z
+DTEND:20170526T180000Z
+LOCATION:Nevill Ground, Tunbridge Wells
+TRANSP:OPAQUE
+UID:1068605_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Sussex (Day 2)
+DTSTART:20170527T100000Z
+DTEND:20170527T180000Z
+LOCATION:Nevill Ground, Tunbridge Wells
+TRANSP:OPAQUE
+UID:1068605_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Sussex (Day 3)
+DTSTART:20170528T100000Z
+DTEND:20170528T180000Z
+LOCATION:Nevill Ground, Tunbridge Wells
+TRANSP:OPAQUE
+UID:1068605_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Sussex (Day 4)
+DTSTART:20170529T100000Z
+DTEND:20170529T180000Z
+LOCATION:Nevill Ground, Tunbridge Wells
+TRANSP:OPAQUE
+UID:1068605_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Worcestershire (Day 1)
+DTSTART:20170526T100000Z
+DTEND:20170526T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068603_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Worcestershire (Day 2)
+DTSTART:20170527T100000Z
+DTEND:20170527T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068603_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Worcestershire (Day 3)
+DTSTART:20170528T100000Z
+DTEND:20170528T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068603_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Worcestershire (Day 4)
+DTSTART:20170529T100000Z
+DTEND:20170529T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068603_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Gloucestershire (Day 1)
+DTSTART:20170526T100000Z
+DTEND:20170526T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068602_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Gloucestershire (Day 2)
+DTSTART:20170527T100000Z
+DTEND:20170527T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068602_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Gloucestershire (Day 3)
+DTSTART:20170528T100000Z
+DTEND:20170528T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068602_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Gloucestershire (Day 4)
+DTSTART:20170529T100000Z
+DTEND:20170529T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068602_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Northamptonshire (Day 1)
+DTSTART:20170602T100000Z
+DTEND:20170602T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068607_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Northamptonshire (Day 2)
+DTSTART:20170603T100000Z
+DTEND:20170603T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068607_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Northamptonshire (Day 3)
+DTSTART:20170604T100000Z
+DTEND:20170604T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068607_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Northamptonshire (Day 4)
+DTSTART:20170605T100000Z
+DTEND:20170605T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068607_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Derbyshire (Day 1)
+DTSTART:20170602T100000Z
+DTEND:20170602T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068606_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Derbyshire (Day 2)
+DTSTART:20170603T100000Z
+DTEND:20170603T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068606_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Derbyshire (Day 3)
+DTSTART:20170604T100000Z
+DTEND:20170604T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068606_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Derbyshire (Day 4)
+DTSTART:20170605T100000Z
+DTEND:20170605T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068606_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Worcestershire (Day 1)
+DTSTART:20170602T100000Z
+DTEND:20170602T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068608_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Worcestershire (Day 2)
+DTSTART:20170603T100000Z
+DTEND:20170603T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068608_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Worcestershire (Day 3)
+DTSTART:20170604T100000Z
+DTEND:20170604T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068608_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Worcestershire (Day 4)
+DTSTART:20170605T100000Z
+DTEND:20170605T180000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068608_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Durham (Day 1)
+DTSTART:20170608T100000Z
+DTEND:20170608T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068609_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Durham (Day 2)
+DTSTART:20170609T100000Z
+DTEND:20170609T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068609_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Durham (Day 3)
+DTSTART:20170610T100000Z
+DTEND:20170610T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068609_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Durham (Day 4)
+DTSTART:20170611T100000Z
+DTEND:20170611T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068609_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Nottinghamshire (Day 1)
+DTSTART:20170609T100000Z
+DTEND:20170609T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068612_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Nottinghamshire (Day 2)
+DTSTART:20170610T100000Z
+DTEND:20170610T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068612_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Nottinghamshire (Day 3)
+DTSTART:20170611T100000Z
+DTEND:20170611T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068612_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Nottinghamshire (Day 4)
+DTSTART:20170612T100000Z
+DTEND:20170612T180000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068612_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Sussex (Day 1)
+DTSTART:20170609T100000Z
+DTEND:20170609T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068613_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Sussex (Day 2)
+DTSTART:20170610T100000Z
+DTEND:20170610T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068613_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Sussex (Day 3)
+DTSTART:20170611T100000Z
+DTEND:20170611T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068613_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Sussex (Day 4)
+DTSTART:20170612T100000Z
+DTEND:20170612T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068613_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Derbyshire (Day 1)
+DTSTART:20170609T100000Z
+DTEND:20170609T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068610_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Derbyshire (Day 2)
+DTSTART:20170610T100000Z
+DTEND:20170610T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068610_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Derbyshire (Day 3)
+DTSTART:20170611T100000Z
+DTEND:20170611T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068610_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Derbyshire (Day 4)
+DTSTART:20170612T100000Z
+DTEND:20170612T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068610_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Glamorgan (Day 1)
+DTSTART:20170609T100000Z
+DTEND:20170609T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068611_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Glamorgan (Day 2)
+DTSTART:20170610T100000Z
+DTEND:20170610T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068611_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Glamorgan (Day 3)
+DTSTART:20170611T100000Z
+DTEND:20170611T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068611_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Glamorgan (Day 4)
+DTSTART:20170612T100000Z
+DTEND:20170612T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068611_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Glamorgan (Day 1)
+DTSTART:20170619T100000Z
+DTEND:20170619T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068614_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Glamorgan (Day 2)
+DTSTART:20170620T100000Z
+DTEND:20170620T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068614_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Glamorgan (Day 3)
+DTSTART:20170621T100000Z
+DTEND:20170621T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068614_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Glamorgan (Day 4)
+DTSTART:20170622T100000Z
+DTEND:20170622T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068614_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Leicestershire (Day 1)
+DTSTART:20170619T100000Z
+DTEND:20170619T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068615_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Leicestershire (Day 2)
+DTSTART:20170620T100000Z
+DTEND:20170620T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068615_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Leicestershire (Day 3)
+DTSTART:20170621T100000Z
+DTEND:20170621T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068615_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Leicestershire (Day 4)
+DTSTART:20170622T100000Z
+DTEND:20170622T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068615_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Kent (Day 1)
+DTSTART:20170619T100000Z
+DTEND:20170619T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068616_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Kent (Day 2)
+DTSTART:20170620T100000Z
+DTEND:20170620T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068616_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Kent (Day 3)
+DTSTART:20170621T100000Z
+DTEND:20170621T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068616_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Kent (Day 4)
+DTSTART:20170622T100000Z
+DTEND:20170622T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068616_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Worcestershire (Day 1)
+DTSTART:20170626T130000Z
+DTEND:20170626T210000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068617_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Worcestershire (Day 2)
+DTSTART:20170627T130000Z
+DTEND:20170627T210000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068617_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Worcestershire (Day 3)
+DTSTART:20170628T130000Z
+DTEND:20170628T210000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068617_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Worcestershire (Day 4)
+DTSTART:20170629T130000Z
+DTEND:20170629T210000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068617_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Derbyshire (Day 1)
+DTSTART:20170626T130000Z
+DTEND:20170626T210000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068618_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Derbyshire (Day 2)
+DTSTART:20170627T130000Z
+DTEND:20170627T210000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068618_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Derbyshire (Day 3)
+DTSTART:20170628T130000Z
+DTEND:20170628T210000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068618_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Derbyshire (Day 4)
+DTSTART:20170629T130000Z
+DTEND:20170629T210000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068618_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Leicestershire (Day 1)
+DTSTART:20170626T130000Z
+DTEND:20170626T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068619_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Leicestershire (Day 2)
+DTSTART:20170627T130000Z
+DTEND:20170627T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068619_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Leicestershire (Day 3)
+DTSTART:20170628T130000Z
+DTEND:20170628T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068619_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Leicestershire (Day 4)
+DTSTART:20170629T130000Z
+DTEND:20170629T210000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068619_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Kent (Day 1)
+DTSTART:20170626T130000Z
+DTEND:20170626T210000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068620_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Kent (Day 2)
+DTSTART:20170627T130000Z
+DTEND:20170627T210000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068620_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Kent (Day 3)
+DTSTART:20170628T130000Z
+DTEND:20170628T210000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068620_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Kent (Day 4)
+DTSTART:20170629T130000Z
+DTEND:20170629T210000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068620_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Gloucestershire (Day 1)
+DTSTART:20170626T130000Z
+DTEND:20170626T210000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068621_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Gloucestershire (Day 2)
+DTSTART:20170627T130000Z
+DTEND:20170627T210000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068621_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Gloucestershire (Day 3)
+DTSTART:20170628T130000Z
+DTEND:20170628T210000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068621_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Gloucestershire (Day 4)
+DTSTART:20170629T130000Z
+DTEND:20170629T210000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068621_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Durham (Day 1)
+DTSTART:20170703T100000Z
+DTEND:20170703T180000Z
+LOCATION:Queen's Park, Chesterfield
+TRANSP:OPAQUE
+UID:1068622_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Durham (Day 2)
+DTSTART:20170704T100000Z
+DTEND:20170704T180000Z
+LOCATION:Queen's Park, Chesterfield
+TRANSP:OPAQUE
+UID:1068622_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Durham (Day 3)
+DTSTART:20170705T100000Z
+DTEND:20170705T180000Z
+LOCATION:Queen's Park, Chesterfield
+TRANSP:OPAQUE
+UID:1068622_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Durham (Day 4)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:Queen's Park, Chesterfield
+TRANSP:OPAQUE
+UID:1068622_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Glamorgan (Day 1)
+DTSTART:20170703T100000Z
+DTEND:20170703T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068623_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Glamorgan (Day 2)
+DTSTART:20170704T100000Z
+DTEND:20170704T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068623_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Glamorgan (Day 3)
+DTSTART:20170705T100000Z
+DTEND:20170705T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068623_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Glamorgan (Day 4)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068623_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Northamptonshire (Day 1)
+DTSTART:20170703T100000Z
+DTEND:20170703T180000Z
+LOCATION:Kent County Cricket Ground, Beckenham
+TRANSP:OPAQUE
+UID:1068624_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Northamptonshire (Day 2)
+DTSTART:20170704T100000Z
+DTEND:20170704T180000Z
+LOCATION:Kent County Cricket Ground, Beckenham
+TRANSP:OPAQUE
+UID:1068624_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Northamptonshire (Day 3)
+DTSTART:20170705T100000Z
+DTEND:20170705T180000Z
+LOCATION:Kent County Cricket Ground, Beckenham
+TRANSP:OPAQUE
+UID:1068624_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Northamptonshire (Day 4)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:Kent County Cricket Ground, Beckenham
+TRANSP:OPAQUE
+UID:1068624_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Leicestershire (Day 1)
+DTSTART:20170705T100000Z
+DTEND:20170705T180000Z
+LOCATION:Arundel Castle Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068625_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Leicestershire (Day 2)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:Arundel Castle Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068625_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Leicestershire (Day 3)
+DTSTART:20170707T100000Z
+DTEND:20170707T180000Z
+LOCATION:Arundel Castle Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068625_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Leicestershire (Day 4)
+DTSTART:20170708T100000Z
+DTEND:20170708T180000Z
+LOCATION:Arundel Castle Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068625_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Worcestershire (Day 1)
+DTSTART:20170709T100000Z
+DTEND:20170709T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068626_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Worcestershire (Day 2)
+DTSTART:20170710T100000Z
+DTEND:20170710T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068626_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Worcestershire (Day 3)
+DTSTART:20170711T100000Z
+DTEND:20170711T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068626_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Worcestershire (Day 4)
+DTSTART:20170712T100000Z
+DTEND:20170712T180000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068626_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Nottinghamshire (Day 1)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068629_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Nottinghamshire (Day 2)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068629_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Nottinghamshire (Day 3)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068629_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Nottinghamshire (Day 4)
+DTSTART:20170809T100000Z
+DTEND:20170809T180000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068629_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Durham (Day 1)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068628_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Durham (Day 2)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068628_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Durham (Day 3)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068628_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Durham (Day 4)
+DTSTART:20170809T100000Z
+DTEND:20170809T180000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068628_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Gloucestershire (Day 1)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068627_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Gloucestershire (Day 2)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068627_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Gloucestershire (Day 3)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068627_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Gloucestershire (Day 4)
+DTSTART:20170809T100000Z
+DTEND:20170809T180000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068627_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Sussex (Day 1)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068630_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Sussex (Day 2)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068630_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Sussex (Day 3)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068630_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Sussex (Day 4)
+DTSTART:20170809T100000Z
+DTEND:20170809T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068630_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Derbyshire (Day 1)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068635_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Derbyshire (Day 2)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068635_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Derbyshire (Day 3)
+DTSTART:20170830T100000Z
+DTEND:20170830T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068635_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Derbyshire (Day 4)
+DTSTART:20170831T100000Z
+DTEND:20170831T180000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068635_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Sussex (Day 1)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:Penrhyn Avenue, Rhos-on-Sea, Colwyn Bay
+TRANSP:OPAQUE
+UID:1068631_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Sussex (Day 2)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:Penrhyn Avenue, Rhos-on-Sea, Colwyn Bay
+TRANSP:OPAQUE
+UID:1068631_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Sussex (Day 3)
+DTSTART:20170830T100000Z
+DTEND:20170830T180000Z
+LOCATION:Penrhyn Avenue, Rhos-on-Sea, Colwyn Bay
+TRANSP:OPAQUE
+UID:1068631_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Sussex (Day 4)
+DTSTART:20170831T100000Z
+DTEND:20170831T180000Z
+LOCATION:Penrhyn Avenue, Rhos-on-Sea, Colwyn Bay
+TRANSP:OPAQUE
+UID:1068631_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Leicestershire (Day 1)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068633_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Leicestershire (Day 2)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068633_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Leicestershire (Day 3)
+DTSTART:20170830T100000Z
+DTEND:20170830T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068633_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Leicestershire (Day 4)
+DTSTART:20170831T100000Z
+DTEND:20170831T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068633_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Northamptonshire (Day 1)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068632_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Northamptonshire (Day 2)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068632_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Northamptonshire (Day 3)
+DTSTART:20170830T100000Z
+DTEND:20170830T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068632_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Northamptonshire (Day 4)
+DTSTART:20170831T100000Z
+DTEND:20170831T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068632_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Gloucestershire (Day 1)
+DTSTART:20170828T100000Z
+DTEND:20170828T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068634_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Gloucestershire (Day 2)
+DTSTART:20170829T100000Z
+DTEND:20170829T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068634_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Gloucestershire (Day 3)
+DTSTART:20170830T100000Z
+DTEND:20170830T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068634_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Gloucestershire (Day 4)
+DTSTART:20170831T100000Z
+DTEND:20170831T180000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068634_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Glamorgan (Day 1)
+DTSTART:20170905T093000Z
+DTEND:20170905T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068639_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Glamorgan (Day 2)
+DTSTART:20170906T093000Z
+DTEND:20170906T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068639_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Glamorgan (Day 3)
+DTSTART:20170907T093000Z
+DTEND:20170907T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068639_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Glamorgan (Day 4)
+DTSTART:20170908T093000Z
+DTEND:20170908T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068639_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Kent (Day 1)
+DTSTART:20170905T093000Z
+DTEND:20170905T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068640_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Kent (Day 2)
+DTSTART:20170906T093000Z
+DTEND:20170906T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068640_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Kent (Day 3)
+DTSTART:20170907T093000Z
+DTEND:20170907T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068640_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Kent (Day 4)
+DTSTART:20170908T093000Z
+DTEND:20170908T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068640_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Gloucestershire (Day 1)
+DTSTART:20170905T093000Z
+DTEND:20170905T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068638_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Gloucestershire (Day 2)
+DTSTART:20170906T093000Z
+DTEND:20170906T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068638_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Gloucestershire (Day 3)
+DTSTART:20170907T093000Z
+DTEND:20170907T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068638_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Gloucestershire (Day 4)
+DTSTART:20170908T093000Z
+DTEND:20170908T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068638_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Sussex (Day 1)
+DTSTART:20170905T093000Z
+DTEND:20170905T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068636_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Sussex (Day 2)
+DTSTART:20170906T093000Z
+DTEND:20170906T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068636_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Sussex (Day 3)
+DTSTART:20170907T093000Z
+DTEND:20170907T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068636_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Sussex (Day 4)
+DTSTART:20170908T093000Z
+DTEND:20170908T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068636_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Worcestershire (Day 1)
+DTSTART:20170905T093000Z
+DTEND:20170905T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068637_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Worcestershire (Day 2)
+DTSTART:20170906T093000Z
+DTEND:20170906T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068637_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Worcestershire (Day 3)
+DTSTART:20170907T093000Z
+DTEND:20170907T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068637_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Nottinghamshire v Worcestershire (Day 4)
+DTSTART:20170908T093000Z
+DTEND:20170908T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068637_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Northamptonshire (Day 1)
+DTSTART:20170912T093000Z
+DTEND:20170912T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068643_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Northamptonshire (Day 2)
+DTSTART:20170913T093000Z
+DTEND:20170913T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068643_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Northamptonshire (Day 3)
+DTSTART:20170914T093000Z
+DTEND:20170914T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068643_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Northamptonshire (Day 4)
+DTSTART:20170915T093000Z
+DTEND:20170915T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068643_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Kent (Day 1)
+DTSTART:20170912T093000Z
+DTEND:20170912T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068644_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Kent (Day 2)
+DTSTART:20170913T093000Z
+DTEND:20170913T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068644_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Kent (Day 3)
+DTSTART:20170914T093000Z
+DTEND:20170914T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068644_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Kent (Day 4)
+DTSTART:20170915T093000Z
+DTEND:20170915T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068644_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Derbyshire (Day 1)
+DTSTART:20170912T093000Z
+DTEND:20170912T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068642_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Derbyshire (Day 2)
+DTSTART:20170913T093000Z
+DTEND:20170913T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068642_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Derbyshire (Day 3)
+DTSTART:20170914T093000Z
+DTEND:20170914T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068642_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Derbyshire (Day 4)
+DTSTART:20170915T093000Z
+DTEND:20170915T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068642_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Leicestershire (Day 1)
+DTSTART:20170912T093000Z
+DTEND:20170912T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068641_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Leicestershire (Day 2)
+DTSTART:20170913T093000Z
+DTEND:20170913T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068641_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Leicestershire (Day 3)
+DTSTART:20170914T093000Z
+DTEND:20170914T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068641_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Leicestershire (Day 4)
+DTSTART:20170915T093000Z
+DTEND:20170915T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068641_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Kent (Day 1)
+DTSTART:20170919T093000Z
+DTEND:20170919T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068645_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Kent (Day 2)
+DTSTART:20170920T093000Z
+DTEND:20170920T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068645_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Kent (Day 3)
+DTSTART:20170921T093000Z
+DTEND:20170921T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068645_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Derbyshire v Kent (Day 4)
+DTSTART:20170922T093000Z
+DTEND:20170922T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068645_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Sussex (Day 1)
+DTSTART:20170919T093000Z
+DTEND:20170919T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068646_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Sussex (Day 2)
+DTSTART:20170920T093000Z
+DTEND:20170920T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068646_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Sussex (Day 3)
+DTSTART:20170921T093000Z
+DTEND:20170921T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068646_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Durham v Sussex (Day 4)
+DTSTART:20170922T093000Z
+DTEND:20170922T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068646_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Gloucestershire (Day 1)
+DTSTART:20170919T093000Z
+DTEND:20170919T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068647_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Gloucestershire (Day 2)
+DTSTART:20170920T093000Z
+DTEND:20170920T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068647_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Gloucestershire (Day 3)
+DTSTART:20170921T093000Z
+DTEND:20170921T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068647_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Glamorgan v Gloucestershire (Day 4)
+DTSTART:20170922T093000Z
+DTEND:20170922T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068647_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Nottinghamshire (Day 1)
+DTSTART:20170919T093000Z
+DTEND:20170919T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068648_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Nottinghamshire (Day 2)
+DTSTART:20170920T093000Z
+DTEND:20170920T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068648_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Nottinghamshire (Day 3)
+DTSTART:20170921T093000Z
+DTEND:20170921T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068648_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Northamptonshire v Nottinghamshire (Day 4)
+DTSTART:20170922T093000Z
+DTEND:20170922T173000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068648_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Derbyshire (Day 1)
+DTSTART:20170925T093000Z
+DTEND:20170925T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068653_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Derbyshire (Day 2)
+DTSTART:20170926T093000Z
+DTEND:20170926T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068653_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Derbyshire (Day 3)
+DTSTART:20170927T093000Z
+DTEND:20170927T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068653_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Gloucestershire v Derbyshire (Day 4)
+DTSTART:20170928T093000Z
+DTEND:20170928T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068653_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Glamorgan (Day 1)
+DTSTART:20170925T093000Z
+DTEND:20170925T173000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068652_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Glamorgan (Day 2)
+DTSTART:20170926T093000Z
+DTEND:20170926T173000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068652_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Glamorgan (Day 3)
+DTSTART:20170927T093000Z
+DTEND:20170927T173000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068652_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Kent v Glamorgan (Day 4)
+DTSTART:20170928T093000Z
+DTEND:20170928T173000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068652_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Northamptonshire (Day 1)
+DTSTART:20170925T093000Z
+DTEND:20170925T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068651_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Northamptonshire (Day 2)
+DTSTART:20170926T093000Z
+DTEND:20170926T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068651_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Northamptonshire (Day 3)
+DTSTART:20170927T093000Z
+DTEND:20170927T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068651_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Leicestershire v Northamptonshire (Day 4)
+DTSTART:20170928T093000Z
+DTEND:20170928T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068651_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Nottinghamshire (Day 1)
+DTSTART:20170925T093000Z
+DTEND:20170925T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068650_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Nottinghamshire (Day 2)
+DTSTART:20170926T093000Z
+DTEND:20170926T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068650_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Nottinghamshire (Day 3)
+DTSTART:20170927T093000Z
+DTEND:20170927T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068650_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Sussex v Nottinghamshire (Day 4)
+DTSTART:20170928T093000Z
+DTEND:20170928T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068650_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Durham (Day 1)
+DTSTART:20170925T093000Z
+DTEND:20170925T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068649_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Durham (Day 2)
+DTSTART:20170926T093000Z
+DTEND:20170926T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068649_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Durham (Day 3)
+DTSTART:20170927T093000Z
+DTEND:20170927T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068649_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Specsavers County Championship Division Two news at: http://www.espncricinfo.com/ci/content/series/1068075.html \n\n 
+SUMMARY: Worcestershire v Durham (Day 4)
+DTSTART:20170928T093000Z
+DTEND:20170928T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068649_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
