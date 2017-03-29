@@ -1046,11 +1046,17 @@ $scope.gameFileListNew =
                var country = folds[size - 2]; //folds[1];
                var game = folds[size - 1];
 
-               if(game === 'Cricket'){
+               /*if(game === 'Cricket'){
                    dateFirst = true;
                }else{
                    dateFirst = false;
+               }*/
+			   if(country === 'United_States_of_America' || country === 'West_Indies' || country === 'Zimbabwe'){
+                   dateFirst = false;
+               }else{
+                   dateFirst = true;
                }
+			   
                if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country)){
 
                    var fileList = listValue.split(",");
