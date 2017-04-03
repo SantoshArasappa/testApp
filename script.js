@@ -32,7 +32,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   this.activeDate = null;
   var test123456 = null;
   this.activeDate2 = null;
-  $scope.showEvents = false;    
+  $scope.showEvents = false;  
+  $scope.isLoaded = false;    
   this.selectedDates = new Date();
   this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
@@ -848,6 +849,7 @@ $scope.gameFileListNew =
       
       
       $scope.folderStructureList1 = $scope.folderStructureList;
+      $scope.isLoaded = true;
       
    /*ical_parser(ical_file, function(cal){
 					//When ical parser has loaded file
