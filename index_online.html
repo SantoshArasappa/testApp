@@ -11,9 +11,10 @@
       <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/master/dropdownMenu/normalize.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/master/dist/angular-dropdowns.min.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/master/dropdownMenu/page.css">
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/gm.datepickerMultiSelect.js"></script>
+    
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/dist/angular-dropdowns.js"></script>
     <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/script.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/gm.datepickerMultiSelect.js"></script>
   </head>
 
    <body ng-controller='AppCtrl as $app' ng-init="getEventsDetails()">
@@ -112,7 +113,7 @@
 }
 </style>
     
-    <div ng-show="isLoaded==true">   
+    <div>   
     <div class="row">
            <div class="col-xs-12" ng-if="isError" style="color:red">  <h1 > {{errorMessage}}</h1></div>
         
