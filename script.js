@@ -41,6 +41,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap']
   fileUrl = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games';    
  // var parentFolder = 'https://github.com/SantoshArasappa/testApp/tree/7e0ef7ffb8e09571e575da7c8b05031fda7d28ca/Games';
     //'https://github.com/SantoshArasappa/testApp.git/tree/master/Games?raw=true';
+    
+    
   var parentFolder = '/Games';
   $scope.show2pickers = false;
   $scope.countries = [];
@@ -914,10 +916,44 @@ $scope.gameFileListNew =
              
              
              }*/
+           if(!($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'month' || $scope.dateType == 'Custom')){
+               $scope.errorMessage = "Please select one Date Type"
+               $scope.isError = true;
+               return;
+           }
+           
+          
+           
+           if($scope.dateType == 'week'){
+               /*var daysCounted = 0;
+                while (daysCounted < 7) {
+                dateSelectedList.push(new Date(currentDate));
+                currentDate.setDate(currentDate.getDate() + 1);
+                    daysCounted = daysCounted + 1;
+                }*/
+                var date2 = new Date(this.selectedDates.getTime());
+                date2.setDate(date2.getDate() + 7);
+               this.selectedDates2 = new Date(date2);
+           }else if($scope.dateType == 'month'){
+                /*var day = currentDate.getDate() + 1, daysCounted = 0;
+                while (day = currentDate.getDate() || daysCounted < 31) {
+                dateSelectedList.push(new Date(currentDate));
+                currentDate.setDate(currentDate.getDate() + 1);
+                    daysCounted = daysCounted + 1;
+                }*/
+               var date2 = new Date(this.selectedDates.getTime());
+                date2.setDate(date2.getDate() + 31);
+               this.selectedDates2 = new Date(date2);
+           }
+           
+          
+           
+           
            
            if((this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates.length > 0 || this.selectedDates === undefined)){
                $scope.errorMessage = "Please select the Date"
                $scope.isError = true;
+               return;
                
            }else {
                 if((this.selectedDates2 === undefined || this.selectedDates2.length > 0)){
@@ -946,7 +982,12 @@ $scope.gameFileListNew =
        $scope.showEvents = false;
        //var formatedDates = [];
        var formatedDates = new Map();
-       
+       if(($scope.dateType == 'week' || $scope.dateType == 'month')){
+                            this.selectedDates = new Date();
+                            this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+                        }
+               
+               
       // dateSelectedList.push(this.selectedDates);
        dateSelectedList.forEach(function(dt){
            var pattern = /(\d{4})(\d{2})(\d{2})/;
@@ -1216,6 +1257,8 @@ $scope.gameFileListNew =
                         $scope.message = "Timeout called!";
                         $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
                         $scope.showEvents = true;
+                        
+                        
                     });
                 }, 2000); 
            
