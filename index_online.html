@@ -5,6 +5,7 @@
     <script data-require="angular.js@*" src="//code.angularjs.org/1.6.1/angular.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-animate.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/dist/angular-filter.min.js"></script>
     <script data-require="ui-bootstrap@*" data-semver="1.3.3" src="https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.min.js"></script>
     <link data-require="bootstrap-css@*" data-semver="3.3.6" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/master/style.css" />
@@ -113,16 +114,15 @@
 }
 </style>
     
-    <div>   
-    <div class="row">
+    <div ng-show="isLoaded==true"> 
+       <div class="row">
            <div class="col-xs-12" ng-if="isError" style="color:red">  <h1 > {{errorMessage}}</h1></div>
-        
-            <div class="col-md-12" >
+           <div class="col-md-12" >
                         <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
                           <option value="">---Please select---</option> <!-- not selected / blank option -->
                           <option value="Today">Today</option> 
                           <option value="week">One Week</option>
-                          <option value="month">One Month</option> 
+                          <option value="TwoWeeks">Two Weeks</option> 
                           <option value="Custom">Custom</option>
                         </select>
                    </div> 
@@ -149,24 +149,6 @@
                   </div>
                </div>       
            </div>
-              <!--<div class="col-md-3">
-                <p class="input-group">
-                  <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
-                  <span class="input-group-btn">
-                    <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
-                  </span>
-                </p>
-              </div>
-
-              <div class="col-md-3">
-                <p class="input-group">
-                  <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
-                  <span class="input-group-btn">
-                    <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
-                  </span>
-                </p>
-              </div>-->
-           
             <!--<div class="col-md-6">
         <p class="input-group">
           <input type="text" class="form-control" uib-datepicker-popup="{{format}}" ng-model="dt" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" />
@@ -218,7 +200,7 @@
            
             </div>
        
-       </div>
+       </div> 
         <div ng-show="showEvents">
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
@@ -231,7 +213,7 @@
                         <div class="col-sm-12"><br/></div>
                     <div class="col-sm-12"><br/></div>
                     <hr class="hr-text" data-content="OR">
-                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country"'>
+                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                    <!-- <li>-->
                         <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
@@ -242,7 +224,7 @@
                     <!--</li>    
                     <li>-->
                             
-                            <div class="row" ng-repeat='games in event.listValue'>
+                            <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>

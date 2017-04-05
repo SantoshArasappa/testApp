@@ -5,6 +5,7 @@
     <script data-require="angular.js@*" src="//code.angularjs.org/1.6.1/angular.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-animate.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
+      <script src="dist/angular-filter.min.js"></script>
     <!--<script data-require="ui-bootstrap@*" data-semver="1.3.3" src="http://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-1.3.3.min.js"></script>-->
       <script src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.js"></script>
     <link data-require="bootstrap-css@*" data-semver="3.3.6" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
@@ -73,7 +74,7 @@
                           <option value="">---Please select---</option> <!-- not selected / blank option -->
                           <option value="Today">Today</option> 
                           <option value="week">One Week</option>
-                          <option value="month">One Month</option> 
+                          <option value="TwoWeeks">Two Weeks</option> 
                           <option value="Custom">Custom</option>
                         </select>
                    </div> 
@@ -164,7 +165,7 @@
                         <div class="col-sm-12"><br/></div>
                     <div class="col-sm-12"><br/></div>
                     <hr class="hr-text" data-content="OR">
-                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country"'>
+                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                    <!-- <li>-->
                         <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
@@ -175,7 +176,7 @@
                     <!--</li>    
                     <li>-->
                             
-                            <div class="row" ng-repeat='games in event.listValue'>
+                            <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
