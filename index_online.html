@@ -117,7 +117,7 @@
     <div ng-show="isLoaded==true"> 
        <div class="row">
            <div class="col-xs-12" ng-if="isError" style="color:red">  <h1 > {{errorMessage}}</h1></div>
-           <div class="col-md-12" >
+           <div class="col-xs-12" >
                         <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
                           <option value="">---Please select---</option> <!-- not selected / blank option -->
                           <option value="Today">Today</option> 
@@ -126,10 +126,10 @@
                           <option value="Custom">Custom</option>
                         </select>
                    </div> 
-           <div class="col-md-6" ng-show="dateType=='Custom'">
+           <div class="col-xs-6" ng-show="dateType=='Custom'">
                <div class="row">
                      
-                  <div id="test1" class="col-md-6" >
+                  <div id="test1" class="col-xs-6" >
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
                       <span class="input-group-btn">
@@ -138,7 +138,7 @@
                     </p>
                   </div>
 
-                  <!--<div id="test2" class="col-md-6" ng-show="dataType=='Custom'">-->
+                  <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
                       <div class="col-xs-6">
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
@@ -149,7 +149,7 @@
                   </div>
                </div>       
            </div>
-            <!--<div class="col-md-6">
+            <!--<div class="col-xs-6">
         <p class="input-group">
           <input type="text" class="form-control" uib-datepicker-popup="{{format}}" ng-model="dt" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" />
           <span class="input-group-btn">
@@ -159,7 +159,7 @@
       </div>-->
           
                 
-              <div class="col-md-2">
+              <div class="col-xs-2">
                    
                 <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
                   
@@ -171,7 +171,7 @@
                   
               </div>
 
-              <div class="col-md-2">
+              <div class="col-xs-2">
                  <!--<h1>Select Game</h1>
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
@@ -181,7 +181,7 @@
                   </select>
               </div>    
            
-                 <div class="col-md-2" >&nbsp;</div>
+                 <div class="col-xs-2" >&nbsp;</div>
                 
            
                
