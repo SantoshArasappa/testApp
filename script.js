@@ -1376,7 +1376,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        }
                                        
                                       //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
-                                       var multiFileLocaiton = parentFolder + "/Multi/" + multiGame + "/" + multiFileName;
+                                       var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
                                        
                                        var dateFirstLoop = true;
                                         ical_parser(multiFileLocaiton, function(cal){
