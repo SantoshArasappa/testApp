@@ -1,0 +1,2583 @@
+BEGIN:VCALENDAR
+PRODID:-//MLB.com//Schedule Calendar 0.001//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Chicago White Sox
+X-WR-CALNAME:Chicago White Sox
+TZ:+00
+BEGIN:VEVENT
+DTSTART:20170425T200500Z
+DTEND:20170425T230500Z
+DTSTAMP:20170404T184342Z
+UID:509729@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 3 - Los Angeles Dodgers 5\nWinning Pitcher: Castillo, Fabio\nLosing Pitcher: Soto, Giovanni\nSave Pitcher: Paredes, Edward\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_25_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Chicago White Sox 3 - Los Angeles Dodgers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T200500Z
+DTEND:20170426T230500Z
+DTSTAMP:20170404T184342Z
+UID:509596@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Colorado Rockies 3 - Chicago White Sox 7\nWinning Pitcher: Robertson, David\nLosing Pitcher: Carle, Shane\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_26_colmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Colorado Rockies 3 - Chicago White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T200500Z
+DTEND:20170427T230500Z
+DTSTAMP:20170404T184342Z
+UID:509581@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 4 - Chicago Cubs 4\nSloan Park, Mesa\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_27_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Sloan Park\, Mesa
+SUMMARY:FINAL Spring: Chicago White Sox 4 - Chicago Cubs 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170428T200500Z
+DTEND:20170428T230500Z
+DTSTAMP:20170404T184342Z
+UID:509614@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 10 - Cincinnati Reds 9\nWinning Pitcher: Danish, Tyler\nLosing Pitcher: Diaz, Jumbo\nSave Pitcher: Covey, Dylan\nGoodyear Ballpark, Goodyear\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_28_chamlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Goodyear Ballpark\, Goodyear
+SUMMARY:FINAL Spring: Chicago White Sox 10 - Cincinnati Reds 9
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170428T200500Z
+DTEND:20170428T230500Z
+DTSTAMP:20170404T184342Z
+UID:509597@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Seattle Mariners 8 - Chicago White Sox 1\nWinning Pitcher: Hernandez, Felix\nLosing Pitcher: Kopech, Michael\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_28_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Seattle Mariners 8 - Chicago White Sox 1
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170501T200500Z
+DTEND:20170501T230500Z
+DTSTAMP:20170404T184342Z
+UID:509598@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Arizona Diamondbacks 2 - Chicago White Sox 3\nWinning Pitcher: Holmberg, David\nLosing Pitcher: Fleck, Kaleb\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_01_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Arizona Diamondbacks 2 - Chicago White Sox 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T200500Z
+DTEND:20170502T230500Z
+DTSTAMP:20170404T184342Z
+UID:509911@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 8 - San Francisco Giants 6\nWinning Pitcher: Holland, Derek\nLosing Pitcher: Moore, Matt\nSave Pitcher: Muhammad, El'Hajj\nScottsdale Stadium, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_02_chamlb_sfnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Scottsdale Stadium\, Scottsdale
+SUMMARY:FINAL Spring: Chicago White Sox 8 - San Francisco Giants 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T014000Z
+DTEND:20170504T044000Z
+DTSTAMP:20170404T184342Z
+UID:509893@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 3 - San Diego Padres 1\nWinning Pitcher: Covey, Dylan\nLosing Pitcher: Maurer, Brandon\nSave Pitcher: Goldberg, Brad\nPeoria Stadium, Peoria\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_03_chamlb_sdnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Peoria Stadium\, Peoria
+SUMMARY:FINAL Spring: Chicago White Sox 3 - San Diego Padres 1
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T200500Z
+DTEND:20170504T230500Z
+DTSTAMP:20170404T184342Z
+UID:509599@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Los Angeles Angels 2 - Chicago White Sox 10\nWinning Pitcher: Giolito, Lucas\nLosing Pitcher: Skaggs, Tyler\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_04_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Los Angeles Angels 2 - Chicago White Sox 10
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170505T201000Z
+DTEND:20170505T231000Z
+DTSTAMP:20170404T184342Z
+UID:509511@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 1 - Arizona Diamondbacks 4\nWinning Pitcher: Wilhelmsen, Tom\nLosing Pitcher: Bummer, Aaron\nSave Pitcher: Sherfy, Jimmie\nSalt River Fields at Talking Stick, Scottsdale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_05_chamlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Salt River Fields at Talking Stick\, Scottsdale
+SUMMARY:FINAL Spring: Chicago White Sox 1 - Arizona Diamondbacks 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T200500Z
+DTEND:20170506T230500Z
+DTSTAMP:20170404T184342Z
+UID:509600@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: San Diego Padres 6 - Chicago White Sox 5\nWinning Pitcher: Weaver, Jered\nLosing Pitcher: Shields, James\nSave Pitcher: Wieck, Brad\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_06_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Diego Padres 6 - Chicago White Sox 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170508T200500Z
+DTEND:20170508T230500Z
+DTSTAMP:20170404T184342Z
+UID:509601@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Milwaukee Brewers 5 - Chicago White Sox 4\nWinning Pitcher: Kohlscheen, Stephen\nLosing Pitcher: Minaya, Juan\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_08_milmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Milwaukee Brewers 5 - Chicago White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170509T200500Z
+DTEND:20170509T230500Z
+DTSTAMP:20170404T184342Z
+UID:509602@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Arizona Diamondbacks 2 - Chicago White Sox 4\nWinning Pitcher: Giolito, Lucas\nLosing Pitcher: Corbin, Patrick\nSave Pitcher: Kahnle, Tommy\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_09_arimlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Arizona Diamondbacks 2 - Chicago White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T200500Z
+DTEND:20170510T230500Z
+DTSTAMP:20170404T184342Z
+UID:509772@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 4 - Milwaukee Brewers 3\nWinning Pitcher: Fry, Jace\nLosing Pitcher: Wilkerson, Aaron\nSave Pitcher: Clark, Brian\nMaryvale Baseball Park, Phoenix\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_10_chamlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Maryvale Baseball Park\, Phoenix
+SUMMARY:FINAL Spring: Chicago White Sox 4 - Milwaukee Brewers 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170511T200500Z
+DTEND:20170511T230500Z
+DTSTAMP:20170404T184342Z
+UID:509984@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 1 - Texas Rangers 5\nWinning Pitcher: Griffin, A.J.\nLosing Pitcher: Covey, Dylan\nSurprise Stadium, Surprise\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_11_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Surprise Stadium\, Surprise
+SUMMARY:FINAL Spring: Chicago White Sox 1 - Texas Rangers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T020500Z
+DTEND:20170513T050500Z
+DTSTAMP:20170404T184342Z
+UID:509737@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 15 - Los Angeles Dodgers 5\nWinning Pitcher: Kahnle, Tommy\nLosing Pitcher: Istler, Andrew\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_12_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Chicago White Sox 15 - Los Angeles Dodgers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170512T190500Z
+DTEND:20170512T220500Z
+DTSTAMP:20170404T184342Z
+UID:509603@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Texas Rangers 10 - Chicago White Sox 8\nWinning Pitcher: Wright, Wesley\nLosing Pitcher: Burdi, Zack\nSave Pitcher: Alvarez, R.J.\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_12_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Texas Rangers 10 - Chicago White Sox 8
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T200500Z
+DTEND:20170513T230500Z
+DTSTAMP:20170404T184342Z
+UID:509604@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Cleveland Indians 5 - Chicago White Sox 9\nWinning Pitcher: Fulmer, Carson\nLosing Pitcher: Carrasco, Carlos\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_13_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Cleveland Indians 5 - Chicago White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T201000Z
+DTEND:20170514T231000Z
+DTSTAMP:20170404T184342Z
+UID:509933@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 6 - Seattle Mariners 7\nWinning Pitcher: Paxton, James\nLosing Pitcher: Giolito, Lucas\nSave Pitcher: Pazos, James\nPeoria Stadium, Peoria\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_14_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Peoria Stadium\, Peoria
+SUMMARY:FINAL Spring: Chicago White Sox 6 - Seattle Mariners 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170515T200500Z
+DTEND:20170515T230500Z
+DTSTAMP:20170404T184342Z
+UID:509605@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Kansas City Royals 3 - Chicago White Sox 7\nWinning Pitcher: Minaya, Juan\nLosing Pitcher: Culver, Malcom\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_15_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Kansas City Royals 3 - Chicago White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T190500Z
+DTEND:20170517T220500Z
+DTSTAMP:20170404T184342Z
+UID:509606@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago Cubs 7 - Chicago White Sox 3\nWinning Pitcher: Uehara, Koji\nLosing Pitcher: Holland, Derek\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_17_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Chicago Cubs 7 - Chicago White Sox 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170518T200500Z
+DTEND:20170518T230500Z
+DTSTAMP:20170404T184342Z
+UID:509607@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Los Angeles Dodgers 13 - Chicago White Sox 7\nWinning Pitcher: Maeda, Kenta\nLosing Pitcher: Fulmer, Carson\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_18_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Los Angeles Dodgers 13 - Chicago White Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170519T201000Z
+DTEND:20170519T231000Z
+DTSTAMP:20170404T184342Z
+UID:509723@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 11 - Los Angeles Angels 2\nWinning Pitcher: Rodon, Carlos\nLosing Pitcher: Shoemaker, Matt\nTempe Diablo Stadium, Tempe\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_19_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Tempe Diablo Stadium\, Tempe
+SUMMARY:FINAL Spring: Chicago White Sox 11 - Los Angeles Angels 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T200500Z
+DTEND:20170520T230500Z
+DTSTAMP:20170404T184342Z
+UID:509608@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 2\nWinning Pitcher: Strickland, Hunter\nLosing Pitcher: Kahnle, Tommy\nSave Pitcher: Ramirez, Neil\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_20_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170522T010500Z
+DTEND:20170522T040500Z
+DTSTAMP:20170404T184342Z
+UID:509989@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 3 - Texas Rangers 4\nWinning Pitcher: Barnette, Tony\nLosing Pitcher: Covey, Dylan\nSurprise Stadium, Surprise\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_21_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Surprise Stadium\, Surprise
+SUMMARY:FINAL Spring: Chicago White Sox 3 - Texas Rangers 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170522T200500Z
+DTEND:20170522T230500Z
+DTSTAMP:20170404T184342Z
+UID:509609@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Oakland Athletics 5 - Chicago White Sox 3\nWinning Pitcher: Triggs, Andrew\nLosing Pitcher: Gonzalez, Miguel\nSave Pitcher: Montas, Frankie\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_22_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Oakland Athletics 5 - Chicago White Sox 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T200500Z
+DTEND:20170523T230500Z
+DTSTAMP:20170404T184342Z
+UID:509610@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Cincinnati Reds 2 - Chicago White Sox 4\nWinning Pitcher: Quintana, Jose\nLosing Pitcher: Arroyo, Bronson\nSave Pitcher: Clark, Brian\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_23_cinmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Cincinnati Reds 2 - Chicago White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T200500Z
+DTEND:20170524T230500Z
+DTSTAMP:20170404T184342Z
+UID:509850@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 2 - Oakland Athletics 8\nWinning Pitcher: Graveman, Kendall\nLosing Pitcher: Putnam, Zach\nHohokam Stadium, Mesa\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_24_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Hohokam Stadium\, Mesa
+SUMMARY:FINAL Spring: Chicago White Sox 2 - Oakland Athletics 8
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170525T200500Z
+DTEND:20170525T230500Z
+DTSTAMP:20170404T184342Z
+UID:509644@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 10 - Cleveland Indians 7\nWinning Pitcher: Infante, Gregory\nLosing Pitcher: Colon, Joseph\nGoodyear Ballpark, Goodyear\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_25_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Goodyear Ballpark\, Goodyear
+SUMMARY:FINAL Spring: Chicago White Sox 10 - Cleveland Indians 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170526T200500Z
+DTEND:20170526T230500Z
+DTSTAMP:20170404T184342Z
+UID:509611@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 4\nWinning Pitcher: Smith, Blake\nLosing Pitcher: Ramirez, Neil\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_26_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Francisco Giants 3 - Chicago White Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T200500Z
+DTEND:20170527T230500Z
+DTSTAMP:20170404T184342Z
+UID:509745@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 5 - Los Angeles Dodgers 2\nWinning Pitcher: Holland, Derek\nLosing Pitcher: Ryu, Hyun-Jin\nSave Pitcher: Putnam, Zach\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_27_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: Chicago White Sox 5 - Los Angeles Dodgers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T200500Z
+DTEND:20170528T230500Z
+DTSTAMP:20170404T184342Z
+UID:509710@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 4 - Kansas City Royals 7\nWinning Pitcher: Karns, Nathan\nLosing Pitcher: Volstad, Chris\nSurprise Stadium, Surprise\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_28_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Surprise Stadium\, Surprise
+SUMMARY:FINAL Spring: Chicago White Sox 4 - Kansas City Royals 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170529T190500Z
+DTEND:20170529T220500Z
+DTSTAMP:20170404T184342Z
+UID:509612@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: San Diego Padres 9 - Chicago White Sox 9\nCamelback Ranch, Glendale\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_29_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Camelback Ranch\, Glendale
+SUMMARY:FINAL Spring: San Diego Padres 9 - Chicago White Sox 9
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T001000Z
+DTEND:20170401T031000Z
+DTSTAMP:20170404T184342Z
+UID:506412@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 2 - Milwaukee Brewers 5\nWinning Pitcher: Anderson, Chase\nLosing Pitcher: Infante, Gregory\nMiller Park, Milwaukee\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_31_chamlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:FINAL Spring: Chicago White Sox 2 - Milwaukee Brewers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170401T181000Z
+DTEND:20170401T211000Z
+DTSTAMP:20170404T184342Z
+UID:506413@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:FINAL Spring: Chicago White Sox 4 - Milwaukee Brewers 5\nWinning Pitcher: Knebel, Corey\nLosing Pitcher: Ynoa, Michael\nMiller Park, Milwaukee\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_01_chamlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:FINAL Spring: Chicago White Sox 4 - Milwaukee Brewers 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170404T181000Z
+DTEND:20170404T211000Z
+DTSTAMP:20170404T184342Z
+UID:490102@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nGuaranteed Rate Field, Chicago\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=cws&affiliateId=iCal-SGT-cws\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_04_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170405T181000Z
+DTEND:20170405T211000Z
+DTSTAMP:20170404T184342Z
+UID:490124@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nProbable Starters:\nDET: Zimmermann, Jordan\nCWS: Shields, James\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490124&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_05_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170406T181000Z
+DTEND:20170406T211000Z
+DTSTAMP:20170404T184342Z
+UID:490138@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nProbable Starters:\nDET: Norris, Daniel\nCWS: Holland, Derek\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490138&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_06_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T001000Z
+DTEND:20170408T031000Z
+DTSTAMP:20170404T184342Z
+UID:490156@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nProbable Starters:\nCWS: Gonzalez, Miguel\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490156&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nOpening Weekend\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_07_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T181000Z
+DTEND:20170408T211000Z
+DTSTAMP:20170404T184342Z
+UID:490171@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490171&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Winter Hat\nOpening Weekend\nGirl Scout Day\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_08_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T181000Z
+DTEND:20170409T211000Z
+DTSTAMP:20170404T184342Z
+UID:490186@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490186&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\nKids Opening Day\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_09_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170411T201000Z
+DTEND:20170411T231000Z
+DTSTAMP:20170404T184342Z
+UID:490206@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 4:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=490206&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C, MLBN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_11_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170412T221000Z
+DTEND:20170413T011000Z
+DTSTAMP:20170404T184342Z
+UID:490218@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 6:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=490218&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_12_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170413T221000Z
+DTEND:20170414T011000Z
+DTSTAMP:20170404T184342Z
+UID:490231@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 6:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=490231&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_13_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T001000Z
+DTEND:20170415T031000Z
+DTSTAMP:20170404T184342Z
+UID:490242@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=490242&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_14_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T181000Z
+DTEND:20170415T211000Z
+DTSTAMP:20170404T184342Z
+UID:490257@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 1:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=490257&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_15_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170416T201000Z
+DTEND:20170416T231000Z
+DTSTAMP:20170404T184342Z
+UID:490272@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 3:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=490272&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_16_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170417T230500Z
+DTEND:20170418T020500Z
+DTSTAMP:20170404T184342Z
+UID:490286@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490286&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_17_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Chicago White Sox vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170418T230500Z
+DTEND:20170419T020500Z
+DTSTAMP:20170404T184342Z
+UID:490298@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490298&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C, MLBN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_18_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Chicago White Sox vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170419T230500Z
+DTEND:20170420T020500Z
+DTSTAMP:20170404T184342Z
+UID:490313@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490313&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_19_chamlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Chicago White Sox vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170422T001000Z
+DTEND:20170422T031000Z
+DTSTAMP:20170404T184342Z
+UID:490339@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490339&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nMLB Network White Sox Tote Bag and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_21_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170422T231000Z
+DTEND:20170423T021000Z
+DTSTAMP:20170404T184342Z
+UID:490354@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490354&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Hooded Sweatshirt\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_22_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170423T181000Z
+DTEND:20170423T211000Z
+DTSTAMP:20170404T184342Z
+UID:490369@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490369&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_23_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170425T001000Z
+DTEND:20170425T031000Z
+DTSTAMP:20170404T184342Z
+UID:490383@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490383&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Calendar\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_24_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T001000Z
+DTEND:20170426T031000Z
+DTSTAMP:20170404T184342Z
+UID:490394@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490394&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Calendar\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_25_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T181000Z
+DTEND:20170426T211000Z
+DTSTAMP:20170404T184342Z
+UID:490409@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490409&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Calendar\nWeather Day\n\nLocal TV: WGN, MLBN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_26_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170428T231000Z
+DTEND:20170429T021000Z
+DTSTAMP:20170404T184342Z
+UID:490433@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490433&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_28_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170429T171000Z
+DTEND:20170429T201000Z
+DTSTAMP:20170404T184342Z
+UID:490448@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490448&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_29_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170430T171000Z
+DTEND:20170430T201000Z
+DTSTAMP:20170404T184342Z
+UID:490463@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490463&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_30_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T001500Z
+DTEND:20170502T031500Z
+DTSTAMP:20170404T184342Z
+UID:490476@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490476&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_01_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170503T001500Z
+DTEND:20170503T031500Z
+DTSTAMP:20170404T184342Z
+UID:490488@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490488&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_02_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T001500Z
+DTEND:20170504T031500Z
+DTSTAMP:20170404T184342Z
+UID:490503@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490503&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_03_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T181500Z
+DTEND:20170504T211500Z
+DTSTAMP:20170404T184342Z
+UID:490518@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 1:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490518&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_04_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170505T230500Z
+DTEND:20170506T020500Z
+DTSTAMP:20170404T184342Z
+UID:490531@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490531&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_05_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T230500Z
+DTEND:20170507T020500Z
+DTSTAMP:20170404T184342Z
+UID:490546@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490546&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_06_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170507T173500Z
+DTEND:20170507T203500Z
+DTSTAMP:20170404T184342Z
+UID:490561@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490561&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_07_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T001000Z
+DTEND:20170510T031000Z
+DTSTAMP:20170404T184342Z
+UID:490590@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490590&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_09_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170511T001000Z
+DTEND:20170511T031000Z
+DTSTAMP:20170404T184342Z
+UID:490606@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490606&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_10_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170512T001000Z
+DTEND:20170512T031000Z
+DTSTAMP:20170404T184342Z
+UID:490619@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490619&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_11_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T001000Z
+DTEND:20170513T031000Z
+DTSTAMP:20170404T184342Z
+UID:490636@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Diego Padres vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490636&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nItalian Heritage Night and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_12_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Diego Padres vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T231000Z
+DTEND:20170514T021000Z
+DTSTAMP:20170404T184342Z
+UID:490651@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Diego Padres vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490651&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nHawk Harrelson Alarm Clock\nFireworks\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_13_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Diego Padres vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T181000Z
+DTEND:20170514T211000Z
+DTSTAMP:20170404T184342Z
+UID:490666@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Diego Padres vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490666&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_14_sdnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Diego Padres vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170516T020700Z
+DTEND:20170516T050700Z
+DTSTAMP:20170404T184342Z
+UID:490670@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Los Angeles Angels\nFirst pitch: 7:07:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=490670&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_15_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Chicago White Sox vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T020700Z
+DTEND:20170517T050700Z
+DTSTAMP:20170404T184342Z
+UID:490680@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Los Angeles Angels\nFirst pitch: 7:07:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=490680&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_16_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Chicago White Sox vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170518T020700Z
+DTEND:20170518T050700Z
+DTSTAMP:20170404T184342Z
+UID:490694@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Los Angeles Angels\nFirst pitch: 7:07:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=490694&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_17_chamlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Chicago White Sox vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170519T021000Z
+DTEND:20170519T051000Z
+DTSTAMP:20170404T184342Z
+UID:490709@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Seattle Mariners\nFirst pitch: 7:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=490709&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_18_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Chicago White Sox vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T021000Z
+DTEND:20170520T051000Z
+DTSTAMP:20170404T184342Z
+UID:490720@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Seattle Mariners\nFirst pitch: 7:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=490720&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_19_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Chicago White Sox vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170521T021000Z
+DTEND:20170521T051000Z
+DTSTAMP:20170404T184342Z
+UID:490735@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Seattle Mariners\nFirst pitch: 7:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=490735&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_20_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Chicago White Sox vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170521T201000Z
+DTEND:20170521T231000Z
+DTSTAMP:20170404T184342Z
+UID:490750@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Seattle Mariners\nFirst pitch: 1:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=490750&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_21_chamlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Chicago White Sox vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T014000Z
+DTEND:20170523T044000Z
+DTSTAMP:20170404T184342Z
+UID:490763@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490763&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_22_chamlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:Chicago White Sox vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T014000Z
+DTEND:20170524T044000Z
+DTSTAMP:20170404T184342Z
+UID:490772@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Arizona Diamondbacks\nFirst pitch: 6:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490772&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_23_chamlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:Chicago White Sox vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T194000Z
+DTEND:20170524T224000Z
+DTSTAMP:20170404T184342Z
+UID:490787@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Arizona Diamondbacks\nFirst pitch: 12:40:00 PM MST\nChase Field, Phoenix\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ari&game=490787&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_24_chamlb_arimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Chase Field\, Phoenix
+SUMMARY:Chicago White Sox vs. Arizona Diamondbacks
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T001000Z
+DTEND:20170527T031000Z
+DTSTAMP:20170404T184342Z
+UID:490819@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490819&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nHomecoming Weekend and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_26_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T181000Z
+DTEND:20170527T211000Z
+DTSTAMP:20170404T184342Z
+UID:490834@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490834&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nHomecoming Weekend\nWhite Sox Photo Book\nBoy Scout Day\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_27_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T181000Z
+DTEND:20170528T211000Z
+DTSTAMP:20170404T184342Z
+UID:490849@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490849&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\nHomecoming Weekend\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_28_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170529T181000Z
+DTEND:20170529T211000Z
+DTSTAMP:20170404T184342Z
+UID:490861@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Boston Red Sox vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490861&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_29_bosmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Boston Red Sox vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170531T001000Z
+DTEND:20170531T031000Z
+DTSTAMP:20170404T184342Z
+UID:490876@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Boston Red Sox vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490876&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_30_bosmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Boston Red Sox vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170601T001000Z
+DTEND:20170601T031000Z
+DTSTAMP:20170404T184342Z
+UID:490891@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Boston Red Sox vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=490891&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_31_bosmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Boston Red Sox vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170602T231000Z
+DTEND:20170603T021000Z
+DTSTAMP:20170404T184342Z
+UID:490915@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490915&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_02_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170603T201000Z
+DTEND:20170603T231000Z
+DTSTAMP:20170404T184342Z
+UID:490930@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 4:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490930&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_03_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170604T171000Z
+DTEND:20170604T201000Z
+DTSTAMP:20170404T184342Z
+UID:490945@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490945&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_04_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170606T231000Z
+DTEND:20170607T021000Z
+DTSTAMP:20170404T184342Z
+UID:490965@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=490965&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_06_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Chicago White Sox vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170607T231000Z
+DTEND:20170608T021000Z
+DTSTAMP:20170404T184342Z
+UID:490980@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=490980&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_07_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Chicago White Sox vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170608T231000Z
+DTEND:20170609T021000Z
+DTSTAMP:20170404T184342Z
+UID:490995@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=490995&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_08_chamlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Chicago White Sox vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170609T231000Z
+DTEND:20170610T021000Z
+DTSTAMP:20170404T184342Z
+UID:491006@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 7:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=491006&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_09_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170610T231500Z
+DTEND:20170611T021500Z
+DTSTAMP:20170404T184342Z
+UID:491021@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 7:15:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=491021&affiliateId=iCal-SGT-cws\n\nLocal TV: FOX\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_10_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170611T171000Z
+DTEND:20170611T201000Z
+DTSTAMP:20170404T184342Z
+UID:491037@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 1:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=491037&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_11_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170613T001000Z
+DTEND:20170613T031000Z
+DTSTAMP:20170404T184342Z
+UID:491052@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491052&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_12_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170614T001000Z
+DTEND:20170614T031000Z
+DTSTAMP:20170404T184342Z
+UID:491062@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491062&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_13_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170615T001000Z
+DTEND:20170615T031000Z
+DTSTAMP:20170404T184342Z
+UID:491077@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491077&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_14_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170615T181000Z
+DTEND:20170615T211000Z
+DTSTAMP:20170404T184342Z
+UID:491090@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491090&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_15_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170616T230700Z
+DTEND:20170617T020700Z
+DTSTAMP:20170404T184342Z
+UID:491103@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491103&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_16_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Chicago White Sox vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170617T170700Z
+DTEND:20170617T200700Z
+DTSTAMP:20170404T184342Z
+UID:491118@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Toronto Blue Jays\nFirst pitch: 1:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491118&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_17_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Chicago White Sox vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170618T170700Z
+DTEND:20170618T200700Z
+DTSTAMP:20170404T184342Z
+UID:491133@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Toronto Blue Jays\nFirst pitch: 1:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491133&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_18_chamlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Chicago White Sox vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170621T001000Z
+DTEND:20170621T031000Z
+DTSTAMP:20170404T184342Z
+UID:491158@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491158&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_20_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T001000Z
+DTEND:20170622T031000Z
+DTSTAMP:20170404T184342Z
+UID:491173@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491173&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_21_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T171000Z
+DTEND:20170622T201000Z
+DTSTAMP:20170404T184342Z
+UID:491188@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 12:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491188&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_22_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170624T001000Z
+DTEND:20170624T031000Z
+DTSTAMP:20170404T184342Z
+UID:491208@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Oakland Athletics vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491208&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nCountry Music Night and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_23_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Oakland Athletics vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170624T181000Z
+DTEND:20170624T211000Z
+DTSTAMP:20170404T184342Z
+UID:491223@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Oakland Athletics vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491223&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nMark Buehrle Day and Commemorative Pin\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_24_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Oakland Athletics vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170625T181000Z
+DTEND:20170625T211000Z
+DTSTAMP:20170404T184342Z
+UID:491238@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Oakland Athletics vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491238&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\nSouthpaw Birthday Bobblehead\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_25_oakmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Oakland Athletics vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170627T001000Z
+DTEND:20170627T031000Z
+DTSTAMP:20170404T184342Z
+UID:491247@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:New York Yankees vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491247&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_26_nyamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:New York Yankees vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170628T001000Z
+DTEND:20170628T031000Z
+DTSTAMP:20170404T184342Z
+UID:491259@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:New York Yankees vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491259&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nPolish Heritage Night\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_27_nyamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:New York Yankees vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170629T001000Z
+DTEND:20170629T031000Z
+DTSTAMP:20170404T184342Z
+UID:491274@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:New York Yankees vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491274&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_28_nyamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:New York Yankees vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170630T001000Z
+DTEND:20170630T031000Z
+DTSTAMP:20170404T184342Z
+UID:491288@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:New York Yankees vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491288&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_29_nyamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:New York Yankees vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170701T001000Z
+DTEND:20170701T031000Z
+DTSTAMP:20170404T184342Z
+UID:491306@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Texas Rangers vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491306&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nMullet Night and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_30_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Texas Rangers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170701T181000Z
+DTEND:20170701T211000Z
+DTSTAMP:20170404T184342Z
+UID:491321@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Texas Rangers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491321&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Hawaiian Shirt\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_01_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Texas Rangers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170702T181000Z
+DTEND:20170702T211000Z
+DTSTAMP:20170404T184342Z
+UID:491336@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Texas Rangers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491336&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_02_texmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Texas Rangers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170704T010500Z
+DTEND:20170704T040500Z
+DTSTAMP:20170404T184342Z
+UID:491340@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Oakland Athletics\nFirst pitch: 6:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491340&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_03_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Chicago White Sox vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170704T200500Z
+DTEND:20170704T230500Z
+DTSTAMP:20170404T184342Z
+UID:491351@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Oakland Athletics\nFirst pitch: 1:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491351&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_04_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Chicago White Sox vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170705T193500Z
+DTEND:20170705T223500Z
+DTSTAMP:20170404T184342Z
+UID:491366@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Oakland Athletics\nFirst pitch: 12:35:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491366&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_05_chamlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Chicago White Sox vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170708T004000Z
+DTEND:20170708T034000Z
+DTSTAMP:20170404T184342Z
+UID:491392@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Colorado Rockies\nFirst pitch: 6:40:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491392&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_07_chamlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Coors Field\, Denver
+SUMMARY:Chicago White Sox vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T011000Z
+DTEND:20170709T041000Z
+DTSTAMP:20170404T184342Z
+UID:491407@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Colorado Rockies\nFirst pitch: 7:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491407&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_08_chamlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Coors Field\, Denver
+SUMMARY:Chicago White Sox vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T191000Z
+DTEND:20170709T221000Z
+DTSTAMP:20170404T184342Z
+UID:491422@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Colorado Rockies\nFirst pitch: 1:10:00 PM MDT\nCoors Field, Denver\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=col&game=491422&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_09_chamlb_colmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Coors Field\, Denver
+SUMMARY:Chicago White Sox vs. Colorado Rockies
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170712T000000Z
+DTEND:20170712T030000Z
+DTSTAMP:20170404T184342Z
+UID:491434@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:American League All-Stars vs. National League All-Stars\nFirst pitch: 8:00:00 PM EDT\nMarlins Park, Miami\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_11_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:American League All-Stars vs. National League All-Stars
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170715T001000Z
+DTEND:20170715T031000Z
+DTSTAMP:20170404T184342Z
+UID:491444@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Seattle Mariners vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491444&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_14_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Seattle Mariners vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170715T231000Z
+DTEND:20170716T021000Z
+DTSTAMP:20170404T184342Z
+UID:491459@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Seattle Mariners vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491459&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Cap\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_15_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Seattle Mariners vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T181000Z
+DTEND:20170716T211000Z
+DTSTAMP:20170404T184342Z
+UID:491474@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Seattle Mariners vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491474&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_16_seamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Seattle Mariners vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170719T001000Z
+DTEND:20170719T031000Z
+DTSTAMP:20170404T184342Z
+UID:491497@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Dodgers vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491497&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_18_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Dodgers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170720T001000Z
+DTEND:20170720T031000Z
+DTSTAMP:20170404T184342Z
+UID:491512@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Dodgers vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491512&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_19_lanmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Dodgers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T001500Z
+DTEND:20170722T031500Z
+DTSTAMP:20170404T184342Z
+UID:491534@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=491534&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_21_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T231500Z
+DTEND:20170723T021500Z
+DTSTAMP:20170404T184342Z
+UID:491549@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 6:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=491549&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_22_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170723T181500Z
+DTEND:20170723T211500Z
+DTSTAMP:20170404T184342Z
+UID:491564@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 1:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=491564&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_23_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170724T182000Z
+DTEND:20170724T212000Z
+DTSTAMP:20170404T184342Z
+UID:491580@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Chicago Cubs\nFirst pitch: 1:20:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=491580&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_24_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:Chicago White Sox vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170725T182000Z
+DTEND:20170725T212000Z
+DTSTAMP:20170404T184342Z
+UID:491592@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Chicago Cubs\nFirst pitch: 1:20:00 PM CDT\nWrigley Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=chc&game=491592&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_25_chamlb_chnmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Wrigley Field\, Chicago
+SUMMARY:Chicago White Sox vs. Chicago Cubs
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170727T001000Z
+DTEND:20170727T031000Z
+DTSTAMP:20170404T184342Z
+UID:491607@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago Cubs vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491607&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nWhite Sox Lunch Bag\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_26_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Chicago Cubs vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170728T001000Z
+DTEND:20170728T031000Z
+DTSTAMP:20170404T184342Z
+UID:491620@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago Cubs vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491620&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_27_chnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Chicago Cubs vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170729T001000Z
+DTEND:20170729T031000Z
+DTSTAMP:20170404T184342Z
+UID:491632@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491632&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nChristmas in July and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_28_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170729T231000Z
+DTEND:20170730T021000Z
+DTSTAMP:20170404T184342Z
+UID:491647@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491647&affiliateId=iCal-SGT-cws\n\nAdditional Information:\n1917 Jersey\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_29_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170730T181000Z
+DTEND:20170730T211000Z
+DTSTAMP:20170404T184342Z
+UID:491662@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491662&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\nWater Bottle\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_30_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170801T001000Z
+DTEND:20170801T031000Z
+DTSTAMP:20170404T184342Z
+UID:491679@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Toronto Blue Jays vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491679&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_31_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Toronto Blue Jays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170802T001000Z
+DTEND:20170802T031000Z
+DTSTAMP:20170404T184342Z
+UID:491694@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Toronto Blue Jays vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491694&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_01_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Toronto Blue Jays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170802T181000Z
+DTEND:20170802T211000Z
+DTSTAMP:20170404T184342Z
+UID:491709@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Toronto Blue Jays vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491709&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_02_tormlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Toronto Blue Jays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170803T231000Z
+DTEND:20170804T021000Z
+DTSTAMP:20170404T184342Z
+UID:491712@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=491712&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_03_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Chicago White Sox vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170804T231000Z
+DTEND:20170805T021000Z
+DTSTAMP:20170404T184342Z
+UID:491725@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=491725&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_04_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Chicago White Sox vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170805T231000Z
+DTEND:20170806T021000Z
+DTSTAMP:20170404T184342Z
+UID:491740@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=491740&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_05_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Chicago White Sox vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170806T173500Z
+DTEND:20170806T203500Z
+DTSTAMP:20170404T184342Z
+UID:491755@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Boston Red Sox\nFirst pitch: 1:35:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=491755&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_06_chamlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Chicago White Sox vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170809T001000Z
+DTEND:20170809T031000Z
+DTSTAMP:20170404T184342Z
+UID:491781@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Houston Astros vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491781&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nHalfway to Mardi Gras\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_08_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Houston Astros vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170810T001000Z
+DTEND:20170810T031000Z
+DTSTAMP:20170404T184342Z
+UID:491795@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Houston Astros vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491795&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_09_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Houston Astros vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170811T001000Z
+DTEND:20170811T031000Z
+DTSTAMP:20170404T184342Z
+UID:491808@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Houston Astros vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491808&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nPolice & Fire Night and Free T-shirt Thursday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_10_houmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Houston Astros vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170812T001000Z
+DTEND:20170812T031000Z
+DTSTAMP:20170404T184342Z
+UID:491826@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491826&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nRock 'n Roll Night and Fireworks\nBaseball Cards\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_11_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170812T231000Z
+DTEND:20170813T021000Z
+DTSTAMP:20170404T184342Z
+UID:491841@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491841&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_12_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170813T181000Z
+DTEND:20170813T211000Z
+DTSTAMP:20170404T184342Z
+UID:491856@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491856&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_13_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170816T021000Z
+DTEND:20170816T051000Z
+DTSTAMP:20170404T184342Z
+UID:491875@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=491875&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_15_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:Chicago White Sox vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170817T021000Z
+DTEND:20170817T051000Z
+DTSTAMP:20170404T184342Z
+UID:491891@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Los Angeles Dodgers\nFirst pitch: 7:10:00 PM PDT\nDodger Stadium, Los Angeles\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=la&game=491891&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_16_chamlb_lanmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Dodger Stadium\, Los Angeles
+SUMMARY:Chicago White Sox vs. Los Angeles Dodgers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170818T000500Z
+DTEND:20170818T030500Z
+DTSTAMP:20170404T184342Z
+UID:491905@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Texas Rangers\nFirst pitch: 7:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491905&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_17_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Chicago White Sox vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170819T000500Z
+DTEND:20170819T030500Z
+DTSTAMP:20170404T184342Z
+UID:491914@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Texas Rangers\nFirst pitch: 7:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491914&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_18_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Chicago White Sox vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170820T000500Z
+DTEND:20170820T030500Z
+DTSTAMP:20170404T184342Z
+UID:491929@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Texas Rangers\nFirst pitch: 7:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491929&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_19_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Chicago White Sox vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170820T190500Z
+DTEND:20170820T220500Z
+DTSTAMP:20170404T184342Z
+UID:491944@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Texas Rangers\nFirst pitch: 2:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491944&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_20_chamlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Chicago White Sox vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170822T001000Z
+DTEND:20170822T031000Z
+DTSTAMP:20170404T184342Z
+UID:491962@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491962&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_21_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170823T001000Z
+DTEND:20170823T031000Z
+DTSTAMP:20170404T184342Z
+UID:491973@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491973&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_22_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170824T001000Z
+DTEND:20170824T031000Z
+DTSTAMP:20170404T184342Z
+UID:491988@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491988&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_23_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170825T001000Z
+DTEND:20170825T031000Z
+DTSTAMP:20170404T184342Z
+UID:492002@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Minnesota Twins vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492002&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_24_minmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Minnesota Twins vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170826T001000Z
+DTEND:20170826T031000Z
+DTSTAMP:20170404T184342Z
+UID:492011@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492011&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nElvis Night and Fireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_25_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170826T231000Z
+DTEND:20170827T021000Z
+DTSTAMP:20170404T184342Z
+UID:492026@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492026&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nStar Wars Night and White Sox Stormtrooper Bobblehead\nFireworks\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_26_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170827T181000Z
+DTEND:20170827T211000Z
+DTSTAMP:20170404T184342Z
+UID:492041@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Detroit Tigers vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492041&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_27_detmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Detroit Tigers vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170830T001000Z
+DTEND:20170830T031000Z
+DTSTAMP:20170404T184342Z
+UID:492065@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=492065&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_29_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T001000Z
+DTEND:20170831T031000Z
+DTSTAMP:20170404T184342Z
+UID:492080@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=492080&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_30_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T171000Z
+DTEND:20170831T201000Z
+DTSTAMP:20170404T184342Z
+UID:492095@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Minnesota Twins\nFirst pitch: 12:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=492095&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_31_chamlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Chicago White Sox vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170902T001000Z
+DTEND:20170902T031000Z
+DTSTAMP:20170404T184342Z
+UID:492115@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Tampa Bay Rays vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492115&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_01_tbamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Tampa Bay Rays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170902T231000Z
+DTEND:20170903T021000Z
+DTSTAMP:20170404T184342Z
+UID:492130@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Tampa Bay Rays vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492130&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_02_tbamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Tampa Bay Rays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170903T181000Z
+DTEND:20170903T211000Z
+DTSTAMP:20170404T184342Z
+UID:492145@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Tampa Bay Rays vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492145&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_03_tbamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Tampa Bay Rays vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170904T181000Z
+DTEND:20170904T211000Z
+DTSTAMP:20170404T184342Z
+UID:492150@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492150&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_04_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T001000Z
+DTEND:20170906T031000Z
+DTSTAMP:20170404T184342Z
+UID:492165@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492165&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_05_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170907T001000Z
+DTEND:20170907T031000Z
+DTSTAMP:20170404T184342Z
+UID:492180@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492180&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_06_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170908T001000Z
+DTEND:20170908T031000Z
+DTSTAMP:20170404T184342Z
+UID:492195@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Cleveland Indians vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492195&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_07_clemlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Cleveland Indians vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T001000Z
+DTEND:20170909T031000Z
+DTSTAMP:20170404T184342Z
+UID:492214@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492214&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_08_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T231000Z
+DTEND:20170910T021000Z
+DTSTAMP:20170404T184342Z
+UID:492229@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492229&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_09_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170910T181000Z
+DTEND:20170910T211000Z
+DTSTAMP:20170404T184342Z
+UID:492244@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:San Francisco Giants vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492244&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_10_sfnmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:San Francisco Giants vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T001500Z
+DTEND:20170912T031500Z
+DTSTAMP:20170404T184342Z
+UID:492247@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=492247&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_11_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170913T001500Z
+DTEND:20170913T031500Z
+DTSTAMP:20170404T184342Z
+UID:492256@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=492256&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_12_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170913T181500Z
+DTEND:20170913T211500Z
+DTSTAMP:20170404T184342Z
+UID:492271@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Kansas City Royals\nFirst pitch: 1:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=492271&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_13_chamlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Chicago White Sox vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T171000Z
+DTEND:20170914T201000Z
+DTSTAMP:20170404T184342Z
+UID:492286@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=492286&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_14_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T231000Z
+DTEND:20170916T021000Z
+DTSTAMP:20170404T184342Z
+UID:492299@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=492299&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_15_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170916T221000Z
+DTEND:20170917T011000Z
+DTSTAMP:20170404T184342Z
+UID:492314@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 6:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=492314&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_16_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170917T171000Z
+DTEND:20170917T201000Z
+DTSTAMP:20170404T184342Z
+UID:492329@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=492329&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_17_chamlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Chicago White Sox vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T001000Z
+DTEND:20170920T031000Z
+DTSTAMP:20170404T184342Z
+UID:492351@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Houston Astros\nFirst pitch: 7:10:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=492351&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_19_chamlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Chicago White Sox vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T001000Z
+DTEND:20170921T031000Z
+DTSTAMP:20170404T184342Z
+UID:492366@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Houston Astros\nFirst pitch: 7:10:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=492366&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_20_chamlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Chicago White Sox vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T001000Z
+DTEND:20170922T031000Z
+DTSTAMP:20170404T184342Z
+UID:492379@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Houston Astros\nFirst pitch: 7:10:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=492379&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_21_chamlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Chicago White Sox vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170923T001000Z
+DTEND:20170923T031000Z
+DTSTAMP:20170404T184342Z
+UID:492393@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492393&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_22_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170923T231000Z
+DTEND:20170924T021000Z
+DTSTAMP:20170404T184342Z
+UID:492408@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 6:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492408&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nOrgullo Sox Soccer Style Jersey\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_23_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170924T181000Z
+DTEND:20170924T211000Z
+DTSTAMP:20170404T184342Z
+UID:492423@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Kansas City Royals vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492423&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFamily Sunday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_24_kcamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Kansas City Royals vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T001000Z
+DTEND:20170926T031000Z
+DTSTAMP:20170404T184342Z
+UID:492437@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Angels vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492437&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C+\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_25_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Angels vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T001000Z
+DTEND:20170927T031000Z
+DTSTAMP:20170404T184342Z
+UID:492450@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Angels vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492450&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_26_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Angels vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170928T001000Z
+DTEND:20170928T031000Z
+DTSTAMP:20170404T184342Z
+UID:492465@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Angels vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492465&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_27_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Angels vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T001000Z
+DTEND:20170929T031000Z
+DTSTAMP:20170404T184342Z
+UID:492479@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Los Angeles Angels vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=492479&affiliateId=iCal-SGT-cws\n\nAdditional Information:\nFree T-shirt Thursday\n\nLocal TV: CSN-C\nLocal Radio: WLS 890, WRTO 1200\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_28_anamlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Los Angeles Angels vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T231000Z
+DTEND:20170930T021000Z
+DTSTAMP:20170404T184342Z
+UID:492487@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 7:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492487&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_29_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T231000Z
+DTEND:20171001T021000Z
+DTSTAMP:20170404T184342Z
+UID:492502@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 7:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492502&affiliateId=iCal-SGT-cws\n\nLocal TV: WGN\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_30_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171001T191000Z
+DTEND:20171001T221000Z
+DTSTAMP:20170404T184342Z
+UID:492517@mlb.com
+CREATED:20170404T184342Z
+DESCRIPTION:Chicago White Sox vs. Cleveland Indians\nFirst pitch: 3:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492517&affiliateId=iCal-SGT-cws\n\nLocal TV: CSN-C\nLocal Radio: WLS 890\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_10_01_chamlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T184342Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Chicago White Sox vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491331422
+END:VEVENT
+END:VCALENDAR

@@ -185,7 +185,7 @@ $scope.gameFileListNew =
 	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
-		value: "SF_Giants.ics"
+		value: "SF_Giants.ics,Baltimore_Orioles.ics,White_Sox.ics"
 	},
 	
 	{

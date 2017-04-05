@@ -1,0 +1,2583 @@
+BEGIN:VCALENDAR
+PRODID:-//MLB.com//Schedule Calendar 0.001//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+NAME:Baltimore Orioles
+X-WR-CALNAME:Baltimore Orioles
+TZ:+00
+BEGIN:VEVENT
+DTSTART:20170424T180500Z
+DTEND:20170424T210500Z
+DTSTAMP:20170404T182632Z
+UID:509664@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 2 - Detroit Tigers 0\nWinning Pitcher: Wilson, Tyler\nLosing Pitcher: Pelfrey, Mike\nSave Pitcher: Crichton, Stefan\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_24_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Baltimore Orioles 2 - Detroit Tigers 0
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170425T180500Z
+DTEND:20170425T210500Z
+DTSTAMP:20170404T182632Z
+UID:509872@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 2 - Pittsburgh Pirates 6\nWinning Pitcher: Hudson, Daniel\nLosing Pitcher: Garcia, Jason\nLECOM Park, Bradenton\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_25_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:LECOM Park\, Bradenton
+SUMMARY:FINAL Spring: Baltimore Orioles 2 - Pittsburgh Pirates 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T180500Z
+DTEND:20170426T210500Z
+DTSTAMP:20170404T182632Z
+UID:509543@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Pittsburgh Pirates 3 - Baltimore Orioles 8\nWinning Pitcher: Lee, Chris\nLosing Pitcher: Hughes, Jared\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_26_pitmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Pittsburgh Pirates 3 - Baltimore Orioles 8
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170427T180500Z
+DTEND:20170427T210500Z
+DTSTAMP:20170404T182632Z
+UID:509544@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: New York Yankees 4 - Baltimore Orioles 1\nWinning Pitcher: Mantiply, Joe\nLosing Pitcher: Drake, Oliver\nSave Pitcher: Haynes, Kyle\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_27_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: New York Yankees 4 - Baltimore Orioles 1
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170428T180500Z
+DTEND:20170428T210500Z
+DTSTAMP:20170404T182632Z
+UID:509856@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 5 - Philadelphia Phillies 7\nWinning Pitcher: Garcia, Elniery\nLosing Pitcher: Sedlock, Cody\nSave Pitcher: Ramos, Cesar\nSpectrum Field, Clearwater\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_02_28_balmlb_phimlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Spectrum Field\, Clearwater
+SUMMARY:FINAL Spring: Baltimore Orioles 5 - Philadelphia Phillies 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170501T180500Z
+DTEND:20170501T210500Z
+DTSTAMP:20170404T182632Z
+UID:509545@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Boston Red Sox 5 - Baltimore Orioles 12\nWinning Pitcher: Bundy, Dylan\nLosing Pitcher: Owens, Henry\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_01_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Boston Red Sox 5 - Baltimore Orioles 12
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T180500Z
+DTEND:20170502T210500Z
+DTSTAMP:20170404T182632Z
+UID:509546@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Minnesota Twins 6 - Baltimore Orioles 6\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_02_minmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Minnesota Twins 6 - Baltimore Orioles 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T233500Z
+DTEND:20170503T023500Z
+DTSTAMP:20170404T182632Z
+UID:509822@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 1 - New York Yankees 8\nWinning Pitcher: Chapman, Aroldis\nLosing Pitcher: Gunkel, Joe\nGeorge M. Steinbrenner Field, Tampa\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_02_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:George M. Steinbrenner Field\, Tampa
+SUMMARY:FINAL Spring: Baltimore Orioles 1 - New York Yankees 8
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170503T180500Z
+DTEND:20170503T210500Z
+DTSTAMP:20170404T182632Z
+UID:509874@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 2 - Pittsburgh Pirates 5\nWinning Pitcher: Cole, Gerrit\nLosing Pitcher: Miley, Wade\nSave Pitcher: Lakind, Jared\nLECOM Park, Bradenton\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_03_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:LECOM Park\, Bradenton
+SUMMARY:FINAL Spring: Baltimore Orioles 2 - Pittsburgh Pirates 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T180500Z
+DTEND:20170504T210500Z
+DTSTAMP:20170404T182632Z
+UID:509964@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 1 - Tampa Bay Rays 0\nWinning Pitcher: Brach, Brad\nLosing Pitcher: Snell, Blake\nSave Pitcher: Stewart, Zach\nCharlotte Sports Park, Port Charlotte\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_04_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Charlotte Sports Park\, Port Charlotte
+SUMMARY:FINAL Spring: Baltimore Orioles 1 - Tampa Bay Rays 0
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170505T180500Z
+DTEND:20170505T210500Z
+DTSTAMP:20170404T182632Z
+UID:509547@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Philadelphia Phillies 2 - Baltimore Orioles 3\nWinning Pitcher: O'Day, Darren\nLosing Pitcher: Garcia, Elniery\nSave Pitcher: Bridwell, Parker\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_05_phimlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Philadelphia Phillies 2 - Baltimore Orioles 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T180500Z
+DTEND:20170506T210500Z
+DTSTAMP:20170404T182632Z
+UID:509670@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 7 - Detroit Tigers 2\nWinning Pitcher: Bundy, Dylan\nLosing Pitcher: Pelfrey, Mike\nJoker Marchant Stadium, Lakeland\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_06_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Joker Marchant Stadium\, Lakeland
+SUMMARY:FINAL Spring: Baltimore Orioles 7 - Detroit Tigers 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170507T180500Z
+DTEND:20170507T210500Z
+DTSTAMP:20170404T182632Z
+UID:509548@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Exhibition: Dominican Republic 4 - Baltimore Orioles 5\nWinning Pitcher: Gunkel, Joe\nLosing Pitcher: Hernandez, Jefri\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_07_domint_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Exhibition: Dominican Republic 4 - Baltimore Orioles 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170508T180500Z
+DTEND:20170508T210500Z
+DTSTAMP:20170404T182632Z
+UID:509549@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Toronto Blue Jays 4 - Baltimore Orioles 6\nWinning Pitcher: Miley, Wade\nLosing Pitcher: Latos, Mat\nSave Pitcher: Hart, Donnie\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_08_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Toronto Blue Jays 4 - Baltimore Orioles 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T230500Z
+DTEND:20170511T020500Z
+DTSTAMP:20170404T182632Z
+UID:509568@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 0 - Boston Red Sox 4\nWinning Pitcher: Kendrick, Kyle\nLosing Pitcher: Jimenez, Ubaldo\nJetBlue Park, Ft. Myers\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_10_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:JetBlue Park\, Ft. Myers
+SUMMARY:FINAL Spring: Baltimore Orioles 0 - Boston Red Sox 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170511T180500Z
+DTEND:20170511T210500Z
+DTSTAMP:20170404T182632Z
+UID:509550@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Pittsburgh Pirates 6 - Baltimore Orioles 7\nWinning Pitcher: Drake, Oliver\nLosing Pitcher: Rosario, Miguel\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_11_pitmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Pittsburgh Pirates 6 - Baltimore Orioles 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170512T170500Z
+DTEND:20170512T200500Z
+DTSTAMP:20170404T182632Z
+UID:509791@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 8 - Minnesota Twins 6\nWinning Pitcher: Stewart, Zach\nLosing Pitcher: Rucinski, Drew\nSave Pitcher: Crichton, Stefan\nCenturyLink Sports Complex, Fort Myers\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_12_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:CenturyLink Sports Complex\, Fort Myers
+SUMMARY:FINAL Spring: Baltimore Orioles 8 - Minnesota Twins 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T170500Z
+DTEND:20170513T200500Z
+DTSTAMP:20170404T182632Z
+UID:509551@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Philadelphia Phillies 4 - Baltimore Orioles 6\nWinning Pitcher: Verrett, Logan\nLosing Pitcher: Hellickson, Jeremy\nSave Pitcher: Yacabonis, Jimmy\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_13_phimlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Philadelphia Phillies 4 - Baltimore Orioles 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T170500Z
+DTEND:20170514T200500Z
+DTSTAMP:20170404T182632Z
+UID:509552@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Tampa Bay Rays 9 - Baltimore Orioles 6\nWinning Pitcher: Snell, Blake\nLosing Pitcher: Miley, Wade\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_14_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Tampa Bay Rays 9 - Baltimore Orioles 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170515T170500Z
+DTEND:20170515T200500Z
+DTSTAMP:20170404T182632Z
+UID:509881@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 5 - Pittsburgh Pirates 6\nWinning Pitcher: Bastardo, Antonio\nLosing Pitcher: Jimenez, Ubaldo\nSave Pitcher: Creasy, Jason\nLECOM Park, Bradenton\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_15_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:LECOM Park\, Bradenton
+SUMMARY:FINAL Spring: Baltimore Orioles 5 - Pittsburgh Pirates 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170516T220500Z
+DTEND:20170517T010500Z
+DTSTAMP:20170404T182632Z
+UID:509553@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Philadelphia Phillies 2 - Baltimore Orioles 2\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_16_phimlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Philadelphia Phillies 2 - Baltimore Orioles 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T170500Z
+DTEND:20170517T200500Z
+DTSTAMP:20170404T182632Z
+UID:509882@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 8 - Pittsburgh Pirates 6\nWinning Pitcher: Ynoa, Gabriel\nLosing Pitcher: Hutchison, Drew\nSave Pitcher: McGough, Scott\nLECOM Park, Bradenton\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_17_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:LECOM Park\, Bradenton
+SUMMARY:FINAL Spring: Baltimore Orioles 8 - Pittsburgh Pirates 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170518T170500Z
+DTEND:20170518T200500Z
+DTSTAMP:20170404T182632Z
+UID:509829@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 5 - New York Yankees 4\nWinning Pitcher: Wilson, Tyler\nLosing Pitcher: Frieri, Ernesto\nGeorge M. Steinbrenner Field, Tampa\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_18_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:George M. Steinbrenner Field\, Tampa
+SUMMARY:FINAL Spring: Baltimore Orioles 5 - New York Yankees 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170519T170500Z
+DTEND:20170519T200500Z
+DTSTAMP:20170404T182632Z
+UID:509554@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Detroit Tigers 7 - Baltimore Orioles 1\nWinning Pitcher: Boyd, Matthew\nLosing Pitcher: Bleier, Richard\nSave Pitcher: Saupold, Warwick\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_19_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Detroit Tigers 7 - Baltimore Orioles 1
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T170500Z
+DTEND:20170520T200500Z
+DTSTAMP:20170404T182632Z
+UID:509574@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 4 - Boston Red Sox 7\nWinning Pitcher: Kendrick, Kyle\nLosing Pitcher: Nuno, Vidal\nSave Pitcher: Callahan, Jamie\nJetBlue Park, Ft. Myers\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_20_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:JetBlue Park\, Ft. Myers
+SUMMARY:FINAL Spring: Baltimore Orioles 4 - Boston Red Sox 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170521T170500Z
+DTEND:20170521T200500Z
+DTSTAMP:20170404T182632Z
+UID:509555@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Toronto Blue Jays 5 - Baltimore Orioles 2\nWinning Pitcher: Sanchez, Aaron\nLosing Pitcher: Jimenez, Ubaldo\nSave Pitcher: Harrell, Lucas\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_21_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Toronto Blue Jays 5 - Baltimore Orioles 2
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170522T220500Z
+DTEND:20170523T010500Z
+DTSTAMP:20170404T182632Z
+UID:509556@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Tampa Bay Rays 4 - Baltimore Orioles 7\nWinning Pitcher: Wilson, Tyler\nLosing Pitcher: Kittredge, Andrew\nSave Pitcher: Crichton, Stefan\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_22_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Tampa Bay Rays 4 - Baltimore Orioles 7
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T230500Z
+DTEND:20170525T020500Z
+DTSTAMP:20170404T182632Z
+UID:509796@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 5 - Minnesota Twins 5\nCenturyLink Sports Complex, Fort Myers\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_24_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:CenturyLink Sports Complex\, Fort Myers
+SUMMARY:FINAL Spring: Baltimore Orioles 5 - Minnesota Twins 5
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170525T220500Z
+DTEND:20170526T010500Z
+DTSTAMP:20170404T182632Z
+UID:509557@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Minnesota Twins 3 - Baltimore Orioles 6\nWinning Pitcher: Ynoa, Gabriel\nLosing Pitcher: Santiago, Hector\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_25_minmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Minnesota Twins 3 - Baltimore Orioles 6
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170526T170700Z
+DTEND:20170526T200700Z
+DTSTAMP:20170404T182632Z
+UID:510009@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 2 - Toronto Blue Jays 1\nWinning Pitcher: Givens, Mychal\nLosing Pitcher: Mayza, Tim\nSave Pitcher: Satterwhite, Cody\nFlorida Auto Exchange Stadium, Dunedin\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_26_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Florida Auto Exchange Stadium\, Dunedin
+SUMMARY:FINAL Spring: Baltimore Orioles 2 - Toronto Blue Jays 1
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T170500Z
+DTEND:20170527T200500Z
+DTSTAMP:20170404T182632Z
+UID:509558@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Boston Red Sox 11 - Baltimore Orioles 9\nWinning Pitcher: Rodriguez, Eduardo\nLosing Pitcher: Verrett, Logan\nSave Pitcher: Hembree, Heath\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_27_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Boston Red Sox 11 - Baltimore Orioles 9
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T170500Z
+DTEND:20170528T200500Z
+DTSTAMP:20170404T182632Z
+UID:509541@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 5 - Atlanta Braves 4\nWinning Pitcher: Gonzalez, Luis\nLosing Pitcher: O'Flaherty, Eric\nSave Pitcher: Crichton, Stefan\nChampion Stadium, Lake Buena Vista\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_28_balmlb_atlmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Champion Stadium\, Lake Buena Vista
+SUMMARY:FINAL Spring: Baltimore Orioles 5 - Atlanta Braves 4
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170529T170500Z
+DTEND:20170529T200500Z
+DTSTAMP:20170404T182632Z
+UID:509975@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Baltimore Orioles 6 - Tampa Bay Rays 15\nWinning Pitcher: Moreno, Diego\nLosing Pitcher: Hernandez, Jefri\nCharlotte Sports Park, Port Charlotte\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_29_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Charlotte Sports Park\, Port Charlotte
+SUMMARY:FINAL Spring: Baltimore Orioles 6 - Tampa Bay Rays 15
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170530T170500Z
+DTEND:20170530T200500Z
+DTSTAMP:20170404T182632Z
+UID:509559@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Spring: Detroit Tigers 7 - Baltimore Orioles 3\nWinning Pitcher: Boyd, Matthew\nLosing Pitcher: Bundy, Dylan\nSave Pitcher: Molleken, Dustin\nEd Smith Stadium, Sarasota\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_03_30_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Ed Smith Stadium\, Sarasota
+SUMMARY:FINAL Spring: Detroit Tigers 7 - Baltimore Orioles 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170531T190500Z
+DTEND:20170531T220500Z
+DTSTAMP:20170404T182632Z
+UID:506499@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL Exhibition: Baltimore Orioles 3 - Norfolk Tides 3\nHarbor Park, Norfolk\n\nBuy tickets to a future game: http://www.milb.com/tickets/singlegame.jsp?sid=bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.milb.com/r/game?gid=2017_03_31_balmlb_noraaa_1\n\nWatch or Listen with MiLB.TV:\nWatch: http://www.milb.com/milb/multimedia/\nListen: http://m.milb.com/gdaudio
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Harbor Park\, Norfolk
+SUMMARY:FINAL Exhibition: Baltimore Orioles 3 - Norfolk Tides 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170403T190500Z
+DTEND:20170403T220500Z
+DTSTAMP:20170404T182632Z
+UID:490112@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:FINAL: Toronto Blue Jays 2 - Baltimore Orioles 3\nWinning Pitcher: Wilson, Tyler\nLosing Pitcher: Grilli, Jason\nOriole Park at Camden Yards, Baltimore\n\nBuy tickets to a future game: http://mlb.mlb.com/ticketing/index.jsp?c_id=bal&affiliateId=iCal-SGT-bal\n\nClick below for a complete game wrap and box score plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_03_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:FINAL: Toronto Blue Jays 2 - Baltimore Orioles 3
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170405T230500Z
+DTEND:20170406T020500Z
+DTSTAMP:20170404T182632Z
+UID:490134@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nProbable Starters:\nTOR: Happ, J.A.\nBAL: Bundy, Dylan\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490134&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_05_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170407T230500Z
+DTEND:20170408T020500Z
+DTSTAMP:20170404T182632Z
+UID:490157@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nProbable Starters:\nBAL: Jimenez, Ubaldo\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490157&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN 2, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_07_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170408T200500Z
+DTEND:20170408T230500Z
+DTSTAMP:20170404T182632Z
+UID:490172@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 4:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490172&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, FS1\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_08_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170409T173500Z
+DTEND:20170409T203500Z
+DTSTAMP:20170404T182632Z
+UID:490187@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490187&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nKids' Opening Day\nOrioles Kids' Fedora\nKids Run the Bases (Postgame)\n\nLocal TV: MASN, MLBN (out-of-market only)\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_09_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170411T231000Z
+DTEND:20170412T021000Z
+DTSTAMP:20170404T182632Z
+UID:490205@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490205&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_11_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170412T231000Z
+DTEND:20170413T021000Z
+DTSTAMP:20170404T182632Z
+UID:490217@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490217&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_12_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170413T230700Z
+DTEND:20170414T020700Z
+DTSTAMP:20170404T182632Z
+UID:490230@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=490230&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_13_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170414T230700Z
+DTEND:20170415T020700Z
+DTSTAMP:20170404T182632Z
+UID:490241@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=490241&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_14_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170415T170700Z
+DTEND:20170415T200700Z
+DTSTAMP:20170404T182632Z
+UID:490256@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 1:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=490256&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_15_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170416T170700Z
+DTEND:20170416T200700Z
+DTSTAMP:20170404T182632Z
+UID:490271@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 1:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=490271&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_16_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170418T231000Z
+DTEND:20170419T021000Z
+DTSTAMP:20170404T182632Z
+UID:490296@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cincinnati Reds\nFirst pitch: 7:10:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490296&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_18_balmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:Baltimore Orioles vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170419T231000Z
+DTEND:20170420T021000Z
+DTSTAMP:20170404T182632Z
+UID:490311@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cincinnati Reds\nFirst pitch: 7:10:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490311&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_19_balmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:Baltimore Orioles vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170420T231000Z
+DTEND:20170421T021000Z
+DTSTAMP:20170404T182632Z
+UID:490326@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cincinnati Reds\nFirst pitch: 7:10:00 PM EDT\nGreat American Ball Park, Cincinnati\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cin&game=490326&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_20_balmlb_cinmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Great American Ball Park\, Cincinnati
+SUMMARY:Baltimore Orioles vs. Cincinnati Reds
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170421T230500Z
+DTEND:20170422T020500Z
+DTSTAMP:20170404T182632Z
+UID:490337@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490337&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_21_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170422T230500Z
+DTEND:20170423T020500Z
+DTSTAMP:20170404T182632Z
+UID:490352@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490352&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Welcome Mat\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_22_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170423T173500Z
+DTEND:20170423T203500Z
+DTSTAMP:20170404T182632Z
+UID:490367@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490367&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Ace Plan)\nKids Run the Bases (Postgame)\n\nLocal TV: MASN, WJZ, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_23_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170424T230500Z
+DTEND:20170425T020500Z
+DTSTAMP:20170404T182632Z
+UID:490387@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490387&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_24_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170425T230500Z
+DTEND:20170426T020500Z
+DTSTAMP:20170404T182632Z
+UID:490402@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490402&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_25_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170426T230500Z
+DTEND:20170427T020500Z
+DTSTAMP:20170404T182632Z
+UID:490417@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490417&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_26_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170428T230500Z
+DTEND:20170429T020500Z
+DTSTAMP:20170404T182632Z
+UID:490431@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490431&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_28_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170429T170500Z
+DTEND:20170429T200500Z
+DTSTAMP:20170404T182632Z
+UID:490446@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 1:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490446&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ, MLBN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_29_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170430T170500Z
+DTEND:20170430T200500Z
+DTSTAMP:20170404T182632Z
+UID:490461@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 1:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=490461&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_04_30_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170501T231000Z
+DTEND:20170502T021000Z
+DTSTAMP:20170404T182632Z
+UID:490475@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490475&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_01_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170502T231000Z
+DTEND:20170503T021000Z
+DTSTAMP:20170404T182632Z
+UID:490487@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490487&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_02_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170503T231000Z
+DTEND:20170504T021000Z
+DTSTAMP:20170404T182632Z
+UID:490502@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490502&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_03_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170504T231000Z
+DTEND:20170505T021000Z
+DTSTAMP:20170404T182632Z
+UID:490517@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=490517&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_04_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170505T230500Z
+DTEND:20170506T020500Z
+DTSTAMP:20170404T182632Z
+UID:490531@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490531&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_05_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170506T230500Z
+DTEND:20170507T020500Z
+DTSTAMP:20170404T182632Z
+UID:490546@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490546&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Tote Bag\nJunior Orioles Dugout Club Date (Slugger Plan)\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_06_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170507T173500Z
+DTEND:20170507T203500Z
+DTSTAMP:20170404T182632Z
+UID:490561@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago White Sox vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490561&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nYouth Baseball Day #1\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_07_chamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago White Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170508T230500Z
+DTEND:20170509T020500Z
+DTSTAMP:20170404T182632Z
+UID:490582@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Washington Nationals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490582&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles T-shirt\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_08_wasmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Washington Nationals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170509T230500Z
+DTEND:20170510T020500Z
+DTSTAMP:20170404T182632Z
+UID:490597@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Washington Nationals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490597&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nBirdland Yard Flag\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_09_wasmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Washington Nationals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170510T230500Z
+DTEND:20170511T020500Z
+DTSTAMP:20170404T182632Z
+UID:490599@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Washington Nationals\nFirst pitch: 7:05:00 PM EDT\nNationals Park, Washington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=was&game=490599&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_10_balmlb_wasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Nationals Park\, Washington
+SUMMARY:Baltimore Orioles vs. Washington Nationals
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170511T230500Z
+DTEND:20170512T020500Z
+DTSTAMP:20170404T182632Z
+UID:490612@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Washington Nationals\nFirst pitch: 7:05:00 PM EDT\nNationals Park, Washington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=was&game=490612&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_11_balmlb_wasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Nationals Park\, Washington
+SUMMARY:Baltimore Orioles vs. Washington Nationals
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T001500Z
+DTEND:20170513T031500Z
+DTSTAMP:20170404T182632Z
+UID:490625@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Kansas City Royals\nFirst pitch: 7:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490625&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_12_balmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Baltimore Orioles vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170513T231500Z
+DTEND:20170514T021500Z
+DTSTAMP:20170404T182632Z
+UID:490640@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Kansas City Royals\nFirst pitch: 6:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490640&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_13_balmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Baltimore Orioles vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170514T181500Z
+DTEND:20170514T211500Z
+DTSTAMP:20170404T182632Z
+UID:490655@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Kansas City Royals\nFirst pitch: 1:15:00 PM CDT\nKauffman Stadium, Kansas City\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=kc&game=490655&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_14_balmlb_kcamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Kauffman Stadium\, Kansas City
+SUMMARY:Baltimore Orioles vs. Kansas City Royals
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170516T231000Z
+DTEND:20170517T021000Z
+DTSTAMP:20170404T182632Z
+UID:490678@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490678&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_16_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170517T231000Z
+DTEND:20170518T021000Z
+DTSTAMP:20170404T182632Z
+UID:490692@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 7:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490692&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_17_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170518T171000Z
+DTEND:20170518T201000Z
+DTSTAMP:20170404T182632Z
+UID:490707@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Detroit Tigers\nFirst pitch: 1:10:00 PM EDT\nComerica Park, Detroit\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=det&game=490707&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_18_balmlb_detmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Comerica Park\, Detroit
+SUMMARY:Baltimore Orioles vs. Detroit Tigers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170519T230500Z
+DTEND:20170520T020500Z
+DTSTAMP:20170404T182632Z
+UID:490731@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490731&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nFireworks (Postgame)\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_19_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170520T233500Z
+DTEND:20170521T023500Z
+DTSTAMP:20170404T182632Z
+UID:490746@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490746&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nMaryland Flag Script Jersey\nJunior Orioles Dugout Club Date (Ace Plan)\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_20_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170521T173500Z
+DTEND:20170521T203500Z
+DTSTAMP:20170404T182632Z
+UID:490761@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490761&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nYouth Baseball Day #2\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_21_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170522T230500Z
+DTEND:20170523T020500Z
+DTSTAMP:20170404T182632Z
+UID:490769@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Minnesota Twins vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490769&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_22_minmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Minnesota Twins vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170523T230500Z
+DTEND:20170524T020500Z
+DTSTAMP:20170404T182632Z
+UID:490779@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Minnesota Twins vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490779&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_23_minmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Minnesota Twins vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T163500Z
+DTEND:20170524T193500Z
+DTSTAMP:20170404T182632Z
+UID:490794@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Minnesota Twins vs. Baltimore Orioles\nFirst pitch: 12:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490794&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nField Trip Day\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_24_minmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Minnesota Twins vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T001000Z
+DTEND:20170527T031000Z
+DTSTAMP:20170404T182632Z
+UID:490816@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Houston Astros\nFirst pitch: 7:10:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=490816&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_26_balmlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Baltimore Orioles vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170527T231500Z
+DTEND:20170528T021500Z
+DTSTAMP:20170404T182632Z
+UID:490831@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Houston Astros\nFirst pitch: 6:15:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=490831&affiliateId=iCal-SGT-bal\n\nLocal TV: FOX\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_27_balmlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Baltimore Orioles vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170528T181000Z
+DTEND:20170528T211000Z
+DTSTAMP:20170404T182632Z
+UID:490846@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Houston Astros\nFirst pitch: 1:10:00 PM CDT\nMinute Maid Park, Houston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=hou&game=490846&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_28_balmlb_houmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Minute Maid Park\, Houston
+SUMMARY:Baltimore Orioles vs. Houston Astros
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170529T170500Z
+DTEND:20170529T200500Z
+DTSTAMP:20170404T182632Z
+UID:490868@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 1:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490868&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Memorial Day T-Shirt\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_29_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170530T230500Z
+DTEND:20170531T020500Z
+DTSTAMP:20170404T182632Z
+UID:490883@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490883&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_30_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170531T230500Z
+DTEND:20170601T020500Z
+DTSTAMP:20170404T182632Z
+UID:490899@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490899&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_05_31_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170601T230500Z
+DTEND:20170602T020500Z
+DTSTAMP:20170404T182632Z
+UID:490905@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490905&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Beach Mat\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_01_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170602T230500Z
+DTEND:20170603T020500Z
+DTSTAMP:20170404T182632Z
+UID:490914@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490914&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Floppy Hat\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_02_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170603T231500Z
+DTEND:20170604T021500Z
+DTSTAMP:20170404T182632Z
+UID:490929@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:15:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490929&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nManny Machado Starting Lineup Figure\n\nLocal TV: FOX\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_03_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170604T173500Z
+DTEND:20170604T203500Z
+DTSTAMP:20170404T182632Z
+UID:490944@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490944&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nYouth Bat & Ball Set\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_04_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170606T230500Z
+DTEND:20170607T020500Z
+DTSTAMP:20170404T182632Z
+UID:490973@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Pittsburgh Pirates vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490973&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_06_pitmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Pittsburgh Pirates vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170607T230500Z
+DTEND:20170608T020500Z
+DTSTAMP:20170404T182632Z
+UID:490988@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Pittsburgh Pirates vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=490988&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_07_pitmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Pittsburgh Pirates vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170609T233500Z
+DTEND:20170610T023500Z
+DTSTAMP:20170404T182632Z
+UID:491005@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 7:35:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=491005&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_09_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170610T231500Z
+DTEND:20170611T021500Z
+DTSTAMP:20170404T182632Z
+UID:491020@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 7:15:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=491020&affiliateId=iCal-SGT-bal\n\nLocal TV: FOX\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_10_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170611T170500Z
+DTEND:20170611T200500Z
+DTSTAMP:20170404T182632Z
+UID:491036@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 1:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=491036&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_11_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170613T001000Z
+DTEND:20170613T031000Z
+DTSTAMP:20170404T182632Z
+UID:491052@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491052&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_12_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170614T001000Z
+DTEND:20170614T031000Z
+DTSTAMP:20170404T182632Z
+UID:491062@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491062&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_13_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170615T001000Z
+DTEND:20170615T031000Z
+DTSTAMP:20170404T182632Z
+UID:491077@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 7:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491077&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_14_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170615T181000Z
+DTEND:20170615T211000Z
+DTSTAMP:20170404T182632Z
+UID:491090@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Chicago White Sox\nFirst pitch: 1:10:00 PM CDT\nGuaranteed Rate Field, Chicago\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cws&game=491090&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_15_balmlb_chamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Guaranteed Rate Field\, Chicago
+SUMMARY:Baltimore Orioles vs. Chicago White Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170616T230500Z
+DTEND:20170617T020500Z
+DTSTAMP:20170404T182632Z
+UID:491112@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:St. Louis Cardinals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491112&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nFireworks (Postgame)\nStudent Night\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_16_slnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:St. Louis Cardinals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170617T200500Z
+DTEND:20170617T230500Z
+DTSTAMP:20170404T182632Z
+UID:491127@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:St. Louis Cardinals vs. Baltimore Orioles\nFirst pitch: 4:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491127&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_17_slnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:St. Louis Cardinals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170618T173500Z
+DTEND:20170618T203500Z
+DTSTAMP:20170404T182632Z
+UID:491142@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:St. Louis Cardinals vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491142&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Greyscale Cap\nKids Run the Bases (Postgame)\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_18_slnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:St. Louis Cardinals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170619T230500Z
+DTEND:20170620T020500Z
+DTSTAMP:20170404T182632Z
+UID:491147@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Cleveland Indians vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491147&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_19_clemlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Cleveland Indians vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170620T230500Z
+DTEND:20170621T020500Z
+DTSTAMP:20170404T182632Z
+UID:491160@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Cleveland Indians vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491160&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Slugger Plan)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_20_clemlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Cleveland Indians vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170621T230500Z
+DTEND:20170622T020500Z
+DTSTAMP:20170404T182632Z
+UID:491175@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Cleveland Indians vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491175&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles T-Shirt\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_21_clemlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Cleveland Indians vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170622T230500Z
+DTEND:20170623T020500Z
+DTSTAMP:20170404T182632Z
+UID:491189@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Cleveland Indians vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491189&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\nJunior Orioles Dugout Club Date (Ace Plan)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_22_clemlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Cleveland Indians vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170623T231000Z
+DTEND:20170624T021000Z
+DTSTAMP:20170404T182632Z
+UID:491198@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491198&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_23_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170624T201000Z
+DTEND:20170624T231000Z
+DTSTAMP:20170404T182632Z
+UID:491213@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 4:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491213&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_24_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170625T171000Z
+DTEND:20170625T201000Z
+DTSTAMP:20170404T182632Z
+UID:491228@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 1:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491228&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_25_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170627T230700Z
+DTEND:20170628T020700Z
+DTSTAMP:20170404T182632Z
+UID:491251@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491251&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_27_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170628T230700Z
+DTEND:20170629T020700Z
+DTSTAMP:20170404T182632Z
+UID:491266@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491266&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_28_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170629T230700Z
+DTEND:20170630T020700Z
+DTSTAMP:20170404T182632Z
+UID:491281@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=491281&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_29_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170630T230500Z
+DTEND:20170701T020500Z
+DTSTAMP:20170404T182632Z
+UID:491305@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491305&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_06_30_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170701T200500Z
+DTEND:20170701T230500Z
+DTSTAMP:20170404T182632Z
+UID:491320@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 4:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491320&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nZach Britton Bobblehead\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_01_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170702T173500Z
+DTEND:20170702T203500Z
+DTSTAMP:20170404T182632Z
+UID:491335@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491335&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Slugger Plan)\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_02_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170703T181000Z
+DTEND:20170703T211000Z
+DTSTAMP:20170404T182632Z
+UID:491338@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Milwaukee Brewers\nFirst pitch: 1:10:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=491338&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_03_balmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:Baltimore Orioles vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170704T201000Z
+DTEND:20170704T231000Z
+DTSTAMP:20170404T182632Z
+UID:491349@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Milwaukee Brewers\nFirst pitch: 3:10:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=491349&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_04_balmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:Baltimore Orioles vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170706T001000Z
+DTEND:20170706T031000Z
+DTSTAMP:20170404T182632Z
+UID:491364@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Milwaukee Brewers\nFirst pitch: 7:10:00 PM CDT\nMiller Park, Milwaukee\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=mil&game=491364&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_05_balmlb_milmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Miller Park\, Milwaukee
+SUMMARY:Baltimore Orioles vs. Milwaukee Brewers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T001000Z
+DTEND:20170707T031000Z
+DTSTAMP:20170404T182632Z
+UID:491380@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491380&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_06_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Baltimore Orioles vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170708T001000Z
+DTEND:20170708T031000Z
+DTSTAMP:20170404T182632Z
+UID:491390@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Minnesota Twins\nFirst pitch: 7:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491390&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_07_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Baltimore Orioles vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170708T181000Z
+DTEND:20170708T211000Z
+DTSTAMP:20170404T182632Z
+UID:491405@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Minnesota Twins\nFirst pitch: 1:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491405&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_08_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Baltimore Orioles vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T181000Z
+DTEND:20170709T211000Z
+DTSTAMP:20170404T182632Z
+UID:491420@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Minnesota Twins\nFirst pitch: 1:10:00 PM CDT\nTarget Field, Minneapolis\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=min&game=491420&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_09_balmlb_minmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Target Field\, Minneapolis
+SUMMARY:Baltimore Orioles vs. Minnesota Twins
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170712T000000Z
+DTEND:20170712T030000Z
+DTSTAMP:20170404T182632Z
+UID:491434@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:American League All-Stars vs. National League All-Stars\nFirst pitch: 8:00:00 PM EDT\nMarlins Park, Miami\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_11_aasmlb_nasmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Marlins Park\, Miami
+SUMMARY:American League All-Stars vs. National League All-Stars
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170714T230500Z
+DTEND:20170715T020500Z
+DTSTAMP:20170404T182632Z
+UID:491436@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago Cubs vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491436&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_14_chnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago Cubs vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170715T230500Z
+DTEND:20170716T020500Z
+DTSTAMP:20170404T182632Z
+UID:491451@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago Cubs vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491451&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_15_chnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago Cubs vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T173500Z
+DTEND:20170716T203500Z
+DTSTAMP:20170404T182632Z
+UID:491466@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Chicago Cubs vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491466&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nKids Run the Bases (Postgame)\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_16_chnmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Chicago Cubs vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170717T230500Z
+DTEND:20170718T020500Z
+DTSTAMP:20170404T182632Z
+UID:491490@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Texas Rangers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491490&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_17_texmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Texas Rangers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170718T230500Z
+DTEND:20170719T020500Z
+DTSTAMP:20170404T182632Z
+UID:491505@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Texas Rangers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491505&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Ace Plan)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_18_texmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Texas Rangers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170719T230500Z
+DTEND:20170720T020500Z
+DTSTAMP:20170404T182632Z
+UID:491520@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Texas Rangers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491520&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_19_texmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Texas Rangers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170720T230500Z
+DTEND:20170721T020500Z
+DTSTAMP:20170404T182632Z
+UID:491530@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Texas Rangers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491530&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_20_texmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Texas Rangers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170721T230500Z
+DTEND:20170722T020500Z
+DTSTAMP:20170404T182632Z
+UID:491536@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Houston Astros vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491536&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nFireworks (Postgame)\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_21_houmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Houston Astros vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T230500Z
+DTEND:20170723T020500Z
+DTSTAMP:20170404T182632Z
+UID:491551@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Houston Astros vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491551&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nInfielders Bottle Stopper Set\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_22_houmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Houston Astros vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170723T173500Z
+DTEND:20170723T203500Z
+DTSTAMP:20170404T182632Z
+UID:491566@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Houston Astros vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491566&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_23_houmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Houston Astros vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170724T231000Z
+DTEND:20170725T021000Z
+DTSTAMP:20170404T182632Z
+UID:491578@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491578&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_24_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170725T231000Z
+DTEND:20170726T021000Z
+DTSTAMP:20170404T182632Z
+UID:491590@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491590&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_25_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170726T161000Z
+DTEND:20170726T191000Z
+DTSTAMP:20170404T182632Z
+UID:491605@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 12:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=491605&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_26_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170729T000500Z
+DTEND:20170729T030500Z
+DTSTAMP:20170404T182632Z
+UID:491629@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Texas Rangers\nFirst pitch: 7:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491629&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_28_balmlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Baltimore Orioles vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170730T000500Z
+DTEND:20170730T030500Z
+DTSTAMP:20170404T182632Z
+UID:491644@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Texas Rangers\nFirst pitch: 7:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491644&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_29_balmlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Baltimore Orioles vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170730T190500Z
+DTEND:20170730T220500Z
+DTSTAMP:20170404T182632Z
+UID:491659@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Texas Rangers\nFirst pitch: 2:05:00 PM CDT\nGlobe Life Park in Arlington, Arlington\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tex&game=491659&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_30_balmlb_texmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Globe Life Park in Arlington\, Arlington
+SUMMARY:Baltimore Orioles vs. Texas Rangers
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170731T230500Z
+DTEND:20170801T020500Z
+DTSTAMP:20170404T182632Z
+UID:491675@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Kansas City Royals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491675&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\nJunior Orioles Dugout Club Date (Slugger Plan)\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_07_31_kcamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Kansas City Royals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170801T230500Z
+DTEND:20170802T020500Z
+DTSTAMP:20170404T182632Z
+UID:491685@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Kansas City Royals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491685&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles T-Shirt\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_01_kcamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Kansas City Royals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170802T230500Z
+DTEND:20170803T020500Z
+DTSTAMP:20170404T182632Z
+UID:491700@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Kansas City Royals vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491700&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_02_kcamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Kansas City Royals vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170803T230500Z
+DTEND:20170804T020500Z
+DTSTAMP:20170404T182632Z
+UID:491714@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Detroit Tigers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491714&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_03_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Detroit Tigers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170804T230500Z
+DTEND:20170805T020500Z
+DTSTAMP:20170404T182632Z
+UID:491726@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Detroit Tigers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491726&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_04_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Detroit Tigers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170805T230500Z
+DTEND:20170806T020500Z
+DTSTAMP:20170404T182632Z
+UID:491741@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Detroit Tigers vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491741&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJonathan Schoop Bobblehead\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_05_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Detroit Tigers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170806T173500Z
+DTEND:20170806T203500Z
+DTSTAMP:20170404T182632Z
+UID:491756@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Detroit Tigers vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491756&affiliateId=iCal-SGT-bal\n\nAdditional Information:\n2017 Exclusive Orioles Card Set\nJunior Orioles Dugout Club Date (Ace Plan)\nKids Run the Bases (Postgame)\n\nLocal TV: MASN 2, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_06_detmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Detroit Tigers vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170808T020700Z
+DTEND:20170808T050700Z
+DTSTAMP:20170404T182632Z
+UID:491769@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Los Angeles Angels\nFirst pitch: 7:07:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=491769&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_07_balmlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Baltimore Orioles vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170809T020700Z
+DTEND:20170809T050700Z
+DTSTAMP:20170404T182632Z
+UID:491776@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Los Angeles Angels\nFirst pitch: 7:07:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=491776&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_08_balmlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Baltimore Orioles vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170809T193700Z
+DTEND:20170809T223700Z
+DTSTAMP:20170404T182632Z
+UID:491791@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Los Angeles Angels\nFirst pitch: 12:37:00 PM PDT\nAngel Stadium of Anaheim, Anaheim\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=ana&game=491791&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_09_balmlb_anamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Angel Stadium of Anaheim\, Anaheim
+SUMMARY:Baltimore Orioles vs. Los Angeles Angels
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170811T020500Z
+DTEND:20170811T050500Z
+DTSTAMP:20170404T182632Z
+UID:491806@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Oakland Athletics\nFirst pitch: 7:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491806&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_10_balmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Baltimore Orioles vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170812T020500Z
+DTEND:20170812T050500Z
+DTSTAMP:20170404T182632Z
+UID:491819@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Oakland Athletics\nFirst pitch: 7:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491819&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_11_balmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Baltimore Orioles vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170813T010500Z
+DTEND:20170813T040500Z
+DTSTAMP:20170404T182632Z
+UID:491834@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Oakland Athletics\nFirst pitch: 6:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491834&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_12_balmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Baltimore Orioles vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170813T200500Z
+DTEND:20170813T230500Z
+DTSTAMP:20170404T182632Z
+UID:491849@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Oakland Athletics\nFirst pitch: 1:05:00 PM PDT\nOakland Coliseum, Oakland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=oak&game=491849&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_13_balmlb_oakmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oakland Coliseum\, Oakland
+SUMMARY:Baltimore Orioles vs. Oakland Athletics
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170815T021000Z
+DTEND:20170815T051000Z
+DTSTAMP:20170404T182632Z
+UID:491864@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Seattle Mariners\nFirst pitch: 7:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=491864&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_14_balmlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Baltimore Orioles vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170816T021000Z
+DTEND:20170816T051000Z
+DTSTAMP:20170404T182632Z
+UID:491874@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Seattle Mariners\nFirst pitch: 7:10:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=491874&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_15_balmlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Baltimore Orioles vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170816T194000Z
+DTEND:20170816T224000Z
+DTSTAMP:20170404T182632Z
+UID:491890@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Seattle Mariners\nFirst pitch: 12:40:00 PM PDT\nSafeco Field, Seattle\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=sea&game=491890&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_16_balmlb_seamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Safeco Field\, Seattle
+SUMMARY:Baltimore Orioles vs. Seattle Mariners
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170818T230500Z
+DTEND:20170819T020500Z
+DTSTAMP:20170404T182632Z
+UID:491917@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Los Angeles Angels vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491917&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nFireworks (Postgame)\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_18_anamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Los Angeles Angels vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170819T230500Z
+DTEND:20170820T020500Z
+DTSTAMP:20170404T182632Z
+UID:491932@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Los Angeles Angels vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491932&affiliateId=iCal-SGT-bal\n\nAdditional Information:\n25th Anniversary Oriole Park at Camden Yards Replica Ballpark\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_19_anamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Los Angeles Angels vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170820T173500Z
+DTEND:20170820T203500Z
+DTSTAMP:20170404T182632Z
+UID:491947@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Los Angeles Angels vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491947&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Slugger Plan)\nKids Run the Bases (Postgame)\n\nLocal TV: MASN, WJZ\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_20_anamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Los Angeles Angels vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170821T230500Z
+DTEND:20170822T020500Z
+DTSTAMP:20170404T182632Z
+UID:491963@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Oakland Athletics vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491963&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_21_oakmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Oakland Athletics vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170822T230500Z
+DTEND:20170823T020500Z
+DTSTAMP:20170404T182632Z
+UID:491975@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Oakland Athletics vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491975&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_22_oakmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Oakland Athletics vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170823T190500Z
+DTEND:20170823T220500Z
+DTSTAMP:20170404T182632Z
+UID:491990@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Oakland Athletics vs. Baltimore Orioles\nFirst pitch: 3:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=491990&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Ace Plan)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_23_oakmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Oakland Athletics vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170825T231000Z
+DTEND:20170826T021000Z
+DTSTAMP:20170404T182632Z
+UID:492008@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 7:10:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=492008&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_25_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170826T200500Z
+DTEND:20170826T230500Z
+DTSTAMP:20170404T182632Z
+UID:492023@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 4:05:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=492023&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_26_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170827T173500Z
+DTEND:20170827T203500Z
+DTSTAMP:20170404T182632Z
+UID:492038@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Boston Red Sox\nFirst pitch: 1:35:00 PM EDT\nFenway Park, Boston\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bos&game=492038&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_27_balmlb_bosmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Fenway Park\, Boston
+SUMMARY:Baltimore Orioles vs. Boston Red Sox
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170828T230500Z
+DTEND:20170829T020500Z
+DTSTAMP:20170404T182632Z
+UID:492061@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Seattle Mariners vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492061&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_28_seamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Seattle Mariners vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170829T230500Z
+DTEND:20170830T020500Z
+DTSTAMP:20170404T182632Z
+UID:492074@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Seattle Mariners vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492074&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_29_seamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Seattle Mariners vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170830T190500Z
+DTEND:20170830T220500Z
+DTSTAMP:20170404T182632Z
+UID:492089@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Seattle Mariners vs. Baltimore Orioles\nFirst pitch: 3:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492089&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nJunior Orioles Dugout Club Date (Slugger Plan)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_30_seamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Seattle Mariners vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170831T230500Z
+DTEND:20170901T020500Z
+DTSTAMP:20170404T182632Z
+UID:492101@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492101&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_08_31_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170901T230500Z
+DTEND:20170902T020500Z
+DTSTAMP:20170404T182632Z
+UID:492116@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492116&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nStudent Night\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_01_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170902T230500Z
+DTEND:20170903T020500Z
+DTSTAMP:20170404T182632Z
+UID:492131@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492131&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_02_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170903T173500Z
+DTEND:20170903T203500Z
+DTSTAMP:20170404T182632Z
+UID:492146@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Toronto Blue Jays vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492146&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Cap\nKids Run the Bases (Postgame)\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_03_tormlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Toronto Blue Jays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170904T173500Z
+DTEND:20170904T203500Z
+DTSTAMP:20170404T182632Z
+UID:492156@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492156&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles T-Shirt\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_04_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170905T230500Z
+DTEND:20170906T020500Z
+DTSTAMP:20170404T182632Z
+UID:492171@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492171&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_05_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170906T230500Z
+DTEND:20170907T020500Z
+DTSTAMP:20170404T182632Z
+UID:492186@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:New York Yankees vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492186&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_06_nyamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:New York Yankees vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170908T231000Z
+DTEND:20170909T021000Z
+DTSTAMP:20170404T182632Z
+UID:492201@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cleveland Indians\nFirst pitch: 7:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492201&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_08_balmlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Baltimore Orioles vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170909T170500Z
+DTEND:20170909T200500Z
+DTSTAMP:20170404T182632Z
+UID:492216@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cleveland Indians\nFirst pitch: 1:05:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492216&affiliateId=iCal-SGT-bal\n\nLocal TV: FOX\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_09_balmlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Baltimore Orioles vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170910T171000Z
+DTEND:20170910T201000Z
+DTSTAMP:20170404T182632Z
+UID:492231@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Cleveland Indians\nFirst pitch: 1:10:00 PM EDT\nProgressive Field, Cleveland\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=cle&game=492231&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_10_balmlb_clemlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Progressive Field\, Cleveland
+SUMMARY:Baltimore Orioles vs. Cleveland Indians
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170911T230700Z
+DTEND:20170912T020700Z
+DTSTAMP:20170404T182632Z
+UID:492246@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=492246&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_11_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170912T230700Z
+DTEND:20170913T020700Z
+DTSTAMP:20170404T182632Z
+UID:492255@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=492255&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_12_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170913T230700Z
+DTEND:20170914T020700Z
+DTSTAMP:20170404T182632Z
+UID:492270@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Toronto Blue Jays\nFirst pitch: 7:07:00 PM EDT\nRogers Centre, Toronto\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tor&game=492270&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_13_balmlb_tormlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Rogers Centre\, Toronto
+SUMMARY:Baltimore Orioles vs. Toronto Blue Jays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170914T230500Z
+DTEND:20170915T020500Z
+DTSTAMP:20170404T182632Z
+UID:492285@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=492285&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_14_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170915T230500Z
+DTEND:20170916T020500Z
+DTSTAMP:20170404T182632Z
+UID:492297@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 7:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=492297&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_15_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170916T200500Z
+DTEND:20170916T230500Z
+DTSTAMP:20170404T182632Z
+UID:492312@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 4:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=492312&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_16_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170917T170500Z
+DTEND:20170917T200500Z
+DTSTAMP:20170404T182632Z
+UID:492327@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. New York Yankees\nFirst pitch: 1:05:00 PM EDT\nYankee Stadium, Bronx\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=nyy&game=492327&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_17_balmlb_nyamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Yankee Stadium\, Bronx
+SUMMARY:Baltimore Orioles vs. New York Yankees
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170918T230500Z
+DTEND:20170919T020500Z
+DTSTAMP:20170404T182632Z
+UID:492342@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492342&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_18_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170919T230500Z
+DTEND:20170920T020500Z
+DTSTAMP:20170404T182632Z
+UID:492349@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492349&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Knit Cap\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_19_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170920T230500Z
+DTEND:20170921T020500Z
+DTSTAMP:20170404T182632Z
+UID:492364@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Boston Red Sox vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492364&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_20_bosmlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Boston Red Sox vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170921T230500Z
+DTEND:20170922T020500Z
+DTSTAMP:20170404T182632Z
+UID:492386@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492386&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nAlumni Autograph Series\n\nLocal TV: MASN\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_21_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170922T230500Z
+DTEND:20170923T020500Z
+DTSTAMP:20170404T182632Z
+UID:492401@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492401&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nFan Appreciation Weekend\nFireworks (Postgame)\nStudent Night\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_22_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170923T230500Z
+DTEND:20170924T020500Z
+DTSTAMP:20170404T182632Z
+UID:492416@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 7:05:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492416&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOrioles Hooded Sweatshirt\nFan Appreciation Weekend\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_23_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170924T173500Z
+DTEND:20170924T203500Z
+DTSTAMP:20170404T182632Z
+UID:492431@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Tampa Bay Rays vs. Baltimore Orioles\nFirst pitch: 1:35:00 PM EDT\nOriole Park at Camden Yards, Baltimore\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=bal&game=492431&affiliateId=iCal-SGT-bal\n\nAdditional Information:\nOriole Bird Bobblehead Toothbrush Holder\nFan Appreciation Weekend\nKids Run the Bases (Postgame)\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_24_tbamlb_balmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Oriole Park at Camden Yards\, Baltimore
+SUMMARY:Tampa Bay Rays vs. Baltimore Orioles
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170926T230500Z
+DTEND:20170927T020500Z
+DTSTAMP:20170404T182632Z
+UID:492445@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Pittsburgh Pirates\nFirst pitch: 7:05:00 PM EDT\nPNC Park, Pittsburgh\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=pit&game=492445&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_26_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:PNC Park\, Pittsburgh
+SUMMARY:Baltimore Orioles vs. Pittsburgh Pirates
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170927T230500Z
+DTEND:20170928T020500Z
+DTSTAMP:20170404T182632Z
+UID:492460@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Pittsburgh Pirates\nFirst pitch: 7:05:00 PM EDT\nPNC Park, Pittsburgh\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=pit&game=492460&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_27_balmlb_pitmlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:PNC Park\, Pittsburgh
+SUMMARY:Baltimore Orioles vs. Pittsburgh Pirates
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170929T231000Z
+DTEND:20170930T021000Z
+DTSTAMP:20170404T182632Z
+UID:492486@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 7:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=492486&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_29_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170930T221000Z
+DTEND:20171001T011000Z
+DTSTAMP:20170404T182632Z
+UID:492501@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 6:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=492501&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_09_30_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20171001T191000Z
+DTEND:20171001T221000Z
+DTSTAMP:20170404T182632Z
+UID:492516@mlb.com
+CREATED:20170404T182632Z
+DESCRIPTION:Baltimore Orioles vs. Tampa Bay Rays\nFirst pitch: 3:10:00 PM EDT\nTropicana Field, St. Petersburg\n\nBuy Tickets: http://mlb.mlb.com/ticketing/singlegame.jsp?c_id=tb&game=492516&affiliateId=iCal-SGT-bal\n\nLocal TV: MASN 2\n\nClick below for a full game preview plus video, photos, stats, gameday and more!\nhttp://www.mlb.com/r/game?gid=2017_10_01_balmlb_tbamlb_1\n\nWatch or Listen with MLB.TV:\nhttp://mlb.mlb.com/mlb/subscriptions/index.jsp?product=mlbtv&affiliateId=ICAL
+LAST-MODIFIED:20170404T182632Z
+LOCATION:Tropicana Field\, St. Petersburg
+SUMMARY:Baltimore Orioles vs. Tampa Bay Rays
+TRANSP:TRANSPARENT
+SEQUENCE:1491330392
+END:VEVENT
+END:VCALENDAR
