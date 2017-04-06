@@ -640,7 +640,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				in_event = false;
                 cur_event["sport"] = game;
                 cur_event["country"] = country;
-                cur_event["league"] = this.league;
+                cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
 				this.events.push(cur_event);
 				cur_event = null;
 			}
