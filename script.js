@@ -185,7 +185,7 @@ $scope.gameFileListNew =
 	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
-		value: "SF_Giants.ics,Baltimore_Orioles.ics,White_Sox.ics"
+		value: "SF_Giants.ics"
 	},
 	
 	{
@@ -1386,11 +1386,14 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                             this.game = cal.game;
                                             var formatedDatesList = new Map();
                                             formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                                            var countryFilter = '';
                                             if(cal.countryReceived == null){
-                                                cal.country = null;
+                                                countryFilter = null;
+                                            }else{
+                                                countryFilter = cal.country;
                                             }
                                             
-                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,cal.country);
+                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
 
                                                 if(returnResults.length > 0){
                                                     if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){

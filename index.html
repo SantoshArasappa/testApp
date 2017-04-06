@@ -75,7 +75,7 @@
                           <option value="Today">Today</option> 
                           <option value="week">One Week</option>
                           <option value="TwoWeeks">Two Weeks</option> 
-                          <option value="Custom">Custom</option>
+                          <option value="Custom">Date Range</option>
                         </select>
                    </div> 
            <div class="col-xs-6" ng-show="dateType=='Custom'">
@@ -120,6 +120,11 @@
                    <option value=''>Country</option>
                 </select>
                   
+                  <!--<select ng-model="selectedLoc" 
+                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;">
+                   <option value=''>Country</option>
+                </select>-->
+                  
                   
               </div>
 
@@ -133,7 +138,14 @@
                   </select>
               </div>    
            
-                 <div class="col-xs-2" >&nbsp;</div>
+                 <div class="col-xs-2" >
+           
+            <!--<select ng-model="selectedGameNew" 
+                     ng-options="key as value for (key , value) in data" style="height:35px;width:200px;margin-top: 10px;">
+                   <option value=''>Sport New</option>
+                  </select>-->
+           
+           </div>
                 
            
                
