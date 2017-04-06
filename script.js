@@ -47,11 +47,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
   var parentFolder = '/Games';
   $scope.show2pickers = false;
-  $scope.countries = [];
+ // $scope.countries = [];
   $scope.games = [];
   $scope.isError = false;  
     
-  $scope.countries.push('Australia');    
+  /*$scope.countries.push('Australia');    
   $scope.countries.push('Bangladesh');    
   $scope.countries.push('Europe'); 
   
@@ -65,7 +65,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   
   $scope.countries.push('United_States_of_America');    
   $scope.countries.push('West_Indies');    
-  $scope.countries.push('Zimbabwe'); 
+  $scope.countries.push('Zimbabwe'); */
   
     
     
@@ -79,6 +79,61 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Basketball');
   $scope.games.push('Boxing'); 
   $scope.games.push('Bike'); 
+    
+    
+    $scope.countries = {
+    "Australia": "Australia",
+    "Bangladesh": "Bangladesh",
+    "Europe": "Europe",
+    
+    "India": "India",
+    "New_Zealand": "New Zealand",
+    "Pakistan": "Pakistan",
+        
+    "South_Africa": "South Africa",
+    "Sri_Lanka": "Sri Lanka",
+    "United_Kingdom": "United Kingdom",
+       
+    "United_States_of_America": "United States of America",
+    "West_Indies": "West Indies",
+    "Zimbabwe": "Zimbabwe"
+    
+};
+    var countriesMap = new Map();    
+     countriesMap.set('Australia','Australia');
+     countriesMap.set('Bangladesh','Bangladesh');
+     countriesMap.set('India','India');
+     countriesMap.set('New_Zealand','New Zealand');
+     countriesMap.set('Pakistan','Pakistan');
+     countriesMap.set('South_Africa','South Africa');
+     countriesMap.set('Sri_Lanka','Sri Lanka');
+     countriesMap.set('United_Kingdom','United Kingdom');
+     countriesMap.set('United_States_of_America','United States of America');
+     countriesMap.set('West_Indies','West Indies');
+     countriesMap.set('Zimbabwe','Zimbabwe');
+     
+    
+    
+    /*$scope.games = {
+    "Cricket": "Cricket",
+    "AFL": "AFL",
+    "Football": "Football",
+    
+    "Rugby": "Rugby",
+    "New_Zealand": "New Zealand",
+    "Pakistan": "Pakistan",
+        
+    "South_Africa": "South Africa",
+    "Sri_Lanka": "Sri Lanka",
+    "United_Kingdom": "United Kingdom",
+       
+    "United_States_of_America": "United States of America",
+    "West_Indies": "West Indies",
+    "Zimbabwe": "Zimbabwe"
+    
+    
+};*/
+    
     
   var countryMap = new Map();    
      countryMap.set('Qatar','MotoGP.ics');
@@ -185,7 +240,7 @@ $scope.gameFileListNew =
 	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
-		value: "SF_Giants.ics"
+		value: "SF_Giants.ics,Baltimore_Orioles.ics,White_Sox.ics"
 	},
 	
 	{
@@ -1123,6 +1178,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        $scope.isError = false;
        var dateSelectedList = [];
         $scope.eventsResultsFiltered = [];
+       var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
        var dateFirst = false;
        if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && (this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates === undefined || this.selectedDates.length > 0) ){
@@ -1290,12 +1346,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
                                 if(returnResults.length > 0){
                                     if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, cal.country, cal.dateInLoop, returnResults);
+                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
                                     }else{
 
                                         var listValue = [
                                             {
-                                                'country':cal.country,
+                                                'country':countriesMap.get(cal.country),
                                                 'listValue' : returnResults
                                             }
 
@@ -1397,12 +1453,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
                                                 if(returnResults.length > 0){
                                                     if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, cal.country, cal.dateInLoop, returnResults);
+                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
                                                     }else{
 
                                                         var listValue = [
                                                             {
-                                                                'country':cal.country,
+                                                                'country':countriesMap.get(cal.country),
                                                                 'listValue' : returnResults
                                                             }
 
