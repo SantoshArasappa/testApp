@@ -271,6 +271,12 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Bike",
 		value: "MotoGP.ics"
 
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
+		value: "Pro12.ics"
+
 	}
 
 
@@ -528,8 +534,11 @@ $scope.gameFileListNew =
 				events.forEach(function(event){
                     if(datesRangeMap.get(event.start_date) 
                       ){
-                        countryNameInLoop = ((event.LOCATION.split(','))[1]) + '';
-                        countryNameInLoop = countryNameInLoop.trim();
+                        var locList = event.LOCATION.split(',');
+                        if(locList.length > 0){
+                            countryNameInLoop = (locList)[locList.length - 1] + '';
+                            countryNameInLoop = countryNameInLoop.trim();
+                        }
                         if(countryName == null || countryNameInLoop == countryName){
                             eventsResultsFilteredLocal.push(event);
                         }
