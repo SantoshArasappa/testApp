@@ -96,7 +96,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
        
     "United_States_of_America": "United States of America",
     "West_Indies": "West Indies",
-    "Zimbabwe": "Zimbabwe"
+    "Zimbabwe": "Zimbabwe",
+        
+    "Ireland": "Ireland",
+    "England": "England",
+    "Wales": "Wales",
+    
+    "Scotland": "Scotland",
+    "Italy": "Italy",    
     
 };
     var countriesMap = new Map();    
@@ -111,6 +118,12 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('United_States_of_America','United States of America');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Zimbabwe','Zimbabwe');
+    
+     countriesMap.set('Ireland','Ireland');
+     countriesMap.set('England','England');
+     countriesMap.set('Wales','Wales');
+     countriesMap.set('Scotland','Scotland');
+     countriesMap.set('Italy','Italy');
      
     
     
@@ -153,8 +166,20 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countryMap.set('Valencia','MotoGP.ics');
      countryMap.set('default','MotoGP.ics');
     
+    
+     var RugbyMap = new Map();
+    
+     RugbyMap.set('Ireland','Pro12.ics');
+     RugbyMap.set('England','Pro12.ics');
+     RugbyMap.set('Wales','Pro12.ics');
+     RugbyMap.set('Scotland','Pro12.ics');
+     RugbyMap.set('Italy','Pro12.ics');
+     RugbyMap.set('default','Pro12.ics');
+    
+    
     var mutliCountrySportMap = new Map();    
     mutliCountrySportMap.set('Bike',countryMap);
+    mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
     
