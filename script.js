@@ -84,7 +84,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.countries = {
     "Australia": "Australia",
     "Bangladesh": "Bangladesh",
-    "Europe": "Europe",
+   // "Europe": "Europe",
     
     "India": "India",
     "New_Zealand": "New Zealand",
@@ -183,7 +183,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.multiGamesList = [];
     
-  $scope.multiGamesList.push('Bike');    
+  $scope.multiGamesList.push('Bike'); 
+    $scope.multiGamesList.push('Rugby'); 
     
     
 $scope.gameFileListNew = 
@@ -210,9 +211,9 @@ $scope.gameFileListNew =
 		value: "Cricket.ics"
 	},
 	
-	{
+	/*{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Football",
-		value: "La_Liga.ics,UEFA_Champions_League.ics,UEFA_Europe_League.ics"
+		value: "La_Liga.ics,ics,UEFA_Europe_League.ics"
 
 	},
 	
@@ -220,7 +221,7 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Rugby",
 		value: "Six_Nations.ics"
 
-	},
+	},*/
 
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
@@ -557,7 +558,8 @@ $scope.gameFileListNew =
         var countryNameInLoop = '';
       //Foreach event
 				events.forEach(function(event){
-                    if(datesRangeMap.get(event.start_date) 
+                    //if(datesRangeMap.get(event.start_date) 
+                    if(datesRangeMap.get(event.startDateFormat)
                       ){
                         var locList = event.LOCATION.split(',');
                         if(locList.length > 0){
@@ -617,7 +619,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         
         var dt = {};
         
-        if(dateFirst){
+       /* if(dateFirst){
         
             dt =  {
                 year: ical_date.substr(0,4),
@@ -626,7 +628,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 hour: ical_date.substr(9,2),
                 minute: ical_date.substr(11,2)
             }
-        }else{
+        }else{*/
             
             dt =  {
                 year: ical_date.substr(0,4),
@@ -636,11 +638,14 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 minute: ical_date.substr(11,2)
             }
             
-        }
+        //}
+        
 		//Create JS date (months start at 0 in JS - don't ask)
 		dt.date = new Date(dt.year, (dt.month-1), dt.day, dt.hour, dt.minute);
 		//Get the full name of the given day
 		dt.dayname =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"][dt.date.getDay()];
+        
+        dt.monthname =['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][dt.date.getMonth()];
 		
 		return dt;
 	}
@@ -694,6 +699,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					//These are helpful for display
 					cur_event.start_time = dt.hour+':'+dt.minute;
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
+                    cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
 				}
 				//If the type is an end date, do the same as above
@@ -704,6 +710,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					//These are helpful for display
 					cur_event.end_time = dt.hour+':'+dt.minute;
 					cur_event.end_date = dt.day+'/'+dt.month+'/'+dt.year;
+                    cur_event.endDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
 				}
 				//Convert timestamp
@@ -1214,6 +1221,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.eventsResultsFiltered = [];
        var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
+       
        var dateFirst = false;
        if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && (this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates === undefined || this.selectedDates.length > 0) ){
         
@@ -1260,6 +1268,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                this.selectedDates2 = new Date(date2);
            }else if($scope.dateType == 'Today'){
                this.selectedDates = new Date();
+               this.selectedDates2 = undefined;
            }
            
           
@@ -1318,24 +1327,18 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 		yyyy = d.getFullYear(),
 		mm = ('0' + (d.getMonth() + 1)).slice(-2),	// Months are zero based. Add leading 0.
 		dd = ('0' + d.getDate()).slice(-2),			// Add leading 0.
-		hh = d.getHours(),
-		h = hh,
-		min = ('0' + d.getMinutes()).slice(-2),		// Add leading 0.
-		ampm = 'AM',
 		time;
 			
-	if (hh > 12) {
-		h = hh - 12;
-		ampm = 'PM';
-	} else if (hh === 12) {
-		h = 12;
-		ampm = 'PM';
-	} else if (hh == 0) {
-		h = 12;
-	}
+	d.dayname =["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"][d.getDay()];
+        
+        d.monthname =['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'][d.getMonth()];
+           
+           
 	
 	// ie: 2013-02-18, 8:35 AM	
-	time = mm + '/' + dd + '/' + yyyy;
+	//time = mm + '/' + dd + '/' + yyyy;
+           
+    time = d.dayname + ", " + dd + " " + d.monthname + " " + yyyy;
           
       // formatedDates.push(time);   
            formatedDates.set(time,time);
@@ -1363,6 +1366,74 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                    dateFirst = true;
                }
 			   
+               $scope.multiGamesList.forEach(function(multiGame){
+                           
+                           if((($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game)  && multiGame === game)){
+                           
+                               if(mutliCountrySportMap.get(multiGame)){
+                                   var mutliSportMap = mutliCountrySportMap.get(multiGame);
+                                   if((($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country) && mutliSportMap.get(country))){
+                                       
+                                       
+                                       var multiFileName = '';
+                                       if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null){
+                                           multiFileName = mutliSportMap.get('default');
+                                       }else{
+                                           multiFileName = mutliSportMap.get(country);
+                                       }
+                                       
+                                      //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
+                                       var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
+                                       
+                                       var dateFirstLoop = true;
+                                        ical_parser(multiFileLocaiton, function(cal){
+                                            this.events = cal.events;
+                                            var eventsResults = cal.events;
+                                            //$scope.places = [];
+                                            this.game = cal.game;
+                                            var formatedDatesList = new Map();
+                                            formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                                            var countryFilter = '';
+                                            if(cal.countryReceived == null){
+                                                countryFilter = null;
+                                            }else{
+                                                countryFilter = cal.country;
+                                            }
+                                            
+                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
+
+                                                if(returnResults.length > 0){
+                                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
+                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                                    }else{
+
+                                                        var listValue = [
+                                                            {
+                                                                'country':countriesMap.get(cal.country),
+                                                                'listValue' : returnResults
+                                                            }
+
+                                                        ]; 
+                                                        var Object = {
+                                                            'time':cal.dateInLoop,
+                                                            'listValue' : listValue
+                                                        };
+                                                        $scope.eventsResultsFiltered.push(Object);
+                                                    }
+
+                                            }
+
+                                            this.showCal = true;
+                                            
+                                        },dateFirstLoop,dateInLoop,country); 
+                                       
+                                       
+                                   }
+                               }
+                           }
+                       });
+               
+               
                if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country)){
 
                    var fileList = listValue.split(",");
@@ -1449,72 +1520,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
   $scope.multiGamesList.push('Bike');
                             
                        }*/
-                      $scope.multiGamesList.forEach(function(multiGame){
-                           
-                           if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || multiGame === game)){
-                           
-                               if(mutliCountrySportMap.get(multiGame)){
-                                   var mutliSportMap = mutliCountrySportMap.get(multiGame);
-                                   if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || mutliSportMap.get(country))){
-                                       
-                                       
-                                       var multiFileName = '';
-                                       if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null){
-                                           multiFileName = mutliSportMap.get('default');
-                                       }else{
-                                           multiFileName = mutliSportMap.get(country);
-                                       }
-                                       
-                                      //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
-                                       var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
-                                       
-                                       var dateFirstLoop = true;
-                                        ical_parser(multiFileLocaiton, function(cal){
-                                            this.events = cal.events;
-                                            var eventsResults = cal.events;
-                                            //$scope.places = [];
-                                            this.game = cal.game;
-                                            var formatedDatesList = new Map();
-                                            formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
-                                            var countryFilter = '';
-                                            if(cal.countryReceived == null){
-                                                countryFilter = null;
-                                            }else{
-                                                countryFilter = cal.country;
-                                            }
-                                            
-                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
-
-                                                if(returnResults.length > 0){
-                                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
-                                                    }else{
-
-                                                        var listValue = [
-                                                            {
-                                                                'country':countriesMap.get(cal.country),
-                                                                'listValue' : returnResults
-                                                            }
-
-                                                        ]; 
-                                                        var Object = {
-                                                            'time':cal.dateInLoop,
-                                                            'listValue' : listValue
-                                                        };
-                                                        $scope.eventsResultsFiltered.push(Object);
-                                                    }
-
-                                            }
-
-                                            this.showCal = true;
-                                            
-                                        },dateFirstLoop,dateInLoop,country); 
-                                       
-                                       
-                                   }
-                               }
-                           }
-                       });
+                      
 
 
                     });

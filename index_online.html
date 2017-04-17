@@ -126,10 +126,10 @@
                           <option value="Custom">Date Range</option>
                         </select>
                    </div> 
-           <div class="col-xs-6" ng-show="dateType=='Custom'">
+           <div class="col-xs-5" ng-show="dateType=='Custom'">
                <div class="row">
                      
-                  <div id="test1" class="col-xs-6" >
+                  <div id="test1" class="col-xs-5" >
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
                       <span class="input-group-btn">
@@ -137,7 +137,7 @@
                       </span>
                     </p>
                   </div>
-
+                <div class="col-xs-1" >&nbsp;</div>
                   <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
                       <div class="col-xs-6">
                     <p class="input-group">
@@ -149,6 +149,7 @@
                   </div>
                </div>       
            </div>
+           <div class="col-xs-1" ng-show="dateType=='Custom'">&nbsp;</div>
             <!--<div class="col-xs-6">
         <p class="input-group">
           <input type="text" class="form-control" uib-datepicker-popup="{{format}}" ng-model="dt" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" />
@@ -169,35 +170,36 @@
                 </select>-->
                   
                   <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:35px;width:150px;margin-top: 10px;">
+                     ng-options="key as value for (key , value) in countries" style="height:30px;width:150px;margin-top: 20px;">
                    <option value=''>Country</option>
                 </select>
                   
                   
               </div>
-
+                <div class="col-xs-1" >&nbsp;</div>
               <div class="col-xs-2">
                  <!--<h1>Select Game</h1>
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="record as record for record in games" style="height:35px;width:150px;margin-top: 10px;">
+                     ng-options="record as record for record in games" style="height:30px;width:150px;margin-top: 20px;">
                    <option value=''>Sport</option>
                   </select>
               </div>    
            
-                 <div class="col-xs-2" >&nbsp;</div>
+                 <div class="col-xs-1" >&nbsp;</div>
                 
            
                
            
            
             </div>
-       
+            <br/>
             <div class="row">
             <div class="col-xs-2">
                     <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.filterEvents()'>Search Events</button>
                 </div>
+                <div class="col-xs-2" >&nbsp;</div>
                 <div class="col-xs-2">
                     <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.clearFilters()'>Clear Search</button>
                 </div>
@@ -233,7 +235,7 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>{{games.start_time}} local () &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> <div class="col-sm-3">{{games.sport}} , &nbsp;&nbsp; {{games.league}}</div>
+                                    <div class="col-sm-6"><strong>{{games.start_time}} local &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> <div class="col-sm-3">{{games.sport}} , &nbsp;&nbsp; {{games.league}}</div>
                                 
                                 <div class="col-sm-12"><hr/><br/></div>
                             </div>
