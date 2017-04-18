@@ -111,7 +111,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.countries = {
     "India": "India",
-    "Pakistan": "Pakistan",
     "West_Indies": "West Indies",
     "Spain": "Spain"
 };
@@ -139,7 +138,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     var countriesMap = new Map();    
      countriesMap.set('India','India');
-     countriesMap.set('Pakistan','Pakistan');
      countriesMap.set('West_Indies','West_Indies');
      countriesMap.set('Spain','Spain');
      
@@ -333,11 +331,6 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
 		value: "Indian_Premier_League.ics"
 
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Pakistan/Cricket",
-		value: "Pakistan_Tour_of_West_Indies.ics"
 	},
 	
 	{
