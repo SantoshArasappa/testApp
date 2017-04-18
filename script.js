@@ -70,7 +70,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     
-  $scope.games.push('Cricket');     
+  /*$scope.games.push('Cricket');     
   $scope.games.push('AFL');
   $scope.games.push('Football');   
   $scope.games.push('Rugby');      
@@ -78,10 +78,12 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Baseball');     
   $scope.games.push('Basketball');
   $scope.games.push('Boxing'); 
-  $scope.games.push('Bike'); 
+  $scope.games.push('Bike'); */
     
+  $scope.games.push('Cricket');     
+  $scope.games.push('Football');   
     
-    $scope.countries = {
+    /*$scope.countries = {
     "Australia": "Australia",
     "Bangladesh": "Bangladesh",
    // "Europe": "Europe",
@@ -105,8 +107,17 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     "Scotland": "Scotland",
     "Italy": "Italy",    
     
+};*/
+    
+    $scope.countries = {
+    "India": "India",
+    "Pakistan": "Pakistan",
+    "West_Indies": "West Indies",
+    "Spain": "Spain"
 };
-    var countriesMap = new Map();    
+    
+    
+    /*var countriesMap = new Map();    
      countriesMap.set('Australia','Australia');
      countriesMap.set('Bangladesh','Bangladesh');
      countriesMap.set('India','India');
@@ -123,7 +134,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('England','England');
      countriesMap.set('Wales','Wales');
      countriesMap.set('Scotland','Scotland');
-     countriesMap.set('Italy','Italy');
+     countriesMap.set('Italy','Italy');*/
+    
+    
+    var countriesMap = new Map();    
+     countriesMap.set('India','India');
+     countriesMap.set('Pakistan','Pakistan');
+     countriesMap.set('West_Indies','West_Indies');
+     countriesMap.set('Spain','Spain');
      
     
     
@@ -183,11 +201,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.multiGamesList = [];
     
-  $scope.multiGamesList.push('Bike'); 
-    $scope.multiGamesList.push('Rugby'); 
+  /*$scope.multiGamesList.push('Bike'); 
+    $scope.multiGamesList.push('Rugby'); */
     
     
-$scope.gameFileListNew = 
+/*$scope.gameFileListNew = 
 [
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
@@ -211,7 +229,7 @@ $scope.gameFileListNew =
 		value: "Cricket.ics"
 	},
 	
-	/*{
+	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Football",
 		value: "La_Liga.ics,ics,UEFA_Europe_League.ics"
 
@@ -221,7 +239,7 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Rugby",
 		value: "Six_Nations.ics"
 
-	},*/
+	},
 
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
@@ -306,7 +324,62 @@ $scope.gameFileListNew =
 	}
 
 
-];
+];*/
+    
+    
+$scope.gameFileListNew = 
+[
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
+		value: "Indian_Premier_League.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Pakistan/Cricket",
+		value: "Pakistan_Tour_of_West_Indies.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
+		value: "La_Liga.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
+		value: "Pakistan_Tour_of_West_Indies.ics"
+	}
+
+
+]; 
+    
+ /*   $scope.gameFileListNew = 
+[
+	{
+		url: "/Games/India/Cricket",
+		value: "Indian_Premier_League.ics"
+
+	},
+	
+	{
+		url: "/Games/Pakistan/Cricket",
+		value: "Pakistan_Tour_of_West_Indies.ics"
+	},
+	
+	{
+		url: "/Games/Spain/Football",
+		value: "La_Liga.ics"
+
+	},
+	
+	{
+		url: "/Games/West_Indies/Cricket",
+		value: "Pakistan_Tour_of_West_Indies.ics"
+	}
+
+
+]; */
     
     // Date pick start
     
