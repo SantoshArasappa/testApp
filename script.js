@@ -138,7 +138,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     var countriesMap = new Map();    
      countriesMap.set('India','India');
-     countriesMap.set('West_Indies','West_Indies');
+     countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
      
     
