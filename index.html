@@ -17,6 +17,7 @@
        <script type="text/javascript" src="dist/angular-dropdowns.js"></script>
     <script src="script.js"></script>
       <script src="gm.datepickerMultiSelect.js"></script>
+      <script src="dist/moment.js"></script>
   </head>
 
    <body ng-controller='AppCtrl as $app' ng-init="getEventsDetails()">
@@ -194,8 +195,8 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>{{games.start_time}} local () &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
-                                <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} , </div> 
+                                    <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} ) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
+                                <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
                                     <div class="col-sm-12">{{games.league}}</div>
                                 </div>
                                 

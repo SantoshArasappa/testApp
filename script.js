@@ -111,8 +111,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.countries = {
     "India": "India",
-    "West_Indies": "West Indies",
-    "Spain": "Spain"
+    "Spain": "Spain",
+    "West_Indies": "West Indies"
 };
     
     
@@ -198,6 +198,16 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
+    
+    $scope.gmtMap = new Map();
+    
+    /*$scope.gmtMap.set('India','GMT +05:30');
+    $scope.gmtMap.set('Spain','GMT +02:00');
+    $scope.gmtMap.set('West_Indies','GMT -05:00');*/
+    
+    $scope.gmtMap.set('India','-05:30');
+    $scope.gmtMap.set('Spain','-02:00');
+    $scope.gmtMap.set('West_Indies','+05:00');
     
   /*$scope.multiGamesList.push('Bike'); 
     $scope.multiGamesList.push('Rugby'); */
@@ -763,7 +773,15 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
-					cur_event.start_time = dt.hour+':'+dt.minute;
+                    var gmtList = $scope.gmtMap.get(country).split(':');
+                    //
+					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
+                    var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                    var gmtList1 = theFutureTime.split(':');
+                    theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                    //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                    cur_event.gmtTime = 'GMT ' + theFutureTime;
+                    
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
