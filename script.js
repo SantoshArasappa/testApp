@@ -1482,6 +1482,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                         ]; 
                                                         var Object = {
                                                             'time':cal.dateInLoop,
+                                                            'timeSort': returnResults.start_date,
                                                             'listValue' : listValue
                                                         };
                                                         $scope.eventsResultsFiltered.push(Object);
@@ -1529,6 +1530,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                         ]; 
                                         var Object = {
                                             'time':cal.dateInLoop,
+                                            'timeSort': returnResults.start_date,
                                             'listValue' : listValue
                                         };
                                         $scope.eventsResultsFiltered.push(Object);

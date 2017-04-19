@@ -78,10 +78,10 @@
                           <option value="Custom">Date Range</option>
                         </select>
                    </div> 
-           <div class="col-xs-6" ng-show="dateType=='Custom'">
+           <div class="col-md-6 col-lg-6 col-xs-12" ng-show="dateType=='Custom'">
                <div class="row">
                      
-                  <div id="test1" class="col-xs-6" >
+                  <div id="test1" class="col-md-6 col-lg-6 col-xs-12" >
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
                       <span class="input-group-btn">
@@ -91,7 +91,7 @@
                   </div>
 
                   <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
-                      <div class="col-xs-6">
+                      <div class="col-md-6 col-lg-6 col-xs-12">
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
                       <span class="input-group-btn">
@@ -111,7 +111,7 @@
       </div>-->
           
                 
-              <div class="col-xs-2">
+              <div class="col-md-2 col-lg-2 col-xs-12">
                    
                 <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
                   
@@ -121,24 +121,24 @@
                 </select>-->
                   
                   <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:35px;width:100px;margin-top: 10px;">
+                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;">
                    <option value=''>Country</option>
                 </select>
                   
                   
               </div>
 
-              <div class="col-xs-2">
+              <div class="col-md-2 col-lg-2 col-xs-12">
                  <!--<h1>Select Game</h1>
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="record as record for record in games" style="height:35px;width:100px;margin-top: 10px;">
+                     ng-options="record as record for record in games" style="height:35px;width:200px;margin-top: 10px;">
                    <option value=''>Sport</option>
                   </select>
               </div>    
            
-                 <div class="col-xs-2" >
+                 <div class="col-md-2 col-lg-2 col-xs-12" >
            
             <!--<select ng-model="selectedGameNew" 
                      ng-options="key as value for (key , value) in data" style="height:35px;width:200px;margin-top: 10px;">
@@ -154,6 +154,7 @@
             </div>
        
             <div class="row">
+                <div class="col-xs-12" >&nbsp;</div>
             <div class="col-xs-2">
                     <button class='btn btn-xs' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.filterEvents()'>Search Events</button>
                 </div>
@@ -166,9 +167,10 @@
        
        </div> 
         <div ng-show="showEvents">
+            <div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "time"'>
+                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "start_date"'>
                     <div ng-if="eventsResultsFilteredNew.length > 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
@@ -192,7 +194,10 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>{{games.start_time}} local () &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> <div class="col-sm-3">{{games.sport}} , &nbsp;&nbsp; {{games.league}}</div>
+                                    <div class="col-sm-6"><strong>{{games.start_time}} local () &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
+                                <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} , </div> 
+                                    <div class="col-sm-12">{{games.league}}</div>
+                                </div>
                                 
                                 <div class="col-sm-12"><hr/><br/></div>
                             </div>
