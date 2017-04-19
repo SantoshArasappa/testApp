@@ -5,17 +5,18 @@
     <script data-require="angular.js@*" src="//code.angularjs.org/1.6.1/angular.js"></script>
 	<script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-animate.js"></script>
       <script src="//ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
-      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/dist/angular-filter.min.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dist/angular-filter.min.js"></script>
     <script data-require="ui-bootstrap@*" data-semver="1.3.3" src="https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.min.js"></script>
     <link data-require="bootstrap-css@*" data-semver="3.3.6" rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/style.css" />
-      <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/dropdownMenu/normalize.css">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/dist/angular-dropdowns.min.css">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/dropdownMenu/page.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/style.css" />
+      <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dropdownMenu/normalize.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dist/angular-dropdowns.min.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dropdownMenu/page.css">
     
-       <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/script.js"></script>
-      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/fe3c6156/gm.datepickerMultiSelect.js"></script>
+       <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dist/angular-dropdowns.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/script.js"></script>
+	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/dist/moment.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/49353af3/gm.datepickerMultiSelect.js"></script>
   </head>
 
    <body ng-controller='AppCtrl as $app' ng-init="getEventsDetails()">
@@ -116,7 +117,7 @@
     
     <div ng-show="isLoaded==true"> 
        <div class="row">
-           <div class="col-xs-12" ng-if="isError" style="color:red">  <h1 > {{errorMessage}}</h1></div>
+           <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
            <div class="col-xs-12" >
                         <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
                           <option value="">---Please select---</option> <!-- not selected / blank option -->
@@ -126,10 +127,10 @@
                           <option value="Custom">Date Range</option>
                         </select>
                    </div> 
-           <div class="col-xs-5" ng-show="dateType=='Custom'">
+           <div class="col-md-6 col-lg-6 col-xs-12" ng-show="dateType=='Custom'">
                <div class="row">
                      
-                  <div id="test1" class="col-xs-5" >
+                  <div id="test1" class="col-md-6 col-lg-6 col-xs-12" >
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
                       <span class="input-group-btn">
@@ -139,7 +140,7 @@
                   </div>
                 <div class="col-xs-1" >&nbsp;</div>
                   <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
-                      <div class="col-xs-6">
+                      <div class="col-md-6 col-lg-6 col-xs-12">
                     <p class="input-group">
                       <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
                       <span class="input-group-btn">
@@ -160,7 +161,7 @@
       </div>-->
           
                 
-              <div class="col-xs-2">
+              <div class="col-md-2 col-lg-2 col-xs-12">
                    
                 <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
                   
@@ -170,24 +171,24 @@
                 </select>-->
                   
                   <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:30px;width:150px;margin-top: 20px;">
+                     ng-options="key as value for (key , value) in countries" style="height:30px;width:200px;margin-top: 20px;">
                    <option value=''>Country</option>
                 </select>
                   
                   
               </div>
-                <div class="col-xs-1" >&nbsp;</div>
-              <div class="col-xs-2">
+                <div class="col-md-1 col-lg-1 col-xs-12" >&nbsp;</div>
+              <div class="col-md-2 col-lg-2 col-xs-12">
                  <!--<h1>Select Game</h1>
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="record as record for record in games" style="height:30px;width:150px;margin-top: 20px;">
+                     ng-options="record as record for record in games" style="height:30px;width:200px;margin-top: 20px;">
                    <option value=''>Sport</option>
                   </select>
               </div>    
            
-                 <div class="col-xs-1" >&nbsp;</div>
+                 <div class="col-md-1 col-lg-1 col-xs-12" >&nbsp;</div>
                 
            
                
@@ -196,12 +197,13 @@
             </div>
             <br/>
             <div class="row">
+			<div class="col-xs-12" >&nbsp;</div>
             <div class="col-xs-2">
-                    <button class='btn btn-xs' style='margin:5px;background-color: #4CAF50;' ng-click='$app.filterEvents()'>Search Events</button>
+                    <button class='btn btn-xs' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.filterEvents()'>Search Events</button>
                 </div>
                 <div class="col-xs-2" >&nbsp;</div>
                 <div class="col-xs-2">
-                    <button class='btn btn-xs btn-warning' style='margin:5px' ng-click='$app.clearFilters()'>Clear Search</button>
+                    <button class='btn btn-xs btn-warning' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.clearFilters()'>Clear Search</button>
                 </div>
            
            
@@ -209,17 +211,18 @@
        
        </div> 
         <div ng-show="showEvents">
+				<div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "time"'>
+                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "start_date"'>
                     <div ng-if="eventsResultsFilteredNew.length > 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
                           </span>
                         </div>
-                        <div class="col-sm-12"><br/></div>
+                       <!--<div class="col-sm-12"><br/></div>-->
                     <div class="col-sm-12"><br/></div>
-                    <hr class="hr-text" data-content="OR">
+                    <!--<hr class="hr-text" data-content="OR">-->
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                    <!-- <li>-->
                         <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
@@ -235,9 +238,11 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>{{games.start_time}} local &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> <div class="col-sm-3">{{games.sport}} , &nbsp;&nbsp; {{games.league}}</div>
-                                
-                                <div class="col-sm-12"><hr/><br/></div>
+                                    <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div>  
+									 <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
+										<div class="col-sm-12">{{games.league}}</div>
+									</div>                                
+                                <div class="col-sm-12"><hr/></div>
                             </div>
                        
                    <!-- </li>-->  
