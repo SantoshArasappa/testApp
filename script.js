@@ -780,7 +780,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     var gmtList1 = theFutureTime.split(':');
                     theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                     //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                    cur_event.gmtTime = 'GMT ' + theFutureTime;
+                    cur_event.gmtTime = theFutureTime;
                     
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;

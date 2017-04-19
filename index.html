@@ -69,7 +69,7 @@
 </style>
        <div ng-show="isLoaded==true"> 
        <div class="row">
-           <div class="col-xs-12" ng-if="isError" style="color:blue">  <h1 > {{errorMessage}}</h1></div>
+           <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
            <div class="col-xs-12" >
                         <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
                           <option value="">---Please select---</option> <!-- not selected / blank option -->
@@ -195,7 +195,7 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} ) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
+                                    <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
                                 <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
                                     <div class="col-sm-12">{{games.league}}</div>
                                 </div>
