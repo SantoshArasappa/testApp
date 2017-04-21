@@ -84,7 +84,7 @@
                      
                   <div id="test1" class="col-md-6 col-lg-6 col-xs-12" >
                     <p class="input-group">
-                      <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
+                      <input type="text" class="form-control" uib-datepicker-popup ng-model="selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From" ng-change="fromDateChange(selectedDates)"/>
                       <span class="input-group-btn">
                         <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
                       </span>
@@ -94,7 +94,7 @@
                   <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
                       <div class="col-md-6 col-lg-6 col-xs-12">
                     <p class="input-group">
-                      <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
+                      <input type="text" class="form-control" uib-datepicker-popup ng-model="selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
                       <span class="input-group-btn">
                         <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
                       </span>

@@ -117,78 +117,74 @@
     
     <div ng-show="isLoaded==true"> 
        <div class="row">
-           <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
-           <div class="col-xs-12" >
-                        <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
-                          <option value="">---Please select---</option> <!-- not selected / blank option -->
-                          <option value="Today">Today</option> 
-                          <option value="week">One Week</option>
-                          <option value="TwoWeeks">Two Weeks</option> 
-                          <option value="Custom">Date Range</option>
-                        </select>
-                   </div> 
-           <div class="col-md-6 col-lg-6 col-xs-12" ng-show="dateType=='Custom'">
-               <div class="row">
-                     
-                  <div id="test1" class="col-md-6 col-lg-6 col-xs-12" >
-                    <p class="input-group">
-                      <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From"/>
-                      <span class="input-group-btn">
-                        <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
-                      </span>
-                    </p>
-                  </div>
-                <div class="col-xs-1" >&nbsp;</div>
-                  <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
-                      <div class="col-md-6 col-lg-6 col-xs-12">
-                    <p class="input-group">
-                      <input type="text" class="form-control" uib-datepicker-popup ng-model="$app.selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
-                      <span class="input-group-btn">
-                        <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
-                      </span>
-                    </p>
-                  </div>
-               </div>       
-           </div>
-           <div class="col-xs-1" ng-show="dateType=='Custom'">&nbsp;</div>
-            <!--<div class="col-xs-6">
-        <p class="input-group">
-          <input type="text" class="form-control" uib-datepicker-popup="{{format}}" ng-model="dt" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" />
-          <span class="input-group-btn">
-            <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
-          </span>
-        </p>
-      </div>-->
-          
-                
-              <div class="col-md-2 col-lg-2 col-xs-12">
-                   
-                <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
-                  
-                  <!--<select ng-model="selectedLoc" 
-                     ng-options="record as record for record in countries" style="height:35px;width:200px;margin-top: 10px;">
-                   <option value=''>Country</option>
-                </select>-->
-                  
-                  <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:30px;width:200px;margin-top: 20px;">
-                   <option value=''>Country</option>
-                </select>
-                  
-                  
-              </div>
-                <div class="col-md-1 col-lg-1 col-xs-12" >&nbsp;</div>
-              <div class="col-md-2 col-lg-2 col-xs-12">
-                 <!--<h1>Select Game</h1>
-                <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
-                  
-                  <select ng-model="selectedGame" 
-                     ng-options="record as record for record in games" style="height:30px;width:200px;margin-top: 20px;">
-                   <option value=''>Sport</option>
-                  </select>
-              </div>    
+            <div class="col-md-6 col-lg-6 col-xs-12">
            
-                 <div class="col-md-1 col-lg-1 col-xs-12" >&nbsp;</div>
+           
+                        <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
+                        <div class="col-xs-12" >
+                            <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
+                              <option value="">---Please select---</option> <!-- not selected / blank option -->
+                              <option value="Today">Today</option> 
+                              <option value="week">One Week</option>
+                              <option value="TwoWeeks">Two Weeks</option> 
+                              <option value="Custom">Date Range</option>
+                            </select>
+                        </div> 
+                       <div class="col-md-12 col-lg-12 col-xs-12" ng-show="dateType=='Custom'">
+                           <div class="row">
+
+                              <div id="test1" class="col-md-6 col-lg-6 col-xs-12" >
+                                <p class="input-group">
+                                  <input type="text" class="form-control" uib-datepicker-popup ng-model="selectedDates" is-open="popup1.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" alt-input-formats="altInputFormats" ng-readonly="true" placeholder="From" ng-change="fromDateChange(selectedDates)"/>
+                                  <span class="input-group-btn">
+                                    <button type="button" class="btn btn-default" ng-click="open1()"><i class="glyphicon glyphicon-calendar"></i></button>
+                                  </span>
+                                </p>
+                              </div>
+
+                              <!--<div id="test2" class="col-xs-6" ng-show="dataType=='Custom'">-->
+                                  <div class="col-md-6 col-lg-6 col-xs-12">
+                                    <p class="input-group">
+                                      <input type="text" class="form-control" uib-datepicker-popup ng-model="selectedDates2" is-open="popup2.opened" datepicker-options="dateOptions" ng-required="true" close-text="Close" ng-readonly="true" placeholder="To"/>
+                                      <span class="input-group-btn">
+                                        <button type="button" class="btn btn-default" ng-click="open2()"><i class="glyphicon glyphicon-calendar"></i></button>
+                                      </span>
+                                    </p>
+                                  </div>
+                           </div>       
+                       </div>
+                        
+                
+                          <div class="col-md-6 col-lg-6 col-xs-12">
+
+                            <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
+
+                              <!--<select ng-model="selectedLoc" 
+                                 ng-options="record as record for record in countries" style="height:35px;width:200px;margin-top: 10px;">
+                               <option value=''>Country</option>
+                            </select>-->
+
+                              <select ng-model="selectedLoc" 
+                                 ng-options="key as value for (key , value) in countries" style="height:30px;width:200px;margin-top: 20px;">
+                               <option value=''>Country</option>
+                            </select>
+
+
+                          </div>
+                          
+                          <div class="col-md-6 col-lg-6 col-xs-12">
+                             <!--<h1>Select Game</h1>
+                            <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
+
+                              <select ng-model="selectedGame" 
+                                 ng-options="record as record for record in games" style="height:30px;width:200px;margin-top: 20px;">
+                               <option value=''>Sport</option>
+                              </select>
+                          </div>    
+           
+               </div>
+                
+                 <div class="col-md-6 col-lg-6 col-xs-12">&nbsp;</div>
                 
            
                
@@ -220,9 +216,9 @@
                             {{dateTimes.time}}
                           </span>
                         </div>
-                       <!--<div class="col-sm-12"><br/></div>-->
+                        <div class="col-sm-12"><br/></div>
                     <div class="col-sm-12"><br/></div>
-                    <!--<hr class="hr-text" data-content="OR">-->
+                    <hr class="hr-text" data-content="OR">
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                    <!-- <li>-->
                         <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
@@ -238,11 +234,12 @@
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
-                                    <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div>  
+                                <div class="col-sm-2"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) </strong></div>
+                                        <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>  
 									 <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
 										<div class="col-sm-12">{{games.league}}</div>
 									</div>                                
-                                <div class="col-sm-12"><hr/></div>
+                                <div class="col-sm-12"><hr/><br/></div>
                             </div>
                        
                    <!-- </li>-->  

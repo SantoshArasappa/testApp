@@ -35,8 +35,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   this.activeDate2 = null;
   $scope.showEvents = false;  
   $scope.isLoaded = false;    
-  this.selectedDates = new Date();
-  this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+  $scope.selectedDates = new Date();
+  $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
   var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65';
@@ -387,8 +387,20 @@ $scope.gameFileListNew =
     // Date pick start
     
     $scope.today = function() {
-    $scope.dt = new Date();
-  };
+        $scope.dt = new Date();
+    };
+    
+    //Ravi
+    $scope.fromDateChange = function(value) {
+        $scope.dt = new Date();
+        var currentDate = new Date(value.getTime());
+        currentDate.setDate(currentDate.getDate() + 1);
+       // $scope.$apply(function() { 
+            $scope.selectedDates2 = currentDate;//new Date(currentDate.getDate() + 1); 
+       // });
+        
+    };
+    
   $scope.today();
 
   $scope.clear = function() {
@@ -1127,7 +1139,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
   this.removeFromSelected = function(dt) {
       
      
-    this.selectedDates.splice(this.selectedDates.indexOf(dt), 1);
+    $scope.selectedDates.splice($scope.selectedDates.indexOf(dt), 1);
   }
   
   $scope.getListFromHtml = function(data,foldersToExclude){
@@ -1286,7 +1298,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
     
    /* $scope.getDates = function(currentDate, end){
         
-        if(this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates.length > 0 || this.selectedDates === undefined){
+        if($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates.length > 0 || $scope.selectedDates === undefined){
             
             
             while (currentDate <= end) {
@@ -1307,16 +1319,16 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        $scope.eventsResultsFilteredNew = [];
        
        var dateFirst = false;
-       if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && (this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates === undefined || this.selectedDates.length > 0) ){
+       if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
         
            $scope.errorMessage = "Please select at least one on of the fields to be choosen"
            $scope.isError = true;
        }else{
            
         
-         /* if(((this.selectedDates2 === undefined || this.selectedDates2.length > 0) && 
-             (this.selectedDates != undefined || this.selectedDates.length == 0)) || ((this.selectedDates === undefined || this.selectedDates.length > 0) && 
-             (this.selectedDates2 != undefined || this.selectedDates2.length == 0))){
+         /* if((($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && 
+             ($scope.selectedDates != undefined || $scope.selectedDates.length == 0)) || (($scope.selectedDates === undefined || $scope.selectedDates.length > 0) && 
+             ($scope.selectedDates2 != undefined || $scope.selectedDates2.length == 0))){
                 
                 
              
@@ -1337,9 +1349,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
-                var date2 = new Date(this.selectedDates.getTime());
+                var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 7);
-               this.selectedDates2 = new Date(date2);
+               $scope.selectedDates2 = new Date(date2);
            }else if($scope.dateType == 'TwoWeeks'){
                 /*var day = currentDate.getDate() + 1, daysCounted = 0;
                 while (day = currentDate.getDate() || daysCounted < 31) {
@@ -1347,36 +1359,36 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
-               var date2 = new Date(this.selectedDates.getTime());
+               var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 14);
-               this.selectedDates2 = new Date(date2);
+               $scope.selectedDates2 = new Date(date2);
            }else if($scope.dateType == 'Today'){
-               this.selectedDates = new Date();
-               this.selectedDates2 = undefined;
+               $scope.selectedDates = new Date();
+               $scope.selectedDates2 = undefined;
            }
            
           
            
            
            
-           if((this.selectedDates2 === undefined || this.selectedDates2.length > 0) && (this.selectedDates.length > 0 || this.selectedDates === undefined)){
+           if(($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates.length > 0 || $scope.selectedDates === undefined)){
                $scope.errorMessage = "Please select the Date"
                $scope.isError = true;
                return;
                
            }else {
-                if((this.selectedDates2 === undefined || this.selectedDates2.length > 0)){
-                    dateSelectedList.push(this.selectedDates);
-                }else if((this.selectedDates === undefined || this.selectedDates.length > 0)){
-                           dateSelectedList.push(this.selectedDates2);
+                if(($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0)){
+                    dateSelectedList.push($scope.selectedDates);
+                }else if(($scope.selectedDates === undefined || $scope.selectedDates.length > 0)){
+                           dateSelectedList.push($scope.selectedDates2);
                        }else{
-                           if(this.selectedDates > this.selectedDates2){
+                           if($scope.selectedDates > $scope.selectedDates2){
                                $scope.errorMessage = "From date cannot be greater than To date"
                                 $scope.isError = true;
                            }else{
                                
-                               var currentDate = new Date(this.selectedDates.getTime());
-                               while (currentDate <= this.selectedDates2) {
+                               var currentDate = new Date($scope.selectedDates.getTime());
+                               while (currentDate <= $scope.selectedDates2) {
                                     dateSelectedList.push(new Date(currentDate));
                                     currentDate.setDate(currentDate.getDate() + 1);
                                 }
@@ -1392,12 +1404,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        //var formatedDates = [];
        var formatedDates = new Map();
        if(($scope.dateType == 'week' || $scope.dateType == 'month')){
-                            this.selectedDates = new Date();
-                            this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+                            $scope.selectedDates = new Date();
+                            $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
                         }
                
                
-      // dateSelectedList.push(this.selectedDates);
+      // dateSelectedList.push($scope.selectedDates);
        dateSelectedList.forEach(function(dt){
            var pattern = /(\d{4})(\d{2})(\d{2})/;
           dt = dt + "";
@@ -1644,9 +1656,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
    }
    
    this.clearFilters = function(){
-       this.selectedDates = new Date();
-     //  this.selectedDates = new Date();
-       this.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+       $scope.selectedDates = new Date();
+     //  $scope.selectedDates = new Date();
+       $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
        $scope.eventsResultsFiltered = [];
        $scope.selectedLoc = "";
         $scope.selectedGame = '';
@@ -1750,6 +1762,6 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
   
   
   /*this.removeFromSelected2 = function(dt) {
-    this.selectedDates2.splice(this.selectedDates2.indexOf(dt), 1);
+    $scope.selectedDates2.splice($scope.selectedDates2.indexOf(dt), 1);
   }*/
 });
