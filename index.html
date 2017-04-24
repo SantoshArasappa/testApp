@@ -67,7 +67,7 @@
   }
 }
 </style>
-       <div ng-show="isLoaded==true"> 
+       <div> 
        <div class="row">
            <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
            <div class="col-xs-12" >
@@ -156,7 +156,8 @@
        
             <div class="row">
                 <div class="col-xs-12" >&nbsp;</div>
-            <div class="col-xs-2">
+            <div id="events" class="col-xs-2">
+                {{getBootstrapDeviceSize()}}
                     <button class='btn btn-xs' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.filterEvents()'>Search Events</button>
                 </div>
                 <div class="col-xs-2">
@@ -167,6 +168,12 @@
             </div>
        
        </div> 
+       
+       <div  ng-show="isLoading">
+           <div class="col-xs-12" >&nbsp;</div>
+           <img class="col-xs-12" src="Loading.png" alt="some_text" style="width:300px;height:300px;">
+       </div>  
+       
         <div ng-show="showEvents">
             <div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>

@@ -34,13 +34,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   var test123456 = null;
   this.activeDate2 = null;
   $scope.showEvents = false;  
-  $scope.isLoaded = false;    
+  $scope.isLoading = false;    
   $scope.selectedDates = new Date();
   $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
   var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65';
-  fileUrl = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games';    
+  fileUrl = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games';   
+    $scope.loadPng = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Loading.png';
  // var parentFolder = 'https://github.com/SantoshArasappa/testApp/tree/7e0ef7ffb8e09571e575da7c8b05031fda7d28ca/Games';
     //'https://github.com/SantoshArasappa/testApp.git/tree/master/Games?raw=true';
     
@@ -1263,7 +1264,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
       
       
       $scope.folderStructureList1 = $scope.folderStructureList;
-      $scope.isLoaded = true;
+      
       
    /*ical_parser(ical_file, function(cal){
 					//When ical parser has loaded file
@@ -1313,6 +1314,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
     
    this.filterEvents = function(){
        $scope.isError = false;
+       $scope.isLoading = true;
        var dateSelectedList = [];
         $scope.eventsResultsFiltered = [];
        var sportsNew = $scope.selectedGameNew;
@@ -1644,7 +1646,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         $scope.message = "Timeout called!";
                         $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
                         $scope.showEvents = true;
-                        
+                        $scope.isLoading = false;
                         
                     });
                 }, 2000); 
@@ -1655,6 +1657,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        
    }
    
+   
+   $scope.getBootstrapDeviceSize = function() {
+      return $('#users-device-size').find('div:visible').first().attr('events');
+    }
+   
    this.clearFilters = function(){
        $scope.selectedDates = new Date();
      //  $scope.selectedDates = new Date();
@@ -1664,6 +1671,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.selectedGame = '';
        $scope.showEvents = false;
        $scope.isError = false;
+       $scope.isLoading = false;
    }
    
 

@@ -22,3 +22,16 @@
   box-shadow: none;
 }
 
+option:nth-child(1) {
+    font-weight:bold;
+}
+
+           
+div img {
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
