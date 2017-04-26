@@ -1562,7 +1562,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                         ]; 
                                         var Object = {
                                             'time':cal.dateInLoop,
-                                            'timeSort': returnResults.start_date,
+                                            'timeSort': returnResults[0].start_date,
                                             'listValue' : listValue
                                         };
                                         $scope.eventsResultsFiltered.push(Object);
@@ -1659,7 +1659,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
    
    
    $scope.getBootstrapDeviceSize = function() {
-      return $('#users-device-size').find('div:visible').first().attr('events');
+      //return $('#users-device-size').find('div:visible').first().attr('events');
+       return '';
     }
    
    this.clearFilters = function(){
