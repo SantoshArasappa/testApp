@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/56b524be/dropdownMenu/page.css">
     
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/56b524be/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/56b524be/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/master/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/56b524be/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/56b524be/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -216,7 +216,7 @@ option:nth-child(1) {
        </div> 
        
        <div ng-show="isLoading">
-        <img src="url" alt="some_text" style="width:width;height:height;">
+        <img src="{{loadPng}}" alt="some_text" style="width:300px;height:300px;">
        </div>       
        
         
@@ -225,7 +225,7 @@ option:nth-child(1) {
 				<div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No Events Found</h1>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "start_date"'>
+                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
                     <div ng-if="eventsResultsFilteredNew.length > 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}

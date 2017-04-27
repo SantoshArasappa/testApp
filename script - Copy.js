@@ -111,7 +111,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
 };*/
     
     $scope.countries = {
-   // "England": "England",
+    "England": "England",
     "India": "India",
     "Spain": "Spain",
     "West_Indies": "West Indies"
@@ -139,7 +139,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     var countriesMap = new Map();    
-  //   countriesMap.set('England','England');
+     countriesMap.set('England','England');
      countriesMap.set('India','India');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
@@ -198,14 +198,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
      var engFootballMap = new Map();
     
-     engFootballMap.set('England','Pro12.ics');
-     engFootballMap.set('Wales','Pro12.ics');
+     engFootballMap.set('England','English_Premier_League.ics');
+     engFootballMap.set('Wales','English_Premier_League.ics');
      
     
     var mutliCountrySportMap = new Map();    
-    mutliCountrySportMap.set('Bike',countryMap);
+   // mutliCountrySportMap.set('Bike',countryMap);
     mutliCountrySportMap.set('Football',engFootballMap);
-    mutliCountrySportMap.set('Rugby',RugbyMap);
+   // mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
     
@@ -220,8 +220,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     
-   // $scope.multiGamesList.push('Football'); 
-   // $scope.multiGamesList.push('Football'); 
+    $scope.multiGamesList.push('Football'); 
     
   /*$scope.multiGamesList.push('Bike'); 
     $scope.multiGamesList.push('Rugby'); */
@@ -812,7 +811,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                     cur_event.gmtTime = theFutureTime;
                     
-					cur_event.start_date = dt.month+'/'+dt.day+'/'+dt.year;
+					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
 				}
@@ -1766,7 +1765,6 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
             var Object = {
                 'time':dateInLoop,
-                'timeSort':listSubValue[0].listValue[0].start_date,
                 'listValue' : listSubValue
             };
             $scope.eventsResultsFiltered.push(Object);
