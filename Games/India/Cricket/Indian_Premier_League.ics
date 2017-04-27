@@ -158,7 +158,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
-SUMMARY:31st match Royal Challengers Bangalore v Gujarat Lions
+SUMMARY:Royal Challengers Bangalore v Gujarat Lions
 DTSTART:20170427T143000Z
 DTEND:20170427T183000Z
 LOCATION:M Chinnaswamy Stadium, Bangalore
@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
-SUMMARY:32nd match Kolkata Knight Riders v Delhi Daredevils
+SUMMARY:Kolkata Knight Riders v Delhi Daredevils
 DTSTART:20170428T103000Z
 DTEND:20170428T143000Z
 LOCATION:Eden Gardens, Kolkata
