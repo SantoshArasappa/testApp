@@ -198,14 +198,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
      var engFootballMap = new Map();
     
-     engFootballMap.set('England','Pro12.ics');
-     engFootballMap.set('Wales','Pro12.ics');
+     engFootballMap.set('England','English_Premier_League.ics');
+     engFootballMap.set('Wales','English_Premier_League.ics');
      
     
     var mutliCountrySportMap = new Map();    
-    mutliCountrySportMap.set('Bike',countryMap);
+   // mutliCountrySportMap.set('Bike',countryMap);
     mutliCountrySportMap.set('Football',engFootballMap);
-    mutliCountrySportMap.set('Rugby',RugbyMap);
+   // mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
     
@@ -219,6 +219,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('England','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
+    
+    $scope.multiGamesList.push('Football'); 
     
   /*$scope.multiGamesList.push('Bike'); 
     $scope.multiGamesList.push('Rugby'); */
