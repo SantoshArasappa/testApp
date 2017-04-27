@@ -795,7 +795,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                     cur_event.gmtTime = theFutureTime;
                     
-					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
+					cur_event.start_date = dt.month+'/'+dt.day+'/'+dt.year;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
 				}
@@ -1749,6 +1749,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
             var Object = {
                 'time':dateInLoop,
+                'timeSort':listSubValue[0].listValue[0].start_date,
                 'listValue' : listSubValue
             };
             $scope.eventsResultsFiltered.push(Object);
