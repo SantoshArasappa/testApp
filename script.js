@@ -111,6 +111,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
 };*/
     
     $scope.countries = {
+    "England": "England",
     "India": "India",
     "Spain": "Spain",
     "West_Indies": "West Indies"
@@ -138,6 +139,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     var countriesMap = new Map();    
+     countriesMap.set('England','England');
      countriesMap.set('India','India');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
@@ -194,8 +196,15 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('default','Pro12.ics');
     
     
+     var engFootballMap = new Map();
+    
+     engFootballMap.set('England','Pro12.ics');
+     engFootballMap.set('Wales','Pro12.ics');
+     
+    
     var mutliCountrySportMap = new Map();    
     mutliCountrySportMap.set('Bike',countryMap);
+    mutliCountrySportMap.set('Football',engFootballMap);
     mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
@@ -207,6 +216,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('West_Indies','GMT -05:00');*/
     
     $scope.gmtMap.set('India','-05:30');
+    $scope.gmtMap.set('England','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     
@@ -353,6 +363,10 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
 		value: "Pakistan_Tour_of_West_Indies.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
+		value: "English_Premier_League.ics"
 	}
 
 
