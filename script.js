@@ -1507,7 +1507,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        
                                        var multiFileName = '';
-                                       if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null){
+                                       if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && country !== 'Multi'){
                                           // multiFileName = mutliSportMap.get('default');
                                            
                                             mutliSportMap.forEach(function (value, key) {
@@ -1560,7 +1560,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                            
                                             });
                                            
-                                       }else{
+                                       }else if(mutliSportMap.get(country)){
                                            multiFileName = mutliSportMap.get(country);
                                            var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
                                        

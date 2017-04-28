@@ -171,7 +171,7 @@
        
        <div  ng-show="isLoading">
            <div class="col-xs-12" >&nbsp;</div>
-           <img class="col-xs-12" src="Loading.png" alt="some_text" style="width:300px;height:300px;">
+           <img class="col-xs-12" src="Loading.png" alt="some_text" style="width:200px;height:200px;">
        </div>  
        
         <div ng-show="showEvents">
@@ -187,7 +187,7 @@
                         <!--<div class="col-sm-12"><br/></div>-->
                     <div class="col-sm-12"><br/></div>
                     <!--<hr class="hr-text" data-content="OR">-->
-                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
+                    <div ng-repeat='event in dateTimes.listValue | orderBy: "country" | unique:"UID" '>
                    <!-- <li>-->
                         <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; ">
@@ -198,13 +198,13 @@
                     <!--</li>    
                     <li>-->
                             
-                            <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
+                            <div class="row" ng-repeat='games in event.listValue '>
 
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
                                     <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
                                 <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
-                                    <div class="col-sm-12">{{games.league}}</div>
+                                    <div class="col-sm-12">{{games.league}} {{games.UID}}</div>
                                 </div>
                                 
                                 <div class="col-sm-12"><hr/></div>
