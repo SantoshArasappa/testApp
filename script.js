@@ -607,7 +607,6 @@ $scope.gameFileListNew =
 
             // this is only run after getData() resolves
             return result;
-            console.log("data.name"+$scope.data.name);
         });
         
         
@@ -835,11 +834,14 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
-                    console.log(country);
                     var gmtList = $scope.gmtMap.get(country).split(':');
                     if((gmtList[0]*1) < 1){
                         gmtList[1] = gmtList[1] * -1;
                     }
+                    
+                    /*cur_event.utc = new Date(dt.getUTCFullYear(), dt.getUTCMonth(), dt.getUTCDate(),  dt.getUTCHours(), dt.getUTCMinutes(), dt.getUTCSeconds());*/
+                   
+                    
 					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                     var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                     var gmtList1 = theFutureTime.split(':');
@@ -1373,7 +1375,14 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.eventsResultsFiltered = [];
        var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
-       
+        var dtA = new timezoneJS.Date(2007, 9, 31, 10, 30, 'America/Los_Angeles');
+                    var dtB = new timezoneJS.Date(2007, 9, 31, 12, 30, 'America/Chicago');
+                    // Same timestamp
+                    dtA.getTime(); //=> 1193855400000
+                    dtB.getTime(); //=> 1193855400000
+                    
+                    console.log('dtA.getTime()' + dtA.getTime());
+                    console.log('dtB.getTime()' + dtA.getTime());
        var dateFirst = false;
        if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
         
@@ -1532,7 +1541,6 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        if(country === 'Multi' && mutliSportMap.get($scope.selectedLoc)){
                                            country = $scope.selectedLoc;
-                                           console.log('inside the mutli');
                                            
                                        }
                                        
@@ -1639,8 +1647,6 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                             },dateFirstLoop,dateInLoop,country);
                                        }
                                        
-                                       console.log('country is:' + country);
-                                       console.log('multiFileName' + multiFileName);
                                       //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
                                         
                                        
