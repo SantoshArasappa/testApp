@@ -179,7 +179,7 @@
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
                 <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
-                    <div ng-if="eventsResultsFilteredNew.length > 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
+                    <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
                           </span>
@@ -190,19 +190,19 @@
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country"  '>
                         <div ng-if="event.country">
                    <!-- <li>-->
-                        <div ng-if="eventsResultsFilteredNew.length == 1" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
+                        <div ng-if="dateType == 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; ">
                             {{event.country}}
                           </span>
                         </div>
-                        <div ng-if="eventsResultsFilteredNew.length == 1" class="col-sm-12"><br/></div>
+                        <div ng-if="dateType == 'Today'" class="col-sm-12"><br/></div>
                     <!--</li>    
                     <li>-->
                             
                             <div class="row" ng-repeat='games in event.listValue | unique:"UID" '>
 
-                                    <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length > 1">{{event.country}}, {{games.LOCATION}} </div>
-                                    <div class="col-sm-3" ng-if="eventsResultsFilteredNew.length < 2">{{games.LOCATION}} </div>
+                                    <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
+                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>
                                     <div class="col-sm-6"><strong>({{games.start_time}} local, {{games.gmtTime}} GMT) &nbsp;&nbsp; {{games.SUMMARY}} </strong><br/></div> 
                                 <div class="col-sm-3"><div class="col-sm-12">{{games.sport}} </div> 
                                     <div class="col-sm-12">{{games.league}}</div>
