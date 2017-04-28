@@ -1,6 +1,6 @@
 BEGIN:VEVENT
 DTSTART:20170427T150000Z
-SUMMARY:Manchester City - Manchester United
+SUMMARY:Manchester City v Manchester United
 DESCRIPTION:Competition - English Premier League
 LOCATION:Etihad Stadium, Manchester,England
 UID:20170427T150000Z
@@ -8,7 +8,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
-SUMMARY:Sunderland -  Bournemouth
+SUMMARY:Sunderland v Bournemouth
 DESCRIPTION:Competition - English Premier League
 LOCATION:Stadium of Light, Sunderland,England
 UID:20170429T100000ZSunderland -  Bournemouth
@@ -16,7 +16,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
-SUMMARY:Southampton - Hull City
+SUMMARY:Southampton v Hull City
 DESCRIPTION:Competition - English Premier League
 LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170429T100000ZSouthampton - Hull City
@@ -24,7 +24,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
-SUMMARY:West Bromwich Albion - Leicester City
+SUMMARY:West Bromwich Albion v Leicester City
 DESCRIPTION:Competition - English Premier League
 LOCATION:The Hawthorns, West Bromwich,England
 UID:20170429T100000ZWest Bromwich Albion - Leicester City
@@ -32,7 +32,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
-SUMMARY:Stoke City - West Ham United
+SUMMARY:Stoke City v West Ham United
 DESCRIPTION:Competition - English Premier League
 LOCATION:bet365 Stadium, Stoke-on-Trent,England
 UID:20170429T100000ZStoke City - West Ham United
@@ -40,7 +40,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T123000Z
-SUMMARY:Crystal Palace - Burnley
+SUMMARY:Crystal Palace v Burnley
 DESCRIPTION:Competition - English Premier League
 LOCATION:Selhurst Park, London,England
 UID:20170429T123000ZCrystal Palace - Burnley
@@ -48,7 +48,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T070000Z
-SUMMARY:Manchester United - Swansea City
+SUMMARY:Manchester United v Swansea City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Old Trafford, Manchester,England
 UID:20170430T070000ZManchester United - Swansea City
@@ -56,7 +56,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T090500Z
-SUMMARY:Everton - Chelsea
+SUMMARY:Everton v Chelsea
 DESCRIPTION:Competition - English Premier League
 LOCATION:Goodison Park, Liverpool,England
 UID:20170430T090500ZEverton - Chelsea
@@ -64,7 +64,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T090500Z
-SUMMARY:Middlesbrough - Manchester City
+SUMMARY:Middlesbrough v Manchester City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Riverside Stadium, Middlesbrough,England
 UID:20170430T090500ZMiddlesbrough - Manchester City
@@ -72,7 +72,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T113000Z
-SUMMARY:Tottenham Hotspur - Arsenal
+SUMMARY:Tottenham Hotspur v Arsenal
 DESCRIPTION:Competition - English Premier League
 LOCATION:White Hart Lane, London,England
 UID:20170430T113000ZTottenham Hotspur - Arsenal
@@ -80,7 +80,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170501T150000Z
-SUMMARY:Watford - Liverpool
+SUMMARY:Watford v Liverpool
 DESCRIPTION:Competition - English Premier League
 LOCATION:Vicarage Road, Watford,England
 UID:20170501T150000ZWatford - Liverpool
@@ -88,7 +88,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170505T150000Z
-SUMMARY:West Ham United - Tottenham Hotspur
+SUMMARY:West Ham United v Tottenham Hotspur
 DESCRIPTION:Competition - English Premier League
 LOCATION:Olympic Stadium, London,England
 UID:20170505T150000ZWest Ham United - Tottenham Hotspur
@@ -96,7 +96,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T073000Z
-SUMMARY:Manchester City - Crystal Palace
+SUMMARY:Manchester City v Crystal Palace
 DESCRIPTION:Competition - English Premier League
 LOCATION:Etihad Stadium, Manchester,England
 UID:20170506T073000ZManchester City - Crystal Palace
@@ -104,7 +104,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
-SUMMARY:Hull City - Sunderland
+SUMMARY:Hull City v Sunderland
 DESCRIPTION:Competition - English Premier League
 LOCATION:KCOM Stadium, Hull,England
 UID:20170506T100000ZHull City - Sunderland
@@ -112,7 +112,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
-SUMMARY:Burnley - West Bromwich Albion
+SUMMARY:Burnley v West Bromwich Albion
 DESCRIPTION:Competition - English Premier League
 LOCATION:Turf Moor, Burnley,England
 UID:20170506T100000ZBurnley - West Bromwich Albion
@@ -120,7 +120,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
-SUMMARY:Bournemouth - Stoke City
+SUMMARY:Bournemouth v Stoke City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Vitality Stadium, Bournemouth,England
 UID:20170506T100000ZBournemouth - Stoke City
@@ -128,7 +128,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
-SUMMARY:Leicester City - Watford
+SUMMARY:Leicester City v Watford
 DESCRIPTION:Competition - English Premier League
 LOCATION:King Power Stadium, Leicester,England
 UID:20170506T100000ZLeicester City - Watford
@@ -136,7 +136,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T123000Z
-SUMMARY:Swansea City - Everton
+SUMMARY:Swansea City v Everton
 DESCRIPTION:Competition - English Premier League
 LOCATION:Liberty Stadium, Swansea,Wales
 UID:20170506T123000ZSwansea City - Everton
@@ -144,7 +144,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170507T083000Z
-SUMMARY:Liverpool - Southampton
+SUMMARY:Liverpool v Southampton
 DESCRIPTION:Competition - English Premier League
 LOCATION:Anfield, Liverpool,England
 UID:20170507T083000ZLiverpool - Southampton
@@ -152,7 +152,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170507T110000Z
-SUMMARY:Arsenal - Manchester United
+SUMMARY:Arsenal v Manchester United
 DESCRIPTION:Competition - English Premier League
 LOCATION:Emirates Stadium, London,England
 UID:20170507T110000ZArsenal - Manchester United
@@ -160,7 +160,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170508T150000Z
-SUMMARY:Chelsea - Middlesbrough
+SUMMARY:Chelsea v Middlesbrough
 DESCRIPTION:Competition - English Premier League
 LOCATION:Stamford Bridge, London,England
 UID:20170508T150000ZChelsea - Middlesbrough
@@ -168,7 +168,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170510T144500Z
-SUMMARY:Southampton - Arsenal
+SUMMARY:Southampton v Arsenal
 DESCRIPTION:Competition - English Premier League
 LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170510T144500ZSouthampton - Arsenal
@@ -176,7 +176,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170512T144500Z
-SUMMARY:Everton - Watford
+SUMMARY:Everton v Watford
 DESCRIPTION:Competition - English Premier League
 LOCATION:Goodison Park, Liverpool,England
 UID:20170512T144500ZEverton - Watford
@@ -184,7 +184,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170512T150000Z
-SUMMARY:West Bromwich Albion - Chelsea
+SUMMARY:West Bromwich Albion v Chelsea
 DESCRIPTION:Competition - English Premier League
 LOCATION:The Hawthorns, West Bromwich,England
 UID:20170512T150000ZWest Bromwich Albion - Chelsea
@@ -192,7 +192,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T073000Z
-SUMMARY:Manchester City - Leicester City
+SUMMARY:Manchester City v Leicester City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Etihad Stadium, Manchester,England
 UID:20170513T073000ZMachester City - Leicester City
@@ -200,7 +200,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
-SUMMARY:Sunderland - Swansea City
+SUMMARY:Sunderland v Swansea City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Stadium of Light, Sunderland,England
 UID:20170513T100000ZSunderland - Swansea City
@@ -208,7 +208,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
-SUMMARY:Middlesbrough - Southampton
+SUMMARY:Middlesbrough v Southampton
 DESCRIPTION:Competition - English Premier League
 LOCATION:Riverside Stadium, Middlesbrough,England
 UID:20170513T100000ZMiddlesbrough - Southampton
@@ -216,7 +216,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
-SUMMARY:Bournemouth - Burnley
+SUMMARY:Bournemouth v Burnley
 DESCRIPTION:Competition - English Premier League
 LOCATION:Vitality Stadium, Bournemouth,England
 UID:20170513T100000ZBournemouth - Burnley
@@ -224,7 +224,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T123000Z
-SUMMARY:Stoke City - Arsenal
+SUMMARY:Stoke City v Arsenal
 DESCRIPTION:Competition - English Premier League
 LOCATION:bet365 Stadium, Stoke-on-Trent,England
 UID:20170513T123000ZStoke City - Arsenal
@@ -232,7 +232,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T070000Z
-SUMMARY:Crystal Palace - Hull City
+SUMMARY:Crystal Palace v Hull City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Selhurst Park, London,England
 UID:20170514T070000ZCrystal Palace - Hull City
@@ -240,7 +240,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T091500Z
-SUMMARY:West Ham United - Liverpool
+SUMMARY:West Ham United v Liverpool
 DESCRIPTION:Competition - English Premier League
 LOCATION:Olympic Stadium, London,England
 UID:20170514T091500ZWest Ham United - Liverpool
@@ -248,7 +248,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T113000Z
-SUMMARY:Tottenham Hotspur - Manchester United
+SUMMARY:Tottenham Hotspur v Manchester United
 DESCRIPTION:Competition - English Premier League
 LOCATION:White Hart Lane, London,England
 UID:20170514T113000ZTottenham Hotspur - Manchester United
@@ -256,7 +256,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170515T150000Z
-SUMMARY:Chelsea - Watford
+SUMMARY:Chelsea v Watford
 DESCRIPTION:Competition - English Premier League
 LOCATION:Stamford Bridge, London,England
 UID:20170515T150000ZChelsea - Watford
@@ -264,7 +264,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170516T144500Z
-SUMMARY:Arsenal - Sunderland
+SUMMARY:Arsenal v Sunderland
 DESCRIPTION:Competition - English Premier League
 LOCATION:Emirates Stadium, London,England
 UID:20170516T144500ZArsenal - Sunderland
@@ -272,7 +272,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170516T150000Z
-SUMMARY:Manchester City - West Bromwich Albion
+SUMMARY:Manchester City v West Bromwich Albion
 DESCRIPTION:Competition - English Premier League
 LOCATION:Etihad Stadium, Manchester,England
 UID:20170516T150000ZManchester City - West Bromwich Albion
@@ -280,7 +280,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170517T144500Z
-SUMMARY:Southampton - Manchester United
+SUMMARY:Southampton v Manchester United
 DESCRIPTION:Competition - English Premier League
 LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170517T144500ZSouthampton - Manchester United
@@ -288,7 +288,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170518T144500Z
-SUMMARY:Leicester City - Tottenham Hotspur
+SUMMARY:Leicester City v Tottenham Hotspur
 DESCRIPTION:Competition - English Premier League
 LOCATION:King Power Stadium, Leicester,England
 UID:20170518T144500ZLeicester City - Tottenham Hotspur
@@ -296,7 +296,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Arsenal - Everton
+SUMMARY:Arsenal v Everton
 DESCRIPTION:Competition - English Premier League
 LOCATION:Emirates Stadium, London,England
 UID:20170521T100000ZArsenal - Everton
@@ -304,7 +304,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Chelsea - Sunderland
+SUMMARY:Chelsea v Sunderland
 DESCRIPTION:Competition - English Premier League
 LOCATION:Stamford Bridge, London,England
 UID:20170521T100000ZChelsea - Sunderland
@@ -312,7 +312,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Southampton - Stoke City
+SUMMARY:Southampton v Stoke City
 DESCRIPTION:Competition - English Premier League
 LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170521T100000ZSouthampton - Stoke City
@@ -320,7 +320,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Hull City - Tottenham Hotspur
+SUMMARY:Hull City v Tottenham Hotspur
 DESCRIPTION:Competition - English Premier League
 LOCATION:KCOM Stadium, Hull,England
 UID:20170521T100000ZHull City - Tottenham Hotspur
@@ -328,7 +328,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Burnley - West Ham United
+SUMMARY:Burnley v West Ham United
 DESCRIPTION:Competition - English Premier League
 LOCATION:Turf Moor, Burnley,England
 UID:20170521T100000ZBurnley - West Ham United
@@ -336,7 +336,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Leicester City - Bournemouth
+SUMMARY:Leicester City v Bournemouth
 DESCRIPTION:Competition - English Premier League
 LOCATION:King Power Stadium, Leicester,England
 UID:20170521T100000ZLeicester City - Bournemouth
@@ -344,7 +344,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Liverpool - Middlesbrough
+SUMMARY:Liverpool v Middlesbrough
 DESCRIPTION:Competition - English Premier League
 LOCATION:Anfield, Liverpool,England
 UID:20170521T100000ZLiverpool - Middlesbrough
@@ -352,7 +352,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Manchester United - Crystal Palace
+SUMMARY:Manchester United v Crystal Palace
 DESCRIPTION:Competition - English Premier League
 LOCATION:Old Trafford, Manchester,England
 UID:20170521T100000ZManchester United - Crystal Palace
@@ -360,7 +360,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Watford - Manchester City
+SUMMARY:Watford v Manchester City
 DESCRIPTION:Competition - English Premier League
 LOCATION:Vicarage Road, Watford,England
 UID:20170521T100000ZWatford - Manchester City
@@ -368,7 +368,7 @@ END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Swansea City - West Bromwich Albion
+SUMMARY:Swansea City v West Bromwich Albion
 DESCRIPTION:Competition - English Premier League
 LOCATION:Liberty Stadium, Swansea,Wales
 UID:20170521T100000ZSwansea City - West Bromwich Albion
