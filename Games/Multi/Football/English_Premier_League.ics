@@ -1,375 +1,375 @@
 BEGIN:VEVENT
 DTSTART:20170427T150000Z
-SUMMARY:Manchester City - Manchester United 
-DESCRIPTION:English Premier League
-LOCATION:Etihad Stadium, Manchester
-UID:20170427T150000ZManchester City - Manchester United 
-END:VEVENT 
+SUMMARY:Manchester City - Manchester United
+DESCRIPTION:Competition - English Premier League
+LOCATION:Etihad Stadium, Manchester,England
+UID:20170427T150000ZManchester City - Manchester United
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
 SUMMARY:Sunderland -  Bournemouth
-DESCRIPTION:English Premier League
-LOCATION:Stadium of Light, Sunderland
+DESCRIPTION:Competition - English Premier League
+LOCATION:Stadium of Light, Sunderland,England
 UID:20170429T100000ZSunderland -  Bournemouth
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
 SUMMARY:Southampton - Hull City
-DESCRIPTION:English Premier League
-LOCATION:St. Mary's Stadium, Southampton
+DESCRIPTION:Competition - English Premier League
+LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170429T100000ZSouthampton - Hull City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
 SUMMARY:West Bromwich Albion - Leicester City
-DESCRIPTION:English Premier League
-LOCATION:The Hawthorns, West Bromwich
+DESCRIPTION:Competition - English Premier League
+LOCATION:The Hawthorns, West Bromwich,England
 UID:20170429T100000ZWest Bromwich Albion - Leicester City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T100000Z
-SUMMARY:Stoke City - West Ham United 
-DESCRIPTION:English Premier League
-LOCATION:bet365 Stadium, Stoke-on-Trent
-UID:20170429T100000ZStoke City - West Ham United 
-END:VEVENT 
+SUMMARY:Stoke City - West Ham United
+DESCRIPTION:Competition - English Premier League
+LOCATION:bet365 Stadium, Stoke-on-Trent,England
+UID:20170429T100000ZStoke City - West Ham United
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170429T123000Z
 SUMMARY:Crystal Palace - Burnley
-DESCRIPTION:English Premier League
-LOCATION:Selhurst Park, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Selhurst Park, London,England
 UID:20170429T123000ZCrystal Palace - Burnley
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T070000Z
 SUMMARY:Manchester United - Swansea City
-DESCRIPTION:English Premier League
-LOCATION:Old Trafford, Manchester
+DESCRIPTION:Competition - English Premier League
+LOCATION:Old Trafford, Manchester,England
 UID:20170430T070000ZManchester United - Swansea City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T090500Z
 SUMMARY:Everton - Chelsea
-DESCRIPTION:English Premier League
-LOCATION:Goodison Park, Liverpool
+DESCRIPTION:Competition - English Premier League
+LOCATION:Goodison Park, Liverpool,England
 UID:20170430T090500ZEverton - Chelsea
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T090500Z
 SUMMARY:Middlesbrough - Manchester City
-DESCRIPTION:English Premier League
-LOCATION:Riverside Stadium, Middlesbrough
+DESCRIPTION:Competition - English Premier League
+LOCATION:Riverside Stadium, Middlesbrough,England
 UID:20170430T090500ZMiddlesbrough - Manchester City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170430T113000Z
 SUMMARY:Tottenham Hotspur - Arsenal
-DESCRIPTION:English Premier League
-LOCATION:White Hart Lane, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:White Hart Lane, London,England
 UID:20170430T113000ZTottenham Hotspur - Arsenal
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170501T150000Z
 SUMMARY:Watford - Liverpool
-DESCRIPTION:English Premier League
-LOCATION:Vicarage Road, Watford
+DESCRIPTION:Competition - English Premier League
+LOCATION:Vicarage Road, Watford,England
 UID:20170501T150000ZWatford - Liverpool
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170505T150000Z
 SUMMARY:West Ham United - Tottenham Hotspur
-DESCRIPTION:English Premier League
-LOCATION:Olympic Stadium, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Olympic Stadium, London,England
 UID:20170505T150000ZWest Ham United - Tottenham Hotspur
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T073000Z
 SUMMARY:Manchester City - Crystal Palace
-DESCRIPTION:English Premier League
-LOCATION:Etihad Stadium, Manchester
+DESCRIPTION:Competition - English Premier League
+LOCATION:Etihad Stadium, Manchester,England
 UID:20170506T073000ZManchester City - Crystal Palace
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
 SUMMARY:Hull City - Sunderland
-DESCRIPTION:English Premier League
-LOCATION:KCOM Stadium, Hull
+DESCRIPTION:Competition - English Premier League
+LOCATION:KCOM Stadium, Hull,England
 UID:20170506T100000ZHull City - Sunderland
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
 SUMMARY:Burnley - West Bromwich Albion
-DESCRIPTION:English Premier League
-LOCATION:Turf Moor, Burnley
+DESCRIPTION:Competition - English Premier League
+LOCATION:Turf Moor, Burnley,England
 UID:20170506T100000ZBurnley - West Bromwich Albion
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
 SUMMARY:Bournemouth - Stoke City
-DESCRIPTION:English Premier League
-LOCATION:Vitality Stadium, Bournemouth
+DESCRIPTION:Competition - English Premier League
+LOCATION:Vitality Stadium, Bournemouth,England
 UID:20170506T100000ZBournemouth - Stoke City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T100000Z
 SUMMARY:Leicester City - Watford
-DESCRIPTION:English Premier League
-LOCATION:King Power Stadium, Leicester
+DESCRIPTION:Competition - English Premier League
+LOCATION:King Power Stadium, Leicester,England
 UID:20170506T100000ZLeicester City - Watford
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170506T123000Z
 SUMMARY:Swansea City - Everton
-DESCRIPTION:English Premier League
-LOCATION:Liberty Stadium, Swansea
+DESCRIPTION:Competition - English Premier League
+LOCATION:Liberty Stadium, Swansea,Wales
 UID:20170506T123000ZSwansea City - Everton
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170507T083000Z
 SUMMARY:Liverpool - Southampton
-DESCRIPTION:English Premier League
-LOCATION:Anfield, Liverpool
+DESCRIPTION:Competition - English Premier League
+LOCATION:Anfield, Liverpool,England
 UID:20170507T083000ZLiverpool - Southampton
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170507T110000Z
 SUMMARY:Arsenal - Manchester United
-DESCRIPTION:English Premier League
-LOCATION:Emirates Stadium, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Emirates Stadium, London,England
 UID:20170507T110000ZArsenal - Manchester United
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170508T150000Z
 SUMMARY:Chelsea - Middlesbrough
-DESCRIPTION:English Premier League
-LOCATION:Stamford Bridge, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Stamford Bridge, London,England
 UID:20170508T150000ZChelsea - Middlesbrough
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170510T144500Z
 SUMMARY:Southampton - Arsenal
-DESCRIPTION:English Premier League
-LOCATION:St. Mary's Stadium, Southampton
+DESCRIPTION:Competition - English Premier League
+LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170510T144500ZSouthampton - Arsenal
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170512T144500Z
 SUMMARY:Everton - Watford
-DESCRIPTION:English Premier League
-LOCATION:Goodison Park, Liverpool
+DESCRIPTION:Competition - English Premier League
+LOCATION:Goodison Park, Liverpool,England
 UID:20170512T144500ZEverton - Watford
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170512T150000Z
 SUMMARY:West Bromwich Albion - Chelsea
-DESCRIPTION:English Premier League
-LOCATION:The Hawthorns, West Bromwich
+DESCRIPTION:Competition - English Premier League
+LOCATION:The Hawthorns, West Bromwich,England
 UID:20170512T150000ZWest Bromwich Albion - Chelsea
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T073000Z
 SUMMARY:Manchester City - Leicester City
-DESCRIPTION:English Premier League
-LOCATION:Etihad Stadium, Manchester
+DESCRIPTION:Competition - English Premier League
+LOCATION:Etihad Stadium, Manchester,England
 UID:20170513T073000ZMachester City - Leicester City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
 SUMMARY:Sunderland - Swansea City
-DESCRIPTION:English Premier League
-LOCATION:Stadium of Light, Sunderland
+DESCRIPTION:Competition - English Premier League
+LOCATION:Stadium of Light, Sunderland,England
 UID:20170513T100000ZSunderland - Swansea City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
 SUMMARY:Middlesbrough - Southampton
-DESCRIPTION:English Premier League
-LOCATION:Riverside Stadium, Middlesbrough
+DESCRIPTION:Competition - English Premier League
+LOCATION:Riverside Stadium, Middlesbrough,England
 UID:20170513T100000ZMiddlesbrough - Southampton
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T100000Z
 SUMMARY:Bournemouth - Burnley
-DESCRIPTION:English Premier League
-LOCATION:Vitality Stadium, Bournemouth
+DESCRIPTION:Competition - English Premier League
+LOCATION:Vitality Stadium, Bournemouth,England
 UID:20170513T100000ZBournemouth - Burnley
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170513T123000Z
 SUMMARY:Stoke City - Arsenal
-DESCRIPTION:English Premier League
-LOCATION:bet365 Stadium, Stoke-on-Trent
+DESCRIPTION:Competition - English Premier League
+LOCATION:bet365 Stadium, Stoke-on-Trent,England
 UID:20170513T123000ZStoke City - Arsenal
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T070000Z
 SUMMARY:Crystal Palace - Hull City
-DESCRIPTION:English Premier League
-LOCATION:Selhurst Park, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Selhurst Park, London,England
 UID:20170514T070000ZCrystal Palace - Hull City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T091500Z
 SUMMARY:West Ham United - Liverpool
-DESCRIPTION:English Premier League
-LOCATION:Olympic Stadium, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Olympic Stadium, London,England
 UID:20170514T091500ZWest Ham United - Liverpool
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170514T113000Z
 SUMMARY:Tottenham Hotspur - Manchester United
-DESCRIPTION:English Premier League
-LOCATION:White Hart Lane, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:White Hart Lane, London,England
 UID:20170514T113000ZTottenham Hotspur - Manchester United
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170515T150000Z
 SUMMARY:Chelsea - Watford
-DESCRIPTION:English Premier League
-LOCATION:Stamford Bridge, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Stamford Bridge, London,England
 UID:20170515T150000ZChelsea - Watford
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170516T144500Z
 SUMMARY:Arsenal - Sunderland
-DESCRIPTION:English Premier League
-LOCATION:Emirates Stadium, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Emirates Stadium, London,England
 UID:20170516T144500ZArsenal - Sunderland
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170516T150000Z
 SUMMARY:Manchester City - West Bromwich Albion
-DESCRIPTION:English Premier League
-LOCATION:Etihad Stadium, Manchester
+DESCRIPTION:Competition - English Premier League
+LOCATION:Etihad Stadium, Manchester,England
 UID:20170516T150000ZManchester City - West Bromwich Albion
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170517T144500Z
-SUMMARY:Southampton - Manchester United 
-DESCRIPTION:English Premier League
-LOCATION:St. Mary's Stadium, Southampton
-UID:20170517T144500ZSouthampton - Manchester United 
-END:VEVENT 
+SUMMARY:Southampton - Manchester United
+DESCRIPTION:Competition - English Premier League
+LOCATION:St. Mary's Stadium, Southampton,England
+UID:20170517T144500ZSouthampton - Manchester United
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170518T144500Z
 SUMMARY:Leicester City - Tottenham Hotspur
-DESCRIPTION:English Premier League
-LOCATION:King Power Stadium, Leicester
+DESCRIPTION:Competition - English Premier League
+LOCATION:King Power Stadium, Leicester,England
 UID:20170518T144500ZLeicester City - Tottenham Hotspur
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Arsenal - Everton
-DESCRIPTION:English Premier League
-LOCATION:Emirates Stadium, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Emirates Stadium, London,England
 UID:20170521T100000ZArsenal - Everton
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Chelsea - Sunderland
-DESCRIPTION:English Premier League
-LOCATION:Stamford Bridge, London
+DESCRIPTION:Competition - English Premier League
+LOCATION:Stamford Bridge, London,England
 UID:20170521T100000ZChelsea - Sunderland
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Southampton - Stoke City
-DESCRIPTION:English Premier League
-LOCATION:St. Mary's Stadium, Southampton
+DESCRIPTION:Competition - English Premier League
+LOCATION:St. Mary's Stadium, Southampton,England
 UID:20170521T100000ZSouthampton - Stoke City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Hull City - Tottenham Hotspur
-DESCRIPTION:English Premier League
-LOCATION:KCOM Stadium, Hull
+DESCRIPTION:Competition - English Premier League
+LOCATION:KCOM Stadium, Hull,England
 UID:20170521T100000ZHull City - Tottenham Hotspur
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
-SUMMARY:Burnley - West Ham United 
-DESCRIPTION:English Premier League
-LOCATION:Turf Moor, Burnley
-UID:20170521T100000ZBurnley - West Ham United 
-END:VEVENT 
+SUMMARY:Burnley - West Ham United
+DESCRIPTION:Competition - English Premier League
+LOCATION:Turf Moor, Burnley,England
+UID:20170521T100000ZBurnley - West Ham United
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Leicester City - Bournemouth
-DESCRIPTION:English Premier League
-LOCATION:King Power Stadium, Leicester
+DESCRIPTION:Competition - English Premier League
+LOCATION:King Power Stadium, Leicester,England
 UID:20170521T100000ZLeicester City - Bournemouth
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Liverpool - Middlesbrough
-DESCRIPTION:English Premier League
-LOCATION:Anfield, Liverpool
+DESCRIPTION:Competition - English Premier League
+LOCATION:Anfield, Liverpool,England
 UID:20170521T100000ZLiverpool - Middlesbrough
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Manchester United - Crystal Palace
-DESCRIPTION:English Premier League
-LOCATION:Old Trafford, Manchester
+DESCRIPTION:Competition - English Premier League
+LOCATION:Old Trafford, Manchester,England
 UID:20170521T100000ZManchester United - Crystal Palace
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Watford - Manchester City
-DESCRIPTION:English Premier League
-LOCATION:Vicarage Road, Watford
+DESCRIPTION:Competition - English Premier League
+LOCATION:Vicarage Road, Watford,England
 UID:20170521T100000ZWatford - Manchester City
-END:VEVENT 
+END:VEVENT
 
 BEGIN:VEVENT
 DTSTART:20170521T100000Z
 SUMMARY:Swansea City - West Bromwich Albion
-DESCRIPTION:English Premier League
-LOCATION:Liberty Stadium, Swansea
+DESCRIPTION:Competition - English Premier League
+LOCATION:Liberty Stadium, Swansea,Wales
 UID:20170521T100000ZSwansea City - West Bromwich Albion
-END:VEVENT 
+END:VEVENT
