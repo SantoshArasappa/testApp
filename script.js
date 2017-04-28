@@ -372,8 +372,14 @@ $scope.gameFileListNew =
 		value: "Pakistan_Tour_of_West_Indies.ics"
 	},
     {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
+		value: "FA_Cup.ics"
+	},
+	
+	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
 		value: "English_Premier_League.ics"
+
 	}
 
 
@@ -792,12 +798,28 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			}
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
-				in_event = false;
-                cur_event["sport"] = game;
-                cur_event["country"] = country;
-                cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
-				this.events.push(cur_event);
-				cur_event = null;
+                
+                var locList = cur_event.LOCATION.split(',');
+                if(locList.length > 2){
+                   var countryInside = locList[2];
+                    if(countryInside === country){
+                        in_event = false;
+                        cur_event["sport"] = game;
+                        cur_event["country"] = country;
+                        cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
+                        this.events.push(cur_event);
+                        cur_event = null;
+                    }
+                }else{  
+                    in_event = false;
+                    cur_event["sport"] = game;
+                    cur_event["country"] = country;
+                    cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
+                    this.events.push(cur_event);
+                    cur_event = null;
+                }
+                
+				
 			}
 			//If we are in an event
 			if(in_event){
