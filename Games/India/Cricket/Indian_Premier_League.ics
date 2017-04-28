@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
 SUMMARY:Kolkata Knight Riders v Delhi Daredevils
-DTSTART:20170428T103000Z
+DTSTART:20170428T200000Z
 DTEND:20170428T143000Z
 LOCATION:Eden Gardens, Kolkata
 TRANSP:OPAQUE
