@@ -114,6 +114,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     "England": "England",
     "India": "India",
     "Spain": "Spain",
+    "Wales": "Wales",
     "West_Indies": "West Indies"
 };
     
@@ -141,6 +142,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     var countriesMap = new Map();    
      countriesMap.set('England','England');
      countriesMap.set('India','India');
+     countriesMap.set('Wales','Wales');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
      
@@ -674,6 +676,11 @@ $scope.gameFileListNew =
                             countryNameInLoop = (locList)[locList.length - 1] + '';
                             countryNameInLoop = countryNameInLoop.trim();
                         }
+                        
+                        if(locList.length > 2){
+                            event.LOCATION = locList[0] + ", " + locList[1];
+                        }
+                        
                         if(countryName == null || countryNameInLoop == countryName){
                             eventsResultsFilteredLocal.push(event);
                         }
