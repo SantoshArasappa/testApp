@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
 SUMMARY:Kings XI Punjab v Sunrisers Hyderabad
-DTSTART:20170428T143000Z
+DTSTART:20170428T200000Z
 DTEND:20170428T183000Z
 LOCATION:Punjab Cricket Association IS Bindra Stadium, Chandigarh
 TRANSP:OPAQUE
