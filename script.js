@@ -113,6 +113,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.countries = {
     "England": "England",
     "India": "India",
+    "Italy": "Italy",    
     "Spain": "Spain",
     "Wales": "Wales",
     "West_Indies": "West Indies"
@@ -142,6 +143,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     var countriesMap = new Map();    
      countriesMap.set('England','England');
      countriesMap.set('India','India');
+     countriesMap.set('Italy', 'Italy');
      countriesMap.set('Wales','Wales');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
@@ -220,6 +222,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.gmtMap.set('India','-05:30');
     $scope.gmtMap.set('England','-01:00');
+    $scope.gmtMap.set('Italy','-02:00');
     $scope.gmtMap.set('Wales','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
@@ -374,6 +377,11 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
 		value: "FA_Cup.ics"
+	},
+    
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
+		value: "Serie_A.ics"
 	},
 	
 	{
