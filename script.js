@@ -845,7 +845,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					//These are helpful for display
                     console.log(country);
                     var gmtList = $scope.gmtMap.get(country).split(':');
-                    //
+                    if((gmtList[0]*1) < 1){
+                        gmtList[1] = gmtList[1] * -1;
+                    }
 					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                     var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                     var gmtList1 = theFutureTime.split(':');
