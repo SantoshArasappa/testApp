@@ -379,8 +379,12 @@ $scope.gameFileListNew =
 		value: "FA_Cup.ics"
 	},
     
-    {
+   /* {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
+		value: "Serie_A.ics"
+	},*/
+    {
+		url: "/Games/Italy/Football",
 		value: "Serie_A.ics"
 	},
 	
