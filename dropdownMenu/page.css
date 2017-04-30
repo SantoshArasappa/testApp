@@ -22,11 +22,19 @@
   box-shadow: none;
 }
 
+
 option:nth-child(1) {
     font-weight:bold;
 }
+/*
+option:nth-child(0) {
+    font-weight:bold;
+}*/
+     
+.bold {
+  font-weight:bold;
+}
 
-           
 div img {
     position:absolute;
     top:0;
@@ -34,4 +42,11 @@ div img {
     right:0;
     bottom:0;
     margin:auto;
+}
+
+.border-radius(@radius){
+    .border-top-radius(@radius);
+    .border-right-radius(@radius);
+    .border-bottom-radius(@radius);
+    .border-left-radius(@radius);
 }

@@ -35,7 +35,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   this.activeDate2 = null;
   $scope.showEvents = false;  
   $scope.isLoading = false;    
-  $scope.selectedDates = new Date();
+  $scope.selectedDates = undefined;
   $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
@@ -50,8 +50,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.show2pickers = false;
  // $scope.countries = [];
   $scope.games = [];
+  $scope.dateTypesMap = [];
+  $scope.datesList = [];    
+  
   $scope.isError = false;  
-    
+  
   /*$scope.countries.push('Australia');    
   $scope.countries.push('Bangladesh');    
   $scope.countries.push('Europe'); 
@@ -81,8 +84,20 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Boxing'); 
   $scope.games.push('Bike'); */
     
+    
+       
+  
+    
+  $scope.games.push('Sport');
   $scope.games.push('Cricket');     
-  $scope.games.push('Football');   
+  $scope.games.push('Football');
+    
+  $scope.datesList.push('dates');
+  $scope.datesList.push('Sport');
+  $scope.datesList.push('Cricket');     
+  $scope.datesList.push('Football');  
+      
+    
     
     /*$scope.countries = {
     "Australia": "Australia",
@@ -111,6 +126,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
 };*/
     
     $scope.countries = {
+    "Country":"Country",    
     "England": "England",
     "India": "India",
     "Italy": "Italy",    
@@ -119,6 +135,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     "West_Indies": "West Indies"
 };
     
+    $scope.datesList = {
+    "Day/Dates":"Day/Dates",    
+    "Today": "Today",
+    "One Week": "One Week",
+    "Two Weeks": "Two Weeks",    
+    "Custom": "Date Range"
+};
+   
     
     /*var countriesMap = new Map();    
      countriesMap.set('Australia','Australia');
@@ -377,14 +401,9 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
 		value: "FA_Cup.ics"
-	},
-    
-   /* {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
-		value: "Serie_A.ics"
-	},*/
+	}, 
     {
-		url: "/Games/Italy/Football",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
 		value: "Serie_A.ics"
 	},
 	
@@ -538,6 +557,9 @@ $scope.gameFileListNew =
     
     $scope.selectedLoc = "Country";
     $scope.selectedGame = 'Sport';
+    $scope.dateType = 'Day/Dates';
+    
+    
   $scope.ddSelectOptions = [
     {
       text: 'NBA',
@@ -1794,12 +1816,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
     }
    
    this.clearFilters = function(){
-       $scope.selectedDates = new Date();
      //  $scope.selectedDates = new Date();
+     //  $scope.selectedDates = new Date();
+     //  $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+       $scope.selectedDates = undefined;
+       $scope.dateType = 'Day/Dates';
+       $scope.selectedDates = undefined;
        $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
        $scope.eventsResultsFiltered = [];
-       $scope.selectedLoc = "";
-        $scope.selectedGame = '';
+       $scope.selectedLoc = "Country";
+        $scope.selectedGame = 'Sport';
+       
        $scope.showEvents = false;
        $scope.isError = false;
        $scope.isLoading = false;
