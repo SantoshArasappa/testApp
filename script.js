@@ -91,6 +91,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Sport');
   $scope.games.push('Cricket');     
   $scope.games.push('Football');
+  $scope.games.push('Golf');
+  $scope.games.push('Tennis');
     
   $scope.datesList.push('dates');
   $scope.datesList.push('Sport');
@@ -128,6 +130,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.countries = {
     "Country":"Country",    
     "England": "England",
+    "France": "France",
+    "Georgia": "Georgia",
     "India": "India",
     "Italy": "Italy",    
     "Spain": "Spain",
@@ -410,6 +414,31 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
 		value: "English_Premier_League.ics"
+
+	},
+    
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
+		value: "French_Open.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Tennis",
+		value: "Wimbledon.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Georgia/Golf",
+		value: "Golf_Masters_Tournament.ics"
+	}, 
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
+		value: "Golf_The_Open_Championship.ics"
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
+		value: "Golf_Ryder_Cup.ics"
 
 	}
 
