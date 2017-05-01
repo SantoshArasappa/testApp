@@ -138,11 +138,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.datesList = {
     "Day/Dates":"Day/Dates",    
     "Today": "Today",
-    "One Week": "One Week",
-    "Two Weeks": "Two Weeks",    
+    "Week": "One Week",
+    "TwoWeeks": "Two Weeks",    
     "Custom": "Date Range"
 };
-   
+
     
     /*var countriesMap = new Map();    
      countriesMap.set('Australia','Australia');
