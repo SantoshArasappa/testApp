@@ -1409,12 +1409,18 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        $scope.eventsResultsFilteredNew = [];
        
        var dateFirst = false;
-       if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
+      /* if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
         
            $scope.errorMessage = "Please select at least one on of the fields to be choosen"
            $scope.isError = true;
            $scope.isLoading = false;
-       }else{
+       }*/
+       if(!(($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')) ){
+               $scope.errorMessage = "Please select one Date Type"
+               $scope.isError = true;
+               $scope.isLoading = false;
+               return;
+           }else{
            
         
          /* if((($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && 
@@ -1425,7 +1431,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
              
              
              }*/
-           if(!($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')){
+           if(($scope.dateType == 'Custom' && ($scope.selectedDates === undefined || $scope.selectedDates == ''))){
                $scope.errorMessage = "Please select one Date Type"
                $scope.isError = true;
                $scope.isLoading = false;
