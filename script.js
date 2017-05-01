@@ -138,7 +138,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.datesList = {
     "Day/Dates":"Day/Dates",    
     "Today": "Today",
-    "Week": "One Week",
+    "week": "One Week",
     "TwoWeeks": "Two Weeks",    
     "Custom": "Date Range"
 };
@@ -1447,6 +1447,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
+                $scope.selectedDates = new Date();
                 var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 7);
                $scope.selectedDates2 = new Date(date2);
@@ -1457,6 +1458,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
+               $scope.selectedDates = new Date();
                var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 14);
                $scope.selectedDates2 = new Date(date2);
