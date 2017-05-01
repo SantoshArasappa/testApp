@@ -35,14 +35,7 @@ option:nth-child(0) {
   font-weight:bold;
 }
 
-div img {
-    position:absolute;
-    top:0;
-    left:0;
-    right:0;
-    bottom:0;
-    margin:auto;
-}
+
 
 .border-radius(@radius){
     .border-top-radius(@radius);
