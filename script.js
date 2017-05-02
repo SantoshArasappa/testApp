@@ -91,8 +91,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Sport');
   $scope.games.push('Cricket');     
   $scope.games.push('Football');
-  /*$scope.games.push('Golf');
-  $scope.games.push('Tennis');*/
+  $scope.games.push('Golf');
+  $scope.games.push('Tennis');
     
 
       
@@ -124,7 +124,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
 };*/
     
-    /*$scope.countries = {
+    $scope.countries = {
     "Country":"Country",    
     "England": "England",
     "France": "France",
@@ -134,9 +134,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     "Spain": "Spain",
     "Wales": "Wales",
     "West_Indies": "West Indies"
-};*/
+};
     
-    $scope.countries = {
+  /*  $scope.countries = {
     "Country":"Country",    
     "England": "England",
     "India": "India",
@@ -144,7 +144,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     "Spain": "Spain",
     "Wales": "Wales",
     "West_Indies": "West Indies"
-};
+};*/
     
     $scope.datesList = {
     "Day/Dates":"Day/Dates",    
@@ -394,61 +394,60 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
 $scope.gameFileListNew = 
 [
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/India/Cricket",
 		value: "Indian_Premier_League.ics"
 
 	},
 	
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Spain/Football",
 		value: "La_Liga.ics"
 
 	},
 	
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/West_Indies/Cricket",
 		value: "Pakistan_Tour_of_West_Indies.ics"
 	},
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Football",
 		value: "FA_Cup.ics"
 	}, 
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Italy/Football",
 		value: "Serie_A.ics"
 	},
 	
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Multi/Football",
 		value: "English_Premier_League.ics"
 
-	}
-    /*,
+	},
     
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Tennis",
 		value: "French_Open.ics"
 
 	},
 	
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Tennis",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Tennis",
 		value: "Wimbledon.ics"
 	},
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Georgia/Golf",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Georgia/Golf",
 		value: "Golf_Masters_Tournament.ics"
 	}, 
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
 	},
 	
 	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
 
-	}*/
+	}
 
 
 ]; 
