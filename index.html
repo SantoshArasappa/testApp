@@ -76,13 +76,21 @@
        <div class="row">
            <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)">  <h1 > {{errorMessage}}</h1></div>
            <div class="col-xs-12" >
-                        <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
-                          <option value="">---Please select---</option> <!-- not selected / blank option -->
+                       <!-- <select name="singleSelect" id="singleSelect" ng-model="dateType" style="height:35px;width:200px;margin-top: 10px;">
+                          <option value="">
                           <option value="Today">Today</option> 
                           <option value="week">One Week</option>
                           <option value="TwoWeeks">Two Weeks</option> 
                           <option value="Custom">Date Range</option>
                         </select>
+               
+                        <select ng-model="dateType" 
+                     ng-options="key as value for (key , value) in dateTypesMap" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':dateType == 'dates'}">
+                            </select> -->
+               
+               <select ng-model="dateType" 
+                     ng-options="key as value for (key , value) in datesList" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':dateType == 'Day/Dates'}">  
+                </select>
                    </div> 
            <div class="col-md-6 col-lg-6 col-xs-12" ng-show="dateType=='Custom'">
                <div class="row">
@@ -127,8 +135,8 @@
                 </select>-->
                   
                   <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;">
-                   <option value=''>Country</option>
+                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':selectedLoc == 'Country'}">
+                   
                 </select>
                   
                   
@@ -139,8 +147,8 @@
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="record as record for record in games" style="height:35px;width:200px;margin-top: 10px;">
-                   <option value=''>Sport</option>
+                     ng-options="record as record for record in games" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':selectedGame == 'Sport'}">
+                   
                   </select>
               </div>    
            
@@ -160,14 +168,17 @@
             </div>
        
             <div class="row">
-                <div class="col-xs-12" >&nbsp;</div>
-            <div id="events" class="col-xs-2">
+                <div class="col-xs-12">&nbsp;</div>
+                
+                <div class="col-lg-2 col-md-2 col-xs-12">
+                    <button class='btn btn-md' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.clearFilters()'>Clear Search</button>
+                </div>
+                <div class="col-xs-1 col-lg-2 col-md-2" >&nbsp;</div>
+            <div id="events" class="col-lg-2 col-md-2 col-xs-12">
                 {{getBootstrapDeviceSize()}}
-                    <button class='btn btn-xs' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.filterEvents()'>Search Events</button>
+                    <button class='btn btn-md' style='margin:5px;background-color: #096735;color: #FFFFFF;' ng-click='$app.filterEvents()'>Search Events</button>
                 </div>
-                <div class="col-xs-2">
-                    <button class='btn btn-xs' style='margin:5px;background-color: #C8AA76;color: #171758;' ng-click='$app.clearFilters()'>Clear Search</button>
-                </div>
+                
            
            
             </div>
