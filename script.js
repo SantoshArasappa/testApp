@@ -182,8 +182,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('Wales','Wales');
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
+     countriesMap.set('France','France');
+     countriesMap.set('Georgia','Georgia');
      
-    
     
     /*$scope.games = {
     "Cricket": "Cricket",
@@ -261,7 +262,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Wales','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
+    $scope.gmtMap.set('France','-02:00');
+    $scope.gmtMap.set('Georgia','-04:00');
     
+  
     $scope.multiGamesList.push('Football'); 
    // $scope.multiGamesList.push('Football'); 
     
