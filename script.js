@@ -249,8 +249,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games.push('Sport');
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
-    $scope.games.push('Golf');
-    $scope.games.push('Tennis');
+  //  $scope.games.push('Golf');
+ //   $scope.games.push('Tennis');
     
     // Any new country List
     
@@ -321,7 +321,7 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Multi/Football",
 		value: "English_Premier_League.ics"
 
-	},
+	}/*,
     
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Tennis",
@@ -342,7 +342,7 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
 
-	}
+	} */
 
 
 ]; 
