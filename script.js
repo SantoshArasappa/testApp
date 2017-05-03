@@ -88,11 +88,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
        
   
     
-  $scope.games.push('Sport');
-  $scope.games.push('Cricket');     
-  $scope.games.push('Football');
-  $scope.games.push('Golf');
-  $scope.games.push('Tennis');
+  
     
 
       
@@ -124,17 +120,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
 };*/
     
-    $scope.countries = {
-    "Country":"Country",    
-    "England": "England",
-    "France": "France",
-    "Georgia": "Georgia",
-    "India": "India",
-    "Italy": "Italy",    
-    "Spain": "Spain",
-    "Wales": "Wales",
-    "West_Indies": "West Indies"
-};
+   
     
   /*  $scope.countries = {
     "Country":"Country",    
@@ -175,15 +161,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('Italy','Italy');*/
     
     
-    var countriesMap = new Map();    
-     countriesMap.set('England','England');
-     countriesMap.set('India','India');
-     countriesMap.set('Italy', 'Italy');
-     countriesMap.set('Wales','Wales');
-     countriesMap.set('West_Indies','West Indies');
-     countriesMap.set('Spain','Spain');
-     countriesMap.set('France','France');
-     countriesMap.set('Georgia','Georgia');
+    
      
     
     /*$scope.games = {
@@ -205,7 +183,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
 };*/
+    // $scope.multiGamesList.push('Football'); 
     
+  /*$scope.multiGamesList.push('Bike'); 
+    $scope.multiGamesList.push('Rugby'); */
     
   var countryMap = new Map();    
      countryMap.set('Qatar','MotoGP.ics');
@@ -256,6 +237,47 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','GMT +02:00');
     $scope.gmtMap.set('West_Indies','GMT -05:00');*/
     
+    
+    
+  
+    $scope.multiGamesList.push('Football'); 
+    
+    
+    // Changes for any new files start
+    
+    //Any new sport type added
+    $scope.games.push('Sport');
+    $scope.games.push('Cricket');     
+    $scope.games.push('Football');
+    $scope.games.push('Golf');
+    $scope.games.push('Tennis');
+    
+    // Any new country List
+    
+     $scope.countries = {
+        "Country":"Country",    
+        "England": "England",
+        "France": "France",
+        "Georgia": "Georgia",
+        "India": "India",
+        "Italy": "Italy",    
+        "Spain": "Spain",
+        "Wales": "Wales",
+        "West_Indies": "West Indies"
+    };
+    
+    //Any country added we need to add here to map _ country into space country name
+    var countriesMap = new Map();    
+     countriesMap.set('England','England');
+     countriesMap.set('India','India');
+     countriesMap.set('Italy', 'Italy');
+     countriesMap.set('Wales','Wales');
+     countriesMap.set('West_Indies','West Indies');
+     countriesMap.set('Spain','Spain');
+     countriesMap.set('France','France');
+     countriesMap.set('Georgia','Georgia');
+    
+    //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
     $scope.gmtMap.set('England','-01:00');
     $scope.gmtMap.set('Italy','-02:00');
@@ -265,134 +287,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('France','-02:00');
     $scope.gmtMap.set('Georgia','-04:00');
     
-  
-    $scope.multiGamesList.push('Football'); 
-   // $scope.multiGamesList.push('Football'); 
     
-  /*$scope.multiGamesList.push('Bike'); 
-    $scope.multiGamesList.push('Rugby'); */
+   
     
-    
-/*$scope.gameFileListNew = 
-[
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
-		value: "Big_Bash_League.ics,Cricket.ics"
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/AFL",
-		value: "West_Coast_Eagles.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Rugby",
-		value: "Super_Rugby.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Bangladesh/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Football",
-		value: "La_Liga.ics,ics,UEFA_Europe_League.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Rugby",
-		value: "Six_Nations.ics"
-
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
-		value: "Cricket.ics,Indian_Premier_League.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Pakistan/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Sri_Lanka/Cricket",
-		value: "Cricket.ics"
-
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Rubgy",
-		value: "Premier_Premiership.ics,Pro_12.ics,Six_Nations.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Cricket",
-		value: "Cricket.ics,NatWest_T20.ics,Royal_London_OneDayCup.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
-		value: "SF_Giants.ics,Baltimore_Orioles.ics,White_Sox.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Basketball",
-		value: "Boston.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Boxing",
-		value: "UFC.ics"
-
-	},
-	
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Zimbabwe/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Bike",
-		value: "MotoGP.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
-		value: "Pro12.ics"
-
-	}
-
-
-];*/
+   
     
     
 $scope.gameFileListNew = 
@@ -455,6 +353,9 @@ $scope.gameFileListNew =
 
 
 ]; 
+    
+     // Changes for any new files End
+    
     
  /*   $scope.gameFileListNew = 
 [
@@ -681,6 +582,7 @@ $scope.gameFileListNew =
 
             // this is only run after getData() resolves
             return result;
+            console.log("data.name"+$scope.data.name);
         });
         
         
@@ -908,14 +810,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
+                    console.log(country);
                     var gmtList = $scope.gmtMap.get(country).split(':');
                     if((gmtList[0]*1) < 1){
                         gmtList[1] = gmtList[1] * -1;
                     }
-                    
-                    /*cur_event.utc = new Date(dt.getUTCFullYear(), dt.getUTCMonth(), dt.getUTCDate(),  dt.getUTCHours(), dt.getUTCMinutes(), dt.getUTCSeconds());*/
-                   
-                    
 					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                     var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                     var gmtList1 = theFutureTime.split(':');
@@ -1449,14 +1348,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.eventsResultsFiltered = [];
        var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
-        var dtA = new timezoneJS.Date(2007, 9, 31, 10, 30, 'America/Los_Angeles');
-                    var dtB = new timezoneJS.Date(2007, 9, 31, 12, 30, 'America/Chicago');
-                    // Same timestamp
-                    dtA.getTime(); //=> 1193855400000
-                    dtB.getTime(); //=> 1193855400000
-                    
-                    console.log('dtA.getTime()' + dtA.getTime());
-                    console.log('dtB.getTime()' + dtA.getTime());
+       
        var dateFirst = false;
       /* if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
         
@@ -1623,6 +1515,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        if(country === 'Multi' && mutliSportMap.get($scope.selectedLoc)){
                                            country = $scope.selectedLoc;
+                                           console.log('inside the mutli');
                                            
                                        }
                                        
@@ -1729,6 +1622,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                             },dateFirstLoop,dateInLoop,country);
                                        }
                                        
+                                       console.log('country is:' + country);
+                                       console.log('multiFileName' + multiFileName);
                                       //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
                                         
                                        
