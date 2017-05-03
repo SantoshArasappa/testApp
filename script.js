@@ -258,7 +258,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Country":"Country",    
         "England": "England",
         "France": "France",
-        "Georgia": "Georgia",
         "India": "India",
         "Italy": "Italy",    
         "Spain": "Spain",
@@ -275,7 +274,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
      countriesMap.set('France','France');
-     countriesMap.set('Georgia','Georgia');
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -285,7 +283,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
-    $scope.gmtMap.set('Georgia','-04:00');
     
     
    
@@ -336,10 +333,6 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Tennis",
 		value: "Wimbledon.ics"
 	},
-    {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Georgia/Golf",
-		value: "Golf_Masters_Tournament.ics"
-	}, 
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
