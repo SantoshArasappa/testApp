@@ -336,7 +336,7 @@ $scope.gameFileListNew =
 		value: "Wimbledon.ics"
 	},
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Golf",
+		url: "/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
 	},
 	
@@ -344,11 +344,6 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
 
-	},
-    
-    {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Georgia/Golf",
-		value: "Golf_Masters_Tournament.ics"
 	}
 
 
@@ -582,7 +577,7 @@ $scope.gameFileListNew =
 
             // this is only run after getData() resolves
             return result;
-            console.log("data.name"+$scope.data.name);
+            
         });
         
         
@@ -810,17 +805,27 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
-                    console.log(country);
+                   
                     var gmtList = $scope.gmtMap.get(country).split(':');
                     if((gmtList[0]*1) < 1){
                         gmtList[1] = gmtList[1] * -1;
                     }
-					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
-                    var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
-                    var gmtList1 = theFutureTime.split(':');
-                    theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
-                    //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                    cur_event.gmtTime = theFutureTime;
+                    
+                    if(dt.minute == '99'){
+                        cur_event.start_time = 'TBC';
+                    }else if(dt.minute == '60'){
+                        cur_event.start_time = 'All Day Event';
+                    }else{
+                        cur_event.start_time = dt.hour+':'+dt.minute + ' local';
+                        cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
+                        var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                        var gmtList1 = theFutureTime.split(':');
+                        theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                        //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                        cur_event.gmtTime = theFutureTime + ' GMT';
+                    }
+                    
+					
                     
 					cur_event.start_date = dt.year + '-' + dt.month+'-' + dt.day;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
@@ -1056,7 +1061,14 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
-					cur_event.start_time = dt.hour+':'+dt.minute;
+                    if(dt.minute == '99'){
+                        cur_event.start_time = 'TBC';
+                    }else if(dt.minute == '60'){
+                        cur_event.start_time = 'All Day Event';
+                    }else{
+                        cur_event.start_time = dt.hour+':'+dt.minute;
+                    }
+					
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
 					cur_event.day = dt.dayname;
 				}
@@ -1515,7 +1527,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        if(country === 'Multi' && mutliSportMap.get($scope.selectedLoc)){
                                            country = $scope.selectedLoc;
-                                           console.log('inside the mutli');
+                                           
                                            
                                        }
                                        
@@ -1622,8 +1634,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                             },dateFirstLoop,dateInLoop,country);
                                        }
                                        
-                                       console.log('country is:' + country);
-                                       console.log('multiFileName' + multiFileName);
+                                      
                                       //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
                                         
                                        
