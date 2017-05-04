@@ -817,7 +817,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         cur_event.start_time = 'All Day Event';
                     }else{
                         cur_event.start_time = dt.hour+':'+dt.minute + ' local';
-                        cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
+                       // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                         var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                         var gmtList1 = theFutureTime.split(':');
                         theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
