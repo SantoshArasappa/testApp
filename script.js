@@ -336,7 +336,7 @@ $scope.gameFileListNew =
 		value: "Wimbledon.ics"
 	},
     {
-		url: "/Games/England/Golf",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
 	},
 	
