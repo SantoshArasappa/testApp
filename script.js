@@ -249,8 +249,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games.push('Sport');
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
-  //  $scope.games.push('Golf');
- //   $scope.games.push('Tennis');
+    $scope.games.push('Golf');
+    $scope.games.push('Tennis');
     
     // Any new country List
     
@@ -274,6 +274,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('West_Indies','West Indies');
      countriesMap.set('Spain','Spain');
      countriesMap.set('France','France');
+    countriesMap.set("Georgia","Georgia");
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -283,6 +284,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
+     $scope.gmtMap.set('Georgia','-02:00');
     
     
    
@@ -321,7 +323,7 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Multi/Football",
 		value: "English_Premier_League.ics"
 
-	}/*,
+	},
     
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Tennis",
@@ -342,7 +344,12 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
 
-	} */
+	},
+    
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/TestEnv/Games/Georgia/Golf",
+		value: "Golf_Masters_Tournament.ics"
+	}
 
 
 ]; 
@@ -815,7 +822,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                     cur_event.gmtTime = theFutureTime;
                     
-					cur_event.start_date = dt.month+'/'+dt.day+'/'+dt.year;
+					cur_event.start_date = dt.year + '-' + dt.month+'-' + dt.day;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
 				}
