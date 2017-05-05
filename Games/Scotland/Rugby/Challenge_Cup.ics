@@ -1,7 +1,7 @@
 BEGIN:VEVENT
-DTSTART:20170615T096000Z
-SUMMARY:2017 U.S. Open Day 1
-DESCRIPTION:Golf U.S. Open
-LOCATION:Erin Hills, Wisconsin
-UID:20170615T096000Z2017 U.S. Open Day 1
+DTSTART:20170512T200000Z
+SUMMARY:Gloucester v Stade Français
+DESCRIPTION:Rugby Union European Rugby Challenge Cup Final
+LOCATION:BT Murrayfield, Edinburgh
+UID:20170512T200000ZGloucester v Stade Français
 END:VEVENT
