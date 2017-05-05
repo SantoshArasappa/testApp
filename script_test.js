@@ -370,6 +370,11 @@ $scope.gameFileListNew =
 		value: "US_Open.ics,Masters_Tournament.ics,PGA_Championship.ics"
 
 	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Tennis",
+		value: "US_Open.ics"
+
+	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Rugby",
 		value: "Champions_Cup.ics,Challenge_Cup.ics"
