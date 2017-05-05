@@ -250,7 +250,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
     $scope.games.push('Golf');
-    $scope.games.push('Tennis');
+   // $scope.games.push('Tennis');
     
     // Any new country List
     
@@ -262,7 +262,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Italy": "Italy",    
         "Spain": "Spain",
         "Wales": "Wales",
-        "West_Indies": "West Indies"
+        "West_Indies": "West Indies",
+         "USA": "USA"
     };
     
     //Any country added we need to add here to map _ country into space country name
@@ -275,6 +276,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('Spain','Spain');
      countriesMap.set('France','France');
     countriesMap.set("Georgia","Georgia");
+    countriesMap.set("USA","USA");
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -285,6 +287,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
      $scope.gmtMap.set('Georgia','-02:00');
+    $scope.gmtMap.set('USA','-02:00');
     
     
    
@@ -325,7 +328,7 @@ $scope.gameFileListNew =
 
 	},
     
-    {
+   /* {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
 		value: "French_Open.ics"
 
@@ -334,7 +337,7 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Tennis",
 		value: "Wimbledon.ics"
-	},
+	},*/
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
@@ -343,6 +346,12 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Golf",
+		value: "US_Open.ics,Masters_Tournament.ics,PGA_Championship.ics"
 
 	}
 
