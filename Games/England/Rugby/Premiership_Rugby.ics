@@ -22,11 +22,11 @@ BEGIN:VEVENT
 DTSTAMP:20170501T105903Z
 DTSTART:20170506T160000
 DTEND:20170506T160000
-SUMMARY:Northampton Saints v Harlequins BT Sport
+SUMMARY:Northampton Saints v Harlequins 
 DESCRIPTION:Competition - Aviva Premiership Rugby
 LOCATION:Franklin's Gardens, Northampton
 URL:/rugby/match_centre.php?section=overview&amp;fixid=218823
-UID:20170506T160000Northampton Saints v Harlequins BT Sport
+UID:20170506T160000Northampton Saints v Harlequins 
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20170501T105903Z
@@ -42,11 +42,11 @@ BEGIN:VEVENT
 DTSTAMP:20170501T105903Z
 DTSTART:20170506T160000
 DTEND:20170506T160000
-SUMMARY:Wasps v Saracens BT Sport
+SUMMARY:Wasps v Saracens 
 DESCRIPTION:Competition - Aviva Premiership Rugby
 LOCATION:Ricoh Arena, Coventry
 URL:/rugby/match_centre.php?section=overview&amp;fixid=218825
-UID:20170506T160000Wasps v Saracens BT Sport
+UID:20170506T160000Wasps v Saracens 
 END:VEVENT
 BEGIN:VEVENT
 DTSTAMP:20170501T105903Z
@@ -57,5 +57,36 @@ DESCRIPTION:Competition - Aviva Premiership Rugby
 LOCATION:Sixways, Worcester
 URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
 UID:20170506T160000Worcester Warriors v Leicester Tigers
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170520T144500
+DTEND:20170520T144500
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Semi Final
+LOCATION:TBC, TBC
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170520T144500Rugby Semi Final
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170520T173000
+DTEND:20170520T173000
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Semi Final
+LOCATION:TBC, TBC
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170520T173000Rugby Semi Final
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170527T143000
+DTEND:20170527T143000
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Final
+LOCATION:TBC, TBC
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170527T143000Rugby Semi Final
 END:VEVENT
 END:VCALENDAR
