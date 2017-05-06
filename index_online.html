@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/page.css">
     
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/bcb4222f/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/e827cd23/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -207,7 +207,7 @@ option:nth-child(1) {
                 </div>    
            
             
-                 <div class="col-md-5 col-lg-5 col-xs-12"><img src="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/58fa23cedb29d610dd22136b/1492788176671/1_final-map-incl-location-pointe.png?format=750w" alt="" width="300" height="200" style=""/></div>
+                 <div class="col-md-5 col-lg-5 col-xs-12"><img src="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/59079067bebafb87ca4673f0/1493667958081/?format=2500w" alt="" width="300" height="200" style=""/></div>
                 
            
                
@@ -223,13 +223,13 @@ option:nth-child(1) {
        
        </div>  
        
-       <div ng-show="isLoading">
+       <!--<div ng-show="isLoading">
         <img class="col-xs-12" src="{{loadPng}}" alt="some_text" style="width:200px;height:200px;">
-       </div>       
+       </div>  -->     
        
         
        
-        <div ng-show="showEvents">
+        <div ng-show="showEvents" ng-cloak>
 				<div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
                 <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No Events Found</h1>
