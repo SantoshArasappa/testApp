@@ -250,7 +250,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
     $scope.games.push('Golf');
-   // $scope.games.push('Tennis');
+    $scope.games.push('Tennis');
+    $scope.games.push('Rugby');
     
     // Any new country List
     
@@ -259,7 +260,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "England": "England",
         "France": "France",
         "India": "India",
-      //  "Italy": "Italy",    
+        "Italy": "Italy",
+        "New_Zealand":"New Zealand",
+        "Scotland": "Scotland",
         "Spain": "Spain",
         "Wales": "Wales",
         "West_Indies": "West Indies",
@@ -277,6 +280,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('France','France');
     countriesMap.set("Georgia","Georgia");
     countriesMap.set("USA","USA");
+    countriesMap.set("New_Zealand","New Zealand");
+    countriesMap.set("Scotland","Scotland");
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -286,8 +291,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
-     $scope.gmtMap.set('Georgia','-02:00');
+    $scope.gmtMap.set('Georgia','-02:00');
     $scope.gmtMap.set('USA','-02:00');
+    $scope.gmtMap.set('New_Zealand','-12:00');
+    $scope.gmtMap.set('Scotland','-01:00');
     
     
    
@@ -317,10 +324,10 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
 		value: "FA_Cup.ics"
 	}, 
-   /* {
+    {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
 		value: "Serie_A.ics"
-	},*/
+	},
 	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
@@ -328,7 +335,7 @@ $scope.gameFileListNew =
 
 	},
     
-   /* {
+    {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
 		value: "French_Open.ics"
 
@@ -337,21 +344,43 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Tennis",
 		value: "Wimbledon.ics"
-	},*/
+	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
 		value: "Golf_The_Open_Championship.ics"
 	},
-	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby",
+		value: "Premiership_Rugby.ics"
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
 
 	},
-	
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Rugby",
+		value: "Top_14.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Rugby",
+		value: "Champions_Cup.ics,Challenge_Cup.ics"
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Golf",
 		value: "US_Open.ics,Masters_Tournament.ics,PGA_Championship.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Tennis",
+		value: "US_Open.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Rugby",
+		value: "Lions_Cup.ics"
 
 	}
 
