@@ -58,7 +58,6 @@ LOCATION:Sixways, Worcester
 URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
 UID:20170506T160000Worcester Warriors v Leicester Tigers
 END:VEVENT
-
 BEGIN:VEVENT
 DTSTAMP:20170501T105903Z
 DTSTART:20170520T144500
@@ -85,7 +84,7 @@ DTSTART:20170527T143000
 DTEND:20170527T143000
 SUMMARY:TBC v TBC
 DESCRIPTION:Competition - Aviva Premiership Rugby Final
-LOCATION:TBC, TBC
+LOCATION:Twickenham Stadium, London
 URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
 UID:20170527T143000Rugby Semi Final
 END:VEVENT
