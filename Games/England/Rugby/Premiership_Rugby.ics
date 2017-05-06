@@ -1,14 +1,91 @@
 BEGIN:VEVENT
-DTSTART:20170615T096000Z
-SUMMARY:2017 England Rugby Open Day 2
-DESCRIPTION:Golf U.S. Open
-LOCATION:Erin Hills, Wisconsin
-UID:20170615T096000Z2017 U.S. Open Day 1
+DTSTAMP:20170501T105902Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Bristol Rugby v Newcastle Falcons
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ashton Gate, Bristol
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218821
+UID:20170506T160000Bristol Rugby v Newcastle Falcons
 END:VEVENT
 BEGIN:VEVENT
-DTSTART:20170616T096000Z
-SUMMARY:2017 England Rugby Open Day 3
-DESCRIPTION:Golf U.S. Open
-LOCATION:Erin Hills, England
-UID:20170617T090003Z2017 U.S. Open Day 1
+DTSTAMP:20170501T105902Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Gloucester Rugby v Exeter Chiefs
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Kingsholm, Gloucester
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218822
+UID:20170506T160000Gloucester Rugby v Exeter Chiefs
 END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Northampton Saints v Harlequins 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Franklin's Gardens, Northampton
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218823
+UID:20170506T160000Northampton Saints v Harlequins 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Sale Sharks v Bath Rugby
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:AJ Bell Stadium, Greater Manchester
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218824
+UID:20170506T160000Sale Sharks v Bath Rugby
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Wasps v Saracens 
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Ricoh Arena, Coventry
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218825
+UID:20170506T160000Wasps v Saracens 
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170506T160000
+DTEND:20170506T160000
+SUMMARY:Worcester Warriors v Leicester Tigers
+DESCRIPTION:Competition - Aviva Premiership Rugby
+LOCATION:Sixways, Worcester
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170506T160000Worcester Warriors v Leicester Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170520T144500
+DTEND:20170520T144500
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Semi Final
+LOCATION:TBC, TBC
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170520T144500Rugby Semi Final
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170520T173000
+DTEND:20170520T173000
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Semi Final
+LOCATION:TBC, TBC
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170520T173000Rugby Semi Final
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170501T105903Z
+DTSTART:20170527T143000
+DTEND:20170527T143000
+SUMMARY:TBC v TBC
+DESCRIPTION:Competition - Aviva Premiership Rugby Final
+LOCATION:Twickenham Stadium, London
+URL:/rugby/match_centre.php?section=overview&amp;fixid=218826
+UID:20170527T143000RugbyFinal
+END:VEVENT
+END:VCALENDAR
