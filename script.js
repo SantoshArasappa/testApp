@@ -353,6 +353,10 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby",
 		value: "Premiership_Rugby.ics"
 	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Cricket",
+		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics"
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
 		value: "Golf_Ryder_Cup.ics"
@@ -796,6 +800,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 		var in_event = false;
 		//Use as a holder for the current event being proccessed.
 		var cur_event = null;
+        isGmt = false;
 		for(var i=0;i<cal_array.length;i++){
             if(country !== 'Multi'){
 			ln = cal_array[i].trim();
@@ -803,6 +808,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			if(!in_event && ln == 'BEGIN:VEVENT'){
 				in_event = true;
 				cur_event = {};
+			}
+            
+            if(!isGmt && ln == 'ISGMT'){
+                if(cur_event.ISGMT == 'TRUE'){
+				    isGmt = true;
+                }
 			}
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
@@ -844,23 +855,42 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					val = dt.date;
 					//These are helpful for display
                    
-                    var gmtList = $scope.gmtMap.get(country).split(':');
-                    if((gmtList[0]*1) < 1){
-                        gmtList[1] = gmtList[1] * -1;
-                    }
+                    
                     
                     if(dt.minute == '99'){
                         cur_event.start_time = 'TBC';
                     }else if(dt.minute == '60'){
                         cur_event.start_time = 'All Day Event';
                     }else{
-                        cur_event.start_time = dt.hour+':'+dt.minute + ' local';
-                       // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
-                        var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
-                        var gmtList1 = theFutureTime.split(':');
-                        theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
-                        //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                        cur_event.gmtTime = theFutureTime + ' GMT';
+                        if(isGmt){
+                            
+                            var gmtList = ($scope.gmtMap.get(country) * -1 ).split(':');
+                            if((gmtList[0]*1) < 1){
+                                gmtList[1] = gmtList[1] * -1;
+                            }
+                            
+                            cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT';
+                            
+                            var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtList1 = theFutureTime.split(':');
+                            theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                            cur_event.start_time = theFutureTime + ' local';
+                            
+                            
+                        }else{
+                            var gmtList = $scope.gmtMap.get(country).split(':');
+                            if((gmtList[0]*1) < 1){
+                                gmtList[1] = gmtList[1] * -1;
+                            }
+                            cur_event.start_time = dt.hour+':'+dt.minute + ' local';
+                           // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
+                            var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtList1 = theFutureTime.split(':');
+                            theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                            cur_event.gmtTime = theFutureTime + ' GMT';
+                        }
                     }
                     
 					

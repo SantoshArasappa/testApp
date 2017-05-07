@@ -1,0 +1,1868 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+ISGMT:TRUE
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Middlesex
+DTSTART:20170707T133000Z
+DTEND:20170707T173000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068302_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Warwickshire
+DTSTART:20170707T163000Z
+DTEND:20170707T203000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068303_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Lancashire
+DTSTART:20170707T173000Z
+DTEND:20170707T213000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068300_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Derbyshire
+DTSTART:20170707T173000Z
+DTEND:20170707T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068304_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Nottinghamshire
+DTSTART:20170707T173000Z
+DTEND:20170707T213000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068298_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Hampshire
+DTSTART:20170707T173000Z
+DTEND:20170707T213000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068301_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Surrey
+DTSTART:20170707T180000Z
+DTEND:20170707T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068299_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Yorkshire
+DTSTART:20170708T133000Z
+DTEND:20170708T173000Z
+LOCATION:Queen's Park, Chesterfield
+TRANSP:OPAQUE
+UID:1068305_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Nottinghamshire
+DTSTART:20170708T180000Z
+DTEND:20170708T220000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068306_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Northamptonshire
+DTSTART:20170709T133000Z
+DTEND:20170709T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068307_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Leicestershire
+DTSTART:20170709T133000Z
+DTEND:20170709T173000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068310_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Somerset
+DTSTART:20170709T133000Z
+DTEND:20170709T173000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068309_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Glamorgan
+DTSTART:20170709T133000Z
+DTEND:20170709T173000Z
+LOCATION:Arundel Castle Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068308_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Essex
+DTSTART:20170709T140000Z
+DTEND:20170709T180000Z
+LOCATION:Kent County Cricket Ground, Beckenham
+TRANSP:OPAQUE
+UID:1068311_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Yorkshire
+DTSTART:20170711T173000Z
+DTEND:20170711T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068312_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Hampshire
+DTSTART:20170712T173000Z
+DTEND:20170712T213000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068313_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Kent
+DTSTART:20170713T133000Z
+DTEND:20170713T173000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068316_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Surrey
+DTSTART:20170713T171500Z
+DTEND:20170713T211500Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068315_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Somerset
+DTSTART:20170713T180000Z
+DTEND:20170713T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068314_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Leicestershire
+DTSTART:20170714T163000Z
+DTEND:20170714T203000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068321_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Nottinghamshire
+DTSTART:20170714T173000Z
+DTEND:20170714T213000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068320_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Kent
+DTSTART:20170714T173000Z
+DTEND:20170714T213000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068319_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Yorkshire
+DTSTART:20170714T180000Z
+DTEND:20170714T220000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068318_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Middlesex
+DTSTART:20170714T180000Z
+DTEND:20170714T220000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068317_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Somerset
+DTSTART:20170715T180000Z
+DTEND:20170715T220000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068322_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Sussex
+DTSTART:20170716T130000Z
+DTEND:20170716T170000Z
+LOCATION:College Ground, Cheltenham
+TRANSP:OPAQUE
+UID:1068326_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Derbyshire
+DTSTART:20170716T133000Z
+DTEND:20170716T173000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068324_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Leicestershire
+DTSTART:20170716T133000Z
+DTEND:20170716T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068323_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Glamorgan
+DTSTART:20170716T133000Z
+DTEND:20170716T173000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068325_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Somerset
+DTSTART:20170716T133000Z
+DTEND:20170716T173000Z
+LOCATION:Uxbridge Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068327_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Gloucestershire
+DTSTART:20170718T180000Z
+DTEND:20170718T220000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068328_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Derbyshire
+DTSTART:20170719T163000Z
+DTEND:20170719T203000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068329_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Essex
+DTSTART:20170719T173000Z
+DTEND:20170719T213000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068330_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Kent
+DTSTART:20170720T163000Z
+DTEND:20170720T203000Z
+LOCATION:Old Deer Park, Richmond
+TRANSP:OPAQUE
+UID:1068331_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Leicestershire
+DTSTART:20170720T173000Z
+DTEND:20170720T213000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068332_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Sussex
+DTSTART:20170720T180000Z
+DTEND:20170720T220000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068333_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Lancashire
+DTSTART:20170721T163000Z
+DTEND:20170721T203000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068341_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Gloucestershire
+DTSTART:20170721T163000Z
+DTEND:20170721T203000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068337_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Northamptonshire
+DTSTART:20170721T173000Z
+DTEND:20170721T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068334_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Derbyshire
+DTSTART:20170721T173000Z
+DTEND:20170721T213000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068338_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Warwickshire
+DTSTART:20170721T173000Z
+DTEND:20170721T213000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068335_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Sussex
+DTSTART:20170721T173000Z
+DTEND:20170721T213000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068340_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Middlesex
+DTSTART:20170721T173000Z
+DTEND:20170721T213000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068336_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Hampshire
+DTSTART:20170721T180000Z
+DTEND:20170721T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068339_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Northamptonshire
+DTSTART:20170722T133000Z
+DTEND:20170722T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068342_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Durham
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068346_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Derbyshire
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068349_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Yorkshire
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068343_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Essex
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068344_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Surrey
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068345_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Sussex
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068348_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Somerset
+DTSTART:20170723T133000Z
+DTEND:20170723T173000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068347_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Nottinghamshire
+DTSTART:20170725T173000Z
+DTEND:20170725T213000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068353_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Warwickshire
+DTSTART:20170725T173000Z
+DTEND:20170725T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068350_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Glamorgan
+DTSTART:20170725T173000Z
+DTEND:20170725T213000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068352_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Lancashire
+DTSTART:20170725T180000Z
+DTEND:20170725T220000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068351_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Hampshire
+DTSTART:20170726T160000Z
+DTEND:20170726T200000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068355_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Worcestershire
+DTSTART:20170726T173000Z
+DTEND:20170726T213000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068356_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Durham
+DTSTART:20170726T173000Z
+DTEND:20170726T213000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068354_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Essex
+DTSTART:20170727T171500Z
+DTEND:20170727T211500Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068358_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Worcestershire
+DTSTART:20170727T173000Z
+DTEND:20170727T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068359_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Somerset
+DTSTART:20170727T180000Z
+DTEND:20170727T220000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068357_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Nottinghamshire
+DTSTART:20170728T173000Z
+DTEND:20170728T213000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068363_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Nottinghamshire
+DTSTART:20170728T173000Z
+DTEND:20170728T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068362_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Yorkshire
+DTSTART:20170728T173000Z
+DTEND:20170728T213000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068360_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Surrey
+DTSTART:20170728T173000Z
+DTEND:20170728T213000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068366_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Hampshire
+DTSTART:20170728T173000Z
+DTEND:20170728T213000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068364_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Northamptonshire
+DTSTART:20170728T180000Z
+DTEND:20170728T220000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068365_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Middlesex
+DTSTART:20170728T180000Z
+DTEND:20170728T220000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068361_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Gloucestershire
+DTSTART:20170729T180000Z
+DTEND:20170729T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068367_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Leicestershire
+DTSTART:20170730T133000Z
+DTEND:20170730T173000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068370_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Yorkshire
+DTSTART:20170730T133000Z
+DTEND:20170730T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068368_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Lancashire
+DTSTART:20170730T133000Z
+DTEND:20170730T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068373_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Durham
+DTSTART:20170730T133000Z
+DTEND:20170730T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068369_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Sussex
+DTSTART:20170730T133000Z
+DTEND:20170730T173000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068372_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Glamorgan
+DTSTART:20170730T140000Z
+DTEND:20170730T180000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068371_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Warwickshire
+DTSTART:20170801T173000Z
+DTEND:20170801T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068374_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Kent
+DTSTART:20170801T180000Z
+DTEND:20170801T220000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068375_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Nottinghamshire
+DTSTART:20170802T173000Z
+DTEND:20170802T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068376_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Hampshire
+DTSTART:20170803T171500Z
+DTEND:20170803T211500Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068381_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Lancashire
+DTSTART:20170803T173000Z
+DTEND:20170803T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068378_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Derbyshire
+DTSTART:20170803T173000Z
+DTEND:20170803T213000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068380_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Gloucestershire
+DTSTART:20170803T173000Z
+DTEND:20170803T213000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068377_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Surrey
+DTSTART:20170803T180000Z
+DTEND:20170803T220000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068379_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Yorkshire
+DTSTART:20170804T173000Z
+DTEND:20170804T213000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068384_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Lancashire
+DTSTART:20170804T173000Z
+DTEND:20170804T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068382_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Somerset
+DTSTART:20170804T173000Z
+DTEND:20170804T213000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068385_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Glamorgan
+DTSTART:20170804T173000Z
+DTEND:20170804T213000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068387_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Nottinghamshire
+DTSTART:20170804T180000Z
+DTEND:20170804T220000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068383_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Warwickshire v Worcestershire
+DTSTART:20170804T180000Z
+DTEND:20170804T220000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068388_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Essex
+DTSTART:20170804T180000Z
+DTEND:20170804T220000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068389_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Sussex
+DTSTART:20170804T180000Z
+DTEND:20170804T220000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068386_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Durham
+DTSTART:20170805T133000Z
+DTEND:20170805T173000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068390_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Northamptonshire
+DTSTART:20170805T133000Z
+DTEND:20170805T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068391_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Surrey
+DTSTART:20170806T133000Z
+DTEND:20170806T173000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068392_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Sussex
+DTSTART:20170810T171500Z
+DTEND:20170810T211500Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1068394_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Glamorgan
+DTSTART:20170810T173000Z
+DTEND:20170810T213000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068393_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Worcestershire
+DTSTART:20170811T173000Z
+DTEND:20170811T213000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068397_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Northamptonshire v Leicestershire
+DTSTART:20170811T173000Z
+DTEND:20170811T213000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068399_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Warwickshire
+DTSTART:20170811T173000Z
+DTEND:20170811T213000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068396_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Lancashire
+DTSTART:20170811T173000Z
+DTEND:20170811T213000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068401_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Middlesex
+DTSTART:20170811T180000Z
+DTEND:20170811T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068398_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Hampshire
+DTSTART:20170811T180000Z
+DTEND:20170811T220000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068395_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Gloucestershire
+DTSTART:20170811T180000Z
+DTEND:20170811T220000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068400_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Yorkshire
+DTSTART:20170812T133000Z
+DTEND:20170812T173000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068403_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Kent
+DTSTART:20170812T150000Z
+DTEND:20170812T190000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068402_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Sussex
+DTSTART:20170813T000000Z
+DTEND:20170813T040000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068405_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Warwickshire
+DTSTART:20170813T133000Z
+DTEND:20170813T173000Z
+LOCATION:Riverside Ground, Chester-le-Street
+TRANSP:OPAQUE
+UID:1068407_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Worcestershire v Nottinghamshire
+DTSTART:20170813T133000Z
+DTEND:20170813T173000Z
+LOCATION:County Ground, New Road, Worcester
+TRANSP:OPAQUE
+UID:1068404_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Gloucestershire v Essex
+DTSTART:20170813T133000Z
+DTEND:20170813T173000Z
+LOCATION:County Ground, Bristol
+TRANSP:OPAQUE
+UID:1068406_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Somerset v Glamorgan
+DTSTART:20170813T133000Z
+DTEND:20170813T173000Z
+LOCATION:The Cooper Associates County Ground, Taunton
+TRANSP:OPAQUE
+UID:1068408_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Middlesex v Gloucestershire
+DTSTART:20170815T163000Z
+DTEND:20170815T203000Z
+LOCATION:Uxbridge Cricket Club Ground
+TRANSP:OPAQUE
+UID:1068409_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Durham
+DTSTART:20170815T173000Z
+DTEND:20170815T213000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068410_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Worcestershire
+DTSTART:20170816T173000Z
+DTEND:20170816T213000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068411_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Leicestershire v Derbyshire
+DTSTART:20170817T173000Z
+DTEND:20170817T213000Z
+LOCATION:Grace Road, Leicester
+TRANSP:OPAQUE
+UID:1068413_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Surrey v Gloucestershire
+DTSTART:20170817T173000Z
+DTEND:20170817T213000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1068414_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Yorkshire v Northamptonshire
+DTSTART:20170817T180000Z
+DTEND:20170817T220000Z
+LOCATION:Headingley, Leeds
+TRANSP:OPAQUE
+UID:1068415_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Essex v Kent
+DTSTART:20170817T180000Z
+DTEND:20170817T220000Z
+LOCATION:County Ground, Chelmsford
+TRANSP:OPAQUE
+UID:1068412_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Derbyshire v Worcestershire
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:County Ground, Derby
+TRANSP:OPAQUE
+UID:1068419_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Durham v Northamptonshire
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:County Ground, Northampton
+TRANSP:OPAQUE
+UID:1068422_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Lancashire v Warwickshire
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1068421_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:North Group Nottinghamshire v Leicestershire
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1068423_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Glamorgan v Middlesex
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:Sophia Gardens, Cardiff
+TRANSP:OPAQUE
+UID:1068418_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Hampshire v Somerset
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:The Rose Bowl, Southampton
+TRANSP:OPAQUE
+UID:1068420_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Kent v Surrey
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:St Lawrence Ground, Canterbury
+TRANSP:OPAQUE
+UID:1068416_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:South Group Sussex v Essex
+DTSTART:20170818T180000Z
+DTEND:20170818T220000Z
+LOCATION:County Ground, Hove
+TRANSP:OPAQUE
+UID:1068417_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:1st Quarter-Final TBD v TBD
+DTSTART:20170822T000000Z
+DTEND:20170822T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068424_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:2nd Quarter-Final TBD v TBD
+DTSTART:20170823T000000Z
+DTEND:20170823T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068425_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:3rd Quarter-Final TBD v TBD
+DTSTART:20170824T000000Z
+DTEND:20170824T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068426_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:4th Quarter-Final TBD v TBD
+DTSTART:20170825T000000Z
+DTEND:20170825T040000Z
+LOCATION:
+TRANSP:OPAQUE
+UID:1068427_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:1st Semi-Final TBD v TBD
+DTSTART:20170902T100000Z
+DTEND:20170902T140000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1068428_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:2nd Semi-Final TBD v TBD
+DTSTART:20170902T133000Z
+DTEND:20170902T173000Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1086736_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
+SUMMARY:Final TBD v TBD
+DTSTART:20170902T174500Z
+DTEND:20170902T214500Z
+LOCATION:Edgbaston, Birmingham
+TRANSP:OPAQUE
+UID:1086737_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
