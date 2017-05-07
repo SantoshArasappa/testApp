@@ -293,7 +293,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
     $scope.gmtMap.set('Georgia','-02:00');
-    $scope.gmtMap.set('USA','-02:00');
+    $scope.gmtMap.set('USA','-05:00'); //this is for testing to be changed
     $scope.gmtMap.set('New_Zealand','-12:00');
     $scope.gmtMap.set('Scotland','-01:00');
 
