@@ -810,10 +810,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				cur_event = {};
 			}
             
-            if(!isGmt && ln == 'ISGMT'){
-                if(cur_event.ISGMT == 'TRUE'){
-				    isGmt = true;
-                }
+            if(!isGmt && ln == 'ISGMT:TRUE'){
+                isGmt = true;
 			}
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
@@ -864,8 +862,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     }else{
                         if(isGmt){
                             
-                            var gmtList = ($scope.gmtMap.get(country) * -1 ).split(':');
-                            if((gmtList[0]*1) < 1){
+                            var gmtList = ($scope.gmtMap.get(country)).split(':');
+                            if((gmtList[0]*-1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
                             }
                             
