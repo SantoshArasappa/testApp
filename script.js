@@ -222,14 +222,25 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     //engFootballMap.set('default','English_Premier_League.ics'); 
     engFootballMap.set('England','English_Premier_League.ics');
      engFootballMap.set('Wales','English_Premier_League.ics');
+    
+    var USAIceHockeyMap = new Map();
+    
+    //engFootballMap.set('default','English_Premier_League.ics'); 
+    USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
+    USAIceHockeyMap.set('CANADA','NHL_Playoffs.ics');
+    
+    
      
     
     var mutliCountrySportMap = new Map();    
    // mutliCountrySportMap.set('Bike',countryMap);
     mutliCountrySportMap.set('Football',engFootballMap);
+    mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
   //  mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
+    $scope.multiGamesList.push('Football'); 
+    $scope.multiGamesList.push('Ice_Hockey'); 
     
     $scope.gmtMap = new Map();
     
@@ -240,7 +251,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
   
-    $scope.multiGamesList.push('Football'); 
+    
     
     
     // Changes for any new files start
@@ -250,13 +261,15 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
     $scope.games.push('Golf');
+    $scope.games.push('Ice_Hockey');
     $scope.games.push('Tennis');
     $scope.games.push('Rugby');
     
     // Any new country List
     
      $scope.countries = {
-        "Country":"Country",    
+        "Country":"Country",
+        "Canada":"Canada",
         "England": "England",
         "France": "France",
         "India": "India",
@@ -270,7 +283,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     };
     
     //Any country added we need to add here to map _ country into space country name
-    var countriesMap = new Map();    
+    var countriesMap = new Map();   
+     countriesMap.set('Canada','Canada');
      countriesMap.set('England','England');
      countriesMap.set('India','India');
      countriesMap.set('Italy', 'Italy');
@@ -285,14 +299,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
-    $scope.gmtMap.set('England','-01:00');
+    $scope.gmtMap.set('England','01:00');
     $scope.gmtMap.set('Italy','-02:00');
     $scope.gmtMap.set('Wales','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
     $scope.gmtMap.set('France','-02:00');
     $scope.gmtMap.set('Georgia','-02:00');
-    $scope.gmtMap.set('USA','-02:00');
+    $scope.gmtMap.set('USA','-05:00');
     $scope.gmtMap.set('New_Zealand','-12:00');
     $scope.gmtMap.set('Scotland','-01:00');
     
@@ -333,6 +347,10 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
 		value: "English_Premier_League.ics"
 
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Ice_Hockey",
+		value: "NHL_Playoffs.ics"
 	},
     
     {
@@ -800,7 +818,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 		var in_event = false;
 		//Use as a holder for the current event being proccessed.
 		var cur_event = null;
-        isGmt = false;
+        var isGmt = false;
+        var isOffSet = false;
+        
 		for(var i=0;i<cal_array.length;i++){
             if(country !== 'Multi'){
 			ln = cal_array[i].trim();
@@ -810,6 +830,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				cur_event = {};
 			}
             
+            if(!isOffSet && ln == 'ISOFFSET:TRUE'){
+                isOffSet = true;
+			}
+                
             if(!isGmt && ln == 'ISGMT:TRUE'){
                 isGmt = true;
 			}
@@ -863,6 +887,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         if(isGmt){
                             
                             var gmtList = ($scope.gmtMap.get(country)).split(':');
+                            gmtList[0] = gmtList[0]*-1;
                             if((gmtList[0]*-1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
                             }
@@ -877,7 +902,13 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                             
                         }else{
-                            var gmtList = $scope.gmtMap.get(country).split(':');
+                            var gmtList = [];
+                            if(isGmt){
+                                gmtList = cur_event.OFFSETTIME.split(':');
+                            }else{
+                                gmtList = $scope.gmtMap.get(country).split(':');
+                            }
+                            
                             if((gmtList[0]*1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
                             }
