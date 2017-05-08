@@ -227,7 +227,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     //engFootballMap.set('default','English_Premier_League.ics'); 
     USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
-    USAIceHockeyMap.set('CANADA','NHL_Playoffs.ics');
+    USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
     
     
      
@@ -843,7 +843,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 var locList = cur_event.LOCATION.split(',');
                 if(locList.length > 2){
                    var countryInside = locList[2];
-                    if(countryInside === country){
+                    if(countryInside.trim() === country){
                         in_event = false;
                         cur_event["sport"] = game;
                         cur_event["country"] = country;
@@ -903,7 +903,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                         }else{
                             var gmtList = [];
-                            if(isGmt){
+                            if(isOffSet){
                                 gmtList = cur_event.OFFSETTIME.split(':');
                             }else{
                                 gmtList = $scope.gmtMap.get(country).split(':');
@@ -1630,7 +1630,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        
                                        var multiFileName = '';
-                                       if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && country !== 'Multi'){
+                                       if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && country === 'Multi'){
                                           // multiFileName = mutliSportMap.get('default');
                                            
                                             mutliSportMap.forEach(function (value, key) {
