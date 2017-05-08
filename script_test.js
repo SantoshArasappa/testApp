@@ -225,22 +225,41 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     var USAIceHockeyMap = new Map();
     
-    //engFootballMap.set('default','English_Premier_League.ics'); 
     USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
     USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
     
+    var motarRacingMap = new Map();
     
+    motarRacingMap.set('Russia','Formula_1.ics');
+    motarRacingMap.set('Spain','Formula_1.ics');
+    motarRacingMap.set('Monaco','Formula_1.ics');
+    motarRacingMap.set('Canada','Formula_1.ics');
+    motarRacingMap.set('USA','Formula_1.ics');
+    motarRacingMap.set('Azerbaijan','Formula_1.ics');
+    motarRacingMap.set('Austria','Formula_1.ics');
+    motarRacingMap.set('England','Formula_1.ics');
+    motarRacingMap.set('Hungary','Formula_1.ics');
+    motarRacingMap.set('Belgium','Formula_1.ics');
+    motarRacingMap.set('Italy','Formula_1.ics');
+    motarRacingMap.set('Singapore','Formula_1.ics');
+    motarRacingMap.set('Malaysia','Formula_1.ics');
+    motarRacingMap.set('Japan','Formula_1.ics');
+    motarRacingMap.set('USA','Formula_1.ics');
+    motarRacingMap.set('Mexico','Formula_1.ics');
+    motarRacingMap.set('Brazil','Formula_1.ics');
+    motarRacingMap.set('UAE','Formula_1.ics');
      
     
     var mutliCountrySportMap = new Map();    
    // mutliCountrySportMap.set('Bike',countryMap);
     mutliCountrySportMap.set('Football',engFootballMap);
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
-  //  mutliCountrySportMap.set('Rugby',RugbyMap);
+    mutliCountrySportMap.set('Motar_Racing',motarRacingMap);
     
     $scope.multiGamesList = [];
     $scope.multiGamesList.push('Football'); 
-    $scope.multiGamesList.push('Ice_Hockey'); 
+    $scope.multiGamesList.push('Ice_Hockey');
+    $scope.multiGamesList.push('Motar_Racing');
     
     $scope.gmtMap = new Map();
     
@@ -249,7 +268,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('West_Indies','GMT -05:00');*/
     
     
-    
+    //Russia
+    //Spain
   
     
     
@@ -258,10 +278,12 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     //Any new sport type added
     $scope.games.push('Sport');
+    $scope.games.push('Car_Racing');
     $scope.games.push('Cricket');     
     $scope.games.push('Football');
     $scope.games.push('Golf');
     $scope.games.push('Ice_Hockey');
+    $scope.games.push('Motar_Racing');
     $scope.games.push('Tennis');
     $scope.games.push('Rugby');
     
@@ -269,16 +291,28 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
      $scope.countries = {
         "Country":"Country",
+         "Azerbaijan":"Azerbaijan",
+        "Austria": "Austria",
+        "Belgium": "Belgium",
+        "Brazil": "Brazil",
         "Canada":"Canada",
         "England": "England",
         "France": "France",
+         "Hungary": "Hungary",
         "India": "India",
         "Italy": "Italy",
+         "Japan": "Japan",
+        "Malaysia": "Malaysia",
+         "Mexico": "Mexico",
+         "Monaco": "Monaco",
         "New_Zealand":"New Zealand",
+         "Russia":"Russia",
         "Scotland": "Scotland",
+         "Singapore": "Singapore",
         "Spain": "Spain",
         "Wales": "Wales",
         "West_Indies": "West Indies",
+        "UAE": "UAE", 
          "USA": "USA"
     };
     
@@ -296,6 +330,18 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     countriesMap.set("USA","USA");
     countriesMap.set("New_Zealand","New Zealand");
     countriesMap.set("Scotland","Scotland");
+    countriesMap.set('Russia','Russia');
+     countriesMap.set('Monaco', 'Monaco');
+     countriesMap.set('Azerbaijan','Azerbaijan');
+     countriesMap.set('Austria','Austria');
+     countriesMap.set('Hungary','Hungary');
+     countriesMap.set('Belgium','Belgium');
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Malaysia","Malaysia");
+    countriesMap.set("Japan","Japan");
+    countriesMap.set("Mexico","Mexico");
+    countriesMap.set("Brazil","Brazil");
+    countriesMap.set("UAE","UAE");
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -352,7 +398,10 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Ice_Hockey",
 		value: "NHL_Playoffs.ics"
 	},
-    
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motar_Racing",
+		value: "Formula_1.ics"
+	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
 		value: "French_Open.ics"
