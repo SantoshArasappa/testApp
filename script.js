@@ -49,7 +49,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   var parentFolder = '/Games';
   $scope.show2pickers = false;
  // $scope.countries = [];
-  $scope.games = [];
+ // $scope.games = [];
   $scope.dateTypesMap = [];
   $scope.datesList = [];    
   
@@ -228,38 +228,38 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
     USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
     
-    var motarRacingMap = new Map();
+    var motorRacingMap = new Map();
     
-    motarRacingMap.set('Russia','Formula_1.ics');
-    motarRacingMap.set('Spain','Formula_1.ics');
-    motarRacingMap.set('Monaco','Formula_1.ics');
-    motarRacingMap.set('Canada','Formula_1.ics');
-    motarRacingMap.set('USA','Formula_1.ics');
-    motarRacingMap.set('Azerbaijan','Formula_1.ics');
-    motarRacingMap.set('Austria','Formula_1.ics');
-    motarRacingMap.set('England','Formula_1.ics');
-    motarRacingMap.set('Hungary','Formula_1.ics');
-    motarRacingMap.set('Belgium','Formula_1.ics');
-    motarRacingMap.set('Italy','Formula_1.ics');
-    motarRacingMap.set('Singapore','Formula_1.ics');
-    motarRacingMap.set('Malaysia','Formula_1.ics');
-    motarRacingMap.set('Japan','Formula_1.ics');
-    motarRacingMap.set('USA','Formula_1.ics');
-    motarRacingMap.set('Mexico','Formula_1.ics');
-    motarRacingMap.set('Brazil','Formula_1.ics');
-    motarRacingMap.set('UAE','Formula_1.ics');
+    motorRacingMap.set('Russia','Formula_1.ics');
+    motorRacingMap.set('Spain','Formula_1.ics');
+    motorRacingMap.set('Monaco','Formula_1.ics');
+    motorRacingMap.set('Canada','Formula_1.ics');
+    motorRacingMap.set('USA','Formula_1.ics');
+    motorRacingMap.set('Azerbaijan','Formula_1.ics');
+    motorRacingMap.set('Austria','Formula_1.ics');
+    motorRacingMap.set('England','Formula_1.ics');
+    motorRacingMap.set('Hungary','Formula_1.ics');
+    motorRacingMap.set('Belgium','Formula_1.ics');
+    motorRacingMap.set('Italy','Formula_1.ics');
+    motorRacingMap.set('Singapore','Formula_1.ics');
+    motorRacingMap.set('Malaysia','Formula_1.ics');
+    motorRacingMap.set('Japan','Formula_1.ics');
+    motorRacingMap.set('USA','Formula_1.ics');
+    motorRacingMap.set('Mexico','Formula_1.ics');
+    motorRacingMap.set('Brazil','Formula_1.ics');
+    motorRacingMap.set('UAE','Formula_1.ics');
      
     
     var mutliCountrySportMap = new Map();    
    // mutliCountrySportMap.set('Bike',countryMap);
     mutliCountrySportMap.set('Football',engFootballMap);
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
-    mutliCountrySportMap.set('Motar_Racing',motarRacingMap);
+    mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
     
     $scope.multiGamesList = [];
     $scope.multiGamesList.push('Football'); 
     $scope.multiGamesList.push('Ice_Hockey');
-    $scope.multiGamesList.push('Motar_Racing');
+    $scope.multiGamesList.push('Motor_Racing');
     
     $scope.gmtMap = new Map();
     
@@ -277,15 +277,27 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     // Changes for any new files start
     
     //Any new sport type added
-    $scope.games.push('Sport');
+  /*  $scope.games.push('');
     $scope.games.push('Car_Racing');
-    $scope.games.push('Cricket');     
-    $scope.games.push('Football');
-    $scope.games.push('Golf');
-    $scope.games.push('Ice_Hockey');
-    $scope.games.push('Motar_Racing');
-    $scope.games.push('Tennis');
-    $scope.games.push('Rugby');
+    $scope.games.push('');     
+    $scope.games.push('');
+    $scope.games.push('');
+  //  $scope.games.push('Ice_Hockey');
+    $scope.games.push('');
+    $scope.games.push('');
+    $scope.games.push('');*/
+    
+    $scope.games = {
+        "Sport":"Sport",
+         "Cricket":"Cricket",
+        "Austria": "Austria",
+        "Football": "Football",
+        "Golf": "Golf",
+       // "Canada":"Canada",
+        "Motor_Racing": "Motor Racing",
+        "Tennis": "Tennis",
+         "Rugby": "Rugby"
+    };
     
     // Any new country List
     
@@ -295,7 +307,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Austria": "Austria",
         "Belgium": "Belgium",
         "Brazil": "Brazil",
-        "Canada":"Canada",
+       // "Canada":"Canada",
         "England": "England",
         "France": "France",
          "Hungary": "Hungary",
@@ -394,12 +406,12 @@ $scope.gameFileListNew =
 		value: "English_Premier_League.ics"
 
 	},
-    {
+   /* {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Ice_Hockey",
 		value: "NHL_Playoffs.ics"
-	},
+	},*/
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motar_Racing",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
 		value: "Formula_1.ics"
 	},
     {
