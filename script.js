@@ -368,7 +368,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('New_Zealand','-12:00');
     $scope.gmtMap.set('Scotland','-01:00');
     
-    
+    $scope.gamesMap = new Map();
+    $scope.gamesMap.set('Motor_Racing','Motor Racing');
    
     
    
@@ -906,6 +907,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                    var countryInside = locList[2];
                     if(countryInside.trim() === country){
                         in_event = false;
+                        if($scope.gamesMap.get(game)){
+                            game = $scope.gamesMap.get(game);
+                        }
                         cur_event["sport"] = game;
                         cur_event["country"] = country;
                         cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
