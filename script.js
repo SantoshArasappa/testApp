@@ -290,10 +290,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games = {
         "Sport":"Sport",
          "Cricket":"Cricket",
-        "Austria": "Austria",
         "Football": "Football",
         "Golf": "Golf",
-       // "Canada":"Canada",
         "Motor_Racing": "Motor Racing",
         "Tennis": "Tennis",
          "Rugby": "Rugby"

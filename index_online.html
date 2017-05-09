@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/page.css">
     
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/8065b259/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/1977cf0a/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -180,7 +180,7 @@ option:nth-child(1) {
                             <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
 
                               <select ng-model="selectedGame" 
-                                 ng-options="record as record for record in games" style="height:30px;width:200px;margin-top: 20px;" ng-class="{'bold':selectedGame == 'Sport'}">
+                                 ng-options="key as value for (key , value) in games" style="height:30px;width:200px;margin-top: 20px;" ng-class="{'bold':selectedGame == 'Sport'}">
                                
                               </select>
                           </div>  
@@ -207,7 +207,7 @@ option:nth-child(1) {
                 </div>    
            
             
-                 <div class="col-md-5 col-lg-5 col-xs-12"><img src="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/59079067bebafb87ca4673f0/1493667958081/?format=2500w" alt="" width="300" height="200" style=""/></div>
+                 <div class="col-md-5 col-lg-5 col-xs-12"><img src ="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/59079067bebafb87ca4673f0/1493667958081/?format=2500w"/></div>
                 
            
                
