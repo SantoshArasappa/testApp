@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/page.css">
     
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/1977cf0a/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/1e851cff/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -193,7 +193,7 @@ option:nth-child(1) {
                 <div class="col-xs-1 col-lg-2 col-md-2" >&nbsp;</div>
             <div id="events" class="col-lg-2 col-md-2 col-xs-12">
                 
-                    <button class='btn btn-md' style='background-color: #096735;color: #FFFFFF;' ng-click='$app.filterEvents()'>Search Events</button>
+                    <button class='btn btn-md' style='background-color: #096735;color: #FFFFFF;' ng-click='$app.filterEvents()' ng-disabled="isLoading">Search Events</button>
                 </div>
 							
 							
