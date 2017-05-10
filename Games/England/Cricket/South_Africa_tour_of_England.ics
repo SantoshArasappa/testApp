@@ -6,7 +6,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/ci/content/series/1031417.html \n\n
 SUMMARY:Tour Match Sussex v South Africa
-DTSTART:20170519T000000Z
+DTSTART:20170519T100000Z
 DTEND:20170519T080000Z
 LOCATION:County Ground, Hove
 TRANSP:OPAQUE
@@ -20,7 +20,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/ci/content/series/1031417.html \n\n
 SUMMARY:Tour Match Northamptonshire v South Africa
-DTSTART:20170521T000000Z
+DTSTART:20170521T100000Z
 DTEND:20170521T080000Z
 LOCATION:County Ground, Northampton
 TRANSP:OPAQUE
