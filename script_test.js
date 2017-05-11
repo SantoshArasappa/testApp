@@ -355,7 +355,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
-    $scope.gmtMap.set('England','01:00');
+    $scope.gmtMap.set('England','-01:00');
     $scope.gmtMap.set('Italy','-02:00');
     $scope.gmtMap.set('Wales','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
