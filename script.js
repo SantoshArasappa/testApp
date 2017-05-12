@@ -289,6 +289,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.games = {
         "Sport":"Sport",
+        "Baseball":"Baseball",
          "Cricket":"Cricket",
         "Football": "Football",
         "Golf": "Golf",
@@ -459,7 +460,11 @@ $scope.gameFileListNew =
 		value: "US_Open.ics"
 
 	},
-	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Baseball",
+		value: "Major_League_Baseball.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Rugby",
 		value: "Lions_Cup.ics"
