@@ -233,8 +233,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     var USAIceHockeyMap = new Map();
     
-    USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
-    USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
+  //  USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
+  //  USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
     
     var motorRacingMap = new Map();
     
@@ -442,10 +442,14 @@ $scope.gameFileListNew =
 		value: "English_Premier_League.ics"
 
 	},
-   /* {
+    /*{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Ice_Hockey",
 		value: "NHL_Playoffs.ics"
 	},*/
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
+		value: "Pro12.ics"
+	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
 		value: "Formula_1.ics"
