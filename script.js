@@ -312,11 +312,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
    
     
-    
-     $scope.countries = {
+    $scope.countries = {
         "Country":"Country",
         "Argentina":"Argentina",
         "Azerbaijan":"Azerbaijan",
+        "Australia": "Australia",
         "Austria": "Austria",
         "Belgium": "Belgium",
         "Brazil": "Brazil",
@@ -1738,10 +1738,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 //var value = map[key];
                                                 var dateFirstLoop = true;
                                                 country = key;
-                                                var valueList = value.split(',');
-                                                valueList.forEach(function(fileNameValue){
+                                                var valueList = value.split(','),i;
+                                                for (i = 0; i < valueList.length; i++) {
+                                               // valueList.forEach(function(fileNameValue){
                                                 
-                                                var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + fileNameValue;
+                                                var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valueList[i];
                                                 ical_parser(multiFileLocaiton, function(cal){
                                                     this.events = cal.events;
                                                     var eventsResults = cal.events;
@@ -1784,13 +1785,18 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
                                                 },dateFirstLoop,dateInLoop,country);
                                                 
-                                               }); // End loop here
+                                               }//);  End loop here
                                            
                                             });
                                            
                                        }else if(mutliSportMap.get(country)){
                                            multiFileName = mutliSportMap.get(country);
-                                           var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
+                                           
+                                           var valuesList = multiFileName.split(','),j;
+                                           
+                                           for (j = 0; j < valuesList.length; j++) {
+                                           
+                                           var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valuesList[j];
                                        
                                            var dateFirstLoop = true;
                                             ical_parser(multiFileLocaiton, function(cal){
@@ -1834,6 +1840,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 this.showCal = true;
 
                                             },dateFirstLoop,dateInLoop,country);
+                                           
+                                           }//add end loop here
                                        }
                                        
                                       
