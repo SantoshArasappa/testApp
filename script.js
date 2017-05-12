@@ -208,13 +208,21 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
      var RugbyMap = new Map();
-    
+    // RugbyMap.set('Wales','Pro12.ics');
      RugbyMap.set('Ireland','Pro12.ics');
      RugbyMap.set('England','Pro12.ics');
-     RugbyMap.set('Wales','Pro12.ics');
      RugbyMap.set('Scotland','Pro12.ics');
      RugbyMap.set('Italy','Pro12.ics');
      RugbyMap.set('default','Pro12.ics');
+    
+     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('Singapore','Super_Rugby.ics');
+     RugbyMap.set('Japan','Super_Rugby.ics');
+     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('Fiji','Super_Rugby.ics');
+     RugbyMap.set('Samoa','Super_Rugby.ics');
     
     
      var engFootballMap = new Map();
@@ -255,11 +263,13 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     mutliCountrySportMap.set('Football',engFootballMap);
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
     mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
+    mutliCountrySportMap.set('Rugby',RugbyMap);
     
     $scope.multiGamesList = [];
     $scope.multiGamesList.push('Football'); 
     $scope.multiGamesList.push('Ice_Hockey');
     $scope.multiGamesList.push('Motor_Racing');
+    $scope.multiGamesList.push('Rugby');
     
     $scope.gmtMap = new Map();
     
@@ -300,26 +310,34 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     // Any new country List
     
+   
+    
+    
      $scope.countries = {
         "Country":"Country",
-         "Azerbaijan":"Azerbaijan",
+        "Argentina":"Argentina",
+        "Azerbaijan":"Azerbaijan",
         "Austria": "Austria",
         "Belgium": "Belgium",
         "Brazil": "Brazil",
        // "Canada":"Canada",
         "England": "England",
+        "Fiji": "Fiji",
         "France": "France",
-         "Hungary": "Hungary",
+        "Hungary": "Hungary",
         "India": "India",
+        "Ireland": "Ireland", 
         "Italy": "Italy",
-         "Japan": "Japan",
+        "Japan": "Japan",
         "Malaysia": "Malaysia",
-         "Mexico": "Mexico",
-         "Monaco": "Monaco",
+        "Mexico": "Mexico",
+        "Monaco": "Monaco",
         "New_Zealand":"New Zealand",
-         "Russia":"Russia",
+        "Russia":"Russia",
         "Scotland": "Scotland",
-         "Singapore": "Singapore",
+        "Singapore": "Singapore",
+        "South_Africa": "South Africa",
+        "Samoa": "Samoa", 
         "Spain": "Spain",
         "Wales": "Wales",
         "West_Indies": "West Indies",
@@ -353,6 +371,17 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     countriesMap.set("Mexico","Mexico");
     countriesMap.set("Brazil","Brazil");
     countriesMap.set("UAE","UAE");
+    countriesMap.set("South_Africa","South Africa");
+    
+    countriesMap.set("Scotland","Scotland");
+    
+    countriesMap.set("Ireland","Ireland");
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Japan","Japan");    
+    countriesMap.set("Argentina","Argentina");
+    countriesMap.set("Fiji","Fiji");
+    countriesMap.set("Samoa","Samoa");
+    
     
     //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
@@ -1687,6 +1716,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                            if((($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game)  && multiGame === game)){
                            
                                if(mutliCountrySportMap.get(multiGame)){
+                                   
+                                   
+                                   
                                    var mutliSportMap = mutliCountrySportMap.get(multiGame);
                                    if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || ($scope.selectedLoc === country && mutliSportMap.get(country)) || (country === 'Multi' && mutliSportMap.get($scope.selectedLoc))){
                                        
@@ -1706,7 +1738,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 //var value = map[key];
                                                 var dateFirstLoop = true;
                                                 country = key;
-                                                var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + value;
+                                                var valueList = value.split(',');
+                                                valueList.forEach(function(fileNameValue){
+                                                
+                                                var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + fileNameValue;
                                                 ical_parser(multiFileLocaiton, function(cal){
                                                     this.events = cal.events;
                                                     var eventsResults = cal.events;
@@ -1748,6 +1783,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                     this.showCal = true;
 
                                                 },dateFirstLoop,dateInLoop,country);
+                                                
+                                               }); // End loop here
                                            
                                             });
                                            
@@ -1805,6 +1842,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                        
                                        
                                    }
+                                   
+                                   //Add end code here
                                }
                            }
                        });
