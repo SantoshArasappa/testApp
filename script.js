@@ -396,6 +396,13 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('New_Zealand','-12:00');
     $scope.gmtMap.set('Scotland','-01:00');
     
+    $scope.gmtMap.set('Singapore','-08:00');
+    $scope.gmtMap.set('Japan','-03:00');
+    $scope.gmtMap.set('Argentina','03:00');
+    $scope.gmtMap.set('Ireland','-01:00');
+    $scope.gmtMap.set('Fiji','00:00');
+    $scope.gmtMap.set('Samoa','-13:00');
+    
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
    
@@ -1015,7 +1022,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var gmtList1 = theFutureTime.split(':');
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                            cur_event.gmtTime = theFutureTime + ' GMT';
+                            var theFutureTimeString = '';
+                            if(theFutureTime > 24){
+                                theFutureTimeString = (theFutureTime - 24);
+                                theFutureTimeString = theFutureTimeString + '( +1 day )';
+                            }else if(theFutureTime < 0){
+                                theFutureTimeString = (theFutureTime * -1);
+                                theFutureTimeString = theFutureTimeString + '( -1 day )';
+                            }else{
+                                theFutureTimeString = theFutureTime;
+                            }
+                            cur_event.gmtTime = theFutureTimeString + ' GMT';
                         }
                     }
                     
