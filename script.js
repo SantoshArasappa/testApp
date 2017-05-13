@@ -300,12 +300,13 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.games = {
         "Sport":"Sport",
         "Baseball":"Baseball",
-         "Cricket":"Cricket",
+        "Basketball":"Basketball",
+        "Cricket":"Cricket",
         "Football": "Football",
         "Golf": "Golf",
         "Motor_Racing": "Motor Racing",
-        "Tennis": "Tennis",
-         "Rugby": "Rugby"
+        "Rugby": "Rugby",
+        "Tennis": "Tennis"
     };
     
     // Any new country List
@@ -402,6 +403,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Ireland','-01:00');
     $scope.gmtMap.set('Fiji','00:00');
     $scope.gmtMap.set('Samoa','-13:00');
+    $scope.gmtMap.set('Australia','-8:00');
+    $scope.gmtMap.set('South_Africa','-2:00');
     
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
@@ -503,6 +506,11 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Baseball",
 		value: "Major_League_Baseball.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Basketball",
+		value: "NBA.ics"
 
 	},
 	{
@@ -944,44 +952,38 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			}
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
-                
+                var addToList = false;
                 var locList = cur_event.LOCATION.split(',');
                 if(locList.length > 2){
                    var countryInside = locList[2];
-                    if(countryInside.trim() === country){
+                    if(countryInside.trim() === country || country == 'default'){
                         in_event = false;
                         if($scope.gamesMap.get(game)){
                             game = $scope.gamesMap.get(game);
                         }
                         cur_event["sport"] = game;
-                        cur_event["country"] = country;
-                        cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
-                        this.events.push(cur_event);
-                        cur_event = null;
+                        if(country == 'default'){
+                            cur_event["country"] = countryInside.trim();
+                        }else{
+                            cur_event["country"] = country;
+                        }
+                        
+                        cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
+                        addToList = true;
+                        
+                        
                     }
                 }else{  
                     in_event = false;
                     cur_event["sport"] = game;
                     cur_event["country"] = country;
-                    cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
-                    this.events.push(cur_event);
-                    cur_event = null;
+                    cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
+                    addToList = true;
+                   // this.events.push(cur_event);
                 }
                 
-				
-			}
-			//If we are in an event
-			if(in_event){
-				//Split the item based on the first ":"
-				idx = ln.indexOf(':');
-				//Apply trimming to values to reduce risks of badly formatted ical files.
-				type = ln.substr(0,idx).replace(/^\s\s*/, '').replace(/\s\s*$/, '');//Trim
-				val = ln.substr(idx+1,ln.length-(idx+1)).replace(/^\s\s*/, '').replace(/\s\s*$/, '');
-				
-				//If the type is a start date, proccess it and store details
-				//if(type =='DTSTART'){
-                if(type.indexOf('DTSTART') != -1 ){
-					dt = this.makeDate(val,dateFirst);
+                if(addToList){
+                    dt = this.makeDate(cur_event.fullDateTime,dateFirst);
 					val = dt.date;
 					//These are helpful for display
                    
@@ -994,7 +996,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     }else{
                         if(isGmt){
                             
-                            var gmtList = ($scope.gmtMap.get(country)).split(':');
+                            var gmtList = ($scope.gmtMap.get(cur_event["country"])).split(':');
                             gmtList[0] = gmtList[0]*-1;
                             if((gmtList[0]*-1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
@@ -1014,7 +1016,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             if(isOffSet){
                                 gmtList = cur_event.OFFSETTIME.split(':');
                             }else{
-                                gmtList = $scope.gmtMap.get(country).split(':');
+                                
+                                var gmtValue = $scope.gmtMap.get(cur_event["country"]);
+                                if(gmtValue){
+                                    gmtList = gmtValue.split(':');    
+                                }else{
+                                    console.log('country New');
+                                    console.log(cur_event["country"]);
+                                    gmtValue = '0:00';
+                                    gmtList = gmtValue.split(':'); 
+                                }
+                                
                             }
                             
                             if((gmtList[0]*1) < 1){
@@ -1045,6 +1057,27 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					cur_event.start_date = dt.year + '-' + dt.month+'-' + dt.day;
                     cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
 					cur_event.day = dt.dayname;
+                    this.events.push(cur_event);
+                    cur_event = null;
+                }
+                
+				
+			}
+			//If we are in an event
+			if(in_event){
+				//Split the item based on the first ":"
+				idx = ln.indexOf(':');
+				//Apply trimming to values to reduce risks of badly formatted ical files.
+				type = ln.substr(0,idx).replace(/^\s\s*/, '').replace(/\s\s*$/, '');//Trim
+				val = ln.substr(idx+1,ln.length-(idx+1)).replace(/^\s\s*/, '').replace(/\s\s*$/, '');
+				
+				//If the type is a start date, proccess it and store details
+				//if(type =='DTSTART'){
+                if(type.indexOf('DTSTART') != -1 ){
+                    
+                    cur_event.fullDateTime = val;
+                    
+					
 				}
 				//If the type is an end date, do the same as above
 				//if(type =='DTEND'){
