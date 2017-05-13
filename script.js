@@ -1039,7 +1039,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                             var theFutureTimeString = '';
-                            if(theFutureTime > 24){
+                            if(theFutureTime >= 24){
                                 theFutureTimeString = (theFutureTime - 24);
                                 theFutureTimeString = theFutureTimeString + '( +1 day )';
                             }else if(theFutureTime < 0){
