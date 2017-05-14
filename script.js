@@ -1002,13 +1002,32 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 gmtList[1] = gmtList[1] * -1;
                             }
                             
-                            cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT';
+                            
                             
                             var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                             var gmtList1 = theFutureTime.split(':');
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                             cur_event.start_time = theFutureTime + ' local';
+                            
+                            var mins = parseInt(gmtList[1]) + parseInt(dt.minute);
+                            
+                            var hoursIn = parseInt(gmtList[0]) + parseInt(dt.hour);
+                            
+                            if(mins > 60){
+                                hoursIn = hoursIn + 1;
+                            }
+                            
+                            var nextDayVar = '';
+                            
+                            if(hoursIn > 24){
+                                nextDayVar = ' ( -1 day )';
+                            }else if(hoursIn < 0){
+                                nextDayVar = ' ( +1 day )';
+                            }
+                            
+                            
+                            cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
                             
                             
                         }else{
@@ -1038,17 +1057,34 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var gmtList1 = theFutureTime.split(':');
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                            var theFutureTimeString = theFutureTime.split(':');
+                            
+                            var mins = parseInt(gmtList[1]) + parseInt(dt.minute);
+                            
+                            var hoursIn = parseInt(gmtList[0]) + parseInt(dt.hour);
+                            
+                            if(mins > 60){
+                                hoursIn = hoursIn + 1;
+                            }
+                            
+                            var nextDayVar = '';
+                            
+                            if(hoursIn > 24){
+                                nextDayVar = ' ( +1 day )';
+                            }else if(hoursIn < 0){
+                                nextDayVar = ' ( -1 day )';
+                            }
+                            
+                            /*var theFutureTimeString = theFutureTime.split(':');
                             if(theFutureTimeString >= 24){
                                 theFutureTimeString = (theFutureTime - 24);
-                                theFutureTimeString = theFutureTimeString + '( +1 day )';
+                                theFutureTimeString = theFutureTimeString + '( -1 day )';
                             }else if(theFutureTime < 0){
                                 theFutureTimeString = (theFutureTime * -1);
                                 theFutureTimeString = theFutureTimeString + '( -1 day )';
                             }else{
                                 theFutureTimeString = theFutureTime;
-                            }
-                            cur_event.gmtTime = theFutureTimeString + ' GMT';
+                            }*/
+                            cur_event.gmtTime = theFutureTime + ' GMT' + nextDayVar;
                         }
                     }
                     
