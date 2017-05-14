@@ -1021,13 +1021,13 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 if(gmtValue){
                                     gmtList = gmtValue.split(':');    
                                 }else{
-                                    console.log('country New');
-                                    console.log(cur_event["country"]);
                                     gmtValue = '0:00';
                                     gmtList = gmtValue.split(':'); 
                                 }
                                 
                             }
+                            
+                           // var isGmtPos
                             
                             if((gmtList[0]*1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
@@ -1038,8 +1038,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var gmtList1 = theFutureTime.split(':');
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                            var theFutureTimeString = '';
-                            if(theFutureTime >= 24){
+                            var theFutureTimeString = theFutureTime.split(':');
+                            if(theFutureTimeString >= 24){
                                 theFutureTimeString = (theFutureTime - 24);
                                 theFutureTimeString = theFutureTimeString + '( +1 day )';
                             }else if(theFutureTime < 0){
@@ -1812,15 +1812,20 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                     }
 
                                                     var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
-
+                                                        var getCountyFromMap = '';
+                                                        if(countriesMap.get(cal.country)){
+                                                            getCountyFromMap = countriesMap.get(cal.country);
+                                                        }else{
+                                                            getCountyFromMap = cal.country;
+                                                        }
                                                         if(returnResults.length > 0){
                                                             if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                                                    $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                                                    $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
                                                             }else{
 
                                                                 var listValue = [
                                                                     {
-                                                                        'country':countriesMap.get(cal.country),
+                                                                        'country':getCountyFromMap,
                                                                         'listValue' : returnResults
                                                                     }
 
@@ -1868,15 +1873,22 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 }
 
                                                 var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
-
+                                                    
+                                                    var getCountyFromMap = '';
+                                                    if(countriesMap.get(cal.country)){
+                                                        getCountyFromMap = countriesMap.get(cal.country);
+                                                    }else{
+                                                        getCountyFromMap = cal.country;
+                                                    }
+                                                
                                                     if(returnResults.length > 0){
                                                         if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                                                $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                                                $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
                                                         }else{
 
                                                             var listValue = [
                                                                 {
-                                                                    'country':countriesMap.get(cal.country),
+                                                                    'country':getCountyFromMap,
                                                                     'listValue' : returnResults
                                                                 }
 
@@ -1925,15 +1937,22 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var formatedDatesList = new Map();
                             formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
                             var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList,null);
-
+                                
+                                var getCountyFromMap = '';
+                                if(countriesMap.get(cal.country)){
+                                    getCountyFromMap = countriesMap.get(cal.country);
+                                }else{
+                                    getCountyFromMap = cal.country;
+                                }
+                            
                                 if(returnResults.length > 0){
                                     if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
                                     }else{
 
                                         var listValue = [
                                             {
-                                                'country':countriesMap.get(cal.country),
+                                                'country':getCountyFromMap,
                                                 'listValue' : returnResults
                                             }
 
