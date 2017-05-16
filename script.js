@@ -420,7 +420,11 @@ $scope.gameFileListNew =
 		value: "Indian_Premier_League.ics"
 
 	},
-	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
+		value: "The_Ashes.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
 		value: "La_Liga.ics"
