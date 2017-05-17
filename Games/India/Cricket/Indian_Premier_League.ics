@@ -550,7 +550,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
-SUMMARY:Qualifier 2 TBC v TBC
+SUMMARY:Mumbai Indians v Kolkata Knight Riders
 DTSTART:20170519T200000Z
 DTEND:20170519T183000Z
 LOCATION:M Chinnaswamy Stadium, Bangalore
@@ -564,7 +564,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Indian Premier League news at: http://www.espncricinfo.com/indian-premier-league-2017/content/series/1078425.html \n\n
-SUMMARY:Final TBC v TBC
+SUMMARY:Final Rising Pune Supergiant v TBC
 DTSTART:20170521T200000Z
 DTEND:20170521T183000Z
 LOCATION:Rajiv Gandhi International Stadium, Hyderabad
