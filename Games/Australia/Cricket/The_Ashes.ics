@@ -154,7 +154,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+8:00
+OFFSETTIME:-8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 1)
 DTSTART:20171214T103000Z
@@ -169,7 +169,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+8:00
+OFFSETTIME:-8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 2)
 DTSTART:20171215T103000Z
@@ -184,7 +184,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+8:00
+OFFSETTIME:-8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 3)
 DTSTART:20171216T103000Z
@@ -199,7 +199,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+8:00
+OFFSETTIME:-8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 4)
 DTSTART:20171217T103000Z
@@ -214,7 +214,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+8:00
+OFFSETTIME:-8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 5)
 DTSTART:20171218T103000Z
@@ -229,7 +229,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 1)
 DTSTART:20171225T103000Z
@@ -244,7 +244,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 2)
 DTSTART:20171226T103000Z
@@ -259,7 +259,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 3)
 DTSTART:20171227T103000Z
@@ -274,7 +274,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 4)
 DTSTART:20171228T103000Z
@@ -289,7 +289,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 5)
 DTSTART:20171229T103000Z
@@ -304,7 +304,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 1)
 DTSTART:20180103T103000Z
@@ -319,7 +319,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 2)
 DTSTART:20180104T103000Z
@@ -334,7 +334,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 3)
 DTSTART:20180105T103000Z
@@ -349,7 +349,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 4)
 DTSTART:20180106T103000Z
@@ -364,7 +364,7 @@ DESCRIPTION:Reminder
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT 
-OFFSETTIME:+11:00
+OFFSETTIME:-11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 5)
 DTSTART:20180107T103000Z
