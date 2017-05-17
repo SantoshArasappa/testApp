@@ -7,7 +7,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:1st Test Australia v England (Day 1)
-DTSTART:20171123T000000Z
+DTSTART:20171123T100000Z
 DTEND:20171123T080000Z
 LOCATION:Brisbane Cricket Ground, Brisbane, Australia
 TRANSP:OPAQUE
@@ -22,7 +22,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:1st Test Australia v England (Day 2)
-DTSTART:20171124T000000Z
+DTSTART:20171124T100000Z
 DTEND:20171124T080000Z
 LOCATION:Brisbane Cricket Ground, Brisbane, Australia
 TRANSP:OPAQUE
@@ -37,7 +37,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:1st Test Australia v England (Day 3)
-DTSTART:20171125T000000Z
+DTSTART:20171125T100000Z
 DTEND:20171125T080000Z
 LOCATION:Brisbane Cricket Ground, Brisbane, Australia
 TRANSP:OPAQUE
@@ -52,7 +52,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:1st Test Australia v England (Day 4)
-DTSTART:20171126T000000Z
+DTSTART:20171126T100000Z
 DTEND:20171126T080000Z
 LOCATION:Brisbane Cricket Ground, Brisbane, Australia
 TRANSP:OPAQUE
@@ -67,7 +67,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:1st Test Australia v England (Day 5)
-DTSTART:20171127T000000Z
+DTSTART:20171127T100000Z
 DTEND:20171127T080000Z
 LOCATION:Brisbane Cricket Ground, Brisbane, Australia
 TRANSP:OPAQUE
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:2nd Test Australia v England (Day 1)
-DTSTART:20171202T033000Z
+DTSTART:20171202T140000Z
 DTEND:20171202T113000Z
 LOCATION:Adelaide Oval, Adelaide, Australia
 TRANSP:OPAQUE
@@ -97,7 +97,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:2nd Test Australia v England (Day 2)
-DTSTART:20171203T033000Z
+DTSTART:20171203T140000Z
 DTEND:20171203T113000Z
 LOCATION:Adelaide Oval, Adelaide, Australia
 TRANSP:OPAQUE
@@ -112,7 +112,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:2nd Test Australia v England (Day 3)
-DTSTART:20171204T033000Z
+DTSTART:20171204T140000Z
 DTEND:20171204T113000Z
 LOCATION:Adelaide Oval, Adelaide, Australia
 TRANSP:OPAQUE
@@ -127,7 +127,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:2nd Test Australia v England (Day 4)
-DTSTART:20171205T033000Z
+DTSTART:20171205T140000Z
 DTEND:20171205T113000Z
 LOCATION:Adelaide Oval, Adelaide, Australia
 TRANSP:OPAQUE
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 OFFSETTIME:+10:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:2nd Test Australia v England (Day 5)
-DTSTART:20171206T033000Z
+DTSTART:20171206T140000Z
 DTEND:20171206T113000Z
 LOCATION:Adelaide Oval, Adelaide, Australia
 TRANSP:OPAQUE
@@ -157,7 +157,7 @@ BEGIN:VEVENT
 OFFSETTIME:+8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 1)
-DTSTART:20171214T023000Z
+DTSTART:20171214T103000Z
 DTEND:20171214T103000Z
 LOCATION:Western Australia Cricket Association Ground, Perth, Australia
 TRANSP:OPAQUE
@@ -172,7 +172,7 @@ BEGIN:VEVENT
 OFFSETTIME:+8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 2)
-DTSTART:20171215T023000Z
+DTSTART:20171215T103000Z
 DTEND:20171215T103000Z
 LOCATION:Western Australia Cricket Association Ground, Perth, Australia
 TRANSP:OPAQUE
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 OFFSETTIME:+8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 3)
-DTSTART:20171216T023000Z
+DTSTART:20171216T103000Z
 DTEND:20171216T103000Z
 LOCATION:Western Australia Cricket Association Ground, Perth, Australia
 TRANSP:OPAQUE
@@ -202,7 +202,7 @@ BEGIN:VEVENT
 OFFSETTIME:+8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 4)
-DTSTART:20171217T023000Z
+DTSTART:20171217T103000Z
 DTEND:20171217T103000Z
 LOCATION:Western Australia Cricket Association Ground, Perth, Australia
 TRANSP:OPAQUE
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 OFFSETTIME:+8:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:3rd Test Australia v England (Day 5)
-DTSTART:20171218T023000Z
+DTSTART:20171218T103000Z
 DTEND:20171218T103000Z
 LOCATION:Western Australia Cricket Association Ground, Perth, Australia
 TRANSP:OPAQUE
@@ -232,7 +232,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 1)
-DTSTART:20171225T233000Z
+DTSTART:20171225T103000Z
 DTEND:20171226T073000Z
 LOCATION:Melbourne Cricket Ground, Melbourne, Australia
 TRANSP:OPAQUE
@@ -247,7 +247,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 2)
-DTSTART:20171226T233000Z
+DTSTART:20171226T103000Z
 DTEND:20171227T073000Z
 LOCATION:Melbourne Cricket Ground, Melbourne, Australia
 TRANSP:OPAQUE
@@ -262,7 +262,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 3)
-DTSTART:20171227T233000Z
+DTSTART:20171227T103000Z
 DTEND:20171228T073000Z
 LOCATION:Melbourne Cricket Ground, Melbourne, Australia
 TRANSP:OPAQUE
@@ -277,7 +277,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 4)
-DTSTART:20171228T233000Z
+DTSTART:20171228T103000Z
 DTEND:20171229T073000Z
 LOCATION:Melbourne Cricket Ground, Melbourne, Australia
 TRANSP:OPAQUE
@@ -292,7 +292,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:4th Test Australia v England (Day 5)
-DTSTART:20171229T233000Z
+DTSTART:20171229T103000Z
 DTEND:20171230T073000Z
 LOCATION:Melbourne Cricket Ground, Melbourne, Australia
 TRANSP:OPAQUE
@@ -307,7 +307,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 1)
-DTSTART:20180103T233000Z
+DTSTART:20180103T103000Z
 DTEND:20180104T073000Z
 LOCATION:Sydney Cricket Ground, Sydney, Australia
 TRANSP:OPAQUE
@@ -322,7 +322,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 2)
-DTSTART:20180104T233000Z
+DTSTART:20180104T103000Z
 DTEND:20180105T073000Z
 LOCATION:Sydney Cricket Ground, Sydney, Australia
 TRANSP:OPAQUE
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 3)
-DTSTART:20180105T233000Z
+DTSTART:20180105T103000Z
 DTEND:20180106T073000Z
 LOCATION:Sydney Cricket Ground, Sydney, Australia
 TRANSP:OPAQUE
@@ -352,7 +352,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 4)
-DTSTART:20180106T233000Z
+DTSTART:20180106T103000Z
 DTEND:20180107T073000Z
 LOCATION:Sydney Cricket Ground, Sydney, Australia
 TRANSP:OPAQUE
@@ -367,7 +367,7 @@ BEGIN:VEVENT
 OFFSETTIME:+11:00
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest The Ashes news at: http://www.espncricinfo.com/ci/content/series/1072264.html \n\n 
 SUMMARY:5th Test Australia v England (Day 5)
-DTSTART:20180107T233000Z
+DTSTART:20180107T103000Z
 DTEND:20180108T073000Z
 LOCATION:Sydney Cricket Ground, Sydney, Australia
 TRANSP:OPAQUE
