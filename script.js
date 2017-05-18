@@ -430,10 +430,21 @@ $scope.gameFileListNew =
 		value: "La_Liga.ics"
 
 	},
-	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
-		value: "Pakistan_Tour_of_West_Indies.ics"
+		value: "Pakistan_Tour_of_West_Indies.ics,Afghanistan_tour_of_West_Indies.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
+		value: "Australia_tour_of_South_Africa.ics,Bangladesh_tour_of_South_Africa.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Cricket",
+		value: "Zimbabwe_tour_of_Scotland.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Ireland/Cricket",
+		value: "Ireland_Tri-Nation_Series.ics,West_Indies_tour_of_Ireland.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
@@ -1025,9 +1036,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 24){
-                                nextDayVar = ' ( -1 day )';
+                                nextDayVar = ' (-1)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' ( +1 day )';
+                                nextDayVar = ' (+1)';
                             }
                             
                             
