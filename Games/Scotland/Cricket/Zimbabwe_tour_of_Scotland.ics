@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Scotland news at: http://www.espncricinfo.com/scotland-v-zimbabwe-2017/content/series/1089417.html \n\n 
+SUMMARY:1st ODI Scotland v Zimbabwe
+DTSTART:20170615T094500Z
+DTEND:20170615T174500Z
+LOCATION:Grange Cricket Club Ground, Raeburn Place, Edinburgh
+TRANSP:OPAQUE
+UID:1089419_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Scotland news at: http://www.espncricinfo.com/scotland-v-zimbabwe-2017/content/series/1089417.html \n\n 
+SUMMARY:2nd ODI Scotland v Zimbabwe
+DTSTART:20170617T094500Z
+DTEND:20170617T174500Z
+LOCATION:Grange Cricket Club Ground, Raeburn Place, Edinburgh
+TRANSP:OPAQUE
+UID:1089420_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

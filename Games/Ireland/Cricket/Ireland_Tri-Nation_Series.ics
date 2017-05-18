@@ -1,0 +1,89 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:1st Match Ireland v Bangladesh
+DTSTART:20170512T094500Z
+DTEND:20170512T174500Z
+LOCATION:Malahide, Dublin
+TRANSP:OPAQUE
+UID:1033361_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:2nd Match Ireland v New Zealand
+DTSTART:20170514T094500Z
+DTEND:20170514T174500Z
+LOCATION:Malahide, Dublin
+TRANSP:OPAQUE
+UID:1033363_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:3rd Match Bangladesh v New Zealand
+DTSTART:20170517T094500Z
+DTEND:20170517T174500Z
+LOCATION:Clontarf Cricket Club Ground, Dublin
+TRANSP:OPAQUE
+UID:1033365_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:4th Match Ireland v Bangladesh
+DTSTART:20170519T094500Z
+DTEND:20170519T174500Z
+LOCATION:Malahide, Dublin
+TRANSP:OPAQUE
+UID:1033367_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:5th Match Ireland v New Zealand
+DTSTART:20170521T094500Z
+DTEND:20170521T174500Z
+LOCATION:Malahide, Dublin
+TRANSP:OPAQUE
+UID:1033369_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Ireland Tri-Nation Series news at: http://www.espncricinfo.com/ireland-tri-series-2017/content/series/1033359.html \n\n 
+SUMMARY:6th Match Bangladesh v New Zealand
+DTSTART:20170524T094500Z
+DTEND:20170524T174500Z
+LOCATION:Clontarf Cricket Club Ground, Dublin
+TRANSP:OPAQUE
+UID:1033371_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

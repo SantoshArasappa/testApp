@@ -1,0 +1,19 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest West Indies tour of Ireland news at: http://www.espncricinfo.com/ci/content/series/1033237.html \n\n 
+SUMMARY:Only ODI Ireland v West Indies
+DTSTART:20170913T000000Z
+DTEND:20170913T080000Z
+LOCATION:Civil Service Cricket Club, Stormont, Belfast
+TRANSP:OPAQUE
+UID:1033241_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
