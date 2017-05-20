@@ -1,0 +1,14 @@
+BEGIN:VEVENT
+DTSTART:20170603T194500Z
+SUMMARY:Juventus v Real Madrid
+DESCRIPTION:Football UEFA Champions League Final
+LOCATION:Millennium Stadium, Cardiff, Wales
+UID:20170603T194500ZJuventus v Real Madrid
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170524T204500Z
+SUMMARY:Ajax v Manchester United 
+DESCRIPTION:Football UEFA Champions League Final
+LOCATION:Friends Arena, Solna, Sweden
+UID:20170524T204500ZAjax v Manchester United 
+END:VEVENT

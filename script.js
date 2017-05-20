@@ -223,13 +223,31 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics');
      RugbyMap.set('Fiji','Super_Rugby.ics');
      RugbyMap.set('Samoa','Super_Rugby.ics');
-    
+     RugbyMap.set('France','Rugby_Union_Top_14.ics');
     
      var engFootballMap = new Map();
     
     //engFootballMap.set('default','English_Premier_League.ics'); 
     engFootballMap.set('England','English_Premier_League.ics');
-     engFootballMap.set('Wales','English_Premier_League.ics');
+    engFootballMap.set('Wales','English_Premier_League.ics,UEFA_Champions_League_Final.ics');
+    engFootballMap.set('Sweden','UEFA_Champions_League_Final.ics');
+    
+    var boxingMap = new Map();
+    
+    boxingMap.set('Sweden','UFC.ics'); 
+    boxingMap.set('Brazil','UFC.ics');
+    boxingMap.set('New_Zealand','UFC.ics');
+    boxingMap.set('Singapore','UFC.ics');
+    boxingMap.set('USA','UFC.ics'); 
+    boxingMap.set('Mexico','UFC.ics');
+    boxingMap.set('Netherlands','UFC.ics');
+    boxingMap.set('Canada','UFC.ics');
+    boxingMap.set('Japan','UFC.ics'); 
+    boxingMap.set('Poland','UFC.ics');
+    boxingMap.set('Scotland','UFC.ics');
+    
+    
+    
     
     var USAIceHockeyMap = new Map();
     
@@ -264,12 +282,16 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
     mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
     mutliCountrySportMap.set('Rugby',RugbyMap);
+    mutliCountrySportMap.set('Boxing',boxingMap);
+    
+    
     
     $scope.multiGamesList = [];
     $scope.multiGamesList.push('Football'); 
     $scope.multiGamesList.push('Ice_Hockey');
     $scope.multiGamesList.push('Motor_Racing');
     $scope.multiGamesList.push('Rugby');
+    $scope.multiGamesList.push('Boxing');
     
     $scope.gmtMap = new Map();
     
@@ -471,6 +493,10 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
 		value: "Formula_1.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		value: "UFC.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
