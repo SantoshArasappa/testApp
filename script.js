@@ -343,7 +343,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Austria": "Austria",
         "Belgium": "Belgium",
         "Brazil": "Brazil",
-       // "Canada":"Canada",
+        "Canada":"Canada",
         "England": "England",
         "Fiji": "Fiji",
         "France": "France",
@@ -355,6 +355,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Malaysia": "Malaysia",
         "Mexico": "Mexico",
         "Monaco": "Monaco",
+        "Poland": "Poland",
+        "Netherlands": "Netherlands",
         "New_Zealand":"New Zealand",
         "Russia":"Russia",
         "Scotland": "Scotland",
@@ -362,15 +364,16 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "South_Africa": "South Africa",
         "Samoa": "Samoa", 
         "Spain": "Spain",
+        "Sweden": "Sweden",
         "Wales": "Wales",
         "West_Indies": "West Indies",
         "UAE": "UAE", 
-         "USA": "USA"
+        "USA": "USA"
     };
     
     //Any country added we need to add here to map _ country into space country name
     var countriesMap = new Map();   
-     countriesMap.set('Canada','Canada');
+     /*countriesMap.set('Canada','Canada');
      countriesMap.set('England','England');
      countriesMap.set('India','India');
      countriesMap.set('Italy', 'Italy');
@@ -403,7 +406,46 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     countriesMap.set("Japan","Japan");    
     countriesMap.set("Argentina","Argentina");
     countriesMap.set("Fiji","Fiji");
+    countriesMap.set("Samoa","Samoa");*/
+    
+    countriesMap.set('Canada','Canada');
+    countriesMap.set('England','England');
+    countriesMap.set('India','India');
+    countriesMap.set('Italy', 'Italy');
+    countriesMap.set('Wales','Wales');
+    countriesMap.set('West_Indies','West Indies');
+    countriesMap.set('Spain','Spain');
+    countriesMap.set('France','France');
+    countriesMap.set("Georgia","Georgia");
+    countriesMap.set("USA","USA");
+    countriesMap.set("New_Zealand","New Zealand");
+    countriesMap.set("Scotland","Scotland");
+    countriesMap.set('Russia','Russia');
+    countriesMap.set('Monaco', 'Monaco');
+    countriesMap.set('Azerbaijan','Azerbaijan');
+    countriesMap.set('Austria','Austria');
+    countriesMap.set('Hungary','Hungary');
+    countriesMap.set('Belgium','Belgium');
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Malaysia","Malaysia");
+    countriesMap.set("Japan","Japan");
+    countriesMap.set("Mexico","Mexico");
+    countriesMap.set("Brazil","Brazil");
+    countriesMap.set("UAE","UAE");
+    countriesMap.set("South_Africa","South Africa");
+	countriesMap.set("Scotland","Scotland");
+    countriesMap.set("Ireland","Ireland");
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Japan","Japan");    
+    countriesMap.set("Argentina","Argentina");
+    countriesMap.set("Fiji","Fiji");
     countriesMap.set("Samoa","Samoa");
+	
+	countriesMap.set("Sweden","Sweden");
+	countriesMap.set('Netherlands','Netherlands');
+    countriesMap.set("Poland","Poland");
+    
+    
     
     
     //Any new GMT for new country addition
@@ -418,7 +460,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('USA','-05:00');
     $scope.gmtMap.set('New_Zealand','-12:00');
     $scope.gmtMap.set('Scotland','-01:00');
-    
     $scope.gmtMap.set('Singapore','-08:00');
     $scope.gmtMap.set('Japan','-03:00');
     $scope.gmtMap.set('Argentina','03:00');
@@ -427,6 +468,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Samoa','-13:00');
     $scope.gmtMap.set('Australia','-8:00');
     $scope.gmtMap.set('South_Africa','-2:00');
+    $scope.gmtMap.set('Sweden','-02:00');
+    $scope.gmtMap.set('Netherlands','-02:00');
+    $scope.gmtMap.set('Poland','-02:00');
     
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
