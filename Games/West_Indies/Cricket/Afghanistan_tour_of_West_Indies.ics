@@ -4,7 +4,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:1st T20I West Indies v Afghanistan
 DTSTART:20170602T230000Z
 DTEND:20170603T030000Z
-LOCATION:Warner Park, Basseterre, St Kitts
+LOCATION:Warner Park, St Kitts
 TRANSP:OPAQUE
 UID:1089776_0
 BEGIN:VALARM
@@ -18,7 +18,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:2nd T20I West Indies v Afghanistan
 DTSTART:20170603T230000Z
 DTEND:20170604T030000Z
-LOCATION:Warner Park, Basseterre, St Kitts
+LOCATION:Warner Park, St Kitts
 TRANSP:OPAQUE
 UID:1089777_0
 BEGIN:VALARM
@@ -32,7 +32,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:3rd T20I West Indies v Afghanistan
 DTSTART:20170605T230000Z
 DTEND:20170606T030000Z
-LOCATION:Warner Park, Basseterre, St Kitts
+LOCATION:Warner Park, St Kitts
 TRANSP:OPAQUE
 UID:1089778_0
 BEGIN:VALARM
@@ -46,7 +46,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:1st ODI West Indies v Afghanistan
 DTSTART:20170609T183000Z
 DTEND:20170610T023000Z
-LOCATION:Darren Sammy National Cricket Stadium, Gros Islet, St Lucia
+LOCATION:Darren Sammy National Cricket Stadium, St Lucia
 TRANSP:OPAQUE
 UID:1089779_0
 BEGIN:VALARM
@@ -60,7 +60,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:2nd ODI West Indies v Afghanistan
 DTSTART:20170611T183000Z
 DTEND:20170612T023000Z
-LOCATION:Darren Sammy National Cricket Stadium, Gros Islet, St Lucia
+LOCATION:Darren Sammy National Cricket Stadium, St Lucia
 TRANSP:OPAQUE
 UID:1089780_0
 BEGIN:VALARM
@@ -74,7 +74,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:3rd ODI West Indies v Afghanistan
 DTSTART:20170614T183000Z
 DTEND:20170615T023000Z
-LOCATION:Darren Sammy National Cricket Stadium, Gros Islet, St Lucia
+LOCATION:Darren Sammy National Cricket Stadium, St Lucia
 TRANSP:OPAQUE
 UID:1089781_0
 BEGIN:VALARM
