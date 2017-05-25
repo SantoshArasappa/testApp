@@ -204,7 +204,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countryMap.set('Australia','MotoGP.ics');
      countryMap.set('Malaysia','MotoGP.ics');
      countryMap.set('Valencia','MotoGP.ics');
-     countryMap.set('default','MotoGP.ics');
+   //  countryMap.set('default','MotoGP.ics');
     
     
      var RugbyMap = new Map();
@@ -213,7 +213,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('England','Pro12.ics');
      RugbyMap.set('Scotland','Pro12.ics');
      RugbyMap.set('Italy','Pro12.ics');
-     RugbyMap.set('default','Pro12.ics');
+   //  RugbyMap.set('default','Pro12.ics');
     
      RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics');
      RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics');

@@ -7,7 +7,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:1st ODI Scotland v Zimbabwe
 DTSTART:20170615T094500Z
 DTEND:20170615T174500Z
-LOCATION:Grange Cricket Club Ground, Raeburn Place, Edinburgh
+LOCATION:Grange Cricket Club Ground, Edinburgh
 TRANSP:OPAQUE
 UID:1089419_0
 BEGIN:VALARM
@@ -21,7 +21,7 @@ DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.
 SUMMARY:2nd ODI Scotland v Zimbabwe
 DTSTART:20170617T094500Z
 DTEND:20170617T174500Z
-LOCATION:Grange Cricket Club Ground, Raeburn Place, Edinburgh
+LOCATION:Grange Cricket Club Ground, Edinburgh
 TRANSP:OPAQUE
 UID:1089420_0
 BEGIN:VALARM
