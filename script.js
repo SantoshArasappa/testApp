@@ -1087,10 +1087,22 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         if(isGmt){
                             
                             var gmtList = ($scope.gmtMap.get(cur_event["country"])).split(':');
+                            
+                            //Add to the original GMT time
+                            var localGmtList = $scope.localGMTOffset.split(':');
+                            var theGmtLocalFutureTime = moment().hour(localGmtList[0]).minute(localGmtList[1]).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtLocalList1 = theGmtLocalFutureTime.split(':');
+                            theGmtLocalFutureTime = moment().hour(gmtLocalList1[0]).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            
+                            
                             gmtList[0] = gmtList[0]*-1;
                             if((gmtList[0]*-1) < 1){
                                 gmtList[1] = gmtList[1] * -1;
                             }
+                            
+                            
+                            
+                                                    
                             
                             
                             
@@ -1099,6 +1111,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
                             cur_event.start_time = theFutureTime + ' local';
+                            
                             
                             var mins = parseInt(gmtList[1]) + parseInt(dt.minute);
                             
@@ -1116,8 +1129,43 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 nextDayVar = ' (+1)';
                             }
                             
-                            
                             cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
+                            
+                            var gmtLocalListDay = theGmtLocalFutureTime.split(":");
+                            
+                            if((gmtLocalListDay[0]*-1) < 1){
+                                gmtLocalListDay[1] = gmtLocalListDay[1] * -1;
+                            }
+                            
+                            var gameTimeList = theFutureTime.split(":");
+                            var minsLocal = parseInt(gmtLocalListDay[1]) + parseInt(gameTimeList[1]);
+                            
+                            var hoursInLocal = parseInt(gmtLocalListDay[0]) + parseInt(gameTimeList[0]);
+                            
+                            if(minsLocal > 60){
+                                hoursInLocal = hoursInLocal + 1;
+                                minsLocal = minsLocal - 60;
+                            }
+                            
+                            var nextDayVarLocal = '';
+                            
+                            if(hoursInLocal > 24){
+                                nextDayVarLocal = ' (+1)';
+                                hoursInLocal = hoursInLocal - 24;
+                            }else if(hoursInLocal < 0){
+                                nextDayVarLocal = ' (-1)';
+                                hoursInLocal = hoursInLocal * (-1);
+                            }
+                            
+                            function pad(num) {
+                                return ("0"+num).slice(-2);
+                            }
+                            
+                            
+                            cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' User Local' + nextDayVarLocal;
+                            
+                            
+                            
                             
                             
                         }else{
@@ -1142,6 +1190,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 gmtList[1] = gmtList[1] * -1;
                             }
                             cur_event.start_time = dt.hour+':'+dt.minute + ' local';
+                            
+                            var localGmtList = $scope.localGMTOffset.split(':');
+                            var theGmtLocalFutureTime = moment().hour(localGmtList[0]).minute(localGmtList[1]).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtLocalList1 = theGmtLocalFutureTime.split(':');
+                            theGmtLocalFutureTime = moment().hour(gmtLocalList1[0]).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            
                            // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                             var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
                             var gmtList1 = theFutureTime.split(':');
@@ -1159,9 +1213,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 24){
-                                nextDayVar = ' ( +1 day )';
+                                nextDayVar = ' ( +1)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' ( -1 day )';
+                                nextDayVar = ' ( -1)';
                             }
                             
                             /*var theFutureTimeString = theFutureTime.split(':');
@@ -1175,6 +1229,42 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 theFutureTimeString = theFutureTime;
                             }*/
                             cur_event.gmtTime = theFutureTime + ' GMT' + nextDayVar;
+                            
+                            
+                            var gmtLocalListDay = theGmtLocalFutureTime.split(":");
+                            
+                            if((gmtLocalListDay[0]*-1) < 1){
+                                gmtLocalListDay[1] = gmtLocalListDay[1] * -1;
+                            }
+                            
+                            var gameTimeList = theFutureTime.split(":");
+                            var minsLocal = parseInt(gmtLocalListDay[1]) + parseInt(dt.minute);
+                            
+                            var hoursInLocal = parseInt(gmtLocalListDay[0]) + parseInt(dt.hour);
+                            
+                            if(minsLocal > 60){
+                                hoursInLocal = hoursInLocal + 1;
+                                minsLocal = minsLocal - 60;
+                            }
+                            
+                            var nextDayVarLocal = '';
+                            
+                            if(hoursInLocal > 24){
+                                nextDayVarLocal = ' (+1)';
+                                hoursInLocal = hoursInLocal - 24;
+                            }else if(hoursInLocal < 0){
+                                nextDayVarLocal = ' (-1)';
+                                hoursInLocal = hoursInLocal * (-1) ;
+                            }
+                            
+                            
+                            function pad(num) {
+                                return ("0"+num).slice(-2);
+                            }
+
+                            
+                            cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' User Local' + nextDayVarLocal;
+                            
                         }
                     }
                     
@@ -1827,7 +1917,21 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            
            }
            if(!$scope.isError){
-       
+        
+           function pad(num) {
+                return ("0"+num).slice(-2);
+            }
+               
+               
+        var d = new Date();
+        var secs = (d.getTimezoneOffset()) * -1;       
+        
+        var hours = Math.floor(secs/60);
+        var minutes = secs%60;  
+           
+             
+        $scope.localGMTOffset = pad(hours)+":"+pad(minutes);
+               
        $scope.isError = false;
        $scope.showEvents = false;
        //var formatedDates = [];
