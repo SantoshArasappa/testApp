@@ -541,6 +541,10 @@ $scope.gameFileListNew =
 		value: "Pro12.ics"
 	},
     {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		value: "UFC.ics"
+	},
+    {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
 		value: "Formula_1.ics"
 	},
