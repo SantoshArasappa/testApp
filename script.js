@@ -1086,8 +1086,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     
                     if(dt.minute == '99'){
                         cur_event.start_time = 'TBC';
+                        cur_event.gmtTime = 'TBC';
+                        cur_event.userLocalTime = 'TBC';
                     }else if(dt.minute == '60'){
                         cur_event.start_time = 'All Day Event';
+                        cur_event.gmtTime = 'All Day Event';
+                        cur_event.userLocalTime = 'All Day Event';
                     }else{
                         if(isGmt){
                             
