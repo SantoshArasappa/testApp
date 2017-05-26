@@ -323,6 +323,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Sport":"Sport",
         "Baseball":"Baseball",
         "Basketball":"Basketball",
+        "Boxing":"Boxing",
         "Cricket":"Cricket",
         "Football": "Football",
         "Golf": "Golf",
@@ -538,6 +539,10 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
 		value: "Pro12.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		value: "UFC.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
@@ -1081,8 +1086,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     
                     if(dt.minute == '99'){
                         cur_event.start_time = 'TBC';
+                        cur_event.gmtTime = 'TBC';
+                        cur_event.userLocalTime = 'TBC';
                     }else if(dt.minute == '60'){
                         cur_event.start_time = 'All Day Event';
+                        cur_event.gmtTime = 'All Day Event';
+                        cur_event.userLocalTime = 'All Day Event';
                     }else{
                         if(isGmt){
                             
@@ -1094,6 +1103,15 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var gmtLocalList1 = theGmtLocalFutureTime.split(':');
                             theGmtLocalFutureTime = moment().hour(gmtLocalList1[0]).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
                             
+                            var hourhour = (localGmtList[0] * 1) + (gmtList[0] * 1);
+                            var minmin = (localGmtList[1] * 1) + (gmtList[1] * 1);
+                            
+                            if (minmin > 59){
+                                minmin = minmin - 60;
+                                hourhour = hourhour + 1;
+                            }
+                            
+                            theGmtLocalFutureTime = hourhour + ":" + minmin;
                             
                             gmtList[0] = gmtList[0]*-1;
                             if((gmtList[0]*-1) < 1){
@@ -1194,7 +1212,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var localGmtList = $scope.localGMTOffset.split(':');
                             var theGmtLocalFutureTime = moment().hour(localGmtList[0]).minute(localGmtList[1]).add(gmtList[0],'hours').format("HH:mm");
                             var gmtLocalList1 = theGmtLocalFutureTime.split(':');
-                            theGmtLocalFutureTime = moment().hour(gmtLocalList1[0]).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            theGmtLocalFutureTime = moment().hour(((gmtLocalList1[0] * 1) - 12 )).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            
+                            var hourhour = (localGmtList[0] * 1) + (gmtList[0] * 1);
+                            var minmin = (localGmtList[1] * 1) + (gmtList[1] * 1);
+                            
+                            if (minmin > 59){
+                                minmin = minmin - 60;
+                                hourhour = hourhour + 1;
+                            }
+                            
+                            theGmtLocalFutureTime = hourhour + ":" + minmin;
                             
                            // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
                             var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
@@ -1924,13 +1952,21 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                
                
         var d = new Date();
-        var secs = (d.getTimezoneOffset()) * -1;       
+        var secs = (d.getTimezoneOffset());    
+        var isNegate = false;   
+        if(secs > 0){
+            isNegate = true; //Because working GMT
+        }       
         
         var hours = Math.floor(secs/60);
         var minutes = secs%60;  
            
-             
-        $scope.localGMTOffset = pad(hours)+":"+pad(minutes);
+        hours = pad(hours);
+        $scope.localGMTOffset = hours+":"+pad(minutes);
+        if(isNegate){
+            $scope.localGMTOffset = '-' + $scope.localGMTOffset;
+        }
+        
                
        $scope.isError = false;
        $scope.showEvents = false;
