@@ -1,0 +1,15 @@
+LOCATION:Principality Stadium
+LOCATION:Stade de France
+LOCATION:Stadio Olimpico
+LOCATION:Aviva Stadium
+LOCATION:Twickenham Stadium
+LOCATION:BT Murrayfield
+LOCATION:TBA
+LOCATION:Aviva Stadium
+LOCATION:BT Murrayfield
+LOCATION:Aviva Stadium
+LOCATION:Stade de France
+LOCATION:Principality Stadium
+LOCATION:Stadio Olimpico
+LOCATION:Twickenham Stadium
+LOCATION:Principality Stadium

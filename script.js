@@ -567,7 +567,7 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Cricket",
-		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics,ICC_Champions_Trophy.ics"
+		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics,ICC_Champions_Trophy.ics,Royal_London_One_Day_Cup.ics"
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
