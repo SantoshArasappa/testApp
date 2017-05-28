@@ -1,11 +1,3 @@
-<<countries>>
-South Africa 
-Australia
-New Zealand
-Argentina
-Japan
-<<countries>>
-
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170819T200000Z

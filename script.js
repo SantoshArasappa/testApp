@@ -209,18 +209,20 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
      var RugbyMap = new Map();
     // RugbyMap.set('Wales','Pro12.ics');
-     RugbyMap.set('Ireland','Pro12.ics');
-     RugbyMap.set('England','Pro12.ics');
-     RugbyMap.set('Scotland','Pro12.ics');
-     RugbyMap.set('Italy','Pro12.ics');
+     RugbyMap.set('Ireland','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('England','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Scotland','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Italy','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Wales','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('France','Pro12.ics,Six_Nations_Championship.ics');
    //  RugbyMap.set('default','Pro12.ics');
     
-     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics');
-     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics');
-     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
+     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
+     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
      RugbyMap.set('Singapore','Super_Rugby.ics');
-     RugbyMap.set('Japan','Super_Rugby.ics');
-     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics');
+     RugbyMap.set('Japan','Super_Rugby.ics,Rugby_Union_2017_Rugby_Championship.ics');
+     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
      RugbyMap.set('Fiji','Super_Rugby.ics');
      RugbyMap.set('Samoa','Super_Rugby.ics');
      RugbyMap.set('France','Rugby_Union_Top_14.ics');

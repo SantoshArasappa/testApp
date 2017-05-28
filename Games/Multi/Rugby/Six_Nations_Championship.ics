@@ -1,14 +1,3 @@
-<<countries>>
- ALL SINGLE TIMEZONE SO HAVEN'T PROVIDED OFFSET
- Wales
- France
- Italy
- Ireland
- England
- Scotland
-
-<<countries>>
-
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//Sotic Ltd//EN
