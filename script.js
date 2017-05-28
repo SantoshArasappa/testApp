@@ -602,7 +602,7 @@ $scope.gameFileListNew =
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Baseball",
-		value: "Major_League_Baseball.ics"
+		value: "MLB.ics"
 
 	},
     {
