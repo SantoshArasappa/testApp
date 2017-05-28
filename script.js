@@ -1182,7 +1182,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             }
                             
                             
-                            cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' User Local' + nextDayVarLocal;
+                            cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
                             
                             
                             
@@ -1293,7 +1293,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             }
 
                             
-                            cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' User Local' + nextDayVarLocal;
+                            cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
                             
                         }
                     }
@@ -1954,6 +1954,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                
                
         var d = new Date();
+        
+         var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
+         var listV = d1.split(' ');
+         var timezone = listV[0].substring(0,1) + listV[1].substring(0,1) + listV[2].substring(0,1);
+         $scope.localGMTOffsetFormat = timezone;
+        
         var secs = (d.getTimezoneOffset());    
         var isNegate = false;   
         if(secs > 0){
