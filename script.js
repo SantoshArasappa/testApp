@@ -1957,7 +1957,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         
          var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
          var listV = d1.split(' ');
-         var timezone = listV[0].substring(0,1) + listV[1].substring(0,1) + listV[2].substring(0,1);
+         var timezone = '';
+         if(listV.length > 2){
+            timezone = listV[0].substring(0,1) + listV[1].substring(0,1) + listV[2].substring(0,1);
+         }else{
+             timezone = d1;
+         }
          $scope.localGMTOffsetFormat = timezone;
         
         var secs = (d.getTimezoneOffset());    
