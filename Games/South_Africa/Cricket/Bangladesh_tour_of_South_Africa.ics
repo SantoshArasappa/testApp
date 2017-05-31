@@ -5,7 +5,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Bangladesh (Day 1)
-DTSTART:20170921T080000Z
+DTSTART:20170921T100000Z
 DTEND:20170921T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Bangladesh (Day 2)
-DTSTART:20170922T080000Z
+DTSTART:20170922T100000Z
 DTEND:20170922T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Bangladesh (Day 3)
-DTSTART:20170923T080000Z
+DTSTART:20170923T100000Z
 DTEND:20170923T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st Test South Africa v Bangladesh (Day 1)
-DTSTART:20170928T080000Z
+DTSTART:20170928T100000Z
 DTEND:20170928T160000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st Test South Africa v Bangladesh (Day 2)
-DTSTART:20170929T080000Z
+DTSTART:20170929T100000Z
 DTEND:20170929T160000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st Test South Africa v Bangladesh (Day 3)
-DTSTART:20170930T080000Z
+DTSTART:20170930T100000Z
 DTEND:20170930T160000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st Test South Africa v Bangladesh (Day 4)
-DTSTART:20171001T080000Z
+DTSTART:20171001T100000Z
 DTEND:20171001T160000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st Test South Africa v Bangladesh (Day 5)
-DTSTART:20171002T080000Z
+DTSTART:20171002T100000Z
 DTEND:20171002T160000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd Test South Africa v Bangladesh (Day 1)
-DTSTART:20171006T080000Z
+DTSTART:20171006T100000Z
 DTEND:20171006T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd Test South Africa v Bangladesh (Day 2)
-DTSTART:20171007T080000Z
+DTSTART:20171007T100000Z
 DTEND:20171007T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd Test South Africa v Bangladesh (Day 3)
-DTSTART:20171008T080000Z
+DTSTART:20171008T100000Z
 DTEND:20171008T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd Test South Africa v Bangladesh (Day 4)
-DTSTART:20171009T080000Z
+DTSTART:20171009T100000Z
 DTEND:20171009T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd Test South Africa v Bangladesh (Day 5)
-DTSTART:20171010T080000Z
+DTSTART:20171010T100000Z
 DTEND:20171010T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Bangladesh
-DTSTART:20171012T080000Z
+DTSTART:20171012T100000Z
 DTEND:20171012T160000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st ODI South Africa v Bangladesh
-DTSTART:20171015T080000Z
+DTSTART:20171015T100000Z
 DTEND:20171015T160000Z
 LOCATION:De Beers Diamond Oval, Kimberley
 TRANSP:OPAQUE
@@ -215,7 +215,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd ODI South Africa v Bangladesh
-DTSTART:20171018T080000Z
+DTSTART:20171018T100000Z
 DTEND:20171018T160000Z
 LOCATION:Boland Park, Paarl
 TRANSP:OPAQUE
@@ -229,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:3rd ODI South Africa v Bangladesh
-DTSTART:20171022T080000Z
+DTSTART:20171022T100000Z
 DTEND:20171022T160000Z
 LOCATION:Buffalo Park, East London
 TRANSP:OPAQUE
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:1st T20I South Africa v Bangladesh
-DTSTART:20171026T160000Z
+DTSTART:20171026T180000Z
 DTEND:20171026T200000Z
 LOCATION:Mangaung Oval, Bloemfontein
 TRANSP:OPAQUE
@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Bangladesh tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075478.html \n\n 
 SUMMARY:2nd T20I South Africa v Bangladesh
-DTSTART:20171029T123000Z
+DTSTART:20171029T143000Z
 DTEND:20171029T163000Z
 LOCATION:Senwes Park, Potchefstroom
 TRANSP:OPAQUE
