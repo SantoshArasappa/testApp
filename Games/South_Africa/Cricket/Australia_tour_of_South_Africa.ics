@@ -5,7 +5,7 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Australia (Day 1)
-DTSTART:20180222T080000Z
+DTSTART:20180222T100000Z
 DTEND:20180222T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -19,7 +19,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Australia (Day 2)
-DTSTART:20180223T080000Z
+DTSTART:20180223T100000Z
 DTEND:20180223T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -33,7 +33,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:Tour Match Cricket South Africa Invitation XI v Australia (Day 3)
-DTSTART:20180224T080000Z
+DTSTART:20180224T100000Z
 DTEND:20180224T160000Z
 LOCATION:Willowmoore Park, Benoni
 TRANSP:OPAQUE
@@ -47,7 +47,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:1st Test South Africa v Australia (Day 1)
-DTSTART:20180301T080000Z
+DTSTART:20180301T100000Z
 DTEND:20180301T160000Z
 LOCATION:Kingsmead, Durban
 TRANSP:OPAQUE
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:1st Test South Africa v Australia (Day 2)
-DTSTART:20180302T080000Z
+DTSTART:20180302T100000Z
 DTEND:20180302T160000Z
 LOCATION:Kingsmead, Durban
 TRANSP:OPAQUE
@@ -75,7 +75,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:1st Test South Africa v Australia (Day 3)
-DTSTART:20180303T080000Z
+DTSTART:20180303T100000Z
 DTEND:20180303T160000Z
 LOCATION:Kingsmead, Durban
 TRANSP:OPAQUE
@@ -89,7 +89,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:1st Test South Africa v Australia (Day 4)
-DTSTART:20180304T080000Z
+DTSTART:20180304T100000Z
 DTEND:20180304T160000Z
 LOCATION:Kingsmead, Durban
 TRANSP:OPAQUE
@@ -103,7 +103,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:1st Test South Africa v Australia (Day 5)
-DTSTART:20180305T080000Z
+DTSTART:20180305T100000Z
 DTEND:20180305T160000Z
 LOCATION:Kingsmead, Durban
 TRANSP:OPAQUE
@@ -117,7 +117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:2nd Test South Africa v Australia (Day 1)
-DTSTART:20180309T080000Z
+DTSTART:20180309T100000Z
 DTEND:20180309T160000Z
 LOCATION:St George's Park, Port Elizabeth
 TRANSP:OPAQUE
@@ -131,7 +131,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:2nd Test South Africa v Australia (Day 2)
-DTSTART:20180310T080000Z
+DTSTART:20180310T100000Z
 DTEND:20180310T160000Z
 LOCATION:St George's Park, Port Elizabeth
 TRANSP:OPAQUE
@@ -145,7 +145,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:2nd Test South Africa v Australia (Day 3)
-DTSTART:20180311T080000Z
+DTSTART:20180311T100000Z
 DTEND:20180311T160000Z
 LOCATION:St George's Park, Port Elizabeth
 TRANSP:OPAQUE
@@ -159,7 +159,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:2nd Test South Africa v Australia (Day 4)
-DTSTART:20180312T080000Z
+DTSTART:20180312T100000Z
 DTEND:20180312T160000Z
 LOCATION:St George's Park, Port Elizabeth
 TRANSP:OPAQUE
@@ -173,7 +173,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:2nd Test South Africa v Australia (Day 5)
-DTSTART:20180313T080000Z
+DTSTART:20180313T100000Z
 DTEND:20180313T160000Z
 LOCATION:St George's Park, Port Elizabeth
 TRANSP:OPAQUE
@@ -187,7 +187,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:3rd Test South Africa v Australia (Day 1)
-DTSTART:20180322T080000Z
+DTSTART:20180322T100000Z
 DTEND:20180322T160000Z
 LOCATION:Newlands, Cape Town
 TRANSP:OPAQUE
@@ -201,7 +201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:3rd Test South Africa v Australia (Day 2)
-DTSTART:20180323T080000Z
+DTSTART:20180323T100000Z
 DTEND:20180323T160000Z
 LOCATION:Newlands, Cape Town
 TRANSP:OPAQUE
@@ -215,7 +215,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:3rd Test South Africa v Australia (Day 3)
-DTSTART:20180324T080000Z
+DTSTART:20180324T100000Z
 DTEND:20180324T160000Z
 LOCATION:Newlands, Cape Town
 TRANSP:OPAQUE
@@ -229,7 +229,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:3rd Test South Africa v Australia (Day 4)
-DTSTART:20180325T080000Z
+DTSTART:20180325T100000Z
 DTEND:20180325T160000Z
 LOCATION:Newlands, Cape Town
 TRANSP:OPAQUE
@@ -243,7 +243,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:3rd Test South Africa v Australia (Day 5)
-DTSTART:20180326T080000Z
+DTSTART:20180326T100000Z
 DTEND:20180326T160000Z
 LOCATION:Newlands, Cape Town
 TRANSP:OPAQUE
@@ -257,7 +257,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:4th Test South Africa v Australia (Day 1)
-DTSTART:20180330T080000Z
+DTSTART:20180330T100000Z
 DTEND:20180330T160000Z
 LOCATION:New Wanderers Stadium, Johannesburg
 TRANSP:OPAQUE
@@ -271,7 +271,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:4th Test South Africa v Australia (Day 2)
-DTSTART:20180331T080000Z
+DTSTART:20180331T100000Z
 DTEND:20180331T160000Z
 LOCATION:New Wanderers Stadium, Johannesburg
 TRANSP:OPAQUE
@@ -285,7 +285,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:4th Test South Africa v Australia (Day 3)
-DTSTART:20180401T080000Z
+DTSTART:20180401T100000Z
 DTEND:20180401T160000Z
 LOCATION:New Wanderers Stadium, Johannesburg
 TRANSP:OPAQUE
@@ -299,7 +299,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:4th Test South Africa v Australia (Day 4)
-DTSTART:20180402T080000Z
+DTSTART:20180402T100000Z
 DTEND:20180402T160000Z
 LOCATION:New Wanderers Stadium, Johannesburg
 TRANSP:OPAQUE
@@ -313,7 +313,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Australia tour of South Africa news at: http://www.espncricinfo.com/ci/content/series/1075977.html \n\n 
 SUMMARY:4th Test South Africa v Australia (Day 5)
-DTSTART:20180403T080000Z
+DTSTART:20180403T100000Z
 DTEND:20180403T160000Z
 LOCATION:New Wanderers Stadium, Johannesburg
 TRANSP:OPAQUE
