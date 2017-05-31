@@ -1,0 +1,3543 @@
+ISOFFSET:TRUE
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:NFL
+X-WR-CALDESC:Scott Crevier, smc@smcnet.com
+PRODID:-//Scott Crevier//SouthEndZone.com//EN
+METHOD:PUBLISH
+BEGIN:VTIMEZONE
+TZID:US-Central
+BEGIN:STANDARD
+DTSTART:16010101T020000
+TZOFFSETTO:-0600
+TZOFFSETFROM:-0500
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETTO:-0500
+TZOFFSETFROM:-0600
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01HOUCAR@southendzone.com
+SUMMARY:Carolina v Houston
+DESCRIPTION:Grass\, built 1996\, capacity 73\,778\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170809T203000
+DTEND:20170809T213000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01ATLMIA@southendzone.com
+SUMMARY:Miami v Atlanta
+DESCRIPTION:Platinum TE Paspalum\, built 1987\, capacity 65\,326\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T190000
+DTEND:20170810T210000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01MINBUF@southendzone.com
+SUMMARY:Buffalo v Minnesota
+DESCRIPTION:A-Turf Titan\, built 1973\, capacity 72\,169\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T190000
+DTEND:20170810T210000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01JAXNEP@southendzone.com
+SUMMARY:New England v Jacksonville
+DESCRIPTION:FieldTurf\, built 2002\, capacity 68\,756\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T193000
+DTEND:20170810T213000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01WASBAL@southendzone.com
+SUMMARY:Baltimore v Washington
+DESCRIPTION:Sportexe Momentum\, built 1998\, capacity 71\,008\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T193000
+DTEND:20170810T213000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p01DENCHI@southendzone.com
+SUMMARY:Chicago v Denver
+DESCRIPTION:Natural Grass\, built 1924\, capacity 61\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T190000
+DTEND:20170810T220000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01NOSCLE@southendzone.com
+SUMMARY:Cleveland v New Orleans
+DESCRIPTION:Grass\, built 1999\, capacity 73\,300\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T200000
+DTEND:20170810T220000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p01PHLGRB@southendzone.com
+SUMMARY:GreenBay v Philadelphia
+DESCRIPTION:Bishop's Charities Game\n\n\nDD GrassMaster\, built 1957\, capacity 80\,750\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170810T190000
+DTEND:20170810T220000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01PGHNYG@southendzone.com
+SUMMARY:NY Giants v Pittsburgh
+DESCRIPTION:UBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170811T190000
+DTEND:20170811T210000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01TBBCIN@southendzone.com
+SUMMARY:Cincinnati v Tampa Bay
+DESCRIPTION:Synthetic\, built 2000\, capacity 65\,515\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170811T193000
+DTEND:20170811T213000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p01SFFKCC@southendzone.com
+SUMMARY:Kansas City v San Francisco
+DESCRIPTION:Grass\, built 1972\, capacity 76\,416\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170811T200000
+DTEND:20170811T230000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01TENNYJ@southendzone.com
+SUMMARY:NY Jets v Tennessee
+DESCRIPTION:UBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170812T193000
+DTEND:20170812T213000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p01DALSTL@southendzone.com
+SUMMARY:LA Rams v Dallas
+DESCRIPTION:Natural grass\, built 1923\, capacity 80\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170812T180000
+DTEND:20170812T230000
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017p01OAKARZ@southendzone.com
+SUMMARY:Arizona v Oakland
+DESCRIPTION:Grass\, built 2006\, capacity 65\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170812T190000
+DTEND:20170813T000000
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p01DETIND@southendzone.com
+SUMMARY:Indianapolis v Detroit
+DESCRIPTION:FieldTurf\, built 2008\, capacity 63\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170813T133000
+DTEND:20170813T153000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p01SEASDC@southendzone.com
+SUMMARY:LA Chargers v Seattle
+DESCRIPTION:Grass\, built 2017\, capacity 27\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170813T160000
+DTEND:20170813T210000
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02BALMIA@southendzone.com
+SUMMARY:Miami v Baltimore
+DESCRIPTION:Platinum TE Paspalum\, built 1987\, capacity 65\,326\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170817T190000
+DTEND:20170817T210000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02BUFPHL@southendzone.com
+SUMMARY:Philadelphia v Buffalo
+DESCRIPTION:Natural Grass\, built 2003\, capacity 69\,144\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170817T190000
+DTEND:20170817T210000
+LOCATION:Lincoln Financial Field, Philadelphia, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02TBBJAX@southendzone.com
+SUMMARY:Jacksonville v Tampa Bay
+DESCRIPTION:Watch: ESPN\nGrass\, built 1995\, capacity 67\,297\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170817T200000
+DTEND:20170817T220000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p02STLOAK@southendzone.com
+SUMMARY:Oakland v LA Rams
+DESCRIPTION:Grass\, built 1966\, capacity 53\,286\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170817T190000
+DTEND:20170818T000000
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p02MINSEA@southendzone.com
+SUMMARY:Seattle v Minnesota
+DESCRIPTION:FieldTurf\, built 2002\, capacity 67\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170818T190000
+DTEND:20170819T000000
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p02CARTEN@southendzone.com
+SUMMARY:Tennessee v Carolina
+DESCRIPTION:Natural Grass\, built 1999\, capacity 69\,143\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T150000
+DTEND:20170819T180000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02KCCCIN@southendzone.com
+SUMMARY:Cincinnati v Kansas City
+DESCRIPTION:Synthetic\, built 2000\, capacity 65\,515\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T190000
+DTEND:20170819T210000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p02INDDAL@southendzone.com
+SUMMARY:Dallas v Indianapolis
+DESCRIPTION:SoftTop Matrix Turf\, built 2009\, capacity 80\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T180000
+DTEND:20170819T210000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02NYJDET@southendzone.com
+SUMMARY:Detroit v NY Jets
+DESCRIPTION:FieldTurf\, built 2002\, capacity 64\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T193000
+DTEND:20170819T213000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02GRBWAS@southendzone.com
+SUMMARY:Washington v GreenBay
+DESCRIPTION:Natural Grass\, built 1997\, capacity 85\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T193000
+DTEND:20170819T213000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p02NEPHOU@southendzone.com
+SUMMARY:Houston v New England
+DESCRIPTION:Grass\, built 2002\, capacity 71\,054\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T190000
+DTEND:20170819T220000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017p02CHIARZ@southendzone.com
+SUMMARY:Arizona v Chicago
+DESCRIPTION:Grass\, built 2006\, capacity 65\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T190000
+DTEND:20170820T000000
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p02DENSFF@southendzone.com
+SUMMARY:San Francisco v Denver
+DESCRIPTION:Natural Grass\, built 2014\, capacity 68\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170819T190000
+DTEND:20170820T000000
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02ATLPGH@southendzone.com
+SUMMARY:Pittsburgh v Atlanta
+DESCRIPTION:Natural Grass\, built 2001\, capacity 65\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170820T160000
+DTEND:20170820T180000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p02NOSSDC@southendzone.com
+SUMMARY:LA Chargers v New Orleans
+DESCRIPTION:Grass\, built 2017\, capacity 27\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170820T170000
+DTEND:20170820T220000
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p02NYGCLE@southendzone.com
+SUMMARY:Cleveland v NY Giants
+DESCRIPTION:Watch: ESPN\nGrass\, built 1999\, capacity 73\,300\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170821T200000
+DTEND:20170821T220000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03MIAPHL@southendzone.com
+SUMMARY:Philadelphia v Miami
+DESCRIPTION:Natural Grass\, built 2003\, capacity 69\,144\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170824T190000
+DTEND:20170824T210000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03CARJAX@southendzone.com
+SUMMARY:Jacksonville v Carolina
+DESCRIPTION:Grass\, built 1995\, capacity 67\,297\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170824T193000
+DTEND:20170824T213000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03NEPDET@southendzone.com
+SUMMARY:Detroit v New England
+DESCRIPTION:FieldTurf\, built 2002\, capacity 64\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170825T190000
+DTEND:20170825T210000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p03KCCSEA@southendzone.com
+SUMMARY:Seattle v Kansas City
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 67\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170825T170000
+DTEND:20170825T220000
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p03OAKDAL@southendzone.com
+SUMMARY:Dallas v Oakland
+DESCRIPTION:SoftTop Matrix Turf\, built 2009\, capacity 80\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T160000
+DTEND:20170826T190000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03ARZATL@southendzone.com
+SUMMARY:Atlanta v Arizona
+DESCRIPTION:FieldTurf\, built 2017\, capacity 71\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T190000
+DTEND:20170826T210000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03BUFBAL@southendzone.com
+SUMMARY:Baltimore v Buffalo
+DESCRIPTION:Sportexe Momentum\, built 1998\, capacity 71\,008\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T190000
+DTEND:20170826T210000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03NYJNYG@southendzone.com
+SUMMARY:NY Giants v NY Jets
+DESCRIPTION:UBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T190000
+DTEND:20170826T210000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03INDPGH@southendzone.com
+SUMMARY:Pittsburgh v Indianapolis
+DESCRIPTION:Natural Grass\, built 2001\, capacity 65\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T193000
+DTEND:20170826T213000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03CLETBB@southendzone.com
+SUMMARY:Tampa Bay v Cleveland
+DESCRIPTION:Grass\, built 1998\, capacity 65\,908\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T193000
+DTEND:20170826T213000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p03SDCSTL@southendzone.com
+SUMMARY:LA Rams v LA Chargers
+DESCRIPTION:Watch: CBS\nNatural grass\, built 1923\, capacity 80\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T170000
+DTEND:20170826T220000
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p03HOUNOS@southendzone.com
+SUMMARY:New Orleans v Houston
+DESCRIPTION:UBU Speed Series-S5-M\, built 1975\, capacity 73\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T190000
+DTEND:20170826T220000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017p03GRBDEN@southendzone.com
+SUMMARY:Denver v GreenBay
+DESCRIPTION:DD GrassMaster\, built 2001\, capacity 76\,125\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170826T190000
+DTEND:20170826T230000
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p03CHITEN@southendzone.com
+SUMMARY:Tennessee v Chicago
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1999\, capacity 69\,143\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170827T120000
+DTEND:20170827T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p03CINWAS@southendzone.com
+SUMMARY:Washington v Cincinnati
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170827T163000
+DTEND:20170827T183000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p03SFFMIN@southendzone.com
+SUMMARY:Minnesota v San Francisco
+DESCRIPTION:Watch: NBC\nField Turf\, built 2016\, capacity 66\,200\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170827T190000
+DTEND:20170827T220000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04CININD@southendzone.com
+SUMMARY:Indianapolis v Cincinnati
+DESCRIPTION:FieldTurf\, built 2008\, capacity 63\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T210000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04JAXATL@southendzone.com
+SUMMARY:Atlanta v Jacksonville
+DESCRIPTION:FieldTurf\, built 2017\, capacity 71\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T210000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04DETBUF@southendzone.com
+SUMMARY:Buffalo v Detroit
+DESCRIPTION:A-Turf Titan\, built 1973\, capacity 72\,169\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T210000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04STLGRB@southendzone.com
+SUMMARY:GreenBay v LA Rams
+DESCRIPTION:Midwest Shrine Game\n\n\nDD GrassMaster\, built 1957\, capacity 80\,750\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T180000
+DTEND:20170831T210000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04PHLNYJ@southendzone.com
+SUMMARY:NY Jets v Philadelphia
+DESCRIPTION:UBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T210000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04PGHCAR@southendzone.com
+SUMMARY:Carolina v Pittsburgh
+DESCRIPTION:Grass\, built 1996\, capacity 73\,778\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T193000
+DTEND:20170831T213000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04NYGNEP@southendzone.com
+SUMMARY:New England v NY Giants
+DESCRIPTION:FieldTurf\, built 2002\, capacity 68\,756\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T193000
+DTEND:20170831T213000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017p04WASTBB@southendzone.com
+SUMMARY:Tampa Bay v Washington
+DESCRIPTION:Grass\, built 1998\, capacity 65\,908\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T193000
+DTEND:20170831T213000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04MIAMIN@southendzone.com
+SUMMARY:Minnesota v Miami
+DESCRIPTION:Field Turf\, built 2016\, capacity 66\,200\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T220000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04CLECHI@southendzone.com
+SUMMARY:Chicago v Cleveland
+DESCRIPTION:Natural Grass\, built 1924\, capacity 61\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T220000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04DALHOU@southendzone.com
+SUMMARY:Houston v Dallas
+DESCRIPTION:Grass\, built 2002\, capacity 71\,054\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T220000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04BALNOS@southendzone.com
+SUMMARY:New Orleans v Baltimore
+DESCRIPTION:UBU Speed Series-S5-M\, built 1975\, capacity 73\,000\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T220000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017p04TENKCC@southendzone.com
+SUMMARY:Kansas City v Tennessee
+DESCRIPTION:Grass\, built 1972\, capacity 76\,416\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T193000
+DTEND:20170831T223000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017p04ARZDEN@southendzone.com
+SUMMARY:Denver v Arizona
+DESCRIPTION:DD GrassMaster\, built 2001\, capacity 76\,125\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170831T230000
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p04SEAOAK@southendzone.com
+SUMMARY:Oakland v Seattle
+DESCRIPTION:Grass\, built 1966\, capacity 53\,286\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170901T000000
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017p04SDCSFF@southendzone.com
+SUMMARY:San Francisco v LA Chargers
+DESCRIPTION:Natural Grass\, built 2014\, capacity 68\,500\nPRE-SEASON\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170831T190000
+DTEND:20170901T000000
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01KCCNEP@southendzone.com
+SUMMARY:New England v Kansas City
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170907T203000
+DTEND:20170907T223000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01NYJBUF@southendzone.com
+SUMMARY:Buffalo v NY Jets
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01PHLWAS@southendzone.com
+SUMMARY:Washington v Philadelphia
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01OAKTEN@southendzone.com
+SUMMARY:Tennessee v Oakland
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T120000
+DTEND:20170910T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01TBBMIA@southendzone.com
+SUMMARY:Miami v Tampa Bay
+DESCRIPTION:Watch: FOX\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01JAXHOU@southendzone.com
+SUMMARY:Houston v Jacksonville
+DESCRIPTION:Watch: CBS\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T120000
+DTEND:20170910T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01ARZDET@southendzone.com
+SUMMARY:Detroit v Arizona
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01ATLCHI@southendzone.com
+SUMMARY:Chicago v Atlanta
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T120000
+DTEND:20170910T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01BALCIN@southendzone.com
+SUMMARY:Cincinnati v Baltimore
+DESCRIPTION:Watch: CBS\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w01PGHCLE@southendzone.com
+SUMMARY:Cleveland v Pittsburgh
+DESCRIPTION:Watch: CBS\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130000
+DTEND:20170910T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w01INDSTL@southendzone.com
+SUMMARY:LA Rams v Indianapolis
+DESCRIPTION:Watch: CBS\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T130500
+DTEND:20170910T180500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01SEAGRB@southendzone.com
+SUMMARY:GreenBay v Seattle
+DESCRIPTION:Watch: FOX\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T152500
+DTEND:20170910T182500
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w01CARSFF@southendzone.com
+SUMMARY:San Francisco v Carolina
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T132500
+DTEND:20170910T182500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01NYGDAL@southendzone.com
+SUMMARY:Dallas v NY Giants
+DESCRIPTION:Watch: NBC\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170910T193000
+DTEND:20170910T223000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w01NOSMIN@southendzone.com
+SUMMARY:Minnesota v New Orleans
+DESCRIPTION:Watch: ESPN\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170911T181000
+DTEND:20170911T211000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w01SDCDEN@southendzone.com
+SUMMARY:Denver v LA Chargers
+DESCRIPTION:Watch: ESPN\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170911T202000
+DTEND:20170912T002000
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02HOUCIN@southendzone.com
+SUMMARY:Cincinnati v Houston
+DESCRIPTION:Watch: NFLN\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170914T202500
+DTEND:20170914T222500
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02CLEBAL@southendzone.com
+SUMMARY:Baltimore v Cleveland
+DESCRIPTION:Watch: CBS\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02CHITBB@southendzone.com
+SUMMARY:Tampa Bay v Chicago
+DESCRIPTION:Watch: FOX\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02MINPGH@southendzone.com
+SUMMARY:Pittsburgh v Minnesota
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w02NEPNOS@southendzone.com
+SUMMARY:New Orleans v New England
+DESCRIPTION:Watch: CBS\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T120000
+DTEND:20170917T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w02PHLKCC@southendzone.com
+SUMMARY:Kansas City v Philadelphia
+DESCRIPTION:Watch: FOX\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T120000
+DTEND:20170917T150000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02TENJAX@southendzone.com
+SUMMARY:Jacksonville v Tennessee
+DESCRIPTION:Watch: CBS\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02ARZIND@southendzone.com
+SUMMARY:Indianapolis v Arizona
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02BUFCAR@southendzone.com
+SUMMARY:Carolina v Buffalo
+DESCRIPTION:Watch: CBS\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130000
+DTEND:20170917T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w02NYJOAK@southendzone.com
+SUMMARY:Oakland v NY Jets
+DESCRIPTION:Watch: CBS\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130500
+DTEND:20170917T180500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w02MIASDC@southendzone.com
+SUMMARY:LA Chargers v Miami
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T130500
+DTEND:20170917T180500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w02SFFSEA@southendzone.com
+SUMMARY:Seattle v San Francisco
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T132500
+DTEND:20170917T182500
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w02WASSTL@southendzone.com
+SUMMARY:LA Rams v Washington
+DESCRIPTION:Watch: FOX\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T132500
+DTEND:20170917T182500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w02DALDEN@southendzone.com
+SUMMARY:Denver v Dallas
+DESCRIPTION:Watch: FOX\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T142500
+DTEND:20170917T182500
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02GRBATL@southendzone.com
+SUMMARY:Atlanta v GreenBay
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170917T203000
+DTEND:20170917T223000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w02DETNYG@southendzone.com
+SUMMARY:NY Giants v Detroit
+DESCRIPTION:Watch: ESPN\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170918T203000
+DTEND:20170918T223000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w03STLSFF@southendzone.com
+SUMMARY:San Francisco v LA Rams
+DESCRIPTION:Watch: NFLN\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170921T172500
+DTEND:20170921T222500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w03BALJAX@southendzone.com
+SUMMARY:Jacksonville v Baltimore
+DESCRIPTION:http://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T143000
+DTEND:20170924T113000
+LOCATION:Wembley Stadium, London, England
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03CLEIND@southendzone.com
+SUMMARY:Indianapolis v Cleveland
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03NYGPHL@southendzone.com
+SUMMARY:Philadelphia v NY Giants
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03MIANYJ@southendzone.com
+SUMMARY:NY Jets v Miami
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03DENBUF@southendzone.com
+SUMMARY:Buffalo v Denver
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03NOSCAR@southendzone.com
+SUMMARY:Carolina v New Orleans
+DESCRIPTION:Watch: FOX\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w03PGHCHI@southendzone.com
+SUMMARY:Chicago v Pittsburgh
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T120000
+DTEND:20170924T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03ATLDET@southendzone.com
+SUMMARY:Detroit v Atlanta
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w03TBBMIN@southendzone.com
+SUMMARY:Minnesota v Tampa Bay
+DESCRIPTION:Watch: FOX\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T120000
+DTEND:20170924T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03HOUNEP@southendzone.com
+SUMMARY:New England v Houston
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T130000
+DTEND:20170924T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w03SEATEN@southendzone.com
+SUMMARY:Tennessee v Seattle
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T150500
+DTEND:20170924T180500
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w03CINGRB@southendzone.com
+SUMMARY:GreenBay v Cincinnati
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T152500
+DTEND:20170924T182500
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w03KCCSDC@southendzone.com
+SUMMARY:LA Chargers v Kansas City
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T132500
+DTEND:20170924T182500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w03OAKWAS@southendzone.com
+SUMMARY:Washington v Oakland
+DESCRIPTION:Watch: NBC\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170924T203000
+DTEND:20170924T223000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w03DALARZ@southendzone.com
+SUMMARY:Arizona v Dallas
+DESCRIPTION:Watch: ESPN\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170925T173000
+DTEND:20170925T223000
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w04CHIGRB@southendzone.com
+SUMMARY:GreenBay v Chicago
+DESCRIPTION:Watch: CBS\, NFLN\, Amazon\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20170928T192500
+DTEND:20170928T222500
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w04NOSMIA@southendzone.com
+SUMMARY:Miami v New Orleans
+DESCRIPTION:Watch: FOX\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T143000
+DTEND:20171001T113000
+LOCATION:Wembley Stadium, London, England
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w04TENHOU@southendzone.com
+SUMMARY:Houston v Tennessee
+DESCRIPTION:Watch: CBS\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T120000
+DTEND:20171001T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04JAXNYJ@southendzone.com
+SUMMARY:NY Jets v Jacksonville
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130000
+DTEND:20171001T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04CARNEP@southendzone.com
+SUMMARY:New England v Carolina
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130000
+DTEND:20171001T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w04DETMIN@southendzone.com
+SUMMARY:Minnesota v Detroit
+DESCRIPTION:Watch: FOX\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T120000
+DTEND:20171001T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04BUFATL@southendzone.com
+SUMMARY:Atlanta v Buffalo
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130000
+DTEND:20171001T150000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04PGHBAL@southendzone.com
+SUMMARY:Baltimore v Pittsburgh
+DESCRIPTION:Watch: CBS\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130000
+DTEND:20171001T150000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04CINCLE@southendzone.com
+SUMMARY:Cleveland v Cincinnati
+DESCRIPTION:Watch: CBS\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130000
+DTEND:20171001T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w04STLDAL@southendzone.com
+SUMMARY:Dallas v LA Rams
+DESCRIPTION:Watch: FOX\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T120000
+DTEND:20171001T150000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w04PHLSDC@southendzone.com
+SUMMARY:LA Chargers v Philadelphia
+DESCRIPTION:Watch: FOX\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130500
+DTEND:20171001T180500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w04NYGTBB@southendzone.com
+SUMMARY:Tampa Bay v NY Giants
+DESCRIPTION:Watch: FOX\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T160500
+DTEND:20171001T180500
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w04SFFARZ@southendzone.com
+SUMMARY:Arizona v San Francisco
+DESCRIPTION:Watch: FOX\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T130500
+DTEND:20171001T180500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w04OAKDEN@southendzone.com
+SUMMARY:Denver v Oakland
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T142500
+DTEND:20171001T182500
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w04INDSEA@southendzone.com
+SUMMARY:Seattle v Indianapolis
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171001T173000
+DTEND:20171001T223000
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w04WASKCC@southendzone.com
+SUMMARY:Kansas City v Washington
+DESCRIPTION:Watch: ESPN\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171002T193000
+DTEND:20171002T223000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05NEPTBB@southendzone.com
+SUMMARY:Tampa Bay v New England
+DESCRIPTION:Watch: CBS\, NFLN\, Amazon\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171005T202500
+DTEND:20171005T222500
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05NYJCLE@southendzone.com
+SUMMARY:Cleveland v NY Jets
+DESCRIPTION:Watch: FOX\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05CARDET@southendzone.com
+SUMMARY:Detroit v Carolina
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05SFFIND@southendzone.com
+SUMMARY:Indianapolis v San Francisco
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05TENMIA@southendzone.com
+SUMMARY:Miami v Tennessee
+DESCRIPTION:Watch: CBS\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05BUFCIN@southendzone.com
+SUMMARY:Cincinnati v Buffalo
+DESCRIPTION:Watch: CBS\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05SDCNYG@southendzone.com
+SUMMARY:NY Giants v LA Chargers
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05JAXPGH@southendzone.com
+SUMMARY:Pittsburgh v Jacksonville
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130000
+DTEND:20171008T150000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w05ARZPHL@southendzone.com
+SUMMARY:Philadelphia v Arizona
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T140000
+DTEND:20171008T160000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w05SEASTL@southendzone.com
+SUMMARY:LA Rams v Seattle
+DESCRIPTION:Watch: CBS\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130500
+DTEND:20171008T180500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w05BALOAK@southendzone.com
+SUMMARY:Oakland v Baltimore
+DESCRIPTION:Watch: CBS\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T130500
+DTEND:20171008T180500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w05GRBDAL@southendzone.com
+SUMMARY:Dallas v GreenBay
+DESCRIPTION:Watch: FOX\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T152500
+DTEND:20171008T182500
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w05KCCHOU@southendzone.com
+SUMMARY:Houston v Kansas City
+DESCRIPTION:Watch: NBC\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171008T193000
+DTEND:20171008T223000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w05MINCHI@southendzone.com
+SUMMARY:Chicago v Minnesota
+DESCRIPTION:Watch: ESPN\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171009T193000
+DTEND:20171009T223000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06PHLCAR@southendzone.com
+SUMMARY:Carolina v Philadelphia
+DESCRIPTION:Watch: CBS\, NFLN\, Amazon\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171012T202500
+DTEND:20171012T222500
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06CHIBAL@southendzone.com
+SUMMARY:Baltimore v Chicago
+DESCRIPTION:Watch: FOX\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130000
+DTEND:20171015T150000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w06CLEHOU@southendzone.com
+SUMMARY:Houston v Cleveland
+DESCRIPTION:Watch: CBS\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T120000
+DTEND:20171015T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w06GRBMIN@southendzone.com
+SUMMARY:Minnesota v GreenBay
+DESCRIPTION:Watch: FOX\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T120000
+DTEND:20171015T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w06DETNOS@southendzone.com
+SUMMARY:New Orleans v Detroit
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T120000
+DTEND:20171015T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06MIAATL@southendzone.com
+SUMMARY:Atlanta v Miami
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130000
+DTEND:20171015T150000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06NEPNYJ@southendzone.com
+SUMMARY:NY Jets v New England
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130000
+DTEND:20171015T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06SFFWAS@southendzone.com
+SUMMARY:Washington v San Francisco
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130000
+DTEND:20171015T150000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w06TBBARZ@southendzone.com
+SUMMARY:Arizona v Tampa Bay
+DESCRIPTION:Watch: FOX\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130500
+DTEND:20171015T180500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w06STLJAX@southendzone.com
+SUMMARY:Jacksonville v LA Rams
+DESCRIPTION:Watch: FOX\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T130500
+DTEND:20171015T180500
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w06PGHKCC@southendzone.com
+SUMMARY:Kansas City v Pittsburgh
+DESCRIPTION:Watch: CBS\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T152500
+DTEND:20171015T182500
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w06SDCOAK@southendzone.com
+SUMMARY:Oakland v LA Chargers
+DESCRIPTION:Watch: CBS\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T132500
+DTEND:20171015T182500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w06NYGDEN@southendzone.com
+SUMMARY:Denver v NY Giants
+DESCRIPTION:Watch: NBC\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171015T183000
+DTEND:20171015T223000
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w06INDTEN@southendzone.com
+SUMMARY:Tennessee v Indianapolis
+DESCRIPTION:Watch: ESPN\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171016T193000
+DTEND:20171016T223000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w07KCCOAK@southendzone.com
+SUMMARY:Oakland v Kansas City
+DESCRIPTION:Watch: CBS\, NFLN\, Amazon\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171019T172500
+DTEND:20171019T222500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07TBBBUF@southendzone.com
+SUMMARY:Buffalo v Tampa Bay
+DESCRIPTION:Watch: FOX\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130000
+DTEND:20171022T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07CINPGH@southendzone.com
+SUMMARY:Pittsburgh v Cincinnati
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130000
+DTEND:20171022T150000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w07BALMIN@southendzone.com
+SUMMARY:Minnesota v Baltimore
+DESCRIPTION:Watch: CBS\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T120000
+DTEND:20171022T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07NYJMIA@southendzone.com
+SUMMARY:Miami v NY Jets
+DESCRIPTION:Watch: FOX\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130000
+DTEND:20171022T150000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w07ARZSTL@southendzone.com
+SUMMARY:LA Rams v Arizona
+DESCRIPTION:Watch: FOX\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T100000
+DTEND:20171022T150000
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w07CARCHI@southendzone.com
+SUMMARY:Chicago v Carolina
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T120000
+DTEND:20171022T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07TENCLE@southendzone.com
+SUMMARY:Cleveland v Tennessee
+DESCRIPTION:Watch: CBS\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130000
+DTEND:20171022T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w07NOSGRB@southendzone.com
+SUMMARY:GreenBay v New Orleans
+DESCRIPTION:Watch: FOX\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T120000
+DTEND:20171022T150000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07JAXIND@southendzone.com
+SUMMARY:Indianapolis v Jacksonville
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130000
+DTEND:20171022T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w07DALSFF@southendzone.com
+SUMMARY:San Francisco v Dallas
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T130500
+DTEND:20171022T180500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07SEANYG@southendzone.com
+SUMMARY:NY Giants v Seattle
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T162500
+DTEND:20171022T182500
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w07DENSDC@southendzone.com
+SUMMARY:LA Chargers v Denver
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T132500
+DTEND:20171022T182500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07ATLNEP@southendzone.com
+SUMMARY:New England v Atlanta
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171022T203000
+DTEND:20171022T223000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w07WASPHL@southendzone.com
+SUMMARY:Philadelphia v Washington
+DESCRIPTION:Watch: ESPN\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171023T203000
+DTEND:20171023T223000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08MIABAL@southendzone.com
+SUMMARY:Baltimore v Miami
+DESCRIPTION:Watch: CBS\, NFLN\, Amazon\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171026T202500
+DTEND:20171026T222500
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w08MINCLE@southendzone.com
+SUMMARY:Cleveland v Minnesota
+DESCRIPTION:Watch: NFLN\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T143000
+DTEND:20171029T113000
+LOCATION:Twickenham Stadium, Twickenham, England
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08ATLNYJ@southendzone.com
+SUMMARY:NY Jets v Atlanta
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08CARTBB@southendzone.com
+SUMMARY:Tampa Bay v Carolina
+DESCRIPTION:Watch: FOX\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08SFFPHL@southendzone.com
+SUMMARY:Philadelphia v San Francisco
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w08CHINOS@southendzone.com
+SUMMARY:New Orleans v Chicago
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T120000
+DTEND:20171029T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08SDCNEP@southendzone.com
+SUMMARY:New England v LA Chargers
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08OAKBUF@southendzone.com
+SUMMARY:Buffalo v Oakland
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08INDCIN@southendzone.com
+SUMMARY:Cincinnati v Indianapolis
+DESCRIPTION:Watch: CBS\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130000
+DTEND:20171029T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w08HOUSEA@southendzone.com
+SUMMARY:Seattle v Houston
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T130500
+DTEND:20171029T180500
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08DALWAS@southendzone.com
+SUMMARY:Washington v Dallas
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T162500
+DTEND:20171029T182500
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w08PGHDET@southendzone.com
+SUMMARY:Detroit v Pittsburgh
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171029T203000
+DTEND:20171029T223000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w08DENKCC@southendzone.com
+SUMMARY:Kansas City v Denver
+DESCRIPTION:Watch: ESPN\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171030T193000
+DTEND:20171030T223000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09BUFNYJ@southendzone.com
+SUMMARY:NY Jets v Buffalo
+DESCRIPTION:Watch: NFLN\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171102T202500
+DTEND:20171102T222500
+LOCATION:MetLife Stadium, East Rutherford, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w09INDHOU@southendzone.com
+SUMMARY:Houston v Indianapolis
+DESCRIPTION:Watch: CBS\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T120000
+DTEND:20171105T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09CINJAX@southendzone.com
+SUMMARY:Jacksonville v Cincinnati
+DESCRIPTION:Watch: CBS\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130000
+DTEND:20171105T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w09TBBNOS@southendzone.com
+SUMMARY:New Orleans v Tampa Bay
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T120000
+DTEND:20171105T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09STLNYG@southendzone.com
+SUMMARY:NY Giants v LA Rams
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130000
+DTEND:20171105T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09ATLCAR@southendzone.com
+SUMMARY:Carolina v Atlanta
+DESCRIPTION:Watch: FOX\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130000
+DTEND:20171105T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09DENPHL@southendzone.com
+SUMMARY:Philadelphia v Denver
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130000
+DTEND:20171105T150000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w09BALTEN@southendzone.com
+SUMMARY:Tennessee v Baltimore
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T120000
+DTEND:20171105T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w09ARZSFF@southendzone.com
+SUMMARY:San Francisco v Arizona
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130500
+DTEND:20171105T180500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w09WASSEA@southendzone.com
+SUMMARY:Seattle v Washington
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T130500
+DTEND:20171105T180500
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w09KCCDAL@southendzone.com
+SUMMARY:Dallas v Kansas City
+DESCRIPTION:Watch: CBS\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T152500
+DTEND:20171105T182500
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w09OAKMIA@southendzone.com
+SUMMARY:Miami v Oakland
+DESCRIPTION:Watch: NBC\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171105T203000
+DTEND:20171105T223000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w09DETGRB@southendzone.com
+SUMMARY:GreenBay v Detroit
+DESCRIPTION:Watch: ESPN\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171106T193000
+DTEND:20171106T223000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w10SEAARZ@southendzone.com
+SUMMARY:Arizona v Seattle
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171109T172500
+DTEND:20171109T222500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w10GRBCHI@southendzone.com
+SUMMARY:Chicago v GreenBay
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T120000
+DTEND:20171112T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10CLEDET@southendzone.com
+SUMMARY:Detroit v Cleveland
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10PGHIND@southendzone.com
+SUMMARY:Indianapolis v Pittsburgh
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10SDCJAX@southendzone.com
+SUMMARY:Jacksonville v LA Chargers
+DESCRIPTION:Watch: CBS\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10NOSBUF@southendzone.com
+SUMMARY:Buffalo v New Orleans
+DESCRIPTION:Watch: FOX\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10NYJTBB@southendzone.com
+SUMMARY:Tampa Bay v NY Jets
+DESCRIPTION:Watch: CBS\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10MINWAS@southendzone.com
+SUMMARY:Washington v Minnesota
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130000
+DTEND:20171112T150000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w10CINTEN@southendzone.com
+SUMMARY:Tennessee v Cincinnati
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T120000
+DTEND:20171112T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w10HOUSTL@southendzone.com
+SUMMARY:LA Rams v Houston
+DESCRIPTION:Watch: CBS\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T130500
+DTEND:20171112T180500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10DALATL@southendzone.com
+SUMMARY:Atlanta v Dallas
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T162500
+DTEND:20171112T182500
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w10NYGSFF@southendzone.com
+SUMMARY:San Francisco v NY Giants
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T132500
+DTEND:20171112T182500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w10NEPDEN@southendzone.com
+SUMMARY:Denver v New England
+DESCRIPTION:Watch: NBC\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171112T183000
+DTEND:20171112T223000
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w10MIACAR@southendzone.com
+SUMMARY:Carolina v Miami
+DESCRIPTION:Watch: ESPN\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171113T203000
+DTEND:20171113T223000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w11TENPGH@southendzone.com
+SUMMARY:Pittsburgh v Tennessee
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171116T202500
+DTEND:20171116T222500
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w11JAXCLE@southendzone.com
+SUMMARY:Cleveland v Jacksonville
+DESCRIPTION:Watch: CBS\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T130000
+DTEND:20171119T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11BALGRB@southendzone.com
+SUMMARY:GreenBay v Baltimore
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T120000
+DTEND:20171119T150000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11ARZHOU@southendzone.com
+SUMMARY:Houston v Arizona
+DESCRIPTION:Watch: FOX\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T120000
+DTEND:20171119T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11STLMIN@southendzone.com
+SUMMARY:Minnesota v LA Rams
+DESCRIPTION:Watch: FOX\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T120000
+DTEND:20171119T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11DETCHI@southendzone.com
+SUMMARY:Chicago v Detroit
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T120000
+DTEND:20171119T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11WASNOS@southendzone.com
+SUMMARY:New Orleans v Washington
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T120000
+DTEND:20171119T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w11KCCNYG@southendzone.com
+SUMMARY:NY Giants v Kansas City
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T130000
+DTEND:20171119T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w11BUFSDC@southendzone.com
+SUMMARY:LA Chargers v Buffalo
+DESCRIPTION:Watch: FOX\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T130500
+DTEND:20171119T180500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w11CINDEN@southendzone.com
+SUMMARY:Denver v Cincinnati
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T142500
+DTEND:20171119T182500
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w11NEPOAK@southendzone.com
+SUMMARY:Oakland v New England
+DESCRIPTION:Watch: CBS\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T132500
+DTEND:20171119T182500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w11PHLDAL@southendzone.com
+SUMMARY:Dallas v Philadelphia
+DESCRIPTION:Watch: NBC\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171119T193000
+DTEND:20171119T223000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w11ATLSEA@southendzone.com
+SUMMARY:Seattle v Atlanta
+DESCRIPTION:Watch: ESPN\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171120T173000
+DTEND:20171120T223000
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12MINDET@southendzone.com
+SUMMARY:Detroit v Minnesota
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171123T123000
+DTEND:20171123T143000
+LOCATION:Ford Field, Detroit, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w12SDCDAL@southendzone.com
+SUMMARY:Dallas v LA Chargers
+DESCRIPTION:Watch: CBS\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171123T153000
+DTEND:20171123T183000
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12NYGWAS@southendzone.com
+SUMMARY:Washington v NY Giants
+DESCRIPTION:Watch: NBC\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171123T203000
+DTEND:20171123T223000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w12BUFKCC@southendzone.com
+SUMMARY:Kansas City v Buffalo
+DESCRIPTION:Watch: CBS\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T120000
+DTEND:20171126T150000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12TENIND@southendzone.com
+SUMMARY:Indianapolis v Tennessee
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12CLECIN@southendzone.com
+SUMMARY:Cincinnati v Cleveland
+DESCRIPTION:Watch: CBS\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12TBBATL@southendzone.com
+SUMMARY:Atlanta v Tampa Bay
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12MIANEP@southendzone.com
+SUMMARY:New England v Miami
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12CHIPHL@southendzone.com
+SUMMARY:Philadelphia v Chicago
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12CARNYJ@southendzone.com
+SUMMARY:NY Jets v Carolina
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130000
+DTEND:20171126T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w12NOSSTL@southendzone.com
+SUMMARY:LA Rams v New Orleans
+DESCRIPTION:Watch: FOX\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130500
+DTEND:20171126T180500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w12SEASFF@southendzone.com
+SUMMARY:San Francisco v Seattle
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T130500
+DTEND:20171126T180500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w12JAXARZ@southendzone.com
+SUMMARY:Arizona v Jacksonville
+DESCRIPTION:Watch: CBS\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T132500
+DTEND:20171126T182500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w12DENOAK@southendzone.com
+SUMMARY:Oakland v Denver
+DESCRIPTION:Watch: CBS\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T132500
+DTEND:20171126T182500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12GRBPGH@southendzone.com
+SUMMARY:Pittsburgh v GreenBay
+DESCRIPTION:Watch: NBC\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171126T203000
+DTEND:20171126T223000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w12HOUBAL@southendzone.com
+SUMMARY:Baltimore v Houston
+DESCRIPTION:Watch: ESPN\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171127T203000
+DTEND:20171127T223000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w13WASDAL@southendzone.com
+SUMMARY:Dallas v Washington
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171130T192500
+DTEND:20171130T222500
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13MINATL@southendzone.com
+SUMMARY:Atlanta v Minnesota
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w13HOUTEN@southendzone.com
+SUMMARY:Tennessee v Houston
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T120000
+DTEND:20171203T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13KCCNYJ@southendzone.com
+SUMMARY:NY Jets v Kansas City
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w13CARNOS@southendzone.com
+SUMMARY:New Orleans v Carolina
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T120000
+DTEND:20171203T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13DENMIA@southendzone.com
+SUMMARY:Miami v Denver
+DESCRIPTION:Watch: CBS\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13DETBAL@southendzone.com
+SUMMARY:Baltimore v Detroit
+DESCRIPTION:Watch: FOX\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13NEPBUF@southendzone.com
+SUMMARY:Buffalo v New England
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w13SFFCHI@southendzone.com
+SUMMARY:Chicago v San Francisco
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T120000
+DTEND:20171203T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w13TBBGRB@southendzone.com
+SUMMARY:GreenBay v Tampa Bay
+DESCRIPTION:Watch: FOX\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T120000
+DTEND:20171203T150000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13INDJAX@southendzone.com
+SUMMARY:Jacksonville v Indianapolis
+DESCRIPTION:Watch: CBS\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130000
+DTEND:20171203T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w13CLESDC@southendzone.com
+SUMMARY:LA Chargers v Cleveland
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T130500
+DTEND:20171203T180500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w13NYGOAK@southendzone.com
+SUMMARY:Oakland v NY Giants
+DESCRIPTION:Watch: FOX\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T132500
+DTEND:20171203T182500
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w13STLARZ@southendzone.com
+SUMMARY:Arizona v LA Rams
+DESCRIPTION:Watch: FOX\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T132500
+DTEND:20171203T182500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w13PHLSEA@southendzone.com
+SUMMARY:Seattle v Philadelphia
+DESCRIPTION:Watch: NBC\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171203T173000
+DTEND:20171203T223000
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w13PGHCIN@southendzone.com
+SUMMARY:Cincinnati v Pittsburgh
+DESCRIPTION:Watch: ESPN\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171204T203000
+DTEND:20171204T223000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14NOSATL@southendzone.com
+SUMMARY:Atlanta v New Orleans
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171207T202500
+DTEND:20171207T222500
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14INDBUF@southendzone.com
+SUMMARY:Buffalo v Indianapolis
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14DETTBB@southendzone.com
+SUMMARY:Tampa Bay v Detroit
+DESCRIPTION:Watch: FOX\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w14OAKKCC@southendzone.com
+SUMMARY:Kansas City v Oakland
+DESCRIPTION:Watch: CBS\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T120000
+DTEND:20171210T150000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14SEAJAX@southendzone.com
+SUMMARY:Jacksonville v Seattle
+DESCRIPTION:Watch: FOX\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w14SFFHOU@southendzone.com
+SUMMARY:Houston v San Francisco
+DESCRIPTION:Watch: FOX\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T120000
+DTEND:20171210T150000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14GRBCLE@southendzone.com
+SUMMARY:Cleveland v GreenBay
+DESCRIPTION:Watch: FOX\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14CHICIN@southendzone.com
+SUMMARY:Cincinnati v Chicago
+DESCRIPTION:Watch: FOX\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14MINCAR@southendzone.com
+SUMMARY:Carolina v Minnesota
+DESCRIPTION:Watch: CBS\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130000
+DTEND:20171210T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w14WASSDC@southendzone.com
+SUMMARY:LA Chargers v Washington
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130500
+DTEND:20171210T180500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w14NYJDEN@southendzone.com
+SUMMARY:Denver v NY Jets
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T140500
+DTEND:20171210T180500
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w14TENARZ@southendzone.com
+SUMMARY:Arizona v Tennessee
+DESCRIPTION:Watch: CBS\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T130500
+DTEND:20171210T180500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14DALNYG@southendzone.com
+SUMMARY:NY Giants v Dallas
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T142500
+DTEND:20171210T182500
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w14PHLSTL@southendzone.com
+SUMMARY:LA Rams v Philadelphia
+DESCRIPTION:Watch: FOX\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T132500
+DTEND:20171210T182500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14BALPGH@southendzone.com
+SUMMARY:Pittsburgh v Baltimore
+DESCRIPTION:Watch: NBC\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171210T203000
+DTEND:20171210T223000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w14NEPMIA@southendzone.com
+SUMMARY:Miami v New England
+DESCRIPTION:Watch: ESPN\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171211T203000
+DTEND:20171211T223000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15DENIND@southendzone.com
+SUMMARY:Indianapolis v Denver
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171214T202500
+DTEND:20171214T222500
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15CHIDET@southendzone.com
+SUMMARY:Detroit v Chicago
+DESCRIPTION:Watch: NFLN\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171216T163000
+DTEND:20171216T183000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w15SDCKCC@southendzone.com
+SUMMARY:Kansas City v LA Chargers
+DESCRIPTION:Watch: NFLN\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171216T192500
+DTEND:20171216T222500
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15HOUJAX@southendzone.com
+SUMMARY:Jacksonville v Houston
+DESCRIPTION:Watch: CBS\nGrass\, built 1995\, capacity 67\,297\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:EverBank Field, Jacksonville, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15BALCLE@southendzone.com
+SUMMARY:Cleveland v Baltimore
+DESCRIPTION:Watch: CBS\nGrass\, built 1999\, capacity 73\,300\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:FirstEnergy Stadium, Cleveland, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15GRBCAR@southendzone.com
+SUMMARY:Carolina v GreenBay
+DESCRIPTION:Watch: FOX\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15MIABUF@southendzone.com
+SUMMARY:Buffalo v Miami
+DESCRIPTION:Watch: CBS\nA-Turf Titan\, built 1973\, capacity 72\,169\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:Ralph Wilson Stadium, Orchard Park, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w15CINMIN@southendzone.com
+SUMMARY:Minnesota v Cincinnati
+DESCRIPTION:Watch: CBS\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T120000
+DTEND:20171217T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15ARZWAS@southendzone.com
+SUMMARY:Washington v Arizona
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15PHLNYG@southendzone.com
+SUMMARY:NY Giants v Philadelphia
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130000
+DTEND:20171217T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w15NYJNOS@southendzone.com
+SUMMARY:New Orleans v NY Jets
+DESCRIPTION:Watch: CBS\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T120000
+DTEND:20171217T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans,
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w15STLSEA@southendzone.com
+SUMMARY:Seattle v LA Rams
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T130500
+DTEND:20171217T180500
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w15TENSFF@southendzone.com
+SUMMARY:San Francisco v Tennessee
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T132500
+DTEND:20171217T182500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15NEPPGH@southendzone.com
+SUMMARY:Pittsburgh v New England
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T142500
+DTEND:20171217T182500
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w15DALOAK@southendzone.com
+SUMMARY:Oakland v Dallas
+DESCRIPTION:Watch: NBC\nGrass\, built 1966\, capacity 53\,286\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171217T173000
+DTEND:20171217T223000
+LOCATION:Oakland Coliseum, Oakland, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w15ATLTBB@southendzone.com
+SUMMARY:Tampa Bay v Atlanta
+DESCRIPTION:Watch: ESPN\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171218T203000
+DTEND:20171218T223000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16INDBAL@southendzone.com
+SUMMARY:Baltimore v Indianapolis
+DESCRIPTION:Watch: NFLN\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171223T163000
+DTEND:20171223T183000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16MINGRB@southendzone.com
+SUMMARY:GreenBay v Minnesota
+DESCRIPTION:Watch: NBC\nDD GrassMaster\, built 1957\, capacity 80\,750\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171223T193000
+DTEND:20171223T223000
+LOCATION:Lambeau Field, Green Bay, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16DETCIN@southendzone.com
+SUMMARY:Cincinnati v Detroit
+DESCRIPTION:Watch: FOX\nSynthetic\, built 2000\, capacity 65\,515\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130000
+DTEND:20171224T150000
+LOCATION:Paul Brown Stadium, Cincinnati, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16MIAKCC@southendzone.com
+SUMMARY:Kansas City v Miami
+DESCRIPTION:Watch: CBS\nGrass\, built 1972\, capacity 76\,416\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T120000
+DTEND:20171224T150000
+LOCATION:Arrowhead Stadium, Kansas City, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16BUFNEP@southendzone.com
+SUMMARY:New England v Buffalo
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130000
+DTEND:20171224T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16CLECHI@southendzone.com
+SUMMARY:Chicago v Cleveland
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1924\, capacity 61\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T120000
+DTEND:20171224T150000
+LOCATION:Soldier Field, Chicago, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16TBBCAR@southendzone.com
+SUMMARY:Carolina v Tampa Bay
+DESCRIPTION:Watch: FOX\nGrass\, built 1996\, capacity 73\,778\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130000
+DTEND:20171224T150000
+LOCATION:Bank of America Stadium, Charlotte, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16ATLNOS@southendzone.com
+SUMMARY:New Orleans v Atlanta
+DESCRIPTION:Watch: FOX\nUBU Speed Series-S5-M\, built 1975\, capacity 73\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T120000
+DTEND:20171224T150000
+LOCATION:Mercedes-Benz Superdome, New Orleans,
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16DENWAS@southendzone.com
+SUMMARY:Washington v Denver
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1997\, capacity 85\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130000
+DTEND:20171224T150000
+LOCATION:FedEx Field, Landover, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16STLTEN@southendzone.com
+SUMMARY:Tennessee v LA Rams
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T120000
+DTEND:20171224T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16SDCNYJ@southendzone.com
+SUMMARY:NY Jets v LA Chargers
+DESCRIPTION:Watch: CBS\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130000
+DTEND:20171224T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w16JAXSFF@southendzone.com
+SUMMARY:San Francisco v Jacksonville
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2014\, capacity 68\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T130500
+DTEND:20171224T180500
+LOCATION:Levi's Stadium, Santa Clara, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16SEADAL@southendzone.com
+SUMMARY:Dallas v Seattle
+DESCRIPTION:Watch: FOX\nSoftTop Matrix Turf\, built 2009\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T152500
+DTEND:20171224T182500
+LOCATION:AT&T Stadium, Arlington, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w16NYGARZ@southendzone.com
+SUMMARY:Arizona v NY Giants
+DESCRIPTION:Watch: FOX\nGrass\, built 2006\, capacity 65\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171224T132500
+DTEND:20171224T182500
+LOCATION:Univ of Phoenix Stadium, Glendale, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w16PGHHOU@southendzone.com
+SUMMARY:Houston v Pittsburgh
+DESCRIPTION:Watch: NBC\, NFLN\, Amazon\nGrass\, built 2002\, capacity 71\,054\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171225T153000
+DTEND:20171225T183000
+LOCATION:NRG Stadium, Houston, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w16OAKPHL@southendzone.com
+SUMMARY:Philadelphia v Oakland
+DESCRIPTION:Watch: ESPN\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171225T203000
+DTEND:20171225T223000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17CARATL@southendzone.com
+SUMMARY:Atlanta v Carolina
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2017\, capacity 71\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:Mercedes-Benz Stadium, Atlanta, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17CINBAL@southendzone.com
+SUMMARY:Baltimore v Cincinnati
+DESCRIPTION:Watch: CBS\nSportexe Momentum\, built 1998\, capacity 71\,008\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:M&T Bank Stadium, Baltimore, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w17JAXTEN@southendzone.com
+SUMMARY:Tennessee v Jacksonville
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 1999\, capacity 69\,143\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T120000
+DTEND:20171231T150000
+LOCATION:Nissan Stadium, Nashville, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17NOSTBB@southendzone.com
+SUMMARY:Tampa Bay v New Orleans
+DESCRIPTION:Watch: FOX\nGrass\, built 1998\, capacity 65\,908\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:Raymond James Stadium, Tampa, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17CLEPGH@southendzone.com
+SUMMARY:Pittsburgh v Cleveland
+DESCRIPTION:Watch: CBS\nNatural Grass\, built 2001\, capacity 65\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:Heinz Field, Pittsburgh, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17GRBDET@southendzone.com
+SUMMARY:Detroit v GreenBay
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 64\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T13000
+DTEND:20171231T150000
+LOCATION:Ford Field, Detroit, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17HOUIND@southendzone.com
+SUMMARY:Indianapolis v Houston
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2008\, capacity 63\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T13000
+DTEND:20171231T150000
+LOCATION:Lucas Oil Stadium, Indianapolis, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17BUFMIA@southendzone.com
+SUMMARY:Miami v Buffalo
+DESCRIPTION:Watch: CBS\nPlatinum TE Paspalum\, built 1987\, capacity 65\,326\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:Hard Rock Stadium, Miami Gardens, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+5:00
+UID:2017w17CHIMIN@southendzone.com
+SUMMARY:Minnesota v Chicago
+DESCRIPTION:Watch: FOX\nField Turf\, built 2016\, capacity 66\,200\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T120000
+DTEND:20171231T150000
+LOCATION:US Bank Stadium, Minneapolis, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17NYJNEP@southendzone.com
+SUMMARY:New England v NY Jets
+DESCRIPTION:Watch: CBS\nFieldTurf\, built 2002\, capacity 68\,756\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T13000
+DTEND:20171231T150000
+LOCATION:Gillette Stadium, Foxboro, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17WASNYG@southendzone.com
+SUMMARY:NY Giants v Washington
+DESCRIPTION:Watch: FOX\nUBU Sports' Speed Series S5-M\, built 2010\, capacity 82\,500\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T13000
+DTEND:20171231T150000
+LOCATION:MetLife Stadium, East Rutherford, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+4:00
+UID:2017w17DALPHL@southendzone.com
+SUMMARY:Philadelphia v Dallas
+DESCRIPTION:Watch: FOX\nNatural Grass\, built 2003\, capacity 69\,144\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T130000
+DTEND:20171231T150000
+LOCATION:Lincoln Financial Field, Philadelphia, USA 
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w17OAKSDC@southendzone.com
+SUMMARY:LA Chargers v Oakland
+DESCRIPTION:Watch: CBS\nGrass\, built 2017\, capacity 27\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T132500
+DTEND:20171231T182500
+LOCATION:StubHub Center, Carson, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+6:00
+UID:2017w17KCCDEN@southendzone.com
+SUMMARY:Denver v Kansas City
+DESCRIPTION:Watch: CBS\nDD GrassMaster\, built 2001\, capacity 76\,125\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T142500
+DTEND:20171231T182500
+LOCATION:Sports Authority Field at Mile High, Denver, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w17SFFSTL@southendzone.com
+SUMMARY:LA Rams v San Francisco
+DESCRIPTION:Watch: FOX\nNatural grass\, built 1923\, capacity 80\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T132500
+DTEND:20171231T182500
+LOCATION:Los Angeles Memorial Coliseum, Los Angeles, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+7:00
+UID:2017w17ARZSEA@southendzone.com
+SUMMARY:Seattle v Arizona
+DESCRIPTION:Watch: FOX\nFieldTurf\, built 2002\, capacity 67\,000\n\nhttp://www.southendzone.com/\nhttp://www.facebook.com/southendzone\n\n23Apr2017 04:55pm CT data updated by Scott\n19May2017 8:31am CT data updated by your calendar program\n
+DTSTART:20171231T132500
+DTEND:20171231T182500
+LOCATION:CenturyLink Field, Seattle, USA
+STATUS:CONFIRMED
+CLASS:PUBLIC
+END:VEVENT
+END:VCALENDAR
