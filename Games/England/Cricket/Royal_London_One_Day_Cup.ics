@@ -5,9 +5,9 @@ METHOD:PUBLISH
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
 SUMMARY:1st Quarter-Final Somerset v Nottinghamshire
-DTSTART:20170613T000000Z
+DTSTART:20170613T110000Z
 DTEND:20170613T080000Z
-LOCATION: TBC
+LOCATION:County Ground, Taunton
 TRANSP:OPAQUE
 UID:1068502_0
 BEGIN:VALARM
@@ -19,9 +19,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
 SUMMARY:2nd Quarter-Final Yorkshire v Surrey
-DTSTART:20170613T000000Z
+DTSTART:20170613T140000Z
 DTEND:20170613T080000Z
-LOCATION:
+LOCATION:Headingley, Leeds
 TRANSP:OPAQUE
 UID:1068503_0
 BEGIN:VALARM
@@ -33,9 +33,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
 SUMMARY:1st Semi-Final Essex v TBC
-DTSTART:20170616T000000Z
+DTSTART:20170616T133000Z
 DTEND:20170616T080000Z
-LOCATION: TBC
+LOCATION: County Ground, Chelmsford
 TRANSP:OPAQUE
 UID:1068504_0
 BEGIN:VALARM
@@ -47,9 +47,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
 SUMMARY:2nd Semi-Final Worcestershire v TBC
-DTSTART:20170617T000000Z
+DTSTART:20170617T110000Z
 DTEND:20170617T080000Z
-LOCATION: TBC
+LOCATION:County Ground, Worcester
 TRANSP:OPAQUE
 UID:1068505_0
 BEGIN:VALARM
@@ -61,7 +61,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
 SUMMARY:Final TBC v TBC
-DTSTART:20170701T100000Z
+DTSTART:20170701T110000Z
 DTEND:20170701T180000Z
 LOCATION:Lord's, London
 TRANSP:OPAQUE
