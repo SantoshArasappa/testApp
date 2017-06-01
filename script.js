@@ -259,23 +259,32 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     var motorRacingMap = new Map();
     
     motorRacingMap.set('Russia','Formula_1.ics');
-    motorRacingMap.set('Spain','Formula_1.ics');
+    motorRacingMap.set('Spain','Formula_1.ics,Moto_GP_2017.ics');
     motorRacingMap.set('Monaco','Formula_1.ics');
     motorRacingMap.set('Canada','Formula_1.ics');
     motorRacingMap.set('USA','Formula_1.ics');
     motorRacingMap.set('Azerbaijan','Formula_1.ics');
-    motorRacingMap.set('Austria','Formula_1.ics');
+    motorRacingMap.set('Austria','Formula_1.ics,Moto_GP_2017.ics');
     motorRacingMap.set('England','Formula_1.ics');
     motorRacingMap.set('Hungary','Formula_1.ics');
     motorRacingMap.set('Belgium','Formula_1.ics');
-    motorRacingMap.set('Italy','Formula_1.ics');
+    motorRacingMap.set('Italy','Formula_1.ics,Moto_GP_2017.ics');
     motorRacingMap.set('Singapore','Formula_1.ics');
-    motorRacingMap.set('Malaysia','Formula_1.ics');
-    motorRacingMap.set('Japan','Formula_1.ics');
+    motorRacingMap.set('Malaysia','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('Japan','Formula_1.ics,Moto_GP_2017.ics');
     motorRacingMap.set('USA','Formula_1.ics');
     motorRacingMap.set('Mexico','Formula_1.ics');
     motorRacingMap.set('Brazil','Formula_1.ics');
     motorRacingMap.set('UAE','Formula_1.ics');
+    
+    motorRacingMap.set('Australia','Moto_GP_2017.ics');
+    motorRacingMap.set('Czech_Republic','Moto_GP_2017.ics');
+    motorRacingMap.set('Germany','Moto_GP_2017.ics');
+    motorRacingMap.set('Great Britain','Moto_GP_2017.ics');
+    motorRacingMap.set('Netherlands','Moto_GP_2017.ics');
+    
+    
+    
      
     
     var mutliCountrySportMap = new Map();    
@@ -475,6 +484,13 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Netherlands','-02:00');
     $scope.gmtMap.set('Poland','-02:00');
     
+    $scope.gmtMap.set('Austria','+02:00');
+    $scope.gmtMap.set('Czech_Republic','02:00');
+    $scope.gmtMap.set('Germany','02:00');
+    $scope.gmtMap.set('Great_Britain','1:00');
+    $scope.gmtMap.set('Malaysia','-8:00');
+    
+    
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
    
@@ -534,10 +550,10 @@ $scope.gameFileListNew =
 		value: "English_Premier_League.ics"
 
 	},
-    /*{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Ice_Hockey",
-		value: "NHL_Playoffs.ics"
-	},*/
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Ice_Hockey",
+		value: "NHL.ics"
+	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
 		value: "Pro12.ics"
