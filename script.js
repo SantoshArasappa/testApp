@@ -230,9 +230,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      var engFootballMap = new Map();
     
     //engFootballMap.set('default','English_Premier_League.ics'); 
-    engFootballMap.set('England','English_Premier_League.ics');
+    engFootballMap.set('England','English_Premier_League.ics,NFL.ics');
     engFootballMap.set('Wales','English_Premier_League.ics,UEFA_Champions_League_Final.ics');
     engFootballMap.set('Sweden','UEFA_Champions_League_Final.ics');
+    engFootballMap.set('USA','NFL.ics');
+    
     
     var boxingMap = new Map();
     
