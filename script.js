@@ -340,6 +340,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Cricket":"Cricket",
         "Football": "Football",
         "Golf": "Golf",
+        "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
         "Rugby": "Rugby",
         "Tennis": "Tennis"
