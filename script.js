@@ -496,6 +496,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
+    $scope.gamesMap.set('Ice_Hockey','Ice Hockey');
+    
    
     
    
@@ -1039,7 +1041,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 	this.parseICAL = function(data,dateFirst,country,game){
 		//Ensure cal is empty
 		this.events = [];
-		
+        var gameConvert= game;
+		if($scope.gamesMap.get(game)){
+            gameConvert = $scope.gamesMap.get(game);
+        }
 		//Clean string and split the file so we can handle it (line by line)
 		cal_array = data.replace(new RegExp( "\\r", "g" ), "").split("\n");
 		
@@ -1074,10 +1079,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                    var countryInside = locList[2];
                     if(countryInside.trim() === country || country == 'default'){
                         in_event = false;
-                        if($scope.gamesMap.get(game)){
-                            game = $scope.gamesMap.get(game);
-                        }
-                        cur_event["sport"] = game;
+                        
+                        cur_event["sport"] = gameConvert;
                         if(country == 'default'){
                             cur_event["country"] = countryInside.trim();
                         }else{
@@ -1091,7 +1094,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     }
                 }else{  
                     in_event = false;
-                    cur_event["sport"] = game;
+                    cur_event["sport"] = gameConvert;
                     cur_event["country"] = country;
                     cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
                     addToList = true;
@@ -1988,6 +1991,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         var isNegate = false;   
         if(secs > 0){
             isNegate = true; //Because working GMT
+        }else{
+            secs = secs * -1;
         }       
         
         var hours = Math.floor(secs/60);
