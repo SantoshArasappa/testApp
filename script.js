@@ -230,10 +230,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      var engFootballMap = new Map();
     
     //engFootballMap.set('default','English_Premier_League.ics'); 
-    engFootballMap.set('England','English_Premier_League.ics,NFL.ics');
+    engFootballMap.set('England','English_Premier_League.ics');
     engFootballMap.set('Wales','English_Premier_League.ics,UEFA_Champions_League_Final.ics');
     engFootballMap.set('Sweden','UEFA_Champions_League_Final.ics');
-    engFootballMap.set('USA','NFL.ics');
+    //engFootballMap.set('USA','NFL.ics');
+    
+    var amFootballMap = new Map();
+    amFootballMap.set('England','NFL.ics');
+    amFootballMap.set('USA','NFL.ics');
     
     
     var boxingMap = new Map();
@@ -290,7 +294,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      
     
     var mutliCountrySportMap = new Map();    
-   // mutliCountrySportMap.set('Bike',countryMap);
+    mutliCountrySportMap.set('American_Football',amFootballMap);
     mutliCountrySportMap.set('Football',engFootballMap);
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
     mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
@@ -300,6 +304,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     $scope.multiGamesList = [];
+    $scope.multiGamesList.push("American_Football");
     $scope.multiGamesList.push('Football'); 
     $scope.multiGamesList.push('Ice_Hockey');
     $scope.multiGamesList.push('Motor_Racing');
@@ -334,6 +339,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     $scope.games = {
         "Sport":"Sport",
+        "American_Football":"American Football",
         "Baseball":"Baseball",
         "Basketball":"Basketball",
         "Boxing":"Boxing",
@@ -497,6 +503,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
     $scope.gamesMap.set('Ice_Hockey','Ice Hockey');
+    $scope.gamesMap.set('American_Football','American Football');
     
    
     
@@ -574,6 +581,10 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
 		value: "UFC.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/American_Football",
+		value: "NFL.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
