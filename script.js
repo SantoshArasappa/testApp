@@ -1049,8 +1049,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 	 *
 	 * @param data Raw ICAL data
 	 */
-	this.parseICAL = function(data,dateFirst,country,game){
+	this.parseICAL = function(data,dateFirst,countrySent,game){
 		//Ensure cal is empty
+        var country = countrySent;
+        if(countriesMap.get(countrySent)){
+            country = countriesMap.get(countrySent);
+        }
 		this.events = [];
         var gameConvert= game;
 		if($scope.gamesMap.get(game)){
