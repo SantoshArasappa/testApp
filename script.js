@@ -2011,6 +2011,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         var zone = new Date().toLocaleTimeString('en-us',{timeZoneName:'short'}).split(' ')[2];
         console.log('Zone Local is' + zone);
                
+        $scope.localGMTOffsetFormatTest = zone;
+               
         var listV = zone.split(' ');
          var timezone = '', n =0;
          if(listV.length > 1){
@@ -2025,7 +2027,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
          }
                
          
-               
+        
          if(timezone == 'GST'){
              timezone = 'BST';
          }       
