@@ -1211,7 +1211,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
                                 nextDayVarLocal = ' (-1day)';
-                                hoursInLocal = hoursInLocal * (-1day);
+                                hoursInLocal = hoursInLocal * (-1);
                             }
                             
                             function pad(num) {
@@ -1321,7 +1321,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
                                 nextDayVarLocal = ' (-1day)';
-                                hoursInLocal = hoursInLocal * (-1day) ;
+                                hoursInLocal = hoursInLocal * (-1) ;
                             }
                             
                             
