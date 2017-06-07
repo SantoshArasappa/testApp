@@ -2007,12 +2007,24 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         console.log('Zone Local is' + zone);
                
         var listV = zone.split(' ');
-         var timezone = '';
-         if(listV.length > 2){
-            timezone = listV[0].substring(0,1) + listV[1].substring(0,1) + listV[2].substring(0,1);
+         var timezone = '', n =0;
+         if(listV.length > 1){
+             for (n = 0; n < valueList.length; n++) {
+                 
+                 timezone = timezone + listV[n].substring(0,1);
+                 
+             }
+             
          }else{
              timezone = zone;
          }
+               
+         
+               
+         if(timezone == 'GST'){
+             timezone = 'BST';
+         }       
+               
          $scope.localGMTOffsetFormat = timezone;       
                
         
