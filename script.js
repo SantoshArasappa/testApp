@@ -564,7 +564,7 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Ice_Hockey",
-		value: "NHL.ics"
+		value: "NHL_Stanley_Cup_Finals.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
@@ -598,7 +598,7 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
-		value: "Golf_The_Open_Championship.ics"
+		value: "The_Open_Championship.ics"
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby",
@@ -610,7 +610,7 @@ $scope.gameFileListNew =
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
-		value: "Golf_Ryder_Cup.ics"
+		value: "Ryder_Cup.ics"
 
 	},
     {
@@ -639,12 +639,12 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Basketball",
-		value: "NBA.ics"
+		value: "NBA_Finals.ics"
 
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Rugby",
-		value: "Lions_Cup.ics"
+		value: "Lions_Tour.ics"
 
 	}
 
@@ -1181,9 +1181,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 24){
-                                nextDayVar = ' (-1)';
+                                nextDayVar = ' (-1day)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' (+1)';
+                                nextDayVar = ' (+1day)';
                             }
                             
                             cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
@@ -1207,11 +1207,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVarLocal = '';
                             
                             if(hoursInLocal > 24){
-                                nextDayVarLocal = ' (+1)';
+                                nextDayVarLocal = ' (+1day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
-                                nextDayVarLocal = ' (-1)';
-                                hoursInLocal = hoursInLocal * (-1);
+                                nextDayVarLocal = ' (-1day)';
+                                hoursInLocal = hoursInLocal * (-1day);
                             }
                             
                             function pad(num) {
@@ -1317,11 +1317,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVarLocal = '';
                             
                             if(hoursInLocal > 24){
-                                nextDayVarLocal = ' (+1)';
+                                nextDayVarLocal = ' (+1day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
-                                nextDayVarLocal = ' (-1)';
-                                hoursInLocal = hoursInLocal * (-1) ;
+                                nextDayVarLocal = ' (-1day)';
+                                hoursInLocal = hoursInLocal * (-1day) ;
                             }
                             
                             
@@ -1594,10 +1594,13 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					//These are helpful for display
                     if(dt.minute == '99'){
                         cur_event.start_time = 'TBC';
+                        cur_event.isTBC = true;
                     }else if(dt.minute == '60'){
                         cur_event.start_time = 'All Day Event';
+                        cur_event.isTBC = true;
                     }else{
                         cur_event.start_time = dt.hour+':'+dt.minute;
+                        cur_event.isTBC = false;
                     }
 					
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
