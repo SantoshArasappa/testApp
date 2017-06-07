@@ -1282,9 +1282,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 24){
-                                nextDayVar = ' ( +1)';
+                                nextDayVar = ' ( +1day)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' ( -1)';
+                                nextDayVar = ' ( -1day)';
                             }
                             
                             /*var theFutureTimeString = theFutureTime.split(':');

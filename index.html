@@ -221,10 +221,10 @@
 
                                     <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>
-                                <div class="col-sm-2" ng-if="isTBC === false"><strong>{{games.start_time}}
+                                <div class="col-sm-2" ng-if="!event.isTBC"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
                                 
-                                <div class="col-sm-2" ng-if="isTBC === true"><strong>{{games.start_time}}</strong></div>
+                                <div class="col-sm-2" ng-if="event.isTBC"><strong>{{games.start_time}}</strong></div>
 
                                         <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
 									 <div class="col-sm-3">{{games.sport}} <br/> {{games.league}}</div>
