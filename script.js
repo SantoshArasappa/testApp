@@ -1121,16 +1121,18 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					val = dt.date;
 					//These are helpful for display
                    
-                    
+                    cur_event.isTBC = false;
                     
                     if(dt.minute == '99'){
                         cur_event.start_time = 'TBC';
                         cur_event.gmtTime = 'TBC';
                         cur_event.userLocalTime = 'TBC';
+                        cur_event.isTBC = true;
                     }else if(dt.minute == '60'){
                         cur_event.start_time = 'All Day Event';
                         cur_event.gmtTime = 'All Day Event';
                         cur_event.userLocalTime = 'All Day Event';
+                        cur_event.isTBC = true;
                     }else{
                         if(isGmt){
                             
