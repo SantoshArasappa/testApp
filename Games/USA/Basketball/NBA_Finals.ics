@@ -2,34 +2,34 @@ ISOFFSET:TRUE
 BEGIN:VEVENT
 OFFSETTIME:07:00
 DTSTART:20170514T123000Z
-SUMMARY:Golden State Warriors v San Antonio Spurs
+SUMMARY:San Francisco Golden State Warriors v San Antonio Spurs
 DESCRIPTION:NBA
 LOCATION:Oracle Arena, Oakland
-UID:20170514T123000ZGolden State Warriors v San Antonio Spurs
+UID:20170514T123000ZSan Francisco Golden State Warriors v San Antonio Spurs
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:07:00
 DTSTART:20170516T180000Z
-SUMMARY:Golden State Warriors v San Antonio Spurs
+SUMMARY:San Francisco Golden State Warriors v San Antonio Spurs
 DESCRIPTION:NBA
 LOCATION:Oracle Arena, Oakland
-UID:20170516T180000ZGolden State Warriors v San Antonio Spurs
+UID:20170516T180000ZSan Francisco Golden State Warriors v San Antonio Spurs
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:05:00
 DTSTART:20170520T200000Z
-SUMMARY:San Antonio Spurs v Golden State Warriors 
+SUMMARY:San Antonio Spurs v San Francisco Golden State Warriors 
 DESCRIPTION:NBA
 LOCATION:AT & T Center, San Antonio
-UID:20170520T200000ZSan Antonio Spurs v Golden State Warriors 
+UID:20170520T200000ZSan Antonio Spurs v San Francisco Golden State Warriors 
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:05:00
 DTSTART:20170522T200000Z
-SUMMARY:San Antonio Spurs v Golden State Warriors 
+SUMMARY:San Antonio Spurs v San Francisco Golden State Warriors 
 DESCRIPTION:NBA
 LOCATION:AT & T Center, San Antonio
-UID:20170522T200000ZSan Antonio Spurs v Golden State Warriors 
+UID:20170522T200000ZSan Antonio Spurs v San Francisco Golden State Warriors 
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
@@ -42,91 +42,91 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170517T203000Z
-SUMMARY:Celtics v Cavaliers
+SUMMARY:Celtics v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:TD Garden, Boston
-UID:20170517T203000ZCeltics v Cavaliers
+UID:20170517T203000ZCeltics v Cleveland Cavaliers
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170519T203000Z
-SUMMARY:Celtics v Cavaliers
+SUMMARY:Celtics v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:TD Garden, Boston
-UID:20170519T203000ZCeltics v Cavaliers
+UID:20170519T203000ZCeltics v Cleveland Cavaliers
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170525T203000Z
-SUMMARY:Celtics v Cavaliers
+SUMMARY:Celtics v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:TD Garden, Boston
-UID:20170525T203000ZCeltics v Cavaliers
+UID:20170525T203000ZCeltics v Cleveland Cavaliers
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170517T203000Z
-SUMMARY:Celtics v Cavaliers
+SUMMARY:Celtics v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:TD Garden, Boston
-UID:20170529T203000ZCeltics v Cavaliers
+UID:20170529T203000ZCeltics v Cleveland Cavaliers
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170521T203000Z
-SUMMARY:Cavaliers v Celtics
+SUMMARY:Cleveland Cavaliers v Celtics
 DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
-UID:20170529T203000ZCavaliers v Celtics
+UID:20170529T203000ZCleveland Cavaliers v Celtics
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170523T203000Z
-SUMMARY:Cavaliers v Celtics
+SUMMARY:Cleveland Cavaliers v Celtics
 DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
-UID:20170523T203000ZCavaliers v Celtics
+UID:20170523T203000ZCleveland Cavaliers v Celtics
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170527T203000Z
-SUMMARY:Cavaliers v Celtics
+SUMMARY:Cleveland Cavaliers v Celtics
 DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
-UID:20170527T203000ZCavaliers v Celtics
+UID:20170527T203000ZCleveland Cavaliers v Celtics
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:07:00
 DTSTART:20170601T180000Z
-SUMMARY:Golden State Warriors v Cavaliers
+SUMMARY:San Francisco Golden State Warriors v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:Oracle Arena, Oakland
-UID:20170601T180000ZGolden State Warriors v San Antonio Spurs
+UID:20170601T180000ZSan Francisco Golden State Warriors v San Antonio Spurs
 END:VEVENT
 
 BEGIN:VEVENT
 OFFSETTIME:07:00
 DTSTART:20170604T170000Z
-SUMMARY:Golden State Warriors v Cavaliers
+SUMMARY:San Francisco Golden State Warriors v Cleveland Cavaliers
 DESCRIPTION:NBA
 LOCATION:Oracle Arena, Oakland
-UID:20170604T180000ZGolden State Warriors v San Antonio Spurs
+UID:20170604T180000ZSan Francisco Golden State Warriors v San Antonio Spurs
 END:VEVENT
 
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170607T21000Z
-SUMMARY:Cavaliers v Golden State Warriors
+SUMMARY:Cleveland Cavaliers v San Francisco Golden State Warriors
 DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
-UID:20170607T18000ZCavaliers v Golden State Warriors
+UID:20170607T18000ZCleveland Cavaliers v San Francisco Golden State Warriors
 END:VEVENT
 
 BEGIN:VEVENT
 OFFSETTIME:04:00
 DTSTART:20170609T21000Z
-SUMMARY:Cavaliers v Golden State Warriors
+SUMMARY:Cleveland Cavaliers v San Francisco Golden State Warriors
 DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
-UID:20170609T18000ZCavaliers v Golden State Warriors
+UID:20170609T18000ZCleveland Cavaliers v San Francisco Golden State Warriors
 END:VEVENT
