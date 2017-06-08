@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/page.css">
 
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/5d2bd971/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/5fea19a2/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -325,7 +325,7 @@ option:nth-child(1) {
 
         <div ng-show="showEvents" ng-cloak>
 				<div class="col-xs-12" >&nbsp;</div>
-                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
+                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range and Time Zone is:{{localGMTOffsetFormatTest}}, localTime: {{localTime}}, localTimeZone: {{localTimeZone}}</h1>
                 <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No Events Found</h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
@@ -363,10 +363,8 @@ option:nth-child(1) {
 
                                     <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>
-                                <div class="col-sm-2" ng-if="isTBC === false"><strong>{{games.start_time}}
+                                <div class="col-sm-2"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
-                                
-                                <div class="col-sm-2" ng-if="isTBC === true"><strong>{{games.start_time}}</strong></div>
 
                                         <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
 									 <div class="col-sm-3">{{games.sport}} <br/> {{games.league}}</div>
