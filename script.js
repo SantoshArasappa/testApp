@@ -2012,6 +2012,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         console.log('Zone Local is' + zone);
                
         $scope.localGMTOffsetFormatTest = zone;
+        $scope.localTime = new Date();
+        $scope.localTimeZone = new Date().toLocaleTimeString('en-us',{timeZoneName:'short'});   
+               
                
         var listV = zone.split(' ');
          var timezone = '', n =0;

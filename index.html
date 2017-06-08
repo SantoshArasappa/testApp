@@ -193,7 +193,7 @@
         <div ng-show="showEvents">
             <div class="col-xs-12" >&nbsp;</div>
                 <h1 ng-if="eventsResultsFilteredNew.length > 0" style="font-family: adelle-sans;">
-                    <strong>Events in the selected Date Range</strong>
+                    <strong>Events in the selected date range, localTime: {{localTime}}, localTimeZone: {{localTimeZone}}</strong>
                 </h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
                 <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
