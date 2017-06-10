@@ -130,3 +130,11 @@ DESCRIPTION:NBA
 LOCATION:Quicken Loans Arena, Cleveland
 UID:20170609T18000ZCleveland Cavaliers v San Francisco Golden State Warriors
 END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:07:00
+DTSTART:20170612T180000Z
+SUMMARY:Golden State Warriors v Cavaliers
+DESCRIPTION:NBA
+LOCATION:Oracle Arena, Oakland
+UID:20170612T180000ZGolden State Warriors v Cavaliers
+END:VEVENT
