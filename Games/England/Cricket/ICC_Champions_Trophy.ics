@@ -172,7 +172,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest ICC Champions Trophy news at: http://www.espncricinfo.com/icc-champions-trophy-2017/content/series/1022345.html \n\n 
-SUMMARY:1st Semi-final TBC v TBC
+SUMMARY:1st Semi-final England v TBC
 DTSTART:20170614T093000Z
 DTEND:20170614T173000Z
 LOCATION:Sophia Gardens, Cardiff
@@ -186,7 +186,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest ICC Champions Trophy news at: http://www.espncricinfo.com/icc-champions-trophy-2017/content/series/1022345.html \n\n 
-SUMMARY:2nd Semi-final TBC v TBC
+SUMMARY:2nd Semi-final Bangladesh v TBC
 DTSTART:20170615T093000Z
 DTEND:20170615T173000Z
 LOCATION:Edgbaston, Birmingham
