@@ -11,7 +11,7 @@ OFFSETTIME:-2:00
 DTSTART:20170819T009900Z
 SUMMARY:South Africa v Argentina
 DESCRIPTION:Rugby Union 2017 Rugby Championship
-LOCATION:South Africa
+LOCATION:Nelson Mandela Bay Stadium, port elizabeth, South Africa
 UID:20170819T009900ZSouth Africa v Argentina
 END:VEVENT
 BEGIN:VEVENT
@@ -24,10 +24,10 @@ UID:20170826T193500ZNew Zealand v Australia
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:+3:00
-DTSTART:20170826T009900Z
+DTSTART:20170827T009900Z
 SUMMARY:Argentina v South Africa
 DESCRIPTION:Rugby Union 2017 Rugby Championship
-LOCATION:Argentina
+LOCATION:Estadio Padre Ernesto Martearena, Salta, Argentina
 UID:20170826T009900ZArgentina v South Africa
 END:VEVENT
 BEGIN:VEVENT
@@ -43,7 +43,7 @@ OFFSETTIME:-10:00
 DTSTART:20170909T180000Z
 SUMMARY:Australia v South Africa
 DESCRIPTION:Rugby Union 2017 Rugby Championship
-LOCATION:Australia
+LOCATION:nib Stadium, Perth, Australia
 UID:20170909T180000ZAustralia v South Africa
 END:VEVENT
 BEGIN:VEVENT
@@ -67,7 +67,7 @@ OFFSETTIME:-2:00
 DTSTART:20170930T009900Z
 SUMMARY:South Africa v Australia
 DESCRIPTION:Rugby Union 2017 Rugby Championship
-LOCATION:South Africa
+LOCATION:Toyota Stadium, Bloemfontein, South Africa
 UID:20170930T009900ZSouth Africa v Australia
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ OFFSETTIME:+3:00
 DTSTART:20170930T009900Z
 SUMMARY:Argentina v New Zealand
 DESCRIPTION:Rugby Union 2017 Rugby Championship
-LOCATION:Argentina
+LOCATION:TBC
 UID:20170930T009900ZArgentina v New Zealand
 END:VEVENT
 BEGIN:VEVENT

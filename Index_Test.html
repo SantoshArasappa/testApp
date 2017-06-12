@@ -12,9 +12,9 @@
       <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/normalize.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.min.css">
    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/8ac5554d/dropdownMenu/page.css">
-       <!--<link rel="stylesheet" href="dropdownMenu/page.css">-->
+       <link rel="stylesheet" href="dropdownMenu/page.css">
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/8ac5554d/script.js"></script>
+    <script src="script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -323,10 +323,10 @@ option:nth-child(1) {
 
 
 
-        <div ng-show="showEvents" ng-cloak>
+        <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
 				<div class="col-xs-12" >&nbsp;</div>
-                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range and Time Zone is:{{localGMTOffsetFormatTest}}, localTime: {{localTime}}, localTimeZone: {{localTimeZone}}</h1>
-                <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No Events Found</h1>
+                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected date range </h1>
+                <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No events found</h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
                 <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
@@ -363,10 +363,10 @@ option:nth-child(1) {
 
                                     <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}}</div>
-                                <div class="col-sm-2" ng-if="games.isTBC"><strong>{{games.start_time}}</strong></div>
-
-                                <div class="col-sm-2" ng-if="!games.isTBC"><strong>{{games.start_time}}
+                                <div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
+                                
+                                <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
                                 
                                 
                                         <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
