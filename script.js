@@ -1090,6 +1090,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			if(in_event && ln == 'END:VEVENT'){
                 var addToList = false;
                 var locList = cur_event.LOCATION.split(',');
+                cur_event.loc1 = locList[0];
+                cur_event.loc2 = locList[1];
                 if(locList.length > 2){
                    var countryInside = locList[2];
                     if(countryInside.trim() === country || country == 'default'){
@@ -1182,7 +1184,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                             var nextDayVar = '';
                             
-                            if(hoursIn > 24){
+                            if(hoursIn > 23){
                                 nextDayVar = ' (-1 day)';
                             }else if(hoursIn < 0){
                                 nextDayVar = ' (+1 day)';
@@ -1208,7 +1210,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                             var nextDayVarLocal = '';
                             
-                            if(hoursInLocal > 24){
+                            if(hoursInLocal > 23){
                                 nextDayVarLocal = ' (+1 day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
@@ -1281,15 +1283,15 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                             var nextDayVar = '';
                             
-                            if(hoursIn > 24){
+                            if(hoursIn > 23){
                                 nextDayVar = ' (+1 day)';
                             }else if(hoursIn < 0){
                                 nextDayVar = ' (-1 day)';
                             }
                             
                             /*var theFutureTimeString = theFutureTime.split(':');
-                            if(theFutureTimeString >= 24){
-                                theFutureTimeString = (theFutureTime - 24);
+                            if(theFutureTimeString >= 23){
+                                theFutureTimeString = (theFutureTime - 23);
                                 theFutureTimeString = theFutureTimeString + '( -1 day )';
                             }else if(theFutureTime < 0){
                                 theFutureTimeString = (theFutureTime * -1);
@@ -1318,7 +1320,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             
                             var nextDayVarLocal = '';
                             
-                            if(hoursInLocal > 24){
+                            if(hoursInLocal > 23){
                                 nextDayVarLocal = ' (+1 day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
@@ -2009,7 +2011,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                
                
         var zone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ')[2];
-        console.log('Zone Local is' + zone);
+      //  console.log('Zone Local is' + zone);
                
         $scope.localGMTOffsetFormatTest = zone;
         $scope.localTime = new Date();

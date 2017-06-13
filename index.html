@@ -37,7 +37,17 @@
     border-radius: 32px;
     color: black;
   }
-           
+      
+.headerText{
+    
+   /* font-family: adelle-sans;*/
+    font-style: normal;
+    font-size: 30px;
+    letter-spacing: 0px;
+    text-transform: none;
+    line-height: 1.2em;
+               
+  }
 .hr-text {
   line-height: 1em;
   position: relative;
@@ -70,6 +80,14 @@
     color: #818078;
     background-color: #fcfcfa;
   }
+
+    
+  @media screen and (min-width: 768px)
+    .rwd-break {
+        display: none;
+    }    
+    
+    
 }
 </style>
        <div> 
@@ -192,7 +210,7 @@
        
         <div ng-show="showEvents">
             <div class="col-xs-12" >&nbsp;</div>
-                <h1 ng-if="eventsResultsFilteredNew.length > 0" style="font-family: adelle-sans;">
+                <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">
                     <strong>Events in the selected date range</strong>
                 </h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
@@ -203,7 +221,9 @@
                           </span>
                         </div>
                         <!--<div class="col-sm-12"><br/></div>-->
-                    <div class="col-sm-12"><br/></div>
+                    <div ng-if="dateType !== 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
                     <!--<hr class="hr-text" data-content="OR">-->
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country"  '>
                         <div ng-if="event.country">
@@ -213,14 +233,23 @@
                             {{event.country}}
                           </span>
                         </div>
-                        <div ng-if="dateType == 'Today'" class="col-sm-12"><br/></div>
+                        <div ng-if="dateType === 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
+                            
                     <!--</li>    
                     <li>-->
                             
                             <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
-
-                                    <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
-                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>
+                                
+                                
+                                    <div class="col-sm-3" ng-if="dateType != 'Today'">
+                                        <div class="col-sm-2 col-xs-2">{{event.country}},</div> <div class="col-sm-10 col-xs-10"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-6"> {{games.loc2}} </div></div>
+                                     </div>
+                                   <!-- <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>-->
+                                
+                                <div class="col-sm-3" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div> </div>
+                                
                                 <div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
                                 

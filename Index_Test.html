@@ -14,7 +14,7 @@
    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/8ac5554d/dropdownMenu/page.css">
        <link rel="stylesheet" href="dropdownMenu/page.css">
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/72e56967/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -177,6 +177,17 @@ option:nth-child(1) {
 }
 
 /* END-Added by Santosh for Calendar colors */
+.headerText{
+    
+	/* font-family: adelle-sans;*/
+	font-style: normal;
+	font-size: 30px;
+	letter-spacing: 0px;
+	text-transform: none;
+	line-height: 1.2em;
+		   
+}
+
 
 .hr-text {
   line-height: 1em;
@@ -211,6 +222,10 @@ option:nth-child(1) {
     background-color: #fcfcfa;
   }
 
+    @media screen and (min-width: 768px)
+    .rwd-break {
+        display: none;
+    } 
 
 }
 </style>
@@ -325,7 +340,7 @@ option:nth-child(1) {
 
         <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
 				<div class="col-xs-12" >&nbsp;</div>
-                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected date range </h1>
+                <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">Events in the selected date range </h1>
                 <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No events found</h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
@@ -336,10 +351,9 @@ option:nth-child(1) {
                           </span>
 
                         </div>
-                        <div ng-if="dateType != 'Today'">
-                       <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                                    <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                           </div>
+                       <div ng-if="dateType !== 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                         <div ng-if="event.country">
                    <!-- <li>-->
@@ -352,21 +366,28 @@ option:nth-child(1) {
                         </div>
                         <!--<div class="col-sm-12"><br/></div>
                         <div class="col-sm-12"><br/></div>-->
-                       <div ng-if="dateType == 'Today'">
-                       <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                                    <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                           </div>
+                       <div ng-if="dateType == 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
                     <!--</li>
                     <li>-->
 
                             <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
 
-                                    <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
-                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}}</div>
-                                <div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
+                                    <!--<div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
+                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}}</div>-->
+                                 <div class="col-sm-2" ng-if="dateType != 'Today'">
+                                        <div class="col-sm-2 col-xs-2">{{event.country}},</div> <div class="col-sm-10 col-xs-10"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-6"> {{games.loc2}} </div></div>
+                                     </div>
+                                
+                                <div class="col-sm-2" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> 
+                                    
+                                    <div class="col-sm-12"> {{games.loc2}} </div> </div>
+                                
+                                <div class="col-sm-3" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
                                 
-                                <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
+                                <div class="col-sm-3" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
                                 
                                 
                                         <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
