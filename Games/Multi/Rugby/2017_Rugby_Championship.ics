@@ -1,0 +1,96 @@
+BEGIN:VEVENT
+OFFSETTIME:-10:00
+DTSTART:20170819T200000Z
+SUMMARY:Australia v New Zealand
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:ANZ Stadium, Sydney, Australia
+UID:20170819T200000ZAustralia v New Zealand
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-2:00
+DTSTART:20170819T009900Z
+SUMMARY:South Africa v Argentina
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Nelson Mandela Bay Stadium, Port Elizabeth, South Africa
+UID:20170819T009900ZSouth Africa v Argentina
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-12:00
+DTSTART:20170826T193500Z
+SUMMARY:New Zealand v Australia
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Forsyth Barr Stadium, Dunedin, New Zealand
+UID:20170826T193500ZNew Zealand v Australia
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+3:00
+DTSTART:20170827T009900Z
+SUMMARY:Argentina v South Africa
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Estadio Padre Ernesto Martearena, Salta, Argentina
+UID:20170826T009900ZArgentina v South Africa
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-12:00
+DTSTART:20170909T193500Z
+SUMMARY:New Zealand v Argentina
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Yarrow Stadium, New Plymouth, New Zealand
+UID:20170909T193500ZNew Zealand v Argentina
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-10:00
+DTSTART:20170909T180000Z
+SUMMARY:Australia v South Africa
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:nib Stadium, Perth, Australia
+UID:20170909T180000ZAustralia v South Africa
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-12:00
+DTSTART:20170916T193500Z
+SUMMARY:New Zealand v South Africa
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:QBE Stadium, Auckland, New Zealand
+UID:20170916T193500ZNew zealand v South Africa
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-10:00
+DTSTART:20170916T200000Z
+SUMMARY:Australia v Argentina
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:GIO Stadium, Canberra, Australia
+UID:20170916T200000ZAustralia v Argentina
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-2:00
+DTSTART:20170930T009900Z
+SUMMARY:South Africa v Australia
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Toyota Stadium, Bloemfontein, South Africa
+UID:20170930T009900ZSouth Africa v Australia
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:+3:00
+DTSTART:20170930T009900Z
+SUMMARY:Argentina v New Zealand
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:TBC
+UID:20170930T009900ZArgentina v New Zealand
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-2:00
+DTSTART:20171007T009900Z
+SUMMARY:South Africa v New Zealand
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Soweto Stadium, Johannesburg, South Africa
+UID:20171007T009900ZSouth Africa v New Zealand
+END:VEVENT
+BEGIN:VEVENT
+OFFSETTIME:-9:00
+DTSTART:20171007T009900Z
+SUMMARY:Argentina v Australia
+DESCRIPTION:Rugby Union 2017 Rugby Championship
+LOCATION:Saitama Stadium 2002, Saitama, Japan
+UID:20171007T009900ZArgentina v Australia
+END:VEVENT

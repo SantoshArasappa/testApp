@@ -217,12 +217,12 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('France','Pro12.ics,Six_Nations_Championship.ics');
    //  RugbyMap.set('default','Pro12.ics');
     
-     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
-     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
-     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
+     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
      RugbyMap.set('Singapore','Super_Rugby.ics');
-     RugbyMap.set('Japan','Super_Rugby.ics,Rugby_Union_2017_Rugby_Championship.ics');
-     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics,Rugby_Union_2017_Rugby_Championship.ics');
+     RugbyMap.set('Japan','Super_Rugby.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
      RugbyMap.set('Fiji','Super_Rugby.ics');
      RugbyMap.set('Samoa','Super_Rugby.ics');
      RugbyMap.set('France','Rugby_Union_Top_14.ics');
@@ -348,7 +348,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Golf": "Golf",
         "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
-        "Rugby": "Rugby",
+        "Rugby": "Rugby Union",
         "Tennis": "Tennis"
     };
     
@@ -504,6 +504,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
     $scope.gamesMap.set('Ice_Hockey','Ice Hockey');
     $scope.gamesMap.set('American_Football','American Football');
+    $scope.gamesMap.set('Rugby','Rugby Union');
     
    
     
