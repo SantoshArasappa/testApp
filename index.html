@@ -244,14 +244,14 @@
                                 
                                 
                                     <div class="col-sm-3" ng-if="dateType != 'Today'">
-                                        <div class="col-sm-2 col-xs-2">{{event.country}},</div> <div class="col-sm-10 col-xs-10"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div></div>
+                                        <div class="col-sm-4 col-xs-4">{{event.country}},</div> <div class="col-sm-8 col-xs-8"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div></div>
                                      </div>
                                    <!-- <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>-->
                                 
                                 <div class="col-sm-3" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div> </div>
                                 
                                 <div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
-                                    <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
+                                    <br/>{{games.gmtTime}}<!--<br/>{{games.userLocalTime}}--></strong></div>
                                 
                                 <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
 

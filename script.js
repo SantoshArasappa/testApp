@@ -1224,7 +1224,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             }
                             
                             
-                            cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
+                           // cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
                             
                             
                             
@@ -1335,7 +1335,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             }
 
                             
-                            cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
+                           // cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
                             
                         }
                     }
@@ -2010,9 +2010,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
          }
          $scope.localGMTOffsetFormat = timezone;*/
                
-               
+         /*      
         var zone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ')[2];
-      //  console.log('Zone Local is' + zone);
+      
                
         $scope.localGMTOffsetFormatTest = zone;
         $scope.localTime = new Date();
@@ -2056,9 +2056,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.localGMTOffset = hours+":"+pad(minutes);
         if(isNegate){
             $scope.localGMTOffset = '-' + $scope.localGMTOffset;
-        }
+        }*/
         
-               
+        $scope.localGMTOffset = "-01:00" 
+        $scope.localGMTOffsetFormat = "BST";
        $scope.isError = false;
        $scope.showEvents = false;
        //var formatedDates = [];
