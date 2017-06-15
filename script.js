@@ -551,7 +551,7 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
-		value: "FA_Cup.ics"
+		value: "FA_Cup.ics,Premier_League.ics"
 	}, 
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
