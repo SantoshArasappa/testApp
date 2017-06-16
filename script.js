@@ -2003,6 +2003,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         console.log("to string" + d.toString());
         $scope.dateValue = d;
         $scope.theString = d.toString();
+               $scope.zoneValue = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});
+               console.log("zone" + $scope.zoneValue);
         // var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
          /*var listV = d1.split(' ');
          var timezone = '';
