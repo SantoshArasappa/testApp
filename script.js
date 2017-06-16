@@ -1999,8 +1999,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                
                
         var d = new Date();
-        
-         var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
+        console.log("date value is:" + d);
+        console.log("to string" + d.toString());
+        $scope.dateValue = d;
+        $scope.theString = d.toString();
+        // var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
          /*var listV = d1.split(' ');
          var timezone = '';
          if(listV.length > 2){
