@@ -2035,7 +2035,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
              }
              
          }else{
-             timezone = $scope.localTimeZoneList[0];
+             timezone = $scope.localTimeZoneList[1];
          }
                
          
