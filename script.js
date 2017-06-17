@@ -2005,6 +2005,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.theString = d.toString();
                $scope.zoneValue = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});
                console.log("zone" + $scope.zoneValue);
+               $scope.localTimeZone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}); 
         // var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
          /*var listV = d1.split(' ');
          var timezone = '';
