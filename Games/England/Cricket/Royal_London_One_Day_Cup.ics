@@ -46,7 +46,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
-SUMMARY:2nd Semi-Final Worcestershire v TBC
+SUMMARY:2nd Semi-Final Worcestershire v Surrey
 DTSTART:20170617T110000Z
 DTEND:20170617T080000Z
 LOCATION:County Ground, Worcester
@@ -60,7 +60,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Royal London One-Day Cup news at: http://www.espncricinfo.com/royal-london-one-day-cup-2017/content/series/1068072.html \n\n 
-SUMMARY:Final TBC v TBC
+SUMMARY:Final Nottinghamshire v TBC
 DTSTART:20170701T110000Z
 DTEND:20170701T180000Z
 LOCATION:Lord's, London
