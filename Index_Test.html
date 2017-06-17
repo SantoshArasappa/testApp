@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.min.css">
    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/8ac5554d/dropdownMenu/page.css">
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/d660e078/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/0a3428d2/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -178,7 +178,7 @@ option:nth-child(1) {
 /* END-Added by Santosh for Calendar colors */
 .headerText{
     
-	/* font-family: adelle-sans;*/
+	font-family: adelle-sans;
 	font-style: normal;
 	font-size: 30px;
 	letter-spacing: 0px;
@@ -340,8 +340,8 @@ option:nth-child(1) {
         <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
 				<div class="col-xs-12" >&nbsp;</div>
             Date value is: {{dateValue}} and toString value is {{theString}}, zoneValue : {{zoneValue}}, localTimeZone :{{localTimeZone}}
-                <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">Events in the selected date range </h1>
-                <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No events found</h1>
+            <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText"><strong>Events in the selected date range </strong></h1>
+            <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
                 <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
