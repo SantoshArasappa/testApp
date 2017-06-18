@@ -1908,7 +1908,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            $scope.isLoading = false;
        }*/
        if(!(($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')) ){
-               $scope.errorMessage = "Please select one Date Type"
+               $scope.errorMessage = "Please select one date type"
                $scope.isError = true;
                $scope.isLoading = false;
                return;
@@ -1924,7 +1924,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
              
              }*/
            if(($scope.dateType == 'Custom' && ($scope.selectedDates === undefined || $scope.selectedDates == ''))){
-               $scope.errorMessage = "Please select one Date Type"
+               $scope.errorMessage = "Please select one date type"
                $scope.isError = true;
                $scope.isLoading = false;
                return;
@@ -1997,7 +1997,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 return ("0"+num).slice(-2);
             }
                
-        /*       
+               
         var d = new Date();
         console.log("date value is:" + d);
         console.log("to string" + d.toString());
@@ -2014,7 +2014,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
          }else{
              timezone = d1;
          }
-         $scope.localGMTOffsetFormat = timezone;
+         $scope.localGMTOffsetFormat = timezone;*/
                
                
         var zone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ')[2];
@@ -2062,10 +2062,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.localGMTOffset = hours+":"+pad(minutes);
         if(isNegate){
             $scope.localGMTOffset = '-' + $scope.localGMTOffset;
-        }*/
+        }
         
-        $scope.localGMTOffset = "-01:00" 
-        $scope.localGMTOffsetFormat = "BST";
+      //  $scope.localGMTOffset = "-01:00" 
+       // $scope.localGMTOffsetFormat = "BST";
        $scope.isError = false;
        $scope.showEvents = false;
        //var formatedDates = [];
