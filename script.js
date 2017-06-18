@@ -55,6 +55,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   
   $scope.isError = false;  
   
+  $scope.selectedLoc = 'Country' ;
+  
+  $scope.selectedGame = 'Sport';
+    
+    
   /*$scope.countries.push('Australia');    
   $scope.countries.push('Bangladesh');    
   $scope.countries.push('Europe'); 

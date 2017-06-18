@@ -165,7 +165,7 @@
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="key as value for (key , value) in games" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':selectedGame == 'Sport'}">
+                     ng-options="key as value for (key , value) in games" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold': selectedGame === 'Sport'}">
                    
                   </select>
               </div>    
