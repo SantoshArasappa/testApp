@@ -2030,7 +2030,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.localTimeZone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});   
         $scope.localTimeZoneList = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ');       
                
-        var listV = zone.split('BST BST');
+       // var listV = zone.split('BST BST');
          var timezone = '', n =0;
          if($scope.localTimeZoneList.length > 3){
              for (n = 1; n < $scope.localTimeZoneList.length; n++) {

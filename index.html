@@ -153,7 +153,7 @@
                 </select>-->
                   
                   <select ng-model="selectedLoc" 
-                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':selectedLoc == 'Country'}">
+                     ng-options="key as value for (key , value) in countries" style="height:35px;width:200px;margin-top: 10px;" >
                    
                 </select>
                   
@@ -165,8 +165,7 @@
                 <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
                   
                   <select ng-model="selectedGame" 
-                     ng-options="key as value for (key , value) in games" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold': selectedGame === 'Sport'}">
-                   
+                     ng-options="key as value for (key , value) in games" style="height:35px;width:200px;margin-top: 10px;" >
                   </select>
               </div>    
            
@@ -244,22 +243,22 @@
                             <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
                                 
                                 
-                                    <div class="col-sm-3" ng-if="dateType != 'Today'">
+                                    <div class="col-sm-3 col-xs-12" ng-if="dateType != 'Today'">
                                         <div class="col-sm-12">{{event.country}}, {{games.loc1}},</div> <div class="col-sm-12"> {{games.loc2}} </div></div>
                                      
                                    <!-- <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>-->
                                 
-                                <div class="col-sm-3" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div> </div>
+                                <div class="col-sm-3 col-xs-12" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> <div class="col-sm-12"> {{games.loc2}} </div> </div>
                                 
-                                <div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
+                                <div class="col-sm-2 col-xs-12" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>
                                 
-                                <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
+                                <div class="col-sm-2 col-xs-12" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
 
-                                        <div class="col-sm-4 float-left"><strong>{{games.SUMMARY}} </strong><br/></div>
-									 <div class="col-sm-3">{{games.sport}} <br/> {{games.league}}</div>
+                                        <div class="col-sm-4 col-xs-12 float-left"><strong>{{games.SUMMARY}} </strong><br/></div>
+									 <div class="col-sm-3 col-xs-12">{{games.sport}} <br/> {{games.league}}</div>
 
-                                <div class="col-sm-12"><hr/><br/></div>
+                                <div class="col-sm-12 col-xs-12"><hr/><br/></div>
                             </div>
                        </div>
                    <!-- </li>-->  
