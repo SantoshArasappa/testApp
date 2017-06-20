@@ -1191,9 +1191,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 23){
-                                nextDayVar = ' (-1 day)';
+                                nextDayVar = '<br/>(-1 day)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' (+1 day)';
+                                nextDayVar = '<br/>(+1 day)';
                             }
                             
                             cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
@@ -1217,10 +1217,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVarLocal = '';
                             
                             if(hoursInLocal > 23){
-                                nextDayVarLocal = ' (+1 day)';
+                                nextDayVarLocal = '<br/>(+1 day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
-                                nextDayVarLocal = ' (-1 day)';
+                                nextDayVarLocal = '<br/>(-1 day)';
                                 hoursInLocal = hoursInLocal * (-1);
                             }
                             
@@ -1290,9 +1290,9 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVar = '';
                             
                             if(hoursIn > 23){
-                                nextDayVar = ' (+1 day)';
+                                nextDayVar = '<br/>(+1 day)';
                             }else if(hoursIn < 0){
-                                nextDayVar = ' (-1 day)';
+                                nextDayVar = '<br/>(-1 day)';
                             }
                             
                             /*var theFutureTimeString = theFutureTime.split(':');
@@ -1327,10 +1327,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var nextDayVarLocal = '';
                             
                             if(hoursInLocal > 23){
-                                nextDayVarLocal = ' (+1 day)';
+                                nextDayVarLocal = '<br/>(+1 day)';
                                 hoursInLocal = hoursInLocal - 24;
                             }else if(hoursInLocal < 0){
-                                nextDayVarLocal = ' (-1 day)';
+                                nextDayVarLocal = '<br/>(-1 day)';
                                 hoursInLocal = hoursInLocal * (-1) ;
                             }
                             
