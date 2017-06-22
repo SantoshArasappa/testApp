@@ -349,13 +349,13 @@ option:nth-child(1) {
 
 
 
-        <div class="row"  ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
-				<div class="col-xs-12" >&nbsp;</div>
-            <h1 class="col-xs-12" ng-if="eventsResultsFilteredNew.length > 0" class="headerText"><strong>Events in the selected date range </strong></h1>
-            <h1 class="col-xs-12" ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
+        <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
+				<div>&nbsp;</div>
+            <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText"><strong>Events in the selected date range </strong></h1>
+            <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
 
-                <font class="col-xs-12" color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
+                <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
+                <div class="row"   ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
@@ -403,8 +403,8 @@ option:nth-child(1) {
                                 <div class="col-sm-2 col-xs-12" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
                                 
                                 
-                                        <div class="col-sm-4 col-xs-12"><strong>{{games.SUMMARY}} </strong><br/></div>
-									 <div class="col-sm-3 col-xs-12">{{games.sport}} <br/> {{games.league}}</div>
+                                        <div class="col-sm-4 col-xs-12"><strong><div class="col-sm-12"> {{games.SUMMARY}}</div></strong></div>
+                                <div class="col-sm-3 col-xs-12"><div class="col-sm-12"> {{games.sport}} <br/> {{games.league}}</div></div>
 
                                 <div class="col-sm-12 col-xs-12"><hr/><br/></div>
                             </div>
