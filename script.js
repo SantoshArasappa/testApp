@@ -355,6 +355,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Boxing":"Boxing",
         "Cricket":"Cricket",
         "Football": "Football",
+        "Footy": "Footy",
         "Golf": "Golf",
         "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
@@ -540,6 +541,11 @@ $scope.gameFileListNew =
 		value: "The_Ashes.ics"
 
 	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Footy",
+		value: "AFL.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
 		value: "La_Liga.ics"
@@ -572,7 +578,7 @@ $scope.gameFileListNew =
 	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
-		value: "English_Premier_League.ics"
+		value: "English_Premier_League.ics,U21_Championship.ics"
 
 	},
     {
@@ -582,6 +588,10 @@ $scope.gameFileListNew =
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
 		value: "Pro12.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby_League",
+		value: "NRL_Premiership.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
