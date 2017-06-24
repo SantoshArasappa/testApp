@@ -575,10 +575,13 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
 		value: "Serie_A.ics"
 	},
-	
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Poland/Football",
+		value: "U21_Championship.ics"
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
-		value: "English_Premier_League.ics,U21_Championship.ics"
+		value: "English_Premier_League.ics"
 
 	},
     {
