@@ -1,0 +1,147 @@
+BEGIN:VEVENT
+DTSTART:20170629T200000Z
+SUMMARY:Leeds Rhinos v St Helens
+DESCRIPTION:Super League
+LOCATION:Headingley Carnegie Stadium, Leeds
+UID:20170629T200000ZLeeds Rhinos v St Helens
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170630T200000Z
+SUMMARY:Castleford Tigers V Hull FC
+DESCRIPTION:Super League
+LOCATION:The Mend-A-Hose Jungle, Castleford
+UID:20170630T200000ZCastleford Tigers V Hull FC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170701T180000Z
+SUMMARY:Wakefield Trinity V Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:The Beaumont Legal Stadium, Wakefield
+UID:20170701T180000ZWakefield Trinity V Warrington Wolves
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170702T150000Z
+SUMMARY:Wigan Warriors V Widnes Vikings
+DESCRIPTION:Super League
+LOCATION:DW Stadium, Wigan
+UID:20170702T150000ZWigan Warriors V Widnes Vikings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170702T150000Z
+SUMMARY:Salford Red Devils V Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:A J Bell Stadium, Salford, Eccles
+UID:20170702T150000ZSalford Red Devils V Huddersfield Giants
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170706T200000Z
+SUMMARY:Wakefield Trinity V Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:The Beaumont Legal Stadium, Wakefield
+UID:20170706T200000ZWakefield Trinity V Castleford Tigers
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T200000Z
+SUMMARY:Huddersfield Giants V Widnes Vikings
+DESCRIPTION:Super League
+LOCATION:The John Smith's Stadium, Huddersfield
+UID:20170707T200000ZHuddersfield Giants V Widnes Vikings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T200000Z
+SUMMARY:St Helens V Hull FC
+DESCRIPTION:Super League
+LOCATION:Totally Wicked Stadium, St. Helens
+UID:20170707T200000ZSt Helens V Hull FC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170707T200000Z
+SUMMARY:Warrington Wolves V Leigh Centurions
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium, Warrington
+UID:20170707T200000ZWarrington Wolves V Leigh Centurions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170709T150000Z
+SUMMARY:Salford Red Devils V Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:A J Bell Stadium, Salford, Eccles
+UID:20170709T150000ZSalford Red Devils V Leeds Rhinos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170713T200000Z
+SUMMARY:Wigan Warriors V Warrington Wolves
+DESCRIPTION:Super League
+LOCATION:DW Stadium, Wigan
+UID:20170713T200000ZWigan Warriors V Warrington Wolves
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170714T200000Z
+SUMMARY:Huddersfield Giants V Leigh Centurions
+DESCRIPTION:Super League
+LOCATION:The John Smith's Stadium, Huddersfield
+UID:20170714T200000ZHuddersfield Giants V Leigh Centurions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170714T200000Z
+SUMMARY:Leeds Rhinos V Hull FC
+DESCRIPTION:Super League
+LOCATION:Headingley Carnegie Stadium, Leeds
+UID:20170714T200000ZLeeds Rhinos V Hull FC
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170714T200000Z
+SUMMARY:Widnes Vikings V Wakefield Trinity
+DESCRIPTION:Super League
+LOCATION:Halton Stadium, Widnes
+UID:20170714T200000ZWidnes Vikings V Wakefield Trinity
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T150000Z
+SUMMARY:St Helens V Catalans Dragons
+DESCRIPTION:Super League
+LOCATION:Totally Wicked Stadium, St. Helens
+UID:20170716T150000ZSt Helens V Catalans Dragons
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170716T153000Z
+SUMMARY:Castleford Tigers V Salford Red Devils
+DESCRIPTION:Super League
+LOCATION:The Mend-A-Hose Jungle, Castleford
+UID:20170716T153000ZCastleford Tigers V Salford Red Devils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170720T200000Z
+SUMMARY:Warrington Wolves V Widnes Vikings
+DESCRIPTION:Super League
+LOCATION:Halliwell Jones Stadium, Warrington
+UID:20170720T200000ZWarrington Wolves V Widnes Vikings
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170721T200000Z
+SUMMARY:Wigan Warriors V Leeds Rhinos
+DESCRIPTION:Super League
+LOCATION:DW Stadium, Wigan
+UID:20170721T200000ZWigan Warriors V Leeds Rhinos
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170721T200000Z
+SUMMARY:Hull FC V Huddersfield Giants
+DESCRIPTION:Super League
+LOCATION:KCOM Stadium, Hull
+UID:20170721T200000ZHull FC V Huddersfield Giants
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170721T200000Z
+SUMMARY:Leigh Centurions V Salford Red Devils
+DESCRIPTION:Super League
+LOCATION:Leigh Sports Village, Leigh
+UID:20170721T200000ZLeigh Centurions V Salford Red Devils
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170723T150000Z
+SUMMARY:Wakefield Trinity V St Helens
+DESCRIPTION:Super League
+LOCATION:The Beaumont Legal Stadium, Wakefield
+UID:20170723T150000ZWakefield Trinity V St Helens
+END:VEVENT
