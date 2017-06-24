@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.min.css">
    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/63fd29b8/dropdownMenu/page.css">
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/7266c902/script.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/08a3f23c/script.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -350,12 +350,12 @@ option:nth-child(1) {
 
 
         <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
-				<div>&nbsp;</div>
+				<div class="col-xs-12" >&nbsp;</div>
             <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText"><strong>Events in the selected date range </strong></h1>
             <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
-                <div class="row"   ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
+                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
@@ -383,30 +383,30 @@ option:nth-child(1) {
                     <!--</li>
                     <li>-->
 
-                            <div ng-repeat='games in event.listValue | unique:"UID"'>
+                            <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
 
                                     <!--<div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
                                     <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}}</div>-->
-                                 <div class="col-sm-3 col-xs-12" ng-if="dateType != 'Today'">
+                                 <div class="col-sm-3" ng-if="dateType != 'Today'">
                                         <div class="col-sm-12 col-xs-12">{{event.country}}, {{games.loc1}}</div> <div class="col-sm-12 col-xs-12"> {{games.loc2}} </div>
                                      </div>
                                 
-                                <div class="col-sm-3 col-xs-12" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> 
+                                <div class="col-sm-3" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div> 
                                     
-                                    <div class="col-sm-12 col-xs-12"> {{games.loc2}} </div> </div>
+                                    <div class="col-sm-12"> {{games.loc2}} </div> </div>
                                 
                                 <!--<div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
                                     <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>-->
                                 
                                 <div class="col-sm-2 col-xs-12" ng-if="games.isTBC === 'false'"><strong><div class="col-sm-12" ng-bind-html="games.start_time"></div> <div class="col-sm-12" ng-bind-html="games.gmtTime"></div><div class="col-sm-12" ng-bind-html="games.userLocalTime"></div></strong></div>
                                 
-                                <div class="col-sm-2 col-xs-12" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
+                                <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
                                 
                                 
-                                        <div class="col-sm-4 col-xs-12"><strong><div class="col-sm-12"> {{games.SUMMARY}}</div></strong></div>
-                                <div class="col-sm-3 col-xs-12"><div class="col-sm-12"> {{games.sport}} <br/> {{games.league}}</div></div>
+                                        <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
+									 <div class="col-sm-3">{{games.sport}} <br/> {{games.league}}</div>
 
-                                <div class="col-sm-12 col-xs-12"><hr/><br/></div>
+                                <div class="col-sm-12"><hr/><br/></div>
                             </div>
                         </div>
                    <!-- </li>-->
