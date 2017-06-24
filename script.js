@@ -245,6 +245,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     amFootballMap.set('USA','NFL.ics');
     
     
+    
+    
     var boxingMap = new Map();
     
     boxingMap.set('Sweden','UFC.ics'); 
@@ -295,7 +297,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     motorRacingMap.set('Netherlands','Moto_GP_2017.ics');
     
     
-    
+    var RugbyLeagueMap = new Map();
+    RugbyLeagueMap.set('Australia','NRL_Premiership.ics');
      
     
     var mutliCountrySportMap = new Map();    
@@ -304,6 +307,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
     mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
     mutliCountrySportMap.set('Rugby',RugbyMap);
+    mutliCountrySportMap.set('Rugby_League',RugbyLeagueMap);
     mutliCountrySportMap.set('Boxing',boxingMap);
     
     
@@ -314,6 +318,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.multiGamesList.push('Ice_Hockey');
     $scope.multiGamesList.push('Motor_Racing');
     $scope.multiGamesList.push('Rugby');
+    $scope.multiGamesList.push("Rugby_League");
     $scope.multiGamesList.push('Boxing');
     
     $scope.gmtMap = new Map();
@@ -353,6 +358,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Golf": "Golf",
         "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
+        "Rugby_League": "Rugby League",
         "Rugby": "Rugby Union",
         "Tennis": "Tennis"
     };
@@ -510,6 +516,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap.set('Ice_Hockey','Ice Hockey');
     $scope.gamesMap.set('American_Football','American Football');
     $scope.gamesMap.set('Rugby','Rugby Union');
+    $scope.gamesMap.set("Rugby_League", "Rugby League");
     
    
     
@@ -609,6 +616,10 @@ $scope.gameFileListNew =
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby",
 		value: "Premiership_Rugby.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby_League",
+		value: "Super_League.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Cricket",
