@@ -54,7 +54,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170512T100000Z
 DTSTART:20170512T100000Z
 DTEND:20170512T113000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 1 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 1 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170512T140000Z
 DTSTART:20170512T140000Z
 DTEND:20170512T153000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 2 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 2 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +72,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170513T110000Z
 DTSTART:20170513T110000Z
 DTEND:20170513T120000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 3 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 3 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170513T140000Z
 DTSTART:20170513T140000Z
 DTEND:20170513T150000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - Qualifying Session
+SUMMARY:Gran Premio De España Pirelli 2017 - Qualifying Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +90,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170514T140000Z
 DTSTART:20170514T140000Z
 DTEND:20170514T140000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - Grand Prix (66 Laps Or 120 Mins)
+SUMMARY:Gran Premio De España Pirelli 2017 - Grand Prix (66 Laps Or 120 Mins)
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170525T100000Z
 DTSTART:20170525T100000Z
 DTEND:20170525T113000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 1 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 1 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170525T140000Z
 DTSTART:20170525T140000Z
 DTEND:20170525T153000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 2 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 2 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -117,7 +117,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170527T110000Z
 DTSTART:20170527T110000Z
 DTEND:20170527T120000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 3 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 3 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170527T140000Z
 DTSTART:20170527T140000Z
 DTEND:20170527T150000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - Qualifying Session
+SUMMARY:Grand Prix De Monaco 2017 - Qualifying Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170528T140000Z
 DTSTART:20170528T140000Z
 DTEND:20170528T160000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - Grand Prix
+SUMMARY:Grand Prix De Monaco 2017 - Grand Prix
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170609T100000Z
 DTSTART:20170609T100000Z
 DTEND:20170609T123000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 1 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 1 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170609T140000Z
 DTSTART:20170609T140000Z
 DTEND:20170609T193000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 2 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 2 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -162,7 +162,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170610T100000Z
 DTSTART:20170610T100000Z
 DTEND:20170610T150000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 3 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 3 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -171,7 +171,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170610T130000Z
 DTSTART:20170610T130000Z
 DTEND:20170610T180000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - Qualifying Session
+SUMMARY:Grand Prix Du Canada 2017 - Qualifying Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170611T140000Z
 DTSTART:20170611T140000Z
 DTEND:20170611T200000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - Grand Prix
+SUMMARY:Grand Prix Du Canada 2017 - Grand Prix
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -234,7 +234,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170707T100000Z
 DTSTART:20170707T100000Z
 DTEND:20170707T113000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 1 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 1 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -243,7 +243,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170707T140000Z
 DTSTART:20170707T140000Z
 DTEND:20170707T153000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 2 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 2 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -252,7 +252,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170708T110000Z
 DTSTART:20170708T110000Z
 DTEND:20170708T130000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 3 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 3 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -261,7 +261,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170708T140000Z
 DTSTART:20170708T140000Z
 DTEND:20170708T150000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - Qualifying Session
+SUMMARY:Grosser Preis Von Österreich 2017 - Qualifying Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +270,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170709T140000Z
 DTSTART:20170709T140000Z
 DTEND:20170709T160000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - Grand Prix
+SUMMARY:Grosser Preis Von Österreich 2017 - Grand Prix
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -324,7 +324,7 @@ UID:f1cal360@formula1.com
 DTSTAMP:20170728T100000Z
 DTSTART:20170728T100000Z
 DTEND:20170728T113000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 1 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 1 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -333,7 +333,7 @@ UID:f1cal361@formula1.com
 DTSTAMP:20170728T140000Z
 DTSTART:20170728T140000Z
 DTEND:20170728T153000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 2 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 2 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +342,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170729T110000Z
 DTSTART:20170729T110000Z
 DTEND:20170729T120000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 3 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 3 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -351,7 +351,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170729T140000Z
 DTSTART:20170729T140000Z
 DTEND:20170729T150000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - Qualifying Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - Qualifying Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -360,7 +360,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170730T140000Z
 DTSTART:20170730T140000Z
 DTEND:20170730T160000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - Grand Prix
+SUMMARY:Pirelli Magyar Nagydíj 2017 - Grand Prix
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -416,7 +416,7 @@ DTSTAMP:20170901T100000Z
 OFFSETTIME:-2:00
 DTSTART:20170901T100000Z
 DTEND:20170901T113000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 1 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 1 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +426,7 @@ DTSTAMP:20170901T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170901T140000Z
 DTEND:20170901T153000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 2 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 2 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -436,7 +436,7 @@ DTSTAMP:20170902T110000Z
 OFFSETTIME:-2:00
 DTSTART:20170902T110000Z
 DTEND:20170902T120000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 3 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 3 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ DTSTAMP:20170902T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170902T140000Z
 DTEND:20170902T150000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - Qualifying Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - Qualifying Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -456,7 +456,7 @@ DTSTAMP:20170903T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170903T140000Z
 DTEND:20170903T150000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - Grand Prix
+SUMMARY:Gran Premio Heineken D'italia 2017 - Grand Prix
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -657,7 +657,7 @@ DTSTAMP:20171027T100000Z
 OFFSETTIME:+5:00
 DTSTART:20171027T100000Z
 DTEND:20171027T113000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 1 Practice Session
+SUMMARY:Gran Premio De México 2017 - 1 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -667,7 +667,7 @@ DTSTAMP:20171027T140000Z
 OFFSETTIME:+5:00
 DTSTART:20171027T140000Z
 DTEND:20171027T153000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 2 Practice Session
+SUMMARY:Gran Premio De México 2017 - 2 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -677,7 +677,7 @@ DTSTAMP:20171028T100000Z
 OFFSETTIME:+5:00
 DTSTART:20171028T100000Z
 DTEND:20171028T110000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 3 Practice Session
+SUMMARY:Gran Premio De México 2017 - 3 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -687,7 +687,7 @@ DTSTAMP:20171028T130000Z
 OFFSETTIME:+5:00
 DTSTART:20171028T130000Z
 DTEND:20171028T140000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - Qualifying Session
+SUMMARY:Gran Premio De México 2017 - Qualifying Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -697,7 +697,7 @@ DTSTAMP:20171029T130000Z
 OFFSETTIME:+5:00
 DTSTART:20171029T130000Z
 DTEND:20171029T150000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - Grand Prix
+SUMMARY:Gran Premio De México 2017 - Grand Prix
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -706,7 +706,7 @@ UID:f1cal400@formula1.com
 DTSTAMP:20171110T100000Z
 DTSTART:20171110T100000Z
 DTEND:20171110T113000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 1 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 1 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -715,7 +715,7 @@ UID:f1cal401@formula1.com
 DTSTAMP:20171110T140000Z
 DTSTART:20171110T140000Z
 DTEND:20171110T153000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 2 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 2 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -724,7 +724,7 @@ UID:f1cal402@formula1.com
 DTSTAMP:20171111T110000Z
 DTSTART:20171111T110000Z
 DTEND:20171111T120000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 3 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 3 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -733,7 +733,7 @@ UID:f1cal403@formula1.com
 DTSTAMP:20171111T140000Z
 DTSTART:20171111T140000Z
 DTEND:20171111T150000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - Qualifying Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - Qualifying Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -742,7 +742,7 @@ UID:f1cal404@formula1.com
 DTSTAMP:20171112T140000Z
 DTSTART:20171112T140000Z
 DTEND:20171112T160000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - Grand Prix
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - Grand Prix
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
