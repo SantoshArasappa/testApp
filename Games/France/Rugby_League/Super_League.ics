@@ -1,0 +1,21 @@
+BEGIN:VEVENT
+DTSTART:20170701T180000Z
+SUMMARY:Catalans Dragons v Leigh Centurions
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus, Perpignan
+UID:20170701T180000ZCatalans Dragons V Leigh Centurions
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170708T180000Z
+SUMMARY:Catalans Dragons v Wigan Warriors
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus, Perpignan
+UID:20170708T180000ZCatalans Dragons V Wigan Warriors
+END:VEVENT
+BEGIN:VEVENT
+DTSTART:20170722T180000Z
+SUMMARY:Catalans Dragons v Castleford Tigers
+DESCRIPTION:Super League
+LOCATION:Stade Gilbert Brutus, Perpignan
+UID:20170722T180000ZCatalans Dragons V Castleford Tigers
+END:VEVENT
