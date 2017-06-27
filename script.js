@@ -355,7 +355,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Boxing":"Boxing",
         "Cricket":"Cricket",
         "Football": "Football",
-        "Footy": "Footy",
+        "Footy": "Australian Rules Football",
         "Golf": "Golf",
         "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
@@ -518,9 +518,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap.set('American_Football','American Football');
     $scope.gamesMap.set('Rugby','Rugby Union');
     $scope.gamesMap.set("Rugby_League", "Rugby League");
-    
-   
-    
+    $scope.gamesMap.set('Footy','Australian Rules Football');
    
     
     
