@@ -616,7 +616,7 @@ $scope.gameFileListNew =
 		value: "Formula_1.ics"
 	},
     {
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/UFC",
 		value: "UFC.ics"
 	},
     {
