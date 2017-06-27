@@ -324,6 +324,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.multiGamesList.push('Rugby');
     $scope.multiGamesList.push("Rugby_League");
     $scope.multiGamesList.push('Boxing');
+    $scope.multiGamesList.push('UFC');
     
     $scope.gmtMap = new Map();
     
