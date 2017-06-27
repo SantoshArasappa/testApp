@@ -247,6 +247,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     
+    
     var boxingMap = new Map();
     
     boxingMap.set('Sweden','UFC.ics'); 
@@ -300,6 +301,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     var RugbyLeagueMap = new Map();
     RugbyLeagueMap.set('Australia','NRL_Premiership.ics');
      
+    var ufcMap = new Map();
+    ufcMap.set('USA','UFC.ics');
+    
     
     var mutliCountrySportMap = new Map();    
     mutliCountrySportMap.set('American_Football',amFootballMap);
@@ -309,7 +313,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     mutliCountrySportMap.set('Rugby',RugbyMap);
     mutliCountrySportMap.set('Rugby_League',RugbyLeagueMap);
     mutliCountrySportMap.set('Boxing',boxingMap);
-    
+    mutliCountrySportMap.set('UFC',ufcMap);
     
     
     $scope.multiGamesList = [];
@@ -355,13 +359,15 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Basketball":"Basketball",
         "Boxing":"Boxing",
         "Cricket":"Cricket",
+        "Cycling":"Cycling",
         "Football": "Football",
         "Golf": "Golf",
         "Ice_Hockey": "Ice Hockey",
         "Motor_Racing": "Motor Racing",
         "Rugby_League": "Rugby League",
         "Rugby": "Rugby Union",
-        "Tennis": "Tennis"
+        "Tennis": "Tennis",
+        "UFC":"UFC"
     };
     
     // Any new country List
@@ -518,7 +524,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap.set('American_Football','American Football');
     $scope.gamesMap.set('Rugby','Rugby Union');
     $scope.gamesMap.set("Rugby_League", "Rugby League");
-    
+    $scope.gamesMap.set("Footy", "Australian Rules Football");
    
     
    
@@ -546,6 +552,11 @@ $scope.gameFileListNew =
 		value: "AFL.ics"
 
 	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Rugby_League",
+		value: "NRL_State_of_Origin.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
 		value: "La_Liga.ics"
@@ -553,7 +564,7 @@ $scope.gameFileListNew =
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
-		value: "Pakistan_Tour_of_West_Indies.ics,Afghanistan_tour_of_West_Indies.ics"
+		value: "Pakistan_Tour_of_West_Indies.ics,Afghanistan_tour_of_West_Indies.ics,India_tour_of_West_Indies.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
@@ -652,6 +663,11 @@ $scope.gameFileListNew =
 		value: "Top_14.ics"
 
 	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Cycling",
+		value: "Tour_de_France.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Rugby",
 		value: "Champions_Cup.ics,Challenge_Cup.ics"
@@ -680,7 +696,11 @@ $scope.gameFileListNew =
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Rugby",
 		value: "Lions_Tour.ics"
 
-	}
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Russia/Football",
+		value: "Confederadtions_Cup.ics"
+	},
 
 
 ]; 
