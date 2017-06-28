@@ -528,8 +528,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gamesMap.set("Footy", "Australian Rules Football");
    
     
-   
-    
     
 $scope.gameFileListNew = 
 [
