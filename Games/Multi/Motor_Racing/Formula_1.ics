@@ -7,7 +7,7 @@ OFFSETTIME:+3:00
 DTSTAMP:20170428T080000Z
 DTSTART:20170428T080000Z
 DTEND:20170428T093000Z
-SUMMARY:2017 Formula 1 VTB Russian Grand Prix - 1 Practice Session
+SUMMARY:VTB Russian Grand Prix - 1 Practice Session
 LOCATION:Sochi Autodrom, Sochi, Russia
 END:VEVENT
 BEGIN:VEVENT
@@ -17,7 +17,7 @@ DTSTAMP:20170428T120000Z
 OFFSETTIME:+3:00
 DTSTART:20170428T120000Z
 DTEND:20170428T133000Z
-SUMMARY:2017 Formula 1 VTB Russian Grand Prix - 2 Practice Session
+SUMMARY:VTB Russian Grand Prix - 2 Practice Session
 LOCATION:Sochi Autodrom, Sochi, Russia
 END:VEVENT
 BEGIN:VEVENT
@@ -26,7 +26,7 @@ UID:f1cal237@formula1.com
 DTSTAMP:20170429T090000Z
 DTSTART:20170429T090000Z
 DTEND:20170429T100000Z
-SUMMARY:2017 Formula 1 VTB Russian Grand Prix - 3 Practice Session
+SUMMARY:VTB Russian Grand Prix - 3 Practice Session
 LOCATION:Sochi Autodrom, Sochi, Russia
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ DTSTAMP:20170429T120000Z
 OFFSETTIME:+3:00
 DTSTART:20170429T120000Z
 DTEND:20170429T130000Z
-SUMMARY:2017 Formula 1 VTB Russian Grand Prix - Qualifying Session
+SUMMARY:VTB Russian Grand Prix - Qualifying Session
 LOCATION:Sochi Autodrom, Sochi, Russia
 END:VEVENT
 BEGIN:VEVENT
@@ -45,7 +45,7 @@ UID:f1cal257@formula1.com
 DTSTAMP:20170430T120000Z
 DTSTART:20170430T120000Z
 DTEND:20170430T140000Z
-SUMMARY:2017 Formula 1 VTB Russian Grand Prix - Grand Prix (53 Laps Or 120 Mins)
+SUMMARY:VTB Russian Grand Prix - Grand Prix (53 Laps Or 120 Mins)
 LOCATION:Sochi Autodrom, Sochi, Russia
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +54,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170512T100000Z
 DTSTART:20170512T100000Z
 DTEND:20170512T113000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 1 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 1 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -63,7 +63,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170512T140000Z
 DTSTART:20170512T140000Z
 DTEND:20170512T153000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 2 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 2 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -72,7 +72,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170513T110000Z
 DTSTART:20170513T110000Z
 DTEND:20170513T120000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - 3 Practice Session
+SUMMARY:Gran Premio De España Pirelli 2017 - 3 Practice Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -81,7 +81,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170513T140000Z
 DTSTART:20170513T140000Z
 DTEND:20170513T150000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - Qualifying Session
+SUMMARY:Gran Premio De España Pirelli 2017 - Qualifying Session
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -90,7 +90,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170514T140000Z
 DTSTART:20170514T140000Z
 DTEND:20170514T140000Z
-SUMMARY:Formula 1 Gran Premio De España Pirelli 2017 - Grand Prix (66 Laps Or 120 Mins)
+SUMMARY:Gran Premio De España Pirelli 2017 - Grand Prix (66 Laps Or 120 Mins)
 LOCATION:Circuit de Barcelona-Catalunya, Barcelona, Spain
 END:VEVENT
 BEGIN:VEVENT
@@ -99,7 +99,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170525T100000Z
 DTSTART:20170525T100000Z
 DTEND:20170525T113000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 1 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 1 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -108,7 +108,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170525T140000Z
 DTSTART:20170525T140000Z
 DTEND:20170525T153000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 2 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 2 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -117,7 +117,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170527T110000Z
 DTSTART:20170527T110000Z
 DTEND:20170527T120000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - 3 Practice Session
+SUMMARY:Grand Prix De Monaco 2017 - 3 Practice Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -126,7 +126,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170527T140000Z
 DTSTART:20170527T140000Z
 DTEND:20170527T150000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - Qualifying Session
+SUMMARY:Grand Prix De Monaco 2017 - Qualifying Session
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -135,7 +135,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170528T140000Z
 DTSTART:20170528T140000Z
 DTEND:20170528T160000Z
-SUMMARY:Formula 1 Grand Prix De Monaco 2017 - Grand Prix
+SUMMARY:Grand Prix De Monaco 2017 - Grand Prix
 LOCATION:Circuit de Monaco, Monte Carlo, Monaco
 END:VEVENT
 BEGIN:VEVENT
@@ -144,7 +144,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170609T100000Z
 DTSTART:20170609T100000Z
 DTEND:20170609T123000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 1 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 1 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -153,7 +153,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170609T140000Z
 DTSTART:20170609T140000Z
 DTEND:20170609T193000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 2 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 2 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -162,7 +162,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170610T100000Z
 DTSTART:20170610T100000Z
 DTEND:20170610T150000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - 3 Practice Session
+SUMMARY:Grand Prix Du Canada 2017 - 3 Practice Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -171,7 +171,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170610T130000Z
 DTSTART:20170610T130000Z
 DTEND:20170610T180000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - Qualifying Session
+SUMMARY:Grand Prix Du Canada 2017 - Qualifying Session
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ OFFSETTIME:+4:00
 DTSTAMP:20170611T140000Z
 DTSTART:20170611T140000Z
 DTEND:20170611T200000Z
-SUMMARY:Formula 1 Grand Prix Du Canada 2017 - Grand Prix
+SUMMARY:Grand Prix Du Canada 2017 - Grand Prix
 LOCATION:Circuit Gilles Villeneuve, Montreal, Canada
 END:VEVENT
 BEGIN:VEVENT
@@ -189,7 +189,7 @@ OFFSETTIME:-5:00
 DTSTAMP:20170623T130000Z
 DTSTART:20170623T130000Z
 DTEND:20170623T143000Z
-SUMMARY:2017 Formula 1 Azerbaijan Grand Prix - 1 Practice Session
+SUMMARY:Azerbaijan Grand Prix - 1 Practice Session
 LOCATION:Baku City Circuit, Baku, Azerbaijan
 END:VEVENT
 BEGIN:VEVENT
@@ -198,7 +198,7 @@ OFFSETTIME:-5:00
 DTSTAMP:20170623T170000Z
 DTSTART:20170623T170000Z
 DTEND:20170623T183000Z
-SUMMARY:2017 Formula 1 Azerbaijan Grand Prix - 2 Practice Session
+SUMMARY:Azerbaijan Grand Prix - 2 Practice Session
 LOCATION:Baku City Circuit, Baku, Azerbaijan
 END:VEVENT
 BEGIN:VEVENT
@@ -207,7 +207,7 @@ OFFSETTIME:-5:00
 DTSTAMP:20170624T140000Z
 DTSTART:20170624T140000Z
 DTEND:20170624T150000Z
-SUMMARY:2017 Formula 1 Azerbaijan Grand Prix - 3 Practice Session
+SUMMARY:Azerbaijan Grand Prix - 3 Practice Session
 LOCATION:Baku City Circuit, Baku, Azerbaijan
 END:VEVENT
 BEGIN:VEVENT
@@ -216,7 +216,7 @@ OFFSETTIME:-5:00
 DTSTAMP:20170624T170000Z
 DTSTART:20170624T170000Z
 DTEND:20170624T190000Z
-SUMMARY:2017 Formula 1 Azerbaijan Grand Prix - Qualifying Session
+SUMMARY:Azerbaijan Grand Prix - Qualifying Session
 LOCATION:Baku City Circuit, Baku, Azerbaijan
 END:VEVENT
 BEGIN:VEVENT
@@ -225,7 +225,7 @@ OFFSETTIME:-5:00
 DTSTAMP:20170625T170000Z
 DTSTART:20170625T170000Z
 DTEND:20170625T190000Z
-SUMMARY:2017 Formula 1 Azerbaijan Grand Prix - Grand Prix
+SUMMARY:Azerbaijan Grand Prix - Grand Prix
 LOCATION:Baku City Circuit, Baku, Azerbaijan
 END:VEVENT
 BEGIN:VEVENT
@@ -234,7 +234,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170707T100000Z
 DTSTART:20170707T100000Z
 DTEND:20170707T113000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 1 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 1 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -243,7 +243,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170707T140000Z
 DTSTART:20170707T140000Z
 DTEND:20170707T153000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 2 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 2 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -252,7 +252,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170708T110000Z
 DTSTART:20170708T110000Z
 DTEND:20170708T130000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - 3 Practice Session
+SUMMARY:Grosser Preis Von Österreich 2017 - 3 Practice Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -261,7 +261,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170708T140000Z
 DTSTART:20170708T140000Z
 DTEND:20170708T150000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - Qualifying Session
+SUMMARY:Grosser Preis Von Österreich 2017 - Qualifying Session
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +270,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170709T140000Z
 DTSTART:20170709T140000Z
 DTEND:20170709T160000Z
-SUMMARY:Formula 1 Grosser Preis Von Österreich 2017 - Grand Prix
+SUMMARY:Grosser Preis Von Österreich 2017 - Grand Prix
 LOCATION:Red Bull Ring, Spielberg, Austria
 END:VEVENT
 BEGIN:VEVENT
@@ -279,7 +279,7 @@ OFFSETTIME:-1:00
 DTSTAMP:20170714T090000Z
 DTSTART:20170714T090000Z
 DTEND:20170714T103000Z
-SUMMARY:2017 Formula 1 Rolex British Grand Prix - 1 Practice Session
+SUMMARY:Rolex British Grand Prix - 1 Practice Session
 LOCATION:Silverstone Circuit, Northamptonshire, England
 END:VEVENT
 BEGIN:VEVENT
@@ -288,7 +288,7 @@ OFFSETTIME:-1:00
 DTSTAMP:20170714T130000Z
 DTSTART:20170714T130000Z
 DTEND:20170714T143000Z
-SUMMARY:2017 Formula 1 Rolex British Grand Prix - 2 Practice Session
+SUMMARY:Rolex British Grand Prix - 2 Practice Session
 LOCATION:Silverstone Circuit, Northamptonshire, England
 END:VEVENT
 BEGIN:VEVENT
@@ -297,7 +297,7 @@ OFFSETTIME:-1:00
 DTSTAMP:20170715T100000Z
 DTSTART:20170715T100000Z
 DTEND:20170715T110000Z
-SUMMARY:2017 Formula 1 Rolex British Grand Prix - 3 Practice Session
+SUMMARY:Rolex British Grand Prix - 3 Practice Session
 LOCATION:Silverstone Circuit, Northamptonshire, England
 END:VEVENT
 BEGIN:VEVENT
@@ -306,7 +306,7 @@ OFFSETTIME:-1:00
 DTSTAMP:20170715T130000Z
 DTSTART:20170715T130000Z
 DTEND:20170715T140000Z
-SUMMARY:2017 Formula 1 Rolex British Grand Prix - Qualifying Session
+SUMMARY:Rolex British Grand Prix - Qualifying Session
 LOCATION:Silverstone Circuit, Northamptonshire, England
 END:VEVENT
 BEGIN:VEVENT
@@ -315,7 +315,7 @@ OFFSETTIME:-1:00
 DTSTAMP:20170716T130000Z
 DTSTART:20170716T130000Z
 DTEND:20170716T150000Z
-SUMMARY:2017 Formula 1 Rolex British Grand Prix - Grand Prix
+SUMMARY:Rolex British Grand Prix - Grand Prix
 LOCATION:Silverstone Circuit, Northamptonshire, England
 END:VEVENT
 BEGIN:VEVENT
@@ -324,7 +324,7 @@ UID:f1cal360@formula1.com
 DTSTAMP:20170728T100000Z
 DTSTART:20170728T100000Z
 DTEND:20170728T113000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 1 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 1 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -333,7 +333,7 @@ UID:f1cal361@formula1.com
 DTSTAMP:20170728T140000Z
 DTSTART:20170728T140000Z
 DTEND:20170728T153000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 2 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 2 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -342,7 +342,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170729T110000Z
 DTSTART:20170729T110000Z
 DTEND:20170729T120000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - 3 Practice Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - 3 Practice Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -351,7 +351,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170729T140000Z
 DTSTART:20170729T140000Z
 DTEND:20170729T150000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - Qualifying Session
+SUMMARY:Pirelli Magyar Nagydíj 2017 - Qualifying Session
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -360,7 +360,7 @@ OFFSETTIME:-2:00
 DTSTAMP:20170730T140000Z
 DTSTART:20170730T140000Z
 DTEND:20170730T160000Z
-SUMMARY:Formula 1 Pirelli Magyar Nagydíj 2017 - Grand Prix
+SUMMARY:Pirelli Magyar Nagydíj 2017 - Grand Prix
 LOCATION:Hungaroring, Mogyoród, Hungary
 END:VEVENT
 BEGIN:VEVENT
@@ -369,7 +369,7 @@ UID:f1cal365@formula1.com
 DTSTAMP:20170825T100000Z
 DTSTART:20170825T100000Z
 DTEND:20170825T113000Z
-SUMMARY:2017 Formula 1 Pirelli Belgian Grand Prix - 1 Practice Session
+SUMMARY:Pirelli Belgian Grand Prix - 1 Practice Session
 LOCATION:Circuit de Spa-Francorchamps, Stavelot, Belgium
 END:VEVENT
 BEGIN:VEVENT
@@ -378,7 +378,7 @@ UID:f1cal366@formula1.com
 DTSTAMP:20170825T140000Z
 DTSTART:20170825T140000Z
 DTEND:20170825T153000Z
-SUMMARY:2017 Formula 1 Pirelli Belgian Grand Prix - 2 Practice Session
+SUMMARY:Pirelli Belgian Grand Prix - 2 Practice Session
 LOCATION:Circuit de Spa-Francorchamps, Stavelot, Belgium
 END:VEVENT
 BEGIN:VEVENT
@@ -387,7 +387,7 @@ UID:f1cal367@formula1.com
 DTSTAMP:20170826T110000Z
 DTSTART:20170826T110000Z
 DTEND:20170826T120000Z
-SUMMARY:2017 Formula 1 Pirelli Belgian Grand Prix - 3 Practice Session
+SUMMARY:Pirelli Belgian Grand Prix - 3 Practice Session
 LOCATION:Circuit de Spa-Francorchamps, Stavelot, Belgium
 END:VEVENT
 BEGIN:VEVENT
@@ -396,7 +396,7 @@ UID:f1cal368@formula1.com
 DTSTAMP:20170826T140000Z
 DTSTART:20170826T140000Z
 DTEND:20170826T150000Z
-SUMMARY:2017 Formula 1 Pirelli Belgian Grand Prix - Qualifying Session
+SUMMARY:Pirelli Belgian Grand Prix - Qualifying Session
 LOCATION:Circuit de Spa-Francorchamps, Stavelot, Belgium
 END:VEVENT
 BEGIN:VEVENT
@@ -406,7 +406,7 @@ DTSTAMP:20170827T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170827T140000Z
 DTEND:20170827T150000Z
-SUMMARY:2017 Formula 1 Pirelli Belgian Grand Prix - Grand Prix
+SUMMARY:Pirelli Belgian Grand Prix - Grand Prix
 LOCATION:Circuit de Spa-Francorchamps, Stavelot, Belgium
 END:VEVENT
 BEGIN:VEVENT
@@ -416,7 +416,7 @@ DTSTAMP:20170901T100000Z
 OFFSETTIME:-2:00
 DTSTART:20170901T100000Z
 DTEND:20170901T113000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 1 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 1 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +426,7 @@ DTSTAMP:20170901T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170901T140000Z
 DTEND:20170901T153000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 2 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 2 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -436,7 +436,7 @@ DTSTAMP:20170902T110000Z
 OFFSETTIME:-2:00
 DTSTART:20170902T110000Z
 DTEND:20170902T120000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - 3 Practice Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - 3 Practice Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -446,7 +446,7 @@ DTSTAMP:20170902T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170902T140000Z
 DTEND:20170902T150000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - Qualifying Session
+SUMMARY:Gran Premio Heineken D'italia 2017 - Qualifying Session
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -456,7 +456,7 @@ DTSTAMP:20170903T140000Z
 OFFSETTIME:-2:00
 DTSTART:20170903T140000Z
 DTEND:20170903T150000Z
-SUMMARY:Formula 1 Gran Premio Heineken D'italia 2017 - Grand Prix
+SUMMARY:Gran Premio Heineken D'italia 2017 - Grand Prix
 LOCATION:Autodromo Nazionale Monza, Milan, Italy
 END:VEVENT
 BEGIN:VEVENT
@@ -465,7 +465,7 @@ DTSTAMP:20170915T180000Z
 OFFSETTIME:+4:00
 DTSTART:20170915T180000Z
 DTEND:20170915T193000Z
-SUMMARY:2017 Formula 1 Singapore Airlines Singapore Grand Prix - 1 Practice Session
+SUMMARY:Singapore Airlines Singapore Grand Prix - 1 Practice Session
 LOCATION:Marina Bay Street Circuit , Marina Bay, Singapore
 END:VEVENT
 BEGIN:VEVENT
@@ -475,7 +475,7 @@ DTSTAMP:20170915T213000Z
 OFFSETTIME:+4:00
 DTSTART:20170915T213000Z
 DTEND:20170915T230000Z
-SUMMARY:2017 Formula 1 Singapore Airlines Singapore Grand Prix - 2 Practice Session
+SUMMARY:Singapore Airlines Singapore Grand Prix - 2 Practice Session
 LOCATION:Marina Bay Street Circuit , Marina Bay, Singapore
 END:VEVENT
 BEGIN:VEVENT
@@ -484,7 +484,7 @@ UID:f1cal377@formula1.com
 DTSTAMP:20170916T180000Z
 DTSTART:20170916T180000Z
 DTEND:20170916T190000Z
-SUMMARY:2017 Formula 1 Singapore Airlines Singapore Grand Prix - 3 Practice Session
+SUMMARY:Singapore Airlines Singapore Grand Prix - 3 Practice Session
 LOCATION:Marina Bay Street Circuit , Marina Bay, Singapore
 END:VEVENT
 BEGIN:VEVENT
@@ -494,7 +494,7 @@ DTSTAMP:20170916T210000Z
 OFFSETTIME:+4:00
 DTSTART:20170916T210000Z
 DTEND:20170916T220000Z
-SUMMARY:2017 Formula 1 Singapore Airlines Singapore Grand Prix - Qualifying Session
+SUMMARY:Singapore Airlines Singapore Grand Prix - Qualifying Session
 LOCATION:Marina Bay Street Circuit , Marina Bay, Singapore
 END:VEVENT
 BEGIN:VEVENT
@@ -504,7 +504,7 @@ DTSTAMP:20170917T200000Z
 OFFSETTIME:+4:00
 DTSTART:20170917T220000Z
 DTEND:20170917T140000Z
-SUMMARY:2017 Formula 1 Singapore Airlines Singapore Grand Prix - Grand Prix
+SUMMARY:Singapore Airlines Singapore Grand Prix - Grand Prix
 LOCATION:Marina Bay Street Circuit , Marina Bay, Singapore
 END:VEVENT
 BEGIN:VEVENT
@@ -514,7 +514,7 @@ DTSTAMP:20170929T110000Z
 OFFSETTIME:+4:00
 DTSTART:20170929T110000Z
 DTEND:20170929T123000Z
-SUMMARY:2017 Formula 1 Petronas Malaysia Grand Prix - 1 Practice Session
+SUMMARY:Petronas Malaysia Grand Prix - 1 Practice Session
 LOCATION:Sepang International Circuit, Selangor, Malaysia
 END:VEVENT
 BEGIN:VEVENT
@@ -524,7 +524,7 @@ DTSTAMP:20170929T150000Z
 OFFSETTIME:+4:00
 DTSTART:20170929T150000Z
 DTEND:20170929T163000Z
-SUMMARY:2017 Formula 1 Petronas Malaysia Grand Prix - 2 Practice Session
+SUMMARY:Petronas Malaysia Grand Prix - 2 Practice Session
 LOCATION:Sepang International Circuit, Selangor, Malaysia
 END:VEVENT
 BEGIN:VEVENT
@@ -534,7 +534,7 @@ DTSTAMP:20170930T140000Z
 OFFSETTIME:+4:00
 DTSTART:20170930T140000Z
 DTEND:20170930T150000Z
-SUMMARY:2017 Formula 1 Petronas Malaysia Grand Prix - 3 Practice Session
+SUMMARY:Petronas Malaysia Grand Prix - 3 Practice Session
 LOCATION:Sepang International Circuit, Selangor, Malaysia
 END:VEVENT
 BEGIN:VEVENT
@@ -544,7 +544,7 @@ DTSTAMP:20170930T170000Z
 OFFSETTIME:+4:00
 DTSTART:20170930T170000Z
 DTEND:20170930T180000Z
-SUMMARY:2017 Formula 1 Petronas Malaysia Grand Prix - Qualifying Session
+SUMMARY:Petronas Malaysia Grand Prix - Qualifying Session
 LOCATION:Sepang International Circuit, Selangor, Malaysia
 END:VEVENT
 BEGIN:VEVENT
@@ -554,7 +554,7 @@ DTSTAMP:20171001T150000Z
 OFFSETTIME:+4:00
 DTSTART:20171001T150000Z
 DTEND:20171001T170000Z
-SUMMARY:2017 Formula 1 Petronas Malaysia Grand Prix - Grand Prix
+SUMMARY:Petronas Malaysia Grand Prix - Grand Prix
 LOCATION:Sepang International Circuit, Selangor, Malaysia
 END:VEVENT
 BEGIN:VEVENT
@@ -563,7 +563,7 @@ OFFSETTIME:+15:00
 DTSTAMP:20171006T100000Z
 DTSTART:20171006T100000Z
 DTEND:20171006T113000Z
-SUMMARY:2017 Formula 1 Japanese Grand Prix - 1 Practice Session
+SUMMARY:Japanese Grand Prix - 1 Practice Session
 LOCATION:Suzuka International Racing Course, Mie Prefecture, Japan
 END:VEVENT
 BEGIN:VEVENT
@@ -572,7 +572,7 @@ UID:f1cal386@formula1.com
 DTSTAMP:20171006T140000Z
 DTSTART:20171006T140000Z
 DTEND:20171006T153000Z
-SUMMARY:2017 Formula 1 Japanese Grand Prix - 2 Practice Session
+SUMMARY:Japanese Grand Prix - 2 Practice Session
 LOCATION:Suzuka International Racing Course, Mie Prefecture, Japan
 END:VEVENT
 BEGIN:VEVENT
@@ -582,7 +582,7 @@ DTSTAMP:20171007T120000Z
 OFFSETTIME:+15:00
 DTSTART:20171007T120000Z
 DTEND:20171007T130000Z
-SUMMARY:2017 Formula 1 Japanese Grand Prix - 3 Practice Session
+SUMMARY:Japanese Grand Prix - 3 Practice Session
 LOCATION:Suzuka International Racing Course, Mie Prefecture, Japan
 END:VEVENT
 BEGIN:VEVENT
@@ -591,7 +591,7 @@ UID:f1cal388@formula1.com
 DTSTAMP:20171007T150000Z
 DTSTART:20171007T150000Z
 DTEND:20171007T160000Z
-SUMMARY:2017 Formula 1 Japanese Grand Prix - Qualifying Session
+SUMMARY:Japanese Grand Prix - Qualifying Session
 LOCATION:Suzuka International Racing Course, Mie Prefecture, Japan
 END:VEVENT
 BEGIN:VEVENT
@@ -600,7 +600,7 @@ OFFSETTIME:+15:00
 DTSTAMP:20171008T140000Z
 DTSTART:20171008T140000Z
 DTEND:20171008T160000Z
-SUMMARY:2017 Formula 1 Japanese Grand Prix - Grand Prix
+SUMMARY:Japanese Grand Prix - Grand Prix
 LOCATION:Suzuka International Racing Course, Mie Prefecture, Japan
 END:VEVENT
 BEGIN:VEVENT
@@ -609,7 +609,7 @@ UID:f1cal390@formula1.com
 DTSTAMP:20171020T100000Z
 DTSTART:20171020T100000Z
 DTEND:20171020T113000Z
-SUMMARY:2017 Formula 1 United States Grand Prix - 1 Practice Session
+SUMMARY:United States Grand Prix - 1 Practice Session
 LOCATION:Circuit of The Americas, Austin, USA
 END:VEVENT
 BEGIN:VEVENT
@@ -618,7 +618,7 @@ UID:f1cal391@formula1.com
 DTSTAMP:20171020T140000Z
 DTSTART:20171020T140000Z
 DTEND:20171020T153000Z
-SUMMARY:2017 Formula 1 United States Grand Prix - 2 Practice Session
+SUMMARY:United States Grand Prix - 2 Practice Session
 LOCATION:Circuit of The Americas, Austin, USA
 END:VEVENT
 BEGIN:VEVENT
@@ -627,7 +627,7 @@ UID:f1cal392@formula1.com
 DTSTAMP:20171021T110000Z
 DTSTART:20171021T110000Z
 DTEND:20171021T120000Z
-SUMMARY:2017 Formula 1 United States Grand Prix - 3 Practice Session
+SUMMARY:United States Grand Prix - 3 Practice Session
 LOCATION:Circuit of The Americas, Austin, USA
 END:VEVENT
 BEGIN:VEVENT
@@ -637,7 +637,7 @@ DTSTAMP:20171021T140000Z
 OFFSETTIME:+5:00
 DTSTART:20171021T140000Z
 DTEND:20171021T150000Z
-SUMMARY:2017 Formula 1 United States Grand Prix - Qualifying Session
+SUMMARY:United States Grand Prix - Qualifying Session
 LOCATION:Circuit of The Americas, Austin, USA
 END:VEVENT
 BEGIN:VEVENT
@@ -647,7 +647,7 @@ DTSTAMP:20171022T140000Z
 OFFSETTIME:+5:00
 DTSTART:20171022T140000Z
 DTEND:20171022T160000Z
-SUMMARY:2017 Formula 1 United States Grand Prix - Grand Prix
+SUMMARY:United States Grand Prix - Grand Prix
 LOCATION:Circuit of The Americas, Austin, USA
 END:VEVENT
 BEGIN:VEVENT
@@ -657,7 +657,7 @@ DTSTAMP:20171027T100000Z
 OFFSETTIME:+5:00
 DTSTART:20171027T100000Z
 DTEND:20171027T113000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 1 Practice Session
+SUMMARY:Gran Premio De México 2017 - 1 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -667,7 +667,7 @@ DTSTAMP:20171027T140000Z
 OFFSETTIME:+5:00
 DTSTART:20171027T140000Z
 DTEND:20171027T153000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 2 Practice Session
+SUMMARY:Gran Premio De México 2017 - 2 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -677,7 +677,7 @@ DTSTAMP:20171028T100000Z
 OFFSETTIME:+5:00
 DTSTART:20171028T100000Z
 DTEND:20171028T110000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - 3 Practice Session
+SUMMARY:Gran Premio De México 2017 - 3 Practice Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -687,7 +687,7 @@ DTSTAMP:20171028T130000Z
 OFFSETTIME:+5:00
 DTSTART:20171028T130000Z
 DTEND:20171028T140000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - Qualifying Session
+SUMMARY:Gran Premio De México 2017 - Qualifying Session
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -697,7 +697,7 @@ DTSTAMP:20171029T130000Z
 OFFSETTIME:+5:00
 DTSTART:20171029T130000Z
 DTEND:20171029T150000Z
-SUMMARY:Formula 1 Gran Premio De México 2017 - Grand Prix
+SUMMARY:Gran Premio De México 2017 - Grand Prix
 LOCATION:Autódromo Hermanos Rodríguez, Mexico City, Mexico
 END:VEVENT
 BEGIN:VEVENT
@@ -706,7 +706,7 @@ UID:f1cal400@formula1.com
 DTSTAMP:20171110T100000Z
 DTSTART:20171110T100000Z
 DTEND:20171110T113000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 1 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 1 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -715,7 +715,7 @@ UID:f1cal401@formula1.com
 DTSTAMP:20171110T140000Z
 DTSTART:20171110T140000Z
 DTEND:20171110T153000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 2 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 2 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -724,7 +724,7 @@ UID:f1cal402@formula1.com
 DTSTAMP:20171111T110000Z
 DTSTART:20171111T110000Z
 DTEND:20171111T120000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - 3 Practice Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - 3 Practice Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -733,7 +733,7 @@ UID:f1cal403@formula1.com
 DTSTAMP:20171111T140000Z
 DTSTART:20171111T140000Z
 DTEND:20171111T150000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - Qualifying Session
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - Qualifying Session
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -742,7 +742,7 @@ UID:f1cal404@formula1.com
 DTSTAMP:20171112T140000Z
 DTSTART:20171112T140000Z
 DTEND:20171112T160000Z
-SUMMARY:Formula 1 Grande Prêmio Heineken Do Brasil 2017 - Grand Prix
+SUMMARY:Grande Prêmio Heineken Do Brasil 2017 - Grand Prix
 LOCATION:Autódromo José Carlos Pace, São Paulo, Brazil
 END:VEVENT
 BEGIN:VEVENT
@@ -751,7 +751,7 @@ UID:f1cal405@formula1.com
 DTSTAMP:20171124T130000Z
 DTSTART:20171124T130000Z
 DTEND:20171124T143000Z
-SUMMARY:2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix - 1 Practice Session
+SUMMARY:Etihad Airways Abu Dhabi Grand Prix - 1 Practice Session
 LOCATION:Yas Island, Abu Dhabi, UAE
 END:VEVENT
 BEGIN:VEVENT
@@ -760,7 +760,7 @@ UID:f1cal406@formula1.com
 DTSTAMP:20171124T170000Z
 DTSTART:20171124T170000Z
 DTEND:20171124T183000Z
-SUMMARY:2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix - 2 Practice Session
+SUMMARY:Etihad Airways Abu Dhabi Grand Prix - 2 Practice Session
 LOCATION:Yas Island, Abu Dhabi, UAE
 END:VEVENT
 BEGIN:VEVENT
@@ -769,7 +769,7 @@ UID:f1cal407@formula1.com
 DTSTAMP:20171125T140000Z
 DTSTART:20171125T140000Z
 DTEND:20171125T150000Z
-SUMMARY:2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix - 3 Practice Session
+SUMMARY:Etihad Airways Abu Dhabi Grand Prix - 3 Practice Session
 LOCATION:Yas Island, Abu Dhabi, UAE
 END:VEVENT
 BEGIN:VEVENT
@@ -778,7 +778,7 @@ DTSTAMP:20171125T170000Z
 OFFSETTIME:-4:00
 DTSTART:20171125T170000Z
 DTEND:20171125T180000Z
-SUMMARY:2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix - Qualifying Session
+SUMMARY:Etihad Airways Abu Dhabi Grand Prix - Qualifying Session
 LOCATION:Yas Island, Abu Dhabi, UAE
 END:VEVENT
 BEGIN:VEVENT
@@ -787,7 +787,7 @@ UID:f1cal409@formula1.com
 DTSTAMP:20171126T170000Z
 DTSTART:20171126T170000Z
 DTEND:20171126T190000Z
-SUMMARY:2017 Formula 1 Etihad Airways Abu Dhabi Grand Prix - Grand Prix
+SUMMARY:Etihad Airways Abu Dhabi Grand Prix - Grand Prix
 LOCATION:Yas Island, Abu Dhabi, UAE
 END:VEVENT
 END:VCALENDAR
