@@ -2194,8 +2194,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 
                                                 var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valueList[i];
                                                    // FileReadMap.push(multiFileLocaiton);
-                                                    var valueIs = dateInLoop + ":" +country;
-                                               FileReadMap.set(multiFileLocaiton,valueIs);
+                                                    if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                                        var valueIs = dateInLoop + ":" +country;
+                                                        FileReadMap.set(multiFileLocaiton,valueIs);
+                                                    }
                                                /* ical_parser(multiFileLocaiton, function(cal){
                                                     this.events = cal.events;
                                                     var eventsResults = cal.events;
@@ -2257,8 +2259,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                            var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valuesList[j];
                                        
                                            var dateFirstLoop = true;
-                                               var valueIs = dateInLoop + ":" +country;
-                                               FileReadMap.set(multiFileLocaiton,valueIs);
+                                               if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                                        var valueIs = dateInLoop + ":" +country;
+                                                        FileReadMap.set(multiFileLocaiton,valueIs);
+                                                    }
+                                               /*var valueIs = dateInLoop + ":" +country;
+                                               FileReadMap.set(multiFileLocaiton,valueIs);*/
                                          /*   ical_parser(multiFileLocaiton, function(cal){
                                                 this.events = cal.events;
                                                 var eventsResults = cal.events;
@@ -2332,8 +2338,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                        var fileLocation = folders.url + "/" + file;
                            //FileReadMap.push(fileLocation);
                            
-                           var valueIs = dateInLoop + ":" +country;
-                            FileReadMap.set(fileLocation,valueIs);
+                           if(!FileUrlReadMap.get(FileReadMap)){
+                                var valueIs = dateInLoop + ":" +country;
+                                FileReadMap.set(fileLocation,valueIs);
+                            }
+                            /*var valueIs = dateInLoop + ":" +country;
+                            FileReadMap.set(fileLocation,valueIs);*/
                       /*  ical_parser(fileLocation, function(cal){
                             this.events = cal.events;
                             $scope.eventsResults = cal.events;
@@ -2443,7 +2453,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                     
        }
        
-            setTimeout(function () {
+            /*setTimeout(function () {
                     $scope.$apply(function () {
                         $scope.message = "Timeout called!";
                         $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
@@ -2451,16 +2461,23 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         $scope.isLoading = false;
                         
                     });
-                }, 2000); 
+                }, 2000); */
            
    }
        
        
        var FileUrlReadMap = new Map(); 
        var isStillReading = false;
+       var mapSize = FileReadMap.size;
+       var numberFileRead = 0;
+       
+       
+       
        FileReadMap.forEach(function (value, key){
-           
+           console.log("Url reading" +  key);
+           var dateInLoop = value.split(":")[0];
            ical_parser(key, function(cal){
+                            numberFileRead = numberFileRead + 1;
                             this.events = cal.events;
                             $scope.eventsResults = cal.events;
                             $scope.places = [];
@@ -2471,6 +2488,18 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            
            
        });
+       
+       
+       while (numberFileRead < mapSize) {
+           
+           setTimeout(function () {
+                    $scope.$apply(function () {
+                        console.log("still reading files");
+                        
+                    });
+                }, 2000); 
+            
+        }
        
        
    }
