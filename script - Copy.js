@@ -35,7 +35,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   this.activeDate2 = null;
   $scope.showEvents = false;  
   $scope.isLoading = false;    
-  $scope.selectedDates = new Date();
+  $scope.selectedDates = undefined;
   $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
@@ -49,8 +49,16 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   var parentFolder = '/Games';
   $scope.show2pickers = false;
  // $scope.countries = [];
-  $scope.games = [];
+ // $scope.games = [];
+  $scope.dateTypesMap = [];
+  $scope.datesList = [];    
+  
   $scope.isError = false;  
+  
+  $scope.selectedLoc = 'Country' ;
+  
+  $scope.selectedGame = 'Sport';
+    
     
   /*$scope.countries.push('Australia');    
   $scope.countries.push('Bangladesh');    
@@ -81,8 +89,15 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.games.push('Boxing'); 
   $scope.games.push('Bike'); */
     
-  $scope.games.push('Cricket');     
-  $scope.games.push('Football');   
+    
+       
+  
+    
+  
+    
+
+      
+    
     
     /*$scope.countries = {
     "Australia": "Australia",
@@ -110,13 +125,26 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
 };*/
     
-    $scope.countries = {
+   
+    
+  /*  $scope.countries = {
+    "Country":"Country",    
     "England": "England",
     "India": "India",
+    "Italy": "Italy",    
     "Spain": "Spain",
+    "Wales": "Wales",
     "West_Indies": "West Indies"
-};
+};*/
     
+    $scope.datesList = {
+    "Day/Dates":"Day/Dates",    
+    "Today": "Today",
+    "week": "One Week",
+    "TwoWeeks": "Two Weeks",    
+    "Custom": "Date Range"
+};
+
     
     /*var countriesMap = new Map();    
      countriesMap.set('Australia','Australia');
@@ -138,13 +166,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countriesMap.set('Italy','Italy');*/
     
     
-    var countriesMap = new Map();    
-     countriesMap.set('England','England');
-     countriesMap.set('India','India');
-     countriesMap.set('West_Indies','West Indies');
-     countriesMap.set('Spain','Spain');
-     
     
+     
     
     /*$scope.games = {
     "Cricket": "Cricket",
@@ -165,7 +188,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
 };*/
+    // $scope.multiGamesList.push('Football'); 
     
+  /*$scope.multiGamesList.push('Bike'); 
+    $scope.multiGamesList.push('Rugby'); */
     
   var countryMap = new Map();    
      countryMap.set('Qatar','MotoGP.ics');
@@ -183,31 +209,117 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      countryMap.set('Australia','MotoGP.ics');
      countryMap.set('Malaysia','MotoGP.ics');
      countryMap.set('Valencia','MotoGP.ics');
-     countryMap.set('default','MotoGP.ics');
+   //  countryMap.set('default','MotoGP.ics');
     
     
      var RugbyMap = new Map();
+    // RugbyMap.set('Wales','Pro12.ics');
+     RugbyMap.set('Ireland','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('England','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Scotland','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Italy','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('Wales','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('France','Pro12.ics,Six_Nations_Championship.ics');
+   //  RugbyMap.set('default','Pro12.ics');
     
-     RugbyMap.set('Ireland','Pro12.ics');
-     RugbyMap.set('England','Pro12.ics');
-     RugbyMap.set('Wales','Pro12.ics');
-     RugbyMap.set('Scotland','Pro12.ics');
-     RugbyMap.set('Italy','Pro12.ics');
-     RugbyMap.set('default','Pro12.ics');
-    
+     RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('New_Zealand','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('Singapore','Super_Rugby.ics');
+     RugbyMap.set('Japan','Super_Rugby.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
+     RugbyMap.set('Fiji','Super_Rugby.ics');
+     RugbyMap.set('Samoa','Super_Rugby.ics');
+     RugbyMap.set('France','Rugby_Union_Top_14.ics');
     
      var engFootballMap = new Map();
     
-     engFootballMap.set('England','English_Premier_League.ics');
-     engFootballMap.set('Wales','English_Premier_League.ics');
+    //engFootballMap.set('default','English_Premier_League.ics'); 
+    engFootballMap.set('England','English_Premier_League.ics');
+    engFootballMap.set('Wales','English_Premier_League.ics,UEFA_Champions_League_Final.ics');
+    engFootballMap.set('Sweden','UEFA_Champions_League_Final.ics');
+    //engFootballMap.set('USA','NFL.ics');
+    
+    var amFootballMap = new Map();
+    amFootballMap.set('England','NFL.ics');
+    amFootballMap.set('USA','NFL.ics');
+    
+    
+    
+    
+    var boxingMap = new Map();
+    
+    boxingMap.set('Sweden','UFC.ics'); 
+    boxingMap.set('Brazil','UFC.ics');
+    boxingMap.set('New_Zealand','UFC.ics');
+    boxingMap.set('Singapore','UFC.ics');
+    boxingMap.set('USA','UFC.ics'); 
+    boxingMap.set('Mexico','UFC.ics');
+    boxingMap.set('Netherlands','UFC.ics');
+    boxingMap.set('Canada','UFC.ics');
+    boxingMap.set('Japan','UFC.ics'); 
+    boxingMap.set('Poland','UFC.ics');
+    boxingMap.set('Scotland','UFC.ics');
+    
+    
+    
+    
+    var USAIceHockeyMap = new Map();
+    
+  //  USAIceHockeyMap.set('USA','NHL_Playoffs.ics');
+  //  USAIceHockeyMap.set('Canada','NHL_Playoffs.ics');
+    
+    var motorRacingMap = new Map();
+    
+    motorRacingMap.set('Russia','Formula_1.ics');
+    motorRacingMap.set('Spain','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('Monaco','Formula_1.ics');
+    motorRacingMap.set('Canada','Formula_1.ics');
+    motorRacingMap.set('USA','Formula_1.ics');
+    motorRacingMap.set('Azerbaijan','Formula_1.ics');
+    motorRacingMap.set('Austria','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('England','Formula_1.ics');
+    motorRacingMap.set('Hungary','Formula_1.ics');
+    motorRacingMap.set('Belgium','Formula_1.ics');
+    motorRacingMap.set('Italy','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('Singapore','Formula_1.ics');
+    motorRacingMap.set('Malaysia','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('Japan','Formula_1.ics,Moto_GP_2017.ics');
+    motorRacingMap.set('USA','Formula_1.ics');
+    motorRacingMap.set('Mexico','Formula_1.ics');
+    motorRacingMap.set('Brazil','Formula_1.ics');
+    motorRacingMap.set('UAE','Formula_1.ics');
+    
+    motorRacingMap.set('Australia','Moto_GP_2017.ics');
+    motorRacingMap.set('Czech_Republic','Moto_GP_2017.ics');
+    motorRacingMap.set('Germany','Moto_GP_2017.ics');
+    motorRacingMap.set('Great Britain','Moto_GP_2017.ics');
+    motorRacingMap.set('Netherlands','Moto_GP_2017.ics');
+    
+    
+    var RugbyLeagueMap = new Map();
+    RugbyLeagueMap.set('Australia','NRL_Premiership.ics');
      
     
     var mutliCountrySportMap = new Map();    
-   // mutliCountrySportMap.set('Bike',countryMap);
+    mutliCountrySportMap.set('American_Football',amFootballMap);
     mutliCountrySportMap.set('Football',engFootballMap);
-   // mutliCountrySportMap.set('Rugby',RugbyMap);
+    mutliCountrySportMap.set('Ice_Hockey',USAIceHockeyMap);
+    mutliCountrySportMap.set('Motor_Racing',motorRacingMap);
+    mutliCountrySportMap.set('Rugby',RugbyMap);
+    mutliCountrySportMap.set('Rugby_League',RugbyLeagueMap);
+    mutliCountrySportMap.set('Boxing',boxingMap);
+    
+    
     
     $scope.multiGamesList = [];
+    $scope.multiGamesList.push("American_Football");
+    $scope.multiGamesList.push('Football'); 
+    $scope.multiGamesList.push('Ice_Hockey');
+    $scope.multiGamesList.push('Motor_Racing');
+    $scope.multiGamesList.push('Rugby');
+    $scope.multiGamesList.push("Rugby_League");
+    $scope.multiGamesList.push('Boxing');
     
     $scope.gmtMap = new Map();
     
@@ -215,137 +327,199 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Spain','GMT +02:00');
     $scope.gmtMap.set('West_Indies','GMT -05:00');*/
     
+    
+    //Russia
+    //Spain
+  
+    
+    
+    
+    // Changes for any new files start
+    
+    //Any new sport type added
+  /*  $scope.games.push('');
+    $scope.games.push('Car_Racing');
+    $scope.games.push('');     
+    $scope.games.push('');
+    $scope.games.push('');
+  //  $scope.games.push('Ice_Hockey');
+    $scope.games.push('');
+    $scope.games.push('');
+    $scope.games.push('');*/
+    
+    $scope.games = {
+        "Sport":"Sport",
+        "American_Football":"American Football",
+        "Baseball":"Baseball",
+        "Basketball":"Basketball",
+        "Boxing":"Boxing",
+        "Cricket":"Cricket",
+        "Football": "Football",
+        "Footy": "Australian Rules Football",
+        "Golf": "Golf",
+        "Ice_Hockey": "Ice Hockey",
+        "Motor_Racing": "Motor Racing",
+        "Rugby_League": "Rugby League",
+        "Rugby": "Rugby Union",
+        "Tennis": "Tennis"
+    };
+    
+    // Any new country List
+    
+   
+    
+    $scope.countries = {
+        "Country":"Country",
+        "Argentina":"Argentina",
+        "Azerbaijan":"Azerbaijan",
+        "Australia": "Australia",
+        "Austria": "Austria",
+        "Belgium": "Belgium",
+        "Brazil": "Brazil",
+        "Canada":"Canada",
+        "England": "England",
+        "Fiji": "Fiji",
+        "France": "France",
+        "Hungary": "Hungary",
+        "India": "India",
+        "Ireland": "Ireland", 
+        "Italy": "Italy",
+        "Japan": "Japan",
+        "Malaysia": "Malaysia",
+        "Mexico": "Mexico",
+        "Monaco": "Monaco",
+        "Poland": "Poland",
+        "Netherlands": "Netherlands",
+        "New_Zealand":"New Zealand",
+        "Russia":"Russia",
+        "Scotland": "Scotland",
+        "Singapore": "Singapore",
+        "South_Africa": "South Africa",
+        "Samoa": "Samoa", 
+        "Spain": "Spain",
+        "Sweden": "Sweden",
+        "Wales": "Wales",
+        "West_Indies": "West Indies",
+        "UAE": "UAE", 
+        "USA": "USA"
+    };
+    
+    //Any country added we need to add here to map _ country into space country name
+    var countriesMap = new Map();   
+     /*countriesMap.set('Canada','Canada');
+     countriesMap.set('England','England');
+     countriesMap.set('India','India');
+     countriesMap.set('Italy', 'Italy');
+     countriesMap.set('Wales','Wales');
+     countriesMap.set('West_Indies','West Indies');
+     countriesMap.set('Spain','Spain');
+     countriesMap.set('France','France');
+    countriesMap.set("Georgia","Georgia");
+    countriesMap.set("USA","USA");
+    countriesMap.set("New_Zealand","New Zealand");
+    countriesMap.set("Scotland","Scotland");
+    countriesMap.set('Russia','Russia');
+     countriesMap.set('Monaco', 'Monaco');
+     countriesMap.set('Azerbaijan','Azerbaijan');
+     countriesMap.set('Austria','Austria');
+     countriesMap.set('Hungary','Hungary');
+     countriesMap.set('Belgium','Belgium');
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Malaysia","Malaysia");
+    countriesMap.set("Japan","Japan");
+    countriesMap.set("Mexico","Mexico");
+    countriesMap.set("Brazil","Brazil");
+    countriesMap.set("UAE","UAE");
+    countriesMap.set("South_Africa","South Africa");
+    
+    countriesMap.set("Scotland","Scotland");
+    
+    countriesMap.set("Ireland","Ireland");
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Japan","Japan");    
+    countriesMap.set("Argentina","Argentina");
+    countriesMap.set("Fiji","Fiji");
+    countriesMap.set("Samoa","Samoa");*/
+    
+    countriesMap.set('Canada','Canada');
+    countriesMap.set('England','England');
+    countriesMap.set('India','India');
+    countriesMap.set('Italy', 'Italy');
+    countriesMap.set('Wales','Wales');
+    countriesMap.set('West_Indies','West Indies');
+    countriesMap.set('Spain','Spain');
+    countriesMap.set('France','France');
+    countriesMap.set("Georgia","Georgia");
+    countriesMap.set("USA","USA");
+    countriesMap.set("New_Zealand","New Zealand");
+    countriesMap.set("Scotland","Scotland");
+    countriesMap.set('Russia','Russia');
+    countriesMap.set('Monaco', 'Monaco');
+    countriesMap.set('Azerbaijan','Azerbaijan');
+    countriesMap.set('Austria','Austria');
+    countriesMap.set('Hungary','Hungary');
+    countriesMap.set('Belgium','Belgium');
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Malaysia","Malaysia");
+    countriesMap.set("Japan","Japan");
+    countriesMap.set("Mexico","Mexico");
+    countriesMap.set("Brazil","Brazil");
+    countriesMap.set("UAE","UAE");
+    countriesMap.set("South_Africa","South Africa");
+	countriesMap.set("Scotland","Scotland");
+    countriesMap.set("Ireland","Ireland");
+    countriesMap.set("Singapore","Singapore");
+    countriesMap.set("Japan","Japan");    
+    countriesMap.set("Argentina","Argentina");
+    countriesMap.set("Fiji","Fiji");
+    countriesMap.set("Samoa","Samoa");
+	
+	countriesMap.set("Sweden","Sweden");
+	countriesMap.set('Netherlands','Netherlands');
+    countriesMap.set("Poland","Poland");
+    
+    
+    
+    
+    //Any new GMT for new country addition
     $scope.gmtMap.set('India','-05:30');
     $scope.gmtMap.set('England','-01:00');
+    $scope.gmtMap.set('Italy','-02:00');
+    $scope.gmtMap.set('Wales','-01:00');
     $scope.gmtMap.set('Spain','-02:00');
     $scope.gmtMap.set('West_Indies','+05:00');
+    $scope.gmtMap.set('France','-02:00');
+    $scope.gmtMap.set('Georgia','-02:00');
+    $scope.gmtMap.set('USA','-05:00');
+    $scope.gmtMap.set('New_Zealand','-12:00');
+    $scope.gmtMap.set('Scotland','-01:00');
+    $scope.gmtMap.set('Singapore','-08:00');
+    $scope.gmtMap.set('Japan','-03:00');
+    $scope.gmtMap.set('Argentina','03:00');
+    $scope.gmtMap.set('Ireland','-01:00');
+    $scope.gmtMap.set('Fiji','00:00');
+    $scope.gmtMap.set('Samoa','-13:00');
+    $scope.gmtMap.set('Australia','-8:00');
+    $scope.gmtMap.set('South_Africa','-2:00');
+    $scope.gmtMap.set('Sweden','-02:00');
+    $scope.gmtMap.set('Netherlands','-02:00');
+    $scope.gmtMap.set('Poland','-02:00');
     
-    $scope.multiGamesList.push('Football'); 
+    $scope.gmtMap.set('Austria','+02:00');
+    $scope.gmtMap.set('Czech_Republic','02:00');
+    $scope.gmtMap.set('Germany','02:00');
+    $scope.gmtMap.set('Great_Britain','1:00');
+    $scope.gmtMap.set('Malaysia','-8:00');
     
-  /*$scope.multiGamesList.push('Bike'); 
-    $scope.multiGamesList.push('Rugby'); */
     
-    
-/*$scope.gameFileListNew = 
-[
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
-		value: "Big_Bash_League.ics,Cricket.ics"
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/AFL",
-		value: "West_Coast_Eagles.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Rugby",
-		value: "Super_Rugby.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Bangladesh/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Football",
-		value: "La_Liga.ics,ics,UEFA_Europe_League.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Europe/Rugby",
-		value: "Six_Nations.ics"
-
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/India/Cricket",
-		value: "Cricket.ics,Indian_Premier_League.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Pakistan/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Sri_Lanka/Cricket",
-		value: "Cricket.ics"
-
-	},
-
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Rubgy",
-		value: "Premier_Premiership.ics,Pro_12.ics,Six_Nations.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_Kingdom/Cricket",
-		value: "Cricket.ics,NatWest_T20.ics,Royal_London_OneDayCup.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Baseball",
-		value: "SF_Giants.ics,Baltimore_Orioles.ics,White_Sox.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Basketball",
-		value: "Boston.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/United_States_of_America/Boxing",
-		value: "UFC.ics"
-
-	},
-	
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
-		value: "Cricket.ics"
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Zimbabwe/Cricket",
-		value: "Cricket.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Bike",
-		value: "MotoGP.ics"
-
-	},
-	
-	{
-		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
-		value: "Pro12.ics"
-
-	}
-
-
-];*/
+    $scope.gamesMap = new Map();
+    $scope.gamesMap.set('Motor_Racing','Motor Racing');
+    $scope.gamesMap.set('Ice_Hockey','Ice Hockey');
+    $scope.gamesMap.set('American_Football','American Football');
+    $scope.gamesMap.set('Rugby','Rugby Union');
+    $scope.gamesMap.set("Rugby_League", "Rugby League");
+    $scope.gamesMap.set('Footy','Australian Rules Football');
+   
     
     
 $scope.gameFileListNew = 
@@ -355,24 +529,162 @@ $scope.gameFileListNew =
 		value: "Indian_Premier_League.ics"
 
 	},
-	
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Canada/Baseball",
+		value: "MLB.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Cricket",
+		value: "The_Ashes.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Australia/Footy",
+		value: "AFL.ics"
+
+	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Spain/Football",
 		value: "La_Liga.ics"
 
 	},
-	
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/West_Indies/Cricket",
-		value: "Pakistan_Tour_of_West_Indies.ics"
+		value: "Pakistan_Tour_of_West_Indies.ics,Afghanistan_tour_of_West_Indies.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/South_Africa/Cricket",
+		value: "Australia_tour_of_South_Africa.ics,Bangladesh_tour_of_South_Africa.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Cricket",
+		value: "Zimbabwe_tour_of_Scotland.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Ireland/Cricket",
+		value: "Ireland_Tri-Nation_Series.ics,West_Indies_tour_of_Ireland.ics"
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Football",
+		value: "FA_Cup.ics,Premier_League.ics"
+	}, 
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Italy/Football",
+		value: "Serie_A.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Poland/Football",
+		value: "U21_Championship.ics"
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Football",
 		value: "English_Premier_League.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Ice_Hockey",
+		value: "NHL_Stanley_Cup_Finals.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby",
+		value: "Pro12.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Rugby_League",
+		value: "NRL_Premiership.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		value: "UFC.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Motor_Racing",
+		value: "Formula_1.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/Boxing",
+		value: "UFC.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Multi/American_Football",
+		value: "NFL.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Tennis",
+		value: "French_Open.ics"
+
+	},
+	
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Tennis",
+		value: "Wimbledon.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Golf",
+		value: "The_Open_Championship.ics"
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby",
+		value: "Premiership_Rugby.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Rugby_League",
+		value: "Super_League.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Rugby_League",
+		value: "Super_League.ics"
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Cricket",
+		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics,ICC_Champions_Trophy.ics,Royal_London_One_Day_Cup.ics"
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
+		value: "Ryder_Cup.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Rugby",
+		value: "Top_14.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Scotland/Rugby",
+		value: "Champions_Cup.ics,Challenge_Cup.ics"
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Golf",
+		value: "US_Open.ics,Masters_Tournament.ics,PGA_Championship.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Tennis",
+		value: "US_Open.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Baseball",
+		value: "MLB.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/USA/Basketball",
+		value: "NBA_Finals.ics"
+
+	},
+	{
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/New_Zealand/Rugby",
+		value: "Lions_Tour.ics"
+
 	}
 
 
 ]; 
+    
+     // Changes for any new files End
+    
     
  /*   $scope.gameFileListNew = 
 [
@@ -515,6 +827,9 @@ $scope.gameFileListNew =
     
     $scope.selectedLoc = "Country";
     $scope.selectedGame = 'Sport';
+    $scope.dateType = 'Day/Dates';
+    
+    
   $scope.ddSelectOptions = [
     {
       text: 'NBA',
@@ -596,7 +911,7 @@ $scope.gameFileListNew =
 
             // this is only run after getData() resolves
             return result;
-            console.log("data.name"+$scope.data.name);
+            
         });
         
         
@@ -671,6 +986,11 @@ $scope.gameFileListNew =
                             countryNameInLoop = (locList)[locList.length - 1] + '';
                             countryNameInLoop = countryNameInLoop.trim();
                         }
+                        
+                        if(locList.length > 2){
+                            event.LOCATION = locList[0] + ", " + locList[1];
+                        }
+                        
                         if(countryName == null || countryNameInLoop == countryName){
                             eventsResultsFilteredLocal.push(event);
                         }
@@ -761,10 +1081,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 	 *
 	 * @param data Raw ICAL data
 	 */
-	this.parseICAL = function(data,dateFirst,country,game){
+	this.parseICAL = function(data,dateFirst,countrySent,game){
 		//Ensure cal is empty
+        var country = countrySent;
+        if(countriesMap.get(countrySent)){
+            country = countriesMap.get(countrySent);
+        }
 		this.events = [];
-		
+        var gameConvert= game;
+		if($scope.gamesMap.get(game)){
+            gameConvert = $scope.gamesMap.get(game);
+        }
 		//Clean string and split the file so we can handle it (line by line)
 		cal_array = data.replace(new RegExp( "\\r", "g" ), "").split("\n");
 		
@@ -772,21 +1099,288 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 		var in_event = false;
 		//Use as a holder for the current event being proccessed.
 		var cur_event = null;
+        var isGmt = false;
+        var isOffSet = false;
+        
 		for(var i=0;i<cal_array.length;i++){
-			ln = cal_array[i];
+            if(country !== 'Multi'){
+			ln = cal_array[i].trim();
 			//If we encounted a new Event, create a blank event object + set in event options.
 			if(!in_event && ln == 'BEGIN:VEVENT'){
 				in_event = true;
 				cur_event = {};
 			}
+            
+            if(!isOffSet && ln == 'ISOFFSET:TRUE'){
+                isOffSet = true;
+			}
+                
+            if(!isGmt && ln == 'ISGMT:TRUE'){
+                isGmt = true;
+			}
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
-				in_event = false;
-                cur_event["sport"] = game;
-                cur_event["country"] = country;
-                cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " "); ;
-				this.events.push(cur_event);
-				cur_event = null;
+                var addToList = false;
+                var locList = cur_event.LOCATION.split(',');
+                cur_event.loc1 = locList[0];
+                cur_event.loc2 = locList[1];
+                if(locList.length > 2){
+                   var countryInside = locList[2];
+                    if(countryInside.trim() === country || country == 'default'){
+                        in_event = false;
+                        
+                        cur_event["sport"] = gameConvert;
+                        if(country == 'default'){
+                            cur_event["country"] = countryInside.trim();
+                        }else{
+                            cur_event["country"] = country;
+                        }
+                        
+                        cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
+                        addToList = true;
+                        
+                        
+                    }
+                }else{  
+                    in_event = false;
+                    cur_event["sport"] = gameConvert;
+                    cur_event["country"] = country;
+                    cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
+                    addToList = true;
+                   // this.events.push(cur_event);
+                }
+                
+                if(addToList){
+                    dt = this.makeDate(cur_event.fullDateTime,dateFirst);
+					val = dt.date;
+					//These are helpful for display
+                   
+                    cur_event.isTBC = 'false';
+                    
+                    if(dt.minute == '99'){
+                        cur_event.start_time = 'TBC';
+                        cur_event.gmtTime = 'TBC';
+                        cur_event.userLocalTime = 'TBC';
+                        cur_event.isTBC = 'true';
+                    }else if(dt.minute == '60'){
+                        cur_event.start_time = 'All Day Event';
+                        cur_event.gmtTime = 'All Day Event';
+                        cur_event.userLocalTime = 'All Day Event';
+                        cur_event.isTBC = 'true';
+                    }else{
+                        if(isGmt){
+                            
+                            var gmtList = ($scope.gmtMap.get(cur_event["country"])).split(':');
+                            
+                            //Add to the original GMT time
+                            var localGmtList = $scope.localGMTOffset.split(':');
+                            var theGmtLocalFutureTime = moment().hour(localGmtList[0]).minute(localGmtList[1]).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtLocalList1 = theGmtLocalFutureTime.split(':');
+                            theGmtLocalFutureTime = moment().hour(gmtLocalList1[0]).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            
+                            var hourhour = (localGmtList[0] * 1) + (gmtList[0] * 1);
+                            var minmin = (localGmtList[1] * 1) + (gmtList[1] * 1);
+                            
+                            if (minmin > 59){
+                                minmin = minmin - 60;
+                                hourhour = hourhour + 1;
+                            }
+                            
+                            theGmtLocalFutureTime = hourhour + ":" + minmin;
+                            
+                            gmtList[0] = gmtList[0]*-1;
+                            if((gmtList[0]*-1) < 1){
+                                gmtList[1] = gmtList[1] * -1;
+                            }
+                            
+                            
+                            
+                                                    
+                            
+                            
+                            
+                            var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtList1 = theFutureTime.split(':');
+                            theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                            cur_event.start_time = theFutureTime + ' local';
+                            
+                            
+                            var mins = parseInt(gmtList[1]) + parseInt(dt.minute);
+                            
+                            var hoursIn = parseInt(gmtList[0]) + parseInt(dt.hour);
+                            
+                            if(mins > 60){
+                                hoursIn = hoursIn + 1;
+                            }
+                            
+                            var nextDayVar = '';
+                            
+                            if(hoursIn > 23){
+                                nextDayVar = '<br/>(-1 day)';
+                            }else if(hoursIn < 0){
+                                nextDayVar = '<br/>(+1 day)';
+                            }
+                            
+                            cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
+                            
+                            var gmtLocalListDay = theGmtLocalFutureTime.split(":");
+                            
+                            if((gmtLocalListDay[0]*-1) < 1){
+                                gmtLocalListDay[1] = gmtLocalListDay[1] * -1;
+                            }
+                            
+                            var gameTimeList = theFutureTime.split(":");
+                            var minsLocal = parseInt(gmtLocalListDay[1]) + parseInt(gameTimeList[1]);
+                            
+                            var hoursInLocal = parseInt(gmtLocalListDay[0]) + parseInt(gameTimeList[0]);
+                            
+                            if(minsLocal > 60){
+                                hoursInLocal = hoursInLocal + 1;
+                                minsLocal = minsLocal - 60;
+                            }
+                            
+                            var nextDayVarLocal = '';
+                            
+                            if(hoursInLocal > 23){
+                                nextDayVarLocal = '<br/>(+1 day)';
+                                hoursInLocal = hoursInLocal - 24;
+                            }else if(hoursInLocal < 0){
+                                nextDayVarLocal = '<br/>(-1 day)';
+                                hoursInLocal = hoursInLocal * (-1);
+                            }
+                            
+                            function pad(num) {
+                                return ("0"+num).slice(-2);
+                            }
+                            
+                            
+                            cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
+                            
+                            
+                            
+                            
+                            
+                        }else{
+                            var gmtList = [];
+                            if(isOffSet){
+                                gmtList = cur_event.OFFSETTIME.split(':');
+                            }else{
+                                
+                                var gmtValue = $scope.gmtMap.get(cur_event["country"]);
+                                if(gmtValue){
+                                    gmtList = gmtValue.split(':');    
+                                }else{
+                                    gmtValue = '0:00';
+                                    gmtList = gmtValue.split(':'); 
+                                }
+                                
+                            }
+                            
+                           // var isGmtPos
+                            
+                            if((gmtList[0]*1) < 1){
+                                gmtList[1] = gmtList[1] * -1;
+                            }
+                            cur_event.start_time = dt.hour+':'+dt.minute + ' local';
+                            
+                            var localGmtList = $scope.localGMTOffset.split(':');
+                            var theGmtLocalFutureTime = moment().hour(localGmtList[0]).minute(localGmtList[1]).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtLocalList1 = theGmtLocalFutureTime.split(':');
+                            theGmtLocalFutureTime = moment().hour(((gmtLocalList1[0] * 1) - 12 )).minute(gmtLocalList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            
+                            var hourhour = (localGmtList[0] * 1) + (gmtList[0] * 1);
+                            var minmin = (localGmtList[1] * 1) + (gmtList[1] * 1);
+                            
+                            if (minmin > 59){
+                                minmin = minmin - 60;
+                                hourhour = hourhour + 1;
+                            }
+                            
+                            theGmtLocalFutureTime = hourhour + ":" + minmin;
+                            
+                           // cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
+                            var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
+                            var gmtList1 = theFutureTime.split(':');
+                            theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
+                            //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
+                            
+                            var mins = parseInt(gmtList[1]) + parseInt(dt.minute);
+                            
+                            var hoursIn = parseInt(gmtList[0]) + parseInt(dt.hour);
+                            
+                            if(mins > 60){
+                                hoursIn = hoursIn + 1;
+                            }
+                            
+                            var nextDayVar = '';
+                            
+                            if(hoursIn > 23){
+                                nextDayVar = '<br/>(+1 day)';
+                            }else if(hoursIn < 0){
+                                nextDayVar = '<br/>(-1 day)';
+                            }
+                            
+                            /*var theFutureTimeString = theFutureTime.split(':');
+                            if(theFutureTimeString >= 23){
+                                theFutureTimeString = (theFutureTime - 23);
+                                theFutureTimeString = theFutureTimeString + '( -1 day )';
+                            }else if(theFutureTime < 0){
+                                theFutureTimeString = (theFutureTime * -1);
+                                theFutureTimeString = theFutureTimeString + '( -1 day )';
+                            }else{
+                                theFutureTimeString = theFutureTime;
+                            }*/
+                            cur_event.gmtTime = theFutureTime + ' GMT' + nextDayVar;
+                            
+                            
+                            var gmtLocalListDay = theGmtLocalFutureTime.split(":");
+                            
+                            if((gmtLocalListDay[0]*-1) < 1){
+                                gmtLocalListDay[1] = gmtLocalListDay[1] * -1;
+                            }
+                            
+                            var gameTimeList = theFutureTime.split(":");
+                            var minsLocal = parseInt(gmtLocalListDay[1]) + parseInt(dt.minute);
+                            
+                            var hoursInLocal = parseInt(gmtLocalListDay[0]) + parseInt(dt.hour);
+                            
+                            if(minsLocal > 60){
+                                hoursInLocal = hoursInLocal + 1;
+                                minsLocal = minsLocal - 60;
+                            }
+                            
+                            var nextDayVarLocal = '';
+                            
+                            if(hoursInLocal > 23){
+                                nextDayVarLocal = '<br/>(+1 day)';
+                                hoursInLocal = hoursInLocal - 24;
+                            }else if(hoursInLocal < 0){
+                                nextDayVarLocal = '<br/>(-1 day)';
+                                hoursInLocal = hoursInLocal * (-1) ;
+                            }
+                            
+                            
+                            function pad(num) {
+                                return ("0"+num).slice(-2);
+                            }
+
+                            
+                            cur_event.userLocalTime = pad(hoursInLocal) +':'+ pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
+                            
+                        }
+                    }
+                    
+					
+                    
+					cur_event.start_date = dt.year + '-' + dt.month+'-' + dt.day;
+                    cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
+					cur_event.day = dt.dayname;
+                    this.events.push(cur_event);
+                    cur_event = null;
+                }
+                
+				
 			}
 			//If we are in an event
 			if(in_event){
@@ -799,21 +1393,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				//If the type is a start date, proccess it and store details
 				//if(type =='DTSTART'){
                 if(type.indexOf('DTSTART') != -1 ){
-					dt = this.makeDate(val,dateFirst);
-					val = dt.date;
-					//These are helpful for display
-                    var gmtList = $scope.gmtMap.get(country).split(':');
-                    //
-					cur_event.start_time = dt.hour+':'+dt.minute ;// + ' (' + $scope.gmtMap.get(country)  + ')';
-                    var theFutureTime = moment().hour(dt.hour).minute(dt.minute).add(gmtList[0],'hours').format("HH:mm");
-                    var gmtList1 = theFutureTime.split(':');
-                    theFutureTime = moment().hour(gmtList1[0]).minute(gmtList1[1]).add(gmtList[1],'minutes').format("HH:mm");
-                    //cur_event.gmtTime = $scope.gmtMap.get(country) + 0 + cur_event.start_time;
-                    cur_event.gmtTime = theFutureTime;
                     
-					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
-                    cur_event.startDateFormat = dt.dayname + ", " + dt.day + " " + dt.monthname + " " + dt.year;
-					cur_event.day = dt.dayname;
+                    cur_event.fullDateTime = val;
+                    
+					
 				}
 				//If the type is an end date, do the same as above
 				//if(type =='DTEND'){
@@ -834,6 +1417,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				//Add the value to our event object.
 				cur_event[type] = val;
 			}
+            
+        }
 		}
 		//Run this to finish proccessing our Events.
 		this.complete();
@@ -1043,7 +1628,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 					dt = this.makeDate(val,dateFirst);
 					val = dt.date;
 					//These are helpful for display
-					cur_event.start_time = dt.hour+':'+dt.minute;
+                    if(dt.minute == '99'){
+                        cur_event.start_time = 'TBC';
+                        cur_event.isTBC = true;
+                    }else if(dt.minute == '60'){
+                        cur_event.start_time = 'All Day Event';
+                        cur_event.isTBC = true;
+                    }else{
+                        cur_event.start_time = dt.hour+':'+dt.minute;
+                        cur_event.isTBC = false;
+                    }
+					
 					cur_event.start_date = dt.day+'/'+dt.month+'/'+dt.year;
 					cur_event.day = dt.dayname;
 				}
@@ -1335,13 +1930,21 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         $scope.eventsResultsFiltered = [];
        var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
+       var FileReadMap = new Map(); 
        
        var dateFirst = false;
-       if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
+      /* if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && ($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates === undefined || $scope.selectedDates.length > 0) ){
         
            $scope.errorMessage = "Please select at least one on of the fields to be choosen"
            $scope.isError = true;
-       }else{
+           $scope.isLoading = false;
+       }*/
+       if(!(($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')) ){
+               $scope.errorMessage = "Please select one date type"
+               $scope.isError = true;
+               $scope.isLoading = false;
+               return;
+           }else{
            
         
          /* if((($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && 
@@ -1352,9 +1955,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
              
              
              }*/
-           if(!($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')){
-               $scope.errorMessage = "Please select one Date Type"
+           if(($scope.dateType == 'Custom' && ($scope.selectedDates === undefined || $scope.selectedDates == ''))){
+               $scope.errorMessage = "Please select one date type"
                $scope.isError = true;
+               $scope.isLoading = false;
                return;
            }
            
@@ -1367,6 +1971,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
+                $scope.selectedDates = new Date();
                 var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 7);
                $scope.selectedDates2 = new Date(date2);
@@ -1377,6 +1982,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 currentDate.setDate(currentDate.getDate() + 1);
                     daysCounted = daysCounted + 1;
                 }*/
+               $scope.selectedDates = new Date();
                var date2 = new Date($scope.selectedDates.getTime());
                 date2.setDate(date2.getDate() + 14);
                $scope.selectedDates2 = new Date(date2);
@@ -1392,6 +1998,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            if(($scope.selectedDates2 === undefined || $scope.selectedDates2.length > 0) && ($scope.selectedDates.length > 0 || $scope.selectedDates === undefined)){
                $scope.errorMessage = "Please select the Date"
                $scope.isError = true;
+               $scope.isLoading = false;
                return;
                
            }else {
@@ -1403,6 +2010,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                            if($scope.selectedDates > $scope.selectedDates2){
                                $scope.errorMessage = "From date cannot be greater than To date"
                                 $scope.isError = true;
+                               $scope.isLoading = false;
                            }else{
                                
                                var currentDate = new Date($scope.selectedDates.getTime());
@@ -1416,7 +2024,80 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            
            }
            if(!$scope.isError){
-       
+        
+           function pad(num) {
+                return ("0"+num).slice(-2);
+            }
+               
+               
+        var d = new Date();
+        console.log("date value is:" + d);
+        console.log("to string" + d.toString());
+        $scope.dateValue = d;
+        $scope.theString = d.toString();
+               $scope.zoneValue = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});
+               console.log("zone" + $scope.zoneValue);
+               $scope.localTimeZone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}); 
+        // var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
+         /*var listV = d1.split(' ');
+         var timezone = '';
+         if(listV.length > 2){
+            timezone = listV[0].substring(0,1) + listV[1].substring(0,1) + listV[2].substring(0,1);
+         }else{
+             timezone = d1;
+         }
+         $scope.localGMTOffsetFormat = timezone;*/
+               
+               
+        var zone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ')[2];
+      
+               
+        $scope.localGMTOffsetFormatTest = zone;
+        $scope.localTime = new Date();
+        $scope.localTimeZone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});   
+        $scope.localTimeZoneList = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}).split(' ');       
+               
+       // var listV = zone.split('BST BST');
+         var timezone = '', n =0;
+         if($scope.localTimeZoneList.length > 3){
+             for (n = 1; n < $scope.localTimeZoneList.length; n++) {
+                 
+                 timezone = timezone + $scope.localTimeZoneList[n].substring(0,1);
+                 
+             }
+             
+         }else{
+             timezone = $scope.localTimeZoneList[1];
+         }
+               
+         
+        
+         if(timezone == 'GST' || timezone.startsWith('GMT+01:00')){
+             timezone = 'BST';
+         }       
+               
+         $scope.localGMTOffsetFormat = timezone;       
+               
+        
+        var secs = (d.getTimezoneOffset());    
+        var isNegate = false;   
+        if(secs > 0){
+            isNegate = true; //Because working GMT
+        }else{
+            secs = secs * -1;
+        }       
+        
+        var hours = Math.floor(secs/60);
+        var minutes = secs%60;  
+           
+        hours = pad(hours);
+        $scope.localGMTOffset = hours+":"+pad(minutes);
+        if(isNegate){
+            $scope.localGMTOffset = '-' + $scope.localGMTOffset;
+        }
+        
+      //  $scope.localGMTOffset = "-01:00" 
+       // $scope.localGMTOffsetFormat = "BST";
        $scope.isError = false;
        $scope.showEvents = false;
        //var formatedDates = [];
@@ -1485,65 +2166,159 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                            if((($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game)  && multiGame === game)){
                            
                                if(mutliCountrySportMap.get(multiGame)){
+                                   
+                                   
+                                   
                                    var mutliSportMap = mutliCountrySportMap.get(multiGame);
-                                   if((($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country) && mutliSportMap.get(country))){
+                                   if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || ($scope.selectedLoc === country && mutliSportMap.get(country)) || (country === 'Multi' && mutliSportMap.get($scope.selectedLoc))){
+                                       
+                                       if(country === 'Multi' && mutliSportMap.get($scope.selectedLoc)){
+                                           country = $scope.selectedLoc;
+                                           
+                                           
+                                       }
                                        
                                        
                                        var multiFileName = '';
-                                       if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null){
-                                           multiFileName = mutliSportMap.get('default');
-                                       }else{
-                                           multiFileName = mutliSportMap.get(country);
-                                       }
-                                       
-                                      //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
-                                       var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
-                                       
-                                       var dateFirstLoop = true;
-                                        ical_parser(multiFileLocaiton, function(cal){
-                                            this.events = cal.events;
-                                            var eventsResults = cal.events;
-                                            //$scope.places = [];
-                                            this.game = cal.game;
-                                            var formatedDatesList = new Map();
-                                            formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
-                                            var countryFilter = '';
-                                            if(cal.countryReceived == null){
-                                                countryFilter = null;
-                                            }else{
-                                                countryFilter = cal.country;
-                                            }
-                                            
-                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
-
-                                                if(returnResults.length > 0){
-                                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                       if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && country === 'Multi'){
+                                          // multiFileName = mutliSportMap.get('default');
+                                           
+                                            mutliSportMap.forEach(function (value, key) {
+                                           // Object.keys(mutliSportMap).forEach(function(key) {
+                                                //var value = map[key];
+                                                var dateFirstLoop = true;
+                                                country = key;
+                                                var valueList = value.split(','),i;
+                                                for (i = 0; i < valueList.length; i++) {
+                                               // valueList.forEach(function(fileNameValue){
+                                                
+                                                var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valueList[i];
+                                                   // FileReadMap.push(multiFileLocaiton);
+                                                    var valueIs = dateInLoop + ":" +country;
+                                               FileReadMap.set(multiFileLocaiton,valueIs);
+                                               /* ical_parser(multiFileLocaiton, function(cal){
+                                                    this.events = cal.events;
+                                                    var eventsResults = cal.events;
+                                                    //$scope.places = [];
+                                                    this.game = cal.game;
+                                                    var formatedDatesList = new Map();
+                                                    formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                                                    var countryFilter = '';
+                                                    if(cal.countryReceived == null){
+                                                        countryFilter = null;
                                                     }else{
-
-                                                        var listValue = [
-                                                            {
-                                                                'country':countriesMap.get(cal.country),
-                                                                'listValue' : returnResults
-                                                            }
-
-                                                        ]; 
-                                                        var Object = {
-                                                            'time':cal.dateInLoop,
-                                                            'timeSort': returnResults[0].start_date,
-                                                            'listValue' : listValue
-                                                        };
-                                                        $scope.eventsResultsFiltered.push(Object);
+                                                        countryFilter = cal.country;
                                                     }
 
-                                            }
+                                                    var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
+                                                        var getCountyFromMap = '';
+                                                        if(countriesMap.get(cal.country)){
+                                                            getCountyFromMap = countriesMap.get(cal.country);
+                                                        }else{
+                                                            getCountyFromMap = cal.country;
+                                                        }
+                                                        if(returnResults.length > 0){
+                                                            if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
+                                                                    $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
+                                                            }else{
 
-                                            this.showCal = true;
-                                            
-                                        },dateFirstLoop,dateInLoop,country); 
+                                                                var listValue = [
+                                                                    {
+                                                                        'country':getCountyFromMap,
+                                                                        'listValue' : returnResults
+                                                                    }
+
+                                                                ]; 
+                                                                var Object = {
+                                                                    'time':cal.dateInLoop,
+                                                                    'timeSort': returnResults[0].start_date,
+                                                                    'listValue' : listValue
+                                                                };
+                                                                $scope.eventsResultsFiltered.push(Object);
+                                                            }
+
+                                                    }
+
+                                                    this.showCal = true;
+
+                                                },dateFirstLoop,dateInLoop,country);*/
+                                                
+                                               }//);  End loop here
+                                           
+                                            });
+                                           
+                                       }else if(mutliSportMap.get(country)){
+                                           multiFileName = mutliSportMap.get(country);
+                                           
+                                           var valuesList = multiFileName.split(','),j;
+                                           
+                                           for (j = 0; j < valuesList.length; j++) {
+                                           
+                                           var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valuesList[j];
+                                       
+                                           var dateFirstLoop = true;
+                                               var valueIs = dateInLoop + ":" +country;
+                                               FileReadMap.set(multiFileLocaiton,valueIs);
+                                         /*   ical_parser(multiFileLocaiton, function(cal){
+                                                this.events = cal.events;
+                                                var eventsResults = cal.events;
+                                                //$scope.places = [];
+                                                this.game = cal.game;
+                                                var formatedDatesList = new Map();
+                                                formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                                                var countryFilter = '';
+                                                if(cal.countryReceived == null){
+                                                    countryFilter = null;
+                                                }else{
+                                                    countryFilter = cal.country;
+                                                }
+
+                                                var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,countryFilter);
+                                                    
+                                                    var getCountyFromMap = '';
+                                                    if(countriesMap.get(cal.country)){
+                                                        getCountyFromMap = countriesMap.get(cal.country);
+                                                    }else{
+                                                        getCountyFromMap = cal.country;
+                                                    }
+                                                
+                                                    if(returnResults.length > 0){
+                                                        if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
+                                                                $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
+                                                        }else{
+
+                                                            var listValue = [
+                                                                {
+                                                                    'country':getCountyFromMap,
+                                                                    'listValue' : returnResults
+                                                                }
+
+                                                            ]; 
+                                                            var Object = {
+                                                                'time':cal.dateInLoop,
+                                                                'timeSort': returnResults[0].start_date,
+                                                                'listValue' : listValue
+                                                            };
+                                                            $scope.eventsResultsFiltered.push(Object);
+                                                        }
+
+                                                }
+
+                                                this.showCal = true;
+
+                                            },dateFirstLoop,dateInLoop,country);*/
+                                           
+                                           }//add end loop here
+                                       }
+                                       
+                                      
+                                      //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
+                                        
                                        
                                        
                                    }
+                                   
+                                   //Add end code here
                                }
                            }
                        });
@@ -1555,7 +2330,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                    fileList.forEach(function(file){
                        if(country !== 'Multi'){
                        var fileLocation = folders.url + "/" + file;
-                        ical_parser(fileLocation, function(cal){
+                           //FileReadMap.push(fileLocation);
+                           
+                           var valueIs = dateInLoop + ":" +country;
+                            FileReadMap.set(fileLocation,valueIs);
+                      /*  ical_parser(fileLocation, function(cal){
                             this.events = cal.events;
                             $scope.eventsResults = cal.events;
                             $scope.places = [];
@@ -1563,15 +2342,22 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                             var formatedDatesList = new Map();
                             formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
                             var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList,null);
-
+                                
+                                var getCountyFromMap = '';
+                                if(countriesMap.get(cal.country)){
+                                    getCountyFromMap = countriesMap.get(cal.country);
+                                }else{
+                                    getCountyFromMap = cal.country;
+                                }
+                            
                                 if(returnResults.length > 0){
                                     if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
-                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, countriesMap.get(cal.country), cal.dateInLoop, returnResults);
+                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, cal.dateInLoop, returnResults);
                                     }else{
 
                                         var listValue = [
                                             {
-                                                'country':countriesMap.get(cal.country),
+                                                'country':getCountyFromMap,
                                                 'listValue' : returnResults
                                             }
 
@@ -1588,7 +2374,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
                             this.showCal = true;
                             
-                        },dateFirst,dateInLoop,null); 
+                        },dateFirst,dateInLoop,null); */
                        }
                       /* if(){
                            ical_parser(fileLocation, function(cal){
@@ -1670,6 +2456,22 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
    }
        
        
+       var FileUrlReadMap = new Map(); 
+       var isStillReading = false;
+       FileReadMap.forEach(function (value, key){
+           
+           ical_parser(key, function(cal){
+                            this.events = cal.events;
+                            $scope.eventsResults = cal.events;
+                            $scope.places = [];
+                            this.game = cal.game;
+                            FileUrlReadMap.set(cal.url,cal.events);
+                            
+                        },dateFirst,dateInLoop,null);
+           
+           
+       });
+       
        
    }
    
@@ -1680,12 +2482,17 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
     }
    
    this.clearFilters = function(){
-       $scope.selectedDates = new Date();
      //  $scope.selectedDates = new Date();
+     //  $scope.selectedDates = new Date();
+     //  $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+       $scope.selectedDates = undefined;
+       $scope.dateType = 'Day/Dates';
+       $scope.selectedDates = undefined;
        $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
        $scope.eventsResultsFiltered = [];
-       $scope.selectedLoc = "";
-        $scope.selectedGame = '';
+       $scope.selectedLoc = "Country";
+        $scope.selectedGame = 'Sport';
+       
        $scope.showEvents = false;
        $scope.isError = false;
        $scope.isLoading = false;
@@ -1765,6 +2572,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 
             var Object = {
                 'time':dateInLoop,
+                'timeSort':listSubValue[0].listValue[0].start_date,
                 'listValue' : listSubValue
             };
             $scope.eventsResultsFiltered.push(Object);
