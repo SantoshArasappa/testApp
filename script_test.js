@@ -982,9 +982,11 @@ $scope.gameFileListNew =
                     if(datesRangeMap.get(event.startDateFormat)
                       ){
                         var locList = event.LOCATION.split(',');
-                        if(locList.length > 0){
+                        if(locList.length > 2){
                             countryNameInLoop = (locList)[locList.length - 1] + '';
                             countryNameInLoop = countryNameInLoop.trim();
+                        }else{
+                            countryNameInLoop = event.country;
                         }
                         
                         if(locList.length > 2){
@@ -2194,7 +2196,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                 
                                                 var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valueList[i];
                                                    // FileReadMap.push(multiFileLocaiton);
-                                                    if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                                    if(!FileReadMap.get(multiFileLocaiton)){
                                                         var valueIs = dateInLoop + ":" +country;
                                                         FileReadMap.set(multiFileLocaiton,valueIs);
                                                     }
@@ -2259,7 +2261,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                            var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valuesList[j];
                                        
                                            var dateFirstLoop = true;
-                                               if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                               if(!FileReadMap.get(multiFileLocaiton)){
                                                         var valueIs = dateInLoop + ":" +country;
                                                         FileReadMap.set(multiFileLocaiton,valueIs);
                                                     }
@@ -2338,7 +2340,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                        var fileLocation = folders.url + "/" + file;
                            //FileReadMap.push(fileLocation);
                            
-                           if(!FileUrlReadMap.get(FileReadMap)){
+                           if(!FileReadMap.get(FileReadMap)){
                                 var valueIs = dateInLoop + ":" +country;
                                 FileReadMap.set(fileLocation,valueIs);
                             }
@@ -2478,11 +2480,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
            var dateInLoop = value.split(":")[0];
            ical_parser(key, function(cal){
                             numberFileRead = numberFileRead + 1;
-                            this.events = cal.events;
-                            $scope.eventsResults = cal.events;
-                            $scope.places = [];
-                            this.game = cal.game;
-                            FileUrlReadMap.set(cal.url,cal.events);
+                          //  this.events = cal.events;
+                           // $scope.eventsResults = cal.events;
+                          //  $scope.places = [];
+                          //  this.game = cal.game;
+                            FileUrlReadMap.set(cal.url,cal);
                             
                         },dateFirst,dateInLoop,null);
            
@@ -2490,16 +2492,329 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        });
        
        
-       while (numberFileRead < mapSize) {
+      // while (numberFileRead < mapSize) {
            
            setTimeout(function () {
                     $scope.$apply(function () {
-                        console.log("still reading files");
+                        formatedDates.forEach(function(dateInLoop){
+                       $scope.gameFileListNew.forEach(function(folders){
+
+                           var folds = ((folders.url).substr(1)).split("/");
+                           var listValue = folders.value;
+                           var size = folds.length;
+                           var country = folds[size - 2]; //folds[1];
+                           var game = folds[size - 1];
+
+                           /*if(game === 'Cricket'){
+                               dateFirst = true;
+                           }else{
+                               dateFirst = false;
+                           }*/
+                           if(country === 'United_States_of_America' || country === 'West_Indies' || country === 'Zimbabwe'){
+                               dateFirst = false;
+                           }else{
+                               dateFirst = true;
+                           }
+
+                           $scope.multiGamesList.forEach(function(multiGame){
+
+                                       if((($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game)  && multiGame === game)){
+
+                                           if(mutliCountrySportMap.get(multiGame)){
+
+
+
+                                               var mutliSportMap = mutliCountrySportMap.get(multiGame);
+                                               if($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || ($scope.selectedLoc === country && mutliSportMap.get(country)) || (country === 'Multi' && mutliSportMap.get($scope.selectedLoc))){
+
+                                                   if(country === 'Multi' && mutliSportMap.get($scope.selectedLoc)){
+                                                       country = $scope.selectedLoc;
+
+
+                                                   }
+
+
+                                                   var multiFileName = '';
+                                                   if(($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null) && country === 'Multi'){
+                                                      // multiFileName = mutliSportMap.get('default');
+
+                                                        mutliSportMap.forEach(function (value, key) {
+                                                       // Object.keys(mutliSportMap).forEach(function(key) {
+                                                            //var value = map[key];
+                                                            var dateFirstLoop = true;
+                                                            country = key;
+                                                            var valueList = value.split(','),i;
+                                                            for (i = 0; i < valueList.length; i++) {
+                                                           // valueList.forEach(function(fileNameValue){
+
+                                                            var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valueList[i];
+                                                               // FileReadMap.push(multiFileLocaiton);
+                                                                /*if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                                                    var valueIs = dateInLoop + ":" +country;
+                                                                    FileReadMap.set(multiFileLocaiton,valueIs);
+                                                                }*/
+                                                           // ical_parser(multiFileLocaiton, function(cal){
+                                                                var cal = FileUrlReadMap.get(multiFileLocaiton);
+                                                               // this.events = cal.events;
+                                                                var eventsResults = cal.events;
+                                                                //$scope.places = [];
+                                                               // this.game = multiGame;
+                                                                var formatedDatesList = new Map();
+                                                                formatedDatesList.set(dateInLoop,dateInLoop);
+                                                                var countryFilter = '';
+                                                                if(cal.countryReceived == null){//Ravi
+                                                                    countryFilter = country;
+                                                                }else{
+                                                                    countryFilter = country;
+                                                                }
+
+                                                                var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,country);
+                                                                    var getCountyFromMap = '';
+                                                                    if(countriesMap.get(country)){
+                                                                        getCountyFromMap = countriesMap.get(country);
+                                                                    }else{
+                                                                        getCountyFromMap = country;
+                                                                    }
+                                                                    if(returnResults.length > 0){
+                                                                        if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(dateInLoop)){
+                                                                                $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, dateInLoop, returnResults);
+                                                                        }else{
+
+                                                                            var listValue = [
+                                                                                {
+                                                                                    'country':getCountyFromMap,
+                                                                                    'listValue' : returnResults
+                                                                                }
+
+                                                                            ]; 
+                                                                            var Object = {
+                                                                                'time':dateInLoop,
+                                                                                'timeSort': returnResults[0].start_date,
+                                                                                'listValue' : listValue
+                                                                            };
+                                                                            $scope.eventsResultsFiltered.push(Object);
+                                                                        }
+
+                                                                }
+
+                                                                this.showCal = true;
+
+                                                           // },dateFirstLoop,dateInLoop,country);
+
+                                                           }//);  End loop here
+
+                                                        });
+
+                                                   }else if(mutliSportMap.get(country)){
+                                                       multiFileName = mutliSportMap.get(country);
+
+                                                       var valuesList = multiFileName.split(','),j;
+
+                                                       for (j = 0; j < valuesList.length; j++) {
+
+                                                       var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + valuesList[j];
+
+                                                       var dateFirstLoop = true;
+                                                           /*if(!FileUrlReadMap.get(multiFileLocaiton)){
+                                                                    var valueIs = dateInLoop + ":" +country;
+                                                                    FileReadMap.set(multiFileLocaiton,valueIs);
+                                                                }*/
+                                                           /*var valueIs = dateInLoop + ":" +country;
+                                                           FileReadMap.set(multiFileLocaiton,valueIs);*/
+                                                     //  ical_parser(multiFileLocaiton, function(cal){
+                                                            var cal = FileUrlReadMap.get(multiFileLocaiton);
+                                                           // this.events = cal.events;
+                                                            var eventsResults = cal.events;
+                                                            //$scope.places = [];
+                                                           // this.game = multiGame;
+                                                            var formatedDatesList = new Map();
+                                                            formatedDatesList.set(dateInLoop,dateInLoop);
+                                                            var countryFilter = '';
+                                                            if(cal.countryReceived == null){
+                                                                countryFilter = country;
+                                                            }else{
+                                                                countryFilter = country;
+                                                            }
+
+                                                            var returnResults = displayDemoWithFilters(eventsResults,formatedDatesList,country);
+
+                                                                var getCountyFromMap = '';
+                                                                if(countriesMap.get(country)){
+                                                                    getCountyFromMap = countriesMap.get(country);
+                                                                }else{
+                                                                    getCountyFromMap = country;
+                                                                }
+
+                                                                if(returnResults.length > 0){
+                                                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(dateInLoop)){
+                                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, dateInLoop, returnResults);
+                                                                    }else{
+
+                                                                        var listValue = [
+                                                                            {
+                                                                                'country':getCountyFromMap,
+                                                                                'listValue' : returnResults
+                                                                            }
+
+                                                                        ]; 
+                                                                        var Object = {
+                                                                            'time':dateInLoop,
+                                                                            'timeSort': returnResults[0].start_date,
+                                                                            'listValue' : listValue
+                                                                        };
+                                                                        $scope.eventsResultsFiltered.push(Object);
+                                                                    }
+
+                                                            }
+
+                                                           // this.showCal = true;
+
+                                                       // },dateFirstLoop,dateInLoop,country);*/
+
+                                                       }//add end loop here
+                                                   }
+
+
+                                                  //Change later var multiFileLocaiton = fileUrl + "/Multi/" + multiGame + "/" + multiFileName;
+
+
+
+                                               }
+
+                                               //Add end code here
+                                           }
+                                       }
+                                   });
+
+
+                           if(($scope.selectedGame === 'Sport' || $scope.selectedGame === '' || $scope.selectedGame === null || $scope.selectedGame === game) && ($scope.selectedLoc === 'Country' || $scope.selectedLoc === '' || $scope.selectedLoc === null || $scope.selectedLoc === country)){
+
+                               var fileList = listValue.split(",");
+                               fileList.forEach(function(file){
+                                   if(country !== 'Multi'){
+                                   var fileLocation = folders.url + "/" + file;
+                                       //FileReadMap.push(fileLocation);
+
+                                      /* if(!FileUrlReadMap.get(FileReadMap)){
+                                            var valueIs = dateInLoop + ":" +country;
+                                            FileReadMap.set(fileLocation,valueIs);
+                                        }*/
+                                        /*var valueIs = dateInLoop + ":" +country;
+                                        FileReadMap.set(fileLocation,valueIs);*/
+                                  //  ical_parser(fileLocation, function(cal){
+                                       var cal = FileUrlReadMap.get(fileLocation);
+                                      //  this.events = cal.events;
+                                        $scope.eventsResults = cal.events;
+                                        $scope.places = [];
+                                      //  this.game = game;
+                                        var formatedDatesList = new Map();
+                                        formatedDatesList.set(dateInLoop,dateInLoop);
+                                        var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList,country);
+
+                                            var getCountyFromMap = '';
+                                            if(countriesMap.get(country)){
+                                                getCountyFromMap = countriesMap.get(country);
+                                            }else{
+                                                getCountyFromMap = country;
+                                            }
+
+                                            if(returnResults.length > 0){
+                                                if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(dateInLoop)){
+                                                        $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, getCountyFromMap, dateInLoop, returnResults);
+                                                }else{
+
+                                                    var listValue = [
+                                                        {
+                                                            'country':getCountyFromMap,
+                                                            'listValue' : returnResults
+                                                        }
+
+                                                    ]; 
+                                                    var Object = {
+                                                        'time':dateInLoop,
+                                                        'timeSort': returnResults[0].start_date,
+                                                        'listValue' : listValue
+                                                    };
+                                                    $scope.eventsResultsFiltered.push(Object);
+                                                }
+
+                                        }
+
+                                        this.showCal = true;
+
+                                  //  },dateFirst,dateInLoop,null); */
+                                   }
+                                  /* if(){
+                                       ical_parser(fileLocation, function(cal){
+                                            this.events = cal.events;
+                                            $scope.eventsResults = cal.events;
+                                            $scope.places = [];
+                                            this.game = cal.game;
+                                            var formatedDatesList = new Map();
+                                            formatedDatesList.set(cal.dateInLoop,cal.dateInLoop);
+                                            var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList);
+
+                                                if(returnResults.length > 0){
+                                                    if($scope.eventsResultsFiltered.length > 0 && $scope.eventsResultsFiltered.indexOf(cal.dateInLoop)){
+                                                            $scope.findAndReplaceWithTime($scope.eventsResultsFiltered, cal.country, cal.dateInLoop, returnResults);
+                                                    }else{
+
+                                                        var listValue = [
+                                                            {
+                                                                'country':cal.country,
+                                                                'listValue' : returnResults
+                                                            }
+
+                                                        ]; 
+                                                        var Object = {
+                                                            'time':cal.dateInLoop,
+                                                            'listValue' : listValue
+                                                        };
+                                                        $scope.eventsResultsFiltered.push(Object);
+                                                    }
+
+                                            }
+
+                                            this.showCal = true;
+                                            return ;
+                                        },dateFirst,dateInLoop); 
+
+
+                                         countryMap.set('Valencia','MotoGP.ics');
+
+                var mutliCountrySportMap = new Map();    
+                mutliCountrySportMap.set('Bike',countryMap);
+
+                $scope.multiGamesList = [];
+
+              $scope.multiGamesList.push('Bike');
+
+                                   }*/
+
+
+
+                                });
+
+
+                           }
+
+
+
+                      });
+
+                  });
                         
+                    });
+                    $scope.$apply(function () {
+                        this.showCal = true;
+                        $scope.message = "Timeout called!";
+                        $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
+                        $scope.showEvents = true;
+                        $scope.isLoading = false;
                     });
                 }, 2000); 
             
-        }
+       // }
        
        
    }
