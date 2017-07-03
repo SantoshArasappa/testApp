@@ -2584,7 +2584,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                                     FileReadMap.set(multiFileLocaiton,valueIs);
                                                                 }*/
                                                            // ical_parser(multiFileLocaiton, function(cal){
-                                                                var cal = $scope.FileUrlReadMap.get(multiFileLocaiton);
+                                                                var cal = angular.copy($scope.FileUrlReadMap.get(multiFileLocaiton));
                                                                // this.events = cal.events;
                                                                 var eventsResults = cal;
                                                                 //$scope.places = [];
@@ -2652,7 +2652,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                                            /*var valueIs = dateInLoop + ":" +country;
                                                            FileReadMap.set(multiFileLocaiton,valueIs);*/
                                                      //  ical_parser(multiFileLocaiton, function(cal){
-                                                            var cal = $scope.FileUrlReadMap.get(multiFileLocaiton);
+                                                            var cal = angular.copy($scope.FileUrlReadMap.get(multiFileLocaiton));
                                                            // this.events = cal.events;
                                                             var eventsResults = cal;
                                                             //$scope.places = [];
@@ -2732,7 +2732,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                         /*var valueIs = dateInLoop + ":" +country;
                                         FileReadMap.set(fileLocation,valueIs);*/
                                   //  ical_parser(fileLocation, function(cal){
-                                       var cal = $scope.FileUrlReadMap.get(fileLocation);
+                                       var cal = angular.copy($scope.FileUrlReadMap.get(fileLocation));
                                       //  this.events = cal.events;
                                         $scope.eventsResults = cal;
                                         $scope.places = [];
