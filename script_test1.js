@@ -172,7 +172,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     
     var RugbyLeagueMap = new Map();
-    RugbyLeagueMap.set('Australia','NRL_Premiership.ics');
+    RugbyLeagueMap.set('Australia','NRL_Premiership.ics,Holden_Cup.ics');
+    RugbyLeagueMap.set('New_Zealand','Holden_Cup.ics');
      
     var ufcMap = new Map();
     ufcMap.set('USA','UFC.ics');
