@@ -1,0 +1,117 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:3rd ODI Sri Lanka v Zimbabwe
+DTSTART:20170706T041500Z
+DTEND:20170706T121500Z
+LOCATION:Mahinda Rajapaksa International Cricket Stadium, Hambantota
+TRANSP:OPAQUE
+UID:1104480_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:4th ODI Sri Lanka v Zimbabwe
+DTSTART:20170708T041500Z
+DTEND:20170708T121500Z
+LOCATION:Mahinda Rajapaksa International Cricket Stadium, Hambantota
+TRANSP:OPAQUE
+UID:1104481_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:5th ODI Sri Lanka v Zimbabwe
+DTSTART:20170710T041500Z
+DTEND:20170710T121500Z
+LOCATION:Mahinda Rajapaksa International Cricket Stadium, Hambantota
+TRANSP:OPAQUE
+UID:1104482_0
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:Only Test Sri Lanka v Zimbabwe (Day 1)
+DTSTART:20170714T043000Z
+DTEND:20170714T123000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1104483_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:Only Test Sri Lanka v Zimbabwe (Day 2)
+DTSTART:20170715T043000Z
+DTEND:20170715T123000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1104483_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:Only Test Sri Lanka v Zimbabwe (Day 3)
+DTSTART:20170716T043000Z
+DTEND:20170716T123000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1104483_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:Only Test Sri Lanka v Zimbabwe (Day 4)
+DTSTART:20170717T043000Z
+DTEND:20170717T123000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1104483_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest Zimbabwe tour of Sri Lanka news at: http://www.espncricinfo.com/sri-lanka-v-zimbabwe-2017/content/series/1104471.html \n\n
+SUMMARY:Only Test Sri Lanka v Zimbabwe (Day 5)
+DTSTART:20170718T043000Z
+DTEND:20170718T123000Z
+LOCATION:R Premadasa Stadium, Colombo
+TRANSP:OPAQUE
+UID:1104483_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR

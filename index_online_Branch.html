@@ -5,30 +5,29 @@
     <script src="https://code.angularjs.org/1.6.1/angular.js"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-animate.js"></script>
       <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.1/angular-sanitize.js"></script>
-      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dist/angular-filter.min.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/1a84cf88/dist/angular-filter.min.js"></script>
     <script data-require="ui-bootstrap@*" data-semver="1.3.3" src="https://angular-ui.github.io/bootstrap/ui-bootstrap-tpls-2.5.0.min.js"></script>
     <link data-require="bootstrap-css@*" data-semver="3.3.6" rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/style.css" />
-      <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dropdownMenu/normalize.css">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dist/angular-dropdowns.min.css">
-    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dropdownMenu/page.css">
-    
-       <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dist/angular-dropdowns.js"></script>
-    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/script.js"></script>
-	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/dist/moment.js"></script>
-      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/TestEnv/gm.datepickerMultiSelect.js"></script>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/style.css" />
+      <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dropdownMenu/normalize.css">
+    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.min.css">
+   <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/63fd29b8/dropdownMenu/page.css">
+       <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
+    <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/68f57ade/script.js"></script>
+	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
+      <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
 
    <body ng-controller='AppCtrl as $app' ng-init="getEventsDetails()">
-       
+
     <script type="text/ng-template" id="template/multi-datepicker.tpl.html">
        <div class="uib-datepicker" ng-switch="datepickerMode" role="application" ng-keydown="keydown($event)">
             <uib-daypicker ng-switch-when="day" tabindex="0" template-url="template/multi-day.tpl.html"></uib-daypicker>
             <uib-monthpicker ng-switch-when="month" tabindex="0"></uib-monthpicker>
             <uib-yearpicker ng-switch-when="year" tabindex="0"></uib-yearpicker>
         </div>
-    </script>   
-       
+    </script>
+
     <script type="text/ng-template" id="template/multi-day.tpl.html">
        <table class="uib-daypicker" role="grid" aria-labelledby="{{::uniqueId}}-title" aria-activedescendant="{{activeDateId}}">
             <thead>
@@ -67,7 +66,7 @@
                 </tr>
             </tbody>
         </table>
-    </script>   
+    </script>
        <style>
   .full button span {
     background-color: limegreen;
@@ -82,8 +81,123 @@
 
 option:nth-child(1) {
     font-weight:bold;
-}           
-           
+}
+/* START-Added by Santosh for Calendar colors */
+/* btn-info Today btn-danger Clear  btn-success Close*/
+
+.btn-info:active {
+
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+    color: #25225A;
+}
+
+.btn-info.active {
+
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+    color: #25225A;
+}
+
+.btn-info:hover{
+
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+    color: #25225A;
+}
+
+.btn-info.active:hover{
+
+    background-color: #2B3990;
+    border-color: #2B3990;
+    color: #fff;
+}
+
+.btn-info::selection {
+
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+    color: #25225A;
+}
+
+.btn-info:default {
+
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+    color: #25225A;
+}
+
+.btn-info {
+    color: #2B3990;
+    background-color: #C99D5A;
+    border-color: #C99D5A;
+}
+
+.btn-info:focus {
+  color: #FFF;
+  background-color: #2B3990;
+  border-color: #C99D5A;
+}
+
+.btn-info:hover {
+  color: #FFF;
+  background-color: #2B3990;
+  border-color: #C99D5A;
+}
+
+.btn-info:checked{
+  color: #FFF;
+  background-color: #2B3990;
+  border-color: #C99D5A;
+}
+
+.btn-danger {
+    color: #fff;
+    background-color: #2B3990;
+    border-color: #2B3990;
+}
+
+.btn-success:focus {
+  color: #fff;
+  background-color: #096735;
+  border-color: #096735;
+}
+
+.btn-success:hover {
+  color: #fff;
+  background-color: #096735;
+  border-color: #096735;
+}
+
+.btn-success {
+    color: #fff;
+    background-color: #2B3990;
+    border-color: #2B3990;
+}
+
+/* END-Added by Santosh for Calendar colors */
+.headerText{
+
+	font-family: adelle-sans;
+	font-style: normal;
+	font-size: 30px;
+	letter-spacing: 0px;
+	text-transform: none;
+	line-height: 1.2em;
+
+}
+
+
+.dropDownText{
+
+	font-family: adelle-sans;
+	font-style: normal;
+	letter-spacing: 0px;
+	text-transform: none;
+	line-height: 1.2em;
+
+}
+
 .hr-text {
   line-height: 1em;
   position: relative;
@@ -116,23 +230,29 @@ option:nth-child(1) {
     color: #818078;
     background-color: #fcfcfa;
   }
-    
-   
+
+    @media screen and (min-width: 768px){
+    .rwd-break {
+        display: none;
+    }
+
 }
+
 </style>
-    
-    <div> 
+
+    <div>
        <div class="row">
-            <div class="col-md-6 col-lg-6 col-xs-12">
-           
-           
+            <div class="col-md-6 col-lg-6 col-xs-12 dropDownText">
+
+
                         <div class="col-xs-12" ng-if="isError" style="color:rgba(23, 23, 88, 1)" ng-cloak>  <h1 > {{errorMessage}}</h1></div>
                         <div class="col-xs-12" >
-                            <select ng-model="dateType" 
-                     ng-options="key as value for (key , value) in datesList" style="height:35px;width:200px;margin-top: 10px;" ng-class="{'bold':dateType == 'Day/Dates'}">
+                            <select ng-model="dateType"
+                     ng-options="key as value for (key , value) in datesList" style="height:35px;width:200px;margin-top: 10px;">
+                                   <!-- ng-class="{'bold':dateType === 'Day/Dates'}">-->
                         </select>
-                            
-                        </div> 
+
+                        </div>
                        <div class="col-md-12 col-lg-12 col-xs-12" ng-show="dateType=='Custom'">
                            <div class="row">
 
@@ -154,96 +274,98 @@ option:nth-child(1) {
                                       </span>
                                     </p>
                                   </div>
-                           </div>       
+                           </div>
                        </div>
-                        
-                
+
+
                           <div class="col-md-6 col-lg-6 col-xs-12">
 
                             <!--<div dropdown-select="countries" dropdown-model="selectedLoc" dropdown-disabled="dropdownsDisabled" ></div> -->
 
-                              <!--<select ng-model="selectedLoc" 
+                              <!--<select ng-model="selectedLoc"
                                  ng-options="record as record for record in countries" style="height:35px;width:200px;margin-top: 10px;">
                                <option value=''>Country</option>
                             </select>-->
 
-                              <select ng-model="selectedLoc" 
-                                 ng-options="key as value for (key , value) in countries" style="height:30px;width:200px;margin-top: 20px;" ng-class="{'bold':selectedLoc == 'Country'}">
-                               
+                              <select ng-model="selectedLoc"
+                                 ng-options="key as value for (key , value) in countries" style="height:30px;width:245px;margin-top: 20px;" >
+                                   <!-- ng-class="{'bold':selectedLoc == 'Country'}">-->
+
                             </select>
 
 
                           </div>
-                          
+
                           <div class="col-md-6 col-lg-6 col-xs-12">
                              <!--<h1>Select Game</h1>
                             <div dropdown-select="games" dropdown-model="selectedGame" dropdown-disabled="dropdownsDisabled"></div>-->
 
-                              <select ng-model="selectedGame" 
-                                 ng-options="record as record for record in games" style="height:30px;width:200px;margin-top: 20px;" ng-class="{'bold':selectedGame == 'Sport'}">
-                               
+                              <select ng-model="selectedGame"
+                                 ng-options="key as value for (key , value) in games" style="height:30px;width:245px;margin-top: 20px;"> <!-- ng-class="{'bold':selectedGame == 'Sport'}">-->
+
                               </select>
-                          </div>  
-                            
+                          </div>
+
                             <div class="col-xs-12">&nbsp;</div>
-                
+
                             <div class="col-lg-4 col-md-4 col-xs-12">
                     <button class='btn btn-md' style='background-color: #C8AA76;color: #171758;' ng-click='$app.clearFilters()'>Clear Search</button>
                 </div>
                 <div class="col-xs-1 col-lg-2 col-md-2" >&nbsp;</div>
             <div id="events" class="col-lg-2 col-md-2 col-xs-12">
-                
-                    <button class='btn btn-md' style='background-color: #096735;color: #FFFFFF;' ng-click='$app.filterEvents()'>Search Events</button>
+
+                    <button class='btn btn-md' style='background-color: #096735;color: #FFFFFF;' ng-click='$app.filterEvents()' ng-disabled="isLoading">Search Events</button>
                 </div>
-							
-							
-           
+
+
+
                </div>
-                
-                    
-                
+
+
+
                 <div class="col-md-1 col-lg-1 col-xs-12">
                     &nbsp;
-                </div>    
-           
-            
-                 <div class="col-md-5 col-lg-5 col-xs-12"><img src="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/58fa23cedb29d610dd22136b/1492788176671/1_final-map-incl-location-pointe.png?format=750w" alt="" width="300" height="200" style=""/></div>
-                
-           
-               
-           
-           
+                </div>
+
+
+                 <div class="col-md-5 col-lg-5 col-xs-12"><img src ="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/59079067bebafb87ca4673f0/1493667958081/?format=2500w"/></div>
+
+
+
+
+
             </div>
-            
+
             <div class="row">
-			
-           
-           
+
+
+
             </div>
-       
-       </div> 
-       
+
+       </div>
+
        <div ng-show="isLoading">
-        <img class="col-xs-12" src="{{loadPng}}" alt="some_text" style="width:200px;height:200px;">
-       </div>       
-       
-        
-       
-        <div ng-show="showEvents">
+        <img class="col-xs-12" src="https://static1.squarespace.com/static/5890efea3e00beee6266a621/t/591298f3a5790a0c228e4757/1494391028318/Loading.png?format=500w" alt="some_text" style="width:240px;height:129px;">
+       </div>
+
+
+
+        <div ng-show="showEvents" ng-cloak style="font-family: adelle-sans;">
 				<div class="col-xs-12" >&nbsp;</div>
-                <h1 ng-if="eventsResultsFilteredNew.length > 0">Events in the selected Date Range</h1>
-                <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0"> No Events Found</h1>
+            <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText"><strong>Events in the selected date range </strong></h1>
+            <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
+
+                <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
                 <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
                           </span>
-                        
+
                         </div>
-                        <div ng-if="dateType != 'Today'">
-                       <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                                    <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                           </div>
+                       <div ng-if="dateType !== 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
                     <div ng-repeat='event in dateTimes.listValue | orderBy: "country" '>
                         <div ng-if="event.country">
                    <!-- <li>-->
@@ -256,29 +378,41 @@ option:nth-child(1) {
                         </div>
                         <!--<div class="col-sm-12"><br/></div>
                         <div class="col-sm-12"><br/></div>-->
-                       <div ng-if="dateType == 'Today'">
-                       <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                                    <div class="col-sm-12 col-xs-12 col-lg-12 col-md-12"><br/></div>
-                           </div>
-                    <!--</li>    
+                       <div ng-if="dateType == 'Today'" class="col-sm-12"><br class="rwd-break">
+                                <br class="rwd-break">
+                                <br class="rwd-break"></div>
+                    <!--</li>
                     <li>-->
-                            
+
                             <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
-                                    
-                                    <div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
-                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}} </div>
-                                <div class="col-sm-2"><strong>{{games.start_time}} local 
-                                    <br/>{{games.gmtTime}} GMT </strong></div> 
-                                
-                                        <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>  
+
+                                    <!--<div class="col-sm-3" ng-if="dateType != 'Today'">{{event.country}}, {{games.LOCATION}} </div>
+                                    <div class="col-sm-3" ng-if="dateType == 'Today'">{{games.LOCATION}}</div>-->
+                                 <div class="col-sm-3" ng-if="dateType != 'Today'">
+                                        <div class="col-sm-12 col-xs-12">{{event.country}}, {{games.loc1}}</div> <div class="col-sm-12 col-xs-12"> {{games.loc2}} </div>
+                                     </div>
+
+                                <div class="col-sm-3" ng-if="dateType == 'Today'"><div class="col-sm-12">{{games.loc1}}</div>
+
+                                    <div class="col-sm-12"> {{games.loc2}} </div> </div>
+
+                                <!--<div class="col-sm-2" ng-if="games.isTBC === 'false'"><strong>{{games.start_time}}
+                                    <br/>{{games.gmtTime}}<br/>{{games.userLocalTime}}</strong></div>-->
+
+                                <div class="col-sm-2 col-xs-12" ng-if="games.isTBC === 'false'"><strong><div class="col-sm-12" ng-bind-html="games.start_time"></div> <div class="col-sm-12" ng-bind-html="games.gmtTime"></div><div class="col-sm-12" ng-bind-html="games.userLocalTime"></div></strong></div>
+
+                                <div class="col-sm-2" ng-if="games.isTBC  === 'true'"><strong>{{games.start_time}}</strong></div>
+
+
+                                        <div class="col-sm-4"><strong>{{games.SUMMARY}} </strong><br/></div>
 									 <div class="col-sm-3">{{games.sport}} <br/> {{games.league}}</div>
-									                                
+
                                 <div class="col-sm-12"><hr/><br/></div>
                             </div>
                         </div>
-                   <!-- </li>-->  
+                   <!-- </li>-->
                     </div>
-                </div>    
+                </div>
               </div>
   </body>
 

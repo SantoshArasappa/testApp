@@ -1,0 +1,285 @@
+BEGIN:VCALENDAR
+PRODID:-//ESPN Cricinfo//Series Fixtures//EN
+VERSION:2.0
+METHOD:PUBLISH
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 1)
+DTSTART:20170706T100000Z
+DTEND:20170706T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 2)
+DTSTART:20170707T100000Z
+DTEND:20170707T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 3)
+DTSTART:20170708T100000Z
+DTEND:20170708T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 4)
+DTSTART:20170709T100000Z
+DTEND:20170709T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:1st Test England v South Africa (Day 5)
+DTSTART:20170710T100000Z
+DTEND:20170710T180000Z
+LOCATION:Lord's, London
+TRANSP:OPAQUE
+UID:1031437_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 1)
+DTSTART:20170714T100000Z
+DTEND:20170714T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 2)
+DTSTART:20170715T100000Z
+DTEND:20170715T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 3)
+DTSTART:20170716T100000Z
+DTEND:20170716T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 4)
+DTSTART:20170717T100000Z
+DTEND:20170717T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:2nd Test England v South Africa (Day 5)
+DTSTART:20170718T100000Z
+DTEND:20170718T180000Z
+LOCATION:Trent Bridge, Nottingham
+TRANSP:OPAQUE
+UID:1031439_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 1)
+DTSTART:20170727T100000Z
+DTEND:20170727T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 2)
+DTSTART:20170728T100000Z
+DTEND:20170728T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 3)
+DTSTART:20170729T100000Z
+DTEND:20170729T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 4)
+DTSTART:20170730T100000Z
+DTEND:20170730T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:3rd Test England v South Africa (Day 5)
+DTSTART:20170731T100000Z
+DTEND:20170731T180000Z
+LOCATION:Kennington Oval, London
+TRANSP:OPAQUE
+UID:1031441_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 1)
+DTSTART:20170804T100000Z
+DTEND:20170804T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_1
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 2)
+DTSTART:20170805T100000Z
+DTEND:20170805T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_2
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 3)
+DTSTART:20170806T100000Z
+DTEND:20170806T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_3
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 4)
+DTSTART:20170807T100000Z
+DTEND:20170807T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_4
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest South Africa tour of England news at: http://www.espncricinfo.com/england-v-south-africa-2017/content/series/1031417.html \n\n 
+SUMMARY:4th Test England v South Africa (Day 5)
+DTSTART:20170808T100000Z
+DTEND:20170808T180000Z
+LOCATION:Old Trafford, Manchester
+TRANSP:OPAQUE
+UID:1031443_5
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+END:VEVENT
+END:VCALENDAR
