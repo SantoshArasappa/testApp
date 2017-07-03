@@ -157,3 +157,93 @@ URL:/rugby/match_centre.php?section=overview&amp;fixid=227231
 UID:20180317T170000ZWales v France
 END:VEVENT
 END:VCALENDAR
+BEGIN:VENT
+DTSTART:20190201T2100Z
+LOCATION:Stade de France, Paris, France
+DESCRIPTION:Six Nations Championship
+SUMMARY:France v Wales
+END:VENT
+BEGIN:VENT
+DTSTART:20190202T1415Z
+LOCATION:BT Murrayfield, Edinburgh, Scotland
+DESCRIPTION:Six Nations Championship
+SUMMARY:Scotland v Italy
+END:VENT
+BEGIN:VENT
+DTSTART:20190202T1645Z
+LOCATION:Aviva Stadium, Dublin, Ireland
+DESCRIPTION:Six Nations Championship
+SUMMARY:Ireland v England
+END:VENT
+BEGIN:VENT
+DTSTART:20190209T1415Z
+LOCATION:BT Murrayfield, Edinburgh, Scotland
+DESCRIPTION:Six Nations Championship
+SUMMARY:Scotland v Ireland
+END:VENT
+BEGIN:VENT
+DTSTART:20190209T1745Z
+LOCATION:Stadio Olimpico, Rome, Italy
+DESCRIPTION:Six Nations Championship
+SUMMARY:Italy v Wales
+END:VENT
+BEGIN:VENT
+DTSTART:20190210T1500Z
+LOCATION:Twickenham Stadium, London, England
+DESCRIPTION:Six Nations Championship
+SUMMARY:England v France
+END:VENT
+BEGIN:VENT
+DTSTART:20190223T1515Z
+LOCATION:Stade de France, Paris, France
+DESCRIPTION:Six Nations Championship
+SUMMARY:France v Scotland
+END:VENT
+BEGIN:VENT
+DTSTART:20190223T1645Z
+LOCATION:Principality Stadium, Cardiff, Wales
+DESCRIPTION:Six Nations Championship
+SUMMARY:Wales v England
+END:VENT
+BEGIN:VENT
+DTSTART:20190224T1600Z
+LOCATION:Stadio Olimpico, Rome, Italy
+DESCRIPTION:Six Nations Championship
+SUMMARY:Italy v Ireland
+END:VENT
+BEGIN:VENT
+DTSTART:20190309T1415Z
+LOCATION:BT Murrayfield, Edinburgh, Scotland
+DESCRIPTION:Six Nations Championship
+SUMMARY:Scotland v Wales
+END:VENT
+BEGIN:VENT
+DTSTART:20190309T1645Z
+LOCATION:Twickenham Stadium, London, England
+DESCRIPTION:Six Nations Championship
+SUMMARY:England v Italy
+END:VENT
+BEGIN:VENT
+DTSTART:20190310T1500Z
+LOCATION:Aviva Stadium, Dublin, Ireland
+DESCRIPTION:Six Nations Championship
+SUMMARY:Ireland v France
+END:VENT
+BEGIN:VENT
+DTSTART:20190316T1330Z
+LOCATION:Stadio Olimpico, Rome, Italy
+DESCRIPTION:Six Nations Championship
+SUMMARY:Italy v France
+END:VENT
+BEGIN:VENT
+DTSTART:20190316T1445Z
+LOCATION:Principality Stadium, Cardiff, Wales
+DESCRIPTION:Six Nations Championship
+SUMMARY:Wales v Ireland
+END:VENT
+BEGIN:VENT
+DTSTART:20190316T1700Z
+LOCATION:Twickenham Stadium, London, England
+DESCRIPTION:Six Nations Championship
+SUMMARY:England v Scotland
+END:VENT
