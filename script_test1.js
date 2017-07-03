@@ -392,6 +392,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
         "Ireland": "Ireland", 
         "Italy": "Italy",
         "Japan": "Japan",
+        "Luxembourg":"Luxembourg",
         "Malaysia": "Malaysia",
         "Mexico": "Mexico",
         "Monaco": "Monaco",
@@ -484,7 +485,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
 	countriesMap.set("Sweden","Sweden");
 	countriesMap.set('Netherlands','Netherlands');
     countriesMap.set("Poland","Poland");
-    
+    countriesMap.set("Luxembourg","Luxembourg");
     
     
     
@@ -519,7 +520,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Malaysia','-8:00');
     $scope.gmtMap.set('Worcester','-01:00');
     $scope.gmtMap.set('Colwyn Bay','-01:00');
-    
+    $scope.gmtMap.set('Luxembourg','02:00');
+    $scope.gmtMap.set('Belgium','02:00');
     
     $scope.gamesMap = new Map();
     $scope.gamesMap.set('Motor_Racing','Motor Racing');
@@ -666,6 +668,21 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Cycling",
+		value: "Tour_de_France.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Belgium/Cycling",
+		value: "Tour_de_France.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Germany/Cycling",
+		value: "Tour_de_France.ics"
+
+	},
+    {
+		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/Luxembourg/Cycling",
 		value: "Tour_de_France.ics"
 
 	},
