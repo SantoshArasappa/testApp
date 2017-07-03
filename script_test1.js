@@ -517,6 +517,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     $scope.gmtMap.set('Germany','02:00');
     $scope.gmtMap.set('Great_Britain','1:00');
     $scope.gmtMap.set('Malaysia','-8:00');
+    $scope.gmtMap.set('Worcester','-01:00');
+    $scope.gmtMap.set('Colwyn Bay','-01:00');
     
     
     $scope.gamesMap = new Map();
@@ -1167,7 +1169,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 }else{  
                     in_event = false;
                     cur_event["sport"] = gameConvert;
-                    cur_event["country"] = 'India';
+                    cur_event["country"] = countrySent;
                     cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
                     addToList = true;
                    // this.events.push(cur_event);
@@ -1192,7 +1194,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         cur_event.isTBC = 'true';
                     }else{
                         if(isGmt){
-                            
+                           // console.log("cur_eventcountryyyyy" + cur_event["country"]);
                             var gmtList = ($scope.gmtMap.get(cur_event["country"])).split(':');
                             
                             //Add to the original GMT time
@@ -1507,6 +1509,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         myDataPromise.then(function(result) {
             tmp_this.raw_data = result.value;
             this.url = result.url;
+          //  console.log("this.url newwwwww" + this.url);
             var folds = ((this.url).substr(1)).split("/");
             var leng = folds.length;
             if(result.country){
@@ -1748,6 +1751,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         myDataPromise.then(function(result) {1
             tmp_this.raw_data = result.value;
             this.url = result.url;
+            console.log("this.url newwwwww" + this.url);
             var folds = ((this.url).substr(1)).split("/");
             var leng = folds.length;
             if(result.country){
@@ -2054,12 +2058,12 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                
                
         var d = new Date();
-        console.log("date value is:" + d);
-        console.log("to string" + d.toString());
+       // console.log("date value is:" + d);
+      //  console.log("to string" + d.toString());
         $scope.dateValue = d;
         $scope.theString = d.toString();
                $scope.zoneValue = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'});
-               console.log("zone" + $scope.zoneValue);
+             //  console.log("zone" + $scope.zoneValue);
                $scope.localTimeZone = new Date().toLocaleTimeString('en-GB',{timeZoneName:'long'}); 
         // var d1 = new Date().toString().match(/\(([A-Za-z\s].*)\)/)[1];
          /*var listV = d1.split(' ');
@@ -2507,8 +2511,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                           //  this.game = cal.game;
                             var calObj = angular.copy(cal.events);
                             var urlValue = cal.url;
-                            console.log("Url reading" +  urlValue);
-                            console.log("size reading" +  calObj.length);
+                          //  console.log("Url reading" +  urlValue);
+                          //  console.log("size reading" +  calObj.length);
                             $scope.FileUrlReadMap.set(cal.url,calObj);
                             
                         },dateFirst,dateInLoop,null);
