@@ -1126,7 +1126,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         var isOffSet = false;
         
 		for(var i=0;i<cal_array.length;i++){
-            if(country !== 'Multi'){
+         //   if(country !== 'Multi'){
 			ln = cal_array[i].trim();
 			//If we encounted a new Event, create a blank event object + set in event options.
 			if(!in_event && ln == 'BEGIN:VEVENT'){
@@ -1149,21 +1149,21 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                 cur_event.loc2 = locList[1];
                 if(locList.length > 2){
                    var countryInside = locList[2];
-                    if(countryInside.trim() === country || country == 'default'){
+                   // if(countryInside.trim() === country || country == 'default'){
                         in_event = false;
                         
                         cur_event["sport"] = gameConvert;
-                        if(country == 'default'){
+                        /*if(country == 'default'){
                             cur_event["country"] = countryInside.trim();
                         }else{
                             cur_event["country"] = country;
-                        }
-                        
+                        }*/
+                        cur_event["country"] = countryInside.trim();
                         cur_event["league"] = this.league.replace(new RegExp("_", 'gi'), " ");
                         addToList = true;
                         
                         
-                    }
+                    //}
                 }else{  
                     in_event = false;
                     cur_event["sport"] = gameConvert;
@@ -1441,7 +1441,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 				cur_event[type] = val;
 			}
             
-        }
+        //}
 		}
 		//Run this to finish proccessing our Events.
 		this.complete();
