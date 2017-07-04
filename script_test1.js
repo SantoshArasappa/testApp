@@ -93,7 +93,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('Scotland','Pro12.ics,Six_Nations_Championship.ics');
      RugbyMap.set('Italy','Pro12.ics,Six_Nations_Championship.ics');
      RugbyMap.set('Wales','Pro12.ics,Six_Nations_Championship.ics');
-     RugbyMap.set('France','Pro12.ics,Six_Nations_Championship.ics');
+     RugbyMap.set('France','Pro12.ics,Six_Nations_Championship.ics,Rugby_Union_Top_14.ics');
     
      RugbyMap.set('Australia','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
      RugbyMap.set('South_Africa','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
@@ -103,7 +103,6 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      RugbyMap.set('Argentina','Super_Rugby.ics,Rugby_Championship.ics,2017_Rugby_Championship.ics');
      RugbyMap.set('Fiji','Super_Rugby.ics');
      RugbyMap.set('Samoa','Super_Rugby.ics');
-     RugbyMap.set('France','Rugby_Union_Top_14.ics');
     
      var engFootballMap = new Map();
     
@@ -123,19 +122,9 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     
     var boxingMap = new Map();
     
-    boxingMap.set('Sweden','UFC.ics'); 
-    boxingMap.set('Brazil','UFC.ics');
-    boxingMap.set('New_Zealand','UFC.ics');
-    boxingMap.set('Singapore','UFC.ics');
-    boxingMap.set('USA','UFC.ics'); 
-    boxingMap.set('Mexico','UFC.ics');
-    boxingMap.set('Netherlands','UFC.ics');
-    boxingMap.set('Canada','UFC.ics');
-    boxingMap.set('Japan','UFC.ics'); 
-    boxingMap.set('Poland','UFC.ics');
-    boxingMap.set('Scotland','UFC.ics');
     
-    
+    boxingMap.set('USA','UFC.ics,Boxing.ics'); 
+    boxingMap.set('Australia','Boxing.ics');
     
     
     var USAIceHockeyMap = new Map();
@@ -470,7 +459,7 @@ $scope.gameFileListNew =
 	},
     {
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/England/Cricket",
-		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics,ICC_Champions_Trophy.ics,Royal_London_One_Day_Cup.ics"
+		value: "NatWest_T20_Blast.ics,Specsavers_County_Championship_Division_One.ics,Specsavers_County_Championship_Division_Two.ics,ICC_Champions_Trophy.ics,Royal_London_One_Day_Cup.ics,South_Africa_tour_of_England.ics"
 	},
 	{
 		url: "https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games/France/Golf",
