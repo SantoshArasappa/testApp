@@ -108,10 +108,10 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
      var engFootballMap = new Map();
     
     //engFootballMap.set('default','English_Premier_League.ics'); 
-    engFootballMap.set('England','English_Premier_League.ics');
+    engFootballMap.set('England','English_Premier_League.ics,World_Cup.ics');
     engFootballMap.set('Wales','English_Premier_League.ics,UEFA_Champions_League_Final.ics');
     engFootballMap.set('Sweden','UEFA_Champions_League_Final.ics');
-    //engFootballMap.set('USA','NFL.ics');
+    engFootballMap.set('USA','World_Cup.ics');
     
     var amFootballMap = new Map();
     amFootballMap.set('England','NFL.ics');
@@ -902,6 +902,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
                 var addToList = false;
+                console.log('cur_event.LOCATION:' + cur_event.LOCATION);
                 var locList = cur_event.LOCATION.split(',');
                 cur_event.loc1 = locList[0];
                 cur_event.loc2 = locList[1];
