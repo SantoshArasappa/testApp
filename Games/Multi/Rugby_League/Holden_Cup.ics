@@ -5,220 +5,223 @@ DTSTART:20170722T171500Z
 SUMMARY:North Queensland Cowboys v New Zealand Warriors
 DESCRIPTION:Holden Cup
 UID:20170722T171500ZNorth Queensland Cowboys v New Zealand Warriors
-END:VEVENT
 LOCATION:1300Smiles Stadium, Townsville, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170707T173500Z
 SUMMARY:Sydney Roosters v South Sydney Rabbitohs
 DESCRIPTION:Holden Cup
 UID:20170707T173500ZSydney Roosters v South Sydney Rabbitohs
-END:VEVENT
 LOCATION:Allianz Stadium, Sydney, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170721T154500Z
 SUMMARY:Sydney Roosters v Newcastle Knights
 DESCRIPTION:Holden Cup
 UID:20170721T154500ZSydney Roosters v Newcastle Knights
-END:VEVENT
+
 LOCATION:Allianz Stadium, Sydney, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170629T173500Z
 SUMMARY:Parramatta Eels v Canterbury Bankstown Bulldogs
 DESCRIPTION:Holden Cup
 UID:20170629T173500ZParramatta Eels v Canterbury Bankstown Bulldogs
-END:VEVENT
+
 LOCATION:ANZ Stadium, Sydney, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170702T134500Z
 SUMMARY:South Sydney Rabbitohs v Penrith Panthers
 DESCRIPTION:Holden Cup
 UID:20170702T134500ZSouth Sydney Rabbitohs v Penrith Panthers
-END:VEVENT
+
 LOCATION:ANZ Stadium, Sydney, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170723T114500Z
 SUMMARY:Wests Tigers v Parramatta Eels
 DESCRIPTION:Holden Cup
 UID:20170723T114500ZWests Tigers v Parramatta Eels
-END:VEVENT
 LOCATION:ANZ Stadium, Sydney, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170715T130000Z
 SUMMARY:South Sydney Rabbitohs v North Queensland Cowboys
 DESCRIPTION:Holden Cup
 UID:20170715T130000ZSouth Sydney Rabbitohs v North Queensland Cowboys
-END:VEVENT
 LOCATION:Barlow Park, Parramatta Park, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170709T113000Z
 SUMMARY:Canterbury Bankstown Bulldogs v Newcastle Knights
 DESCRIPTION:Holden Cup
 UID:20170709T113000ZCanterbury Bankstown Bulldogs v Newcastle Knights
-END:VEVENT
 LOCATION:Belmore Sports Ground, Belmore, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170630T154500Z
 SUMMARY:Gold Coast Titans v St George Illawarra Dragons
 DESCRIPTION:Holden Cup
 UID:20170630T154500ZGold Coast Titans v St George Illawarra Dragons
-END:VEVENT
 LOCATION:CBus Super Stadium, Robina, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170715T171500Z
 SUMMARY:Gold Coast Titans v Cronulla Sutherland Sharks
 DESCRIPTION:Holden Cup
 UID:20170715T171500ZGold Coast Titans v Cronulla Sutherland Sharks
-END:VEVENT
 LOCATION:CBus Super Stadium, Robina, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170701T130000Z
 SUMMARY:Sydney Roosters v Cronulla Sutherland Sharks
 DESCRIPTION:Holden Cup
 UID:20170701T130000ZSydney Roosters v Cronulla Sutherland Sharks
-END:VEVENT
 LOCATION:Central Coast Stadium, Gosford, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170701T171500Z
 SUMMARY:Canberra Raiders v North Queensland Cowboys
 DESCRIPTION:Holden Cup
 UID:20170701T171500ZCanberra Raiders v North Queensland Cowboys
-END:VEVENT
 LOCATION:GIO Stadium, Canberra, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170714T173500Z
 SUMMARY:Canberra Raiders v St George Illawarra Dragons
 DESCRIPTION:Holden Cup
 UID:20170714T173500ZCanberra Raiders v St George Illawarra Dragons
-END:VEVENT
 LOCATION:GIO Stadium, Canberra, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170722T151500Z
 SUMMARY:Canberra Raiders v Melbourne Storm
 DESCRIPTION:Holden Cup
 UID:20170722T151500ZCanberra Raiders v Melbourne Storm
-END:VEVENT
 LOCATION:GIO Stadium, Canberra, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170701T104500Z
 SUMMARY:Manly Warringah Sea Eagles v New Zealand Warriors
 DESCRIPTION:Holden Cup
 UID:20170701T104500ZManly Warringah Sea Eagles v New Zealand Warriors
-END:VEVENT
 LOCATION:Lottoland, Brookvale, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170716T114500Z
 SUMMARY:Manly Warringah Sea Eagles v Wests Tigers
 DESCRIPTION:Holden Cup
 UID:20170716T114500ZManly Warringah Sea Eagles v Wests Tigers
-END:VEVENT
 LOCATION:Lottoland, Brookvale, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170702T114500Z
 SUMMARY:Newcastle Knights v Wests Tigers
 DESCRIPTION:Holden Cup
 UID:20170702T114500ZNewcastle Knights v Wests Tigers
-END:VEVENT
 LOCATION:McDonald Jones Stadium, Newcastle, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170715T131500Z
 SUMMARY:Newcastle Knights v Brisbane Broncos
 DESCRIPTION:Holden Cup
 UID:20170715T131500ZNewcastle Knights v Brisbane Broncos
-END:VEVENT
 LOCATION:McDonald Jones Stadium, Newcastle, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-12:00
 DTSTART:20170714T174500Z
 SUMMARY:New Zealand Warriors v Penrith Panthers
 DESCRIPTION:Holden Cup
 UID:20170714T174500ZNew Zealand Warriors v Penrith Panthers
-END:VEVENT
 LOCATION:Mt Smart Stadium, Auckland, New Zealand
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170708T131500Z
 SUMMARY:Penrith Panthers v Manly Warringah Sea Eagles
 DESCRIPTION:Holden Cup
 UID:20170708T131500ZPenrith Panthers v Manly Warringah Sea Eagles
-END:VEVENT
 LOCATION:Pepper Stadium, Penrith, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170722T104500Z
 SUMMARY:Penrith Panthers v Gold Coast Titans
 DESCRIPTION:Holden Cup
 UID:20170722T104500ZPenrith Panthers v Gold Coast Titans
-END:VEVENT
 LOCATION:Pepper Stadium, Penrith, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170721T173500Z
 SUMMARY:Cronulla Sutherland Sharks v South Sydney Rabbitohs
 DESCRIPTION:Holden Cup
 UID:20170721T173500ZCronulla Sutherland Sharks v South Sydney Rabbitohs
-END:VEVENT
 LOCATION:Southern Cross Group Stadium, Woolooware, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170630T171000Z
 SUMMARY:Brisbane Broncos v Melbourne Storm
 DESCRIPTION:Holden Cup
 UID:20170630T171000ZBrisbane Broncos v Melbourne Storm
-END:VEVENT
 LOCATION:Suncorp Stadium, Brisbane, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170708T145500Z
 SUMMARY:Melbourne Storm v Parramatta Eels
 DESCRIPTION:Holden Cup
 UID:20170708T145500ZMelbourne Storm v Parramatta Eels
-END:VEVENT
 LOCATION:Sunshine Coast Stadium, Bokarina, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170812T144500Z
 SUMMARY:Melbourne Storm v Sydney Roosters
 DESCRIPTION:Holden Cup
 UID:20170812T144500ZMelbourne Storm v Sydney Roosters
-END:VEVENT
 LOCATION:Sunshine Coast Stadium, Bokarina, Australia
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170826T144500Z
 SUMMARY:Melbourne Storm v South Sydney Rabbitohs
 DESCRIPTION:Holden Cup
 UID:20170826T144500ZMelbourne Storm v South Sydney Rabbitohs
-END:VEVENT
 LOCATION:Sunshine Coast Stadium, Bokarina, Australia
+END:VEVENT
 BEGIN:VEVENT
 DTSTART:20170722T119911Z
 SUMMARY:Brisbane Broncos v Canterbury Bankstown Bulldogs
 DESCRIPTION:Holden Cup
 UID:20170722T119911ZBrisbane Broncos v Canterbury Bankstown Bulldogs
-END:VEVENT
 LOCATION:TBC
+END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170723T134500Z
 SUMMARY:St George Illawarra Dragons v Manly Warringah Sea Eagles
 DESCRIPTION:Holden Cup
 UID:20170723T134500ZSt George Illawarra Dragons v Manly Warringah Sea Eagles
-END:VEVENT
 LOCATION:WIN Stadium, Wollongong, Australia
+END:VEVENT
