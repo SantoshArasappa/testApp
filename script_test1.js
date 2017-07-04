@@ -902,7 +902,6 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
 			//If we encounter end event, complete the object and add it to our events array then clear it for reuse.
 			if(in_event && ln == 'END:VEVENT'){
                 var addToList = false;
-                console.log('cur_event.LOCATION:' + cur_event.LOCATION);
                 var locList = cur_event.LOCATION.split(',');
                 cur_event.loc1 = locList[0];
                 cur_event.loc2 = locList[1];
