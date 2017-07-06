@@ -2001,7 +2001,13 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                         $scope.places = [];
                                         var formatedDatesList = new Map();
                                         formatedDatesList.set(dateInLoop,dateInLoop);
-                                        var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList,null);
+                                        var countryToFilter = null;
+                                        if(folders.url.includes("Multi")){
+                                            countryToFilter = country;
+                                        }
+                                       
+                                       
+                                        var returnResults = displayDemoWithFilters($scope.eventsResults,formatedDatesList,countryToFilter);
 
                                             var getCountyFromMap = '';
                                             if(countriesMap.get(country)){
