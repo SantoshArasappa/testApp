@@ -29,6 +29,14 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
     return { getData: getData };
 })
 
+.filter('startFrom', function() {
+    return function(input, start) {
+        if (!input || !input.length) { return; }
+        start = +start; //parse to int
+        return input.slice(start);
+    }
+})
+
 .controller('AppCtrl', function($scope, $http, services) {
   this.activeDate = null;
   var test123456 = null;
@@ -37,6 +45,8 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.isLoading = false;    
   $scope.selectedDates = undefined;
   $scope.selectedDates2 = [new Date().setHours(0, 0, 0, 0)];
+  $scope.currentPage = 0;
+  $scope.pageSize = 10;
   this.type = 'individual';
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
   var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65';
@@ -45,6 +55,11 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
  // var parentFolder = 'https://github.com/SantoshArasappa/testApp/tree/7e0ef7ffb8e09571e575da7c8b05031fda7d28ca/Games';
     //'https://github.com/SantoshArasappa/testApp.git/tree/master/Games?raw=true';
     
+    
+  
+   $scope.numberOfPages=function(){
+        return Math.ceil($scope.eventsResultsFilteredNew.length/$scope.pageSize);                
+    }    
     
   var parentFolder = '/Games';
   $scope.show2pickers = false;
@@ -987,6 +1002,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 nextDayVar = '<br/>(+1 day)';
                             }
                             
+                            nextDayVar = ''; //Ravi Change later
+                            
                             cur_event.gmtTime = dt.hour+':'+dt.minute + ' GMT' + nextDayVar;
                             
                             var gmtLocalListDay = theGmtLocalFutureTime.split(":");
@@ -1015,11 +1032,13 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 hoursInLocal = hoursInLocal * (-1);
                             }
                             
+                            nextDayVarLocal = ''; //Ravi Change later
+                            
                             function pad(num) {
                                 return ("0"+num).slice(-2);
                             }
                             
-                            
+                            nextDayVarLocal = '';
                             cur_event.userLocalTime = pad(hoursInLocal) + ':' + pad(minsLocal) + ' ' + $scope.localGMTOffsetFormat + nextDayVarLocal;
                             
                             
@@ -1086,6 +1105,8 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 nextDayVar = '<br/>(-1 day)';
                             }
                             
+                            nextDayVar = '';// Ravi Change later
+                            
                             cur_event.gmtTime = theFutureTime + ' GMT' + nextDayVar;
                             
                             
@@ -1115,6 +1136,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                                 hoursInLocal = hoursInLocal * (-1) ;
                             }
                             
+                            nextDayVarLocal = '';  //Ravi Change later
                             
                             function pad(num) {
                                 return ("0"+num).slice(-2);
@@ -2115,6 +2137,10 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
         
     };
 
+    $scope.numberOfPages=function(){
+        return Math.ceil($scope.eventsResultsFilteredNew.length/$scope.pageSize);                
+    }
+    
     
     $scope.findAndReplaceWithTime = function(object, value, dateInLoop, replacevalue){
         var found = false;

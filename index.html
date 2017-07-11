@@ -212,9 +212,17 @@
             Date value is: {{dateValue}} and toString value is {{theString}}
                 <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">
                     <strong>Events in the selected date range</strong>
+                    
+                <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
+        Previous
+    </button>
+    {{currentPage+1}}/{{numberOfPages()}}
+    <button ng-disabled="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">
+        Next
+    </button>
                 </h1>
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
+                <li ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort" | startFrom:currentPage*pageSize | limitTo:pageSize'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
@@ -240,7 +248,7 @@
                     <!--</li>    
                     <li>-->
                             
-                            <div class="row" ng-repeat='games in event.listValue | unique:"UID"'>
+                            <div class="row" ng-repeat='games in event.listValue | unique:"UID" '>
                                 
                                 
                                     <div class="col-sm-3 col-xs-12" ng-if="dateType != 'Today'">
@@ -263,7 +271,9 @@
                        </div>
                    <!-- </li>-->  
                     </div>
-                </div>    
+                </li>   
+            
+            
               </div>
   </body>
 
