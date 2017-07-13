@@ -224,11 +224,15 @@ a:hover {
                 <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">
                     <strong>Events in the selected date range</strong>
                   </h1>  
-            <a ng-href="#" ng-hide="currentPage == 0" ng-click="currentPage=currentPage-1">Previous</a>
-            {{currentPage+1}}/{{numberOfPages()}}
-            <a color="#C8AA76" ng-href="#" ng-hide="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">Next</a>
-                
-    
+            <div>
+            
+            <!--<a href="#" class="btn">Btn1</a>-->
+            
+            <div class="row-fluid" ng-show="showPagination">
+              <div class="col-xs-4 text-left"><a ng-href="#" ng-hide="currentPage == 0" ng-click="currentPage=currentPage-1">Previous</a> </div>
+              <div class="col-xs-4 text-center">{{currentPage+1}}/{{numberOfPages()}}</div>
+              <div class="col-xs-4 text-right"><a color="#C8AA76" ng-href="#" ng-hide="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">Next</a></div>
+            </div>
     
                 
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>

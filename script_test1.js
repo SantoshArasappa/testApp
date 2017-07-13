@@ -2081,6 +2081,11 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
                         $scope.eventsResultsFilteredNew = $scope.eventsResultsFiltered;
                         $scope.showEvents = true;
                         $scope.isLoading = false;
+                        if($scope.eventsResultsFilteredNew.length/$scope.pageSize > 1){
+                            $scope.showPagination = true;
+                        }else{
+                            $scope.showPagination = false;
+                        }
                     });
                 }, 100);
                 } else {
