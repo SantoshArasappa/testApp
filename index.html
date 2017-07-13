@@ -38,6 +38,17 @@
     color: black;
   }
       
+           
+a {
+    color: #C8AA76;
+}           
+    
+
+/* mouse over link */
+a:hover {
+    color: #C8AA76;
+}           
+           
 .headerText{
     
    /* font-family: adelle-sans;*/
@@ -212,15 +223,14 @@
             Date value is: {{dateValue}} and toString value is {{theString}}
                 <h1 ng-if="eventsResultsFilteredNew.length > 0" class="headerText">
                     <strong>Events in the selected date range</strong>
-                    
-                <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
-        Previous
-    </button>
-    {{currentPage+1}}/{{numberOfPages()}}
-    <button ng-disabled="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">
-        Next
-    </button>
-                </h1>
+                  </h1>  
+            <a ng-href="#" ng-hide="currentPage == 0" ng-click="currentPage=currentPage-1">Previous</a>
+            {{currentPage+1}}/{{numberOfPages()}}
+            <a color="#C8AA76" ng-href="#" ng-hide="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">Next</a>
+                
+    
+    
+                
                 <h1 ng-if="eventsResultsFilteredNew.length == 0"> No Events Found</h1>
                 <li ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort" | startFrom:currentPage*pageSize | limitTo:pageSize'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
@@ -273,6 +283,13 @@
                     </div>
                 </li>   
             
+             <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
+        Previous
+    </button>
+    {{currentPage+1}}/{{numberOfPages()}}
+    <button ng-disabled="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">
+        Next
+    </button>
             
               </div>
   </body>

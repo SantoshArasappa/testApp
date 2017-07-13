@@ -14,7 +14,7 @@
    <link rel="stylesheet" href="https://cdn.rawgit.com/SantoshArasappa/testApp/63fd29b8/dropdownMenu/page.css">
        <script type="text/javascript" src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/angular-dropdowns.js"></script>
     <!--<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/9e1dc188/script.js"></script>-->
-   <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/63d43882/script_test1.js"></script>
+   <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/3c51b3fc/script_test1.js"></script>
 	<script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/dist/moment.js"></script>
       <script src="https://cdn.rawgit.com/SantoshArasappa/testApp/107e95e4/gm.datepickerMultiSelect.js"></script>
   </head>
@@ -356,7 +356,15 @@ option:nth-child(1) {
             <h1 ng-if="!isError && eventsResultsFilteredNew.length == 0" class="headerText"><strong> No events found </strong></h1>
 
                 <font color="#C8AA76" ng-if="eventsResultsFilteredNew.length > 0">Home team first</font>
-                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort"'>
+            
+                <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
+                    Previous
+                </button>
+                {{currentPage+1}}/{{numberOfPages()}}
+                <button ng-disabled="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">
+                    Next
+                </button>
+                <div ng-repeat='dateTimes in eventsResultsFilteredNew | orderBy: "timeSort" | startFrom:currentPage*pageSize | limitTo:pageSize'>
                     <div ng-if="dateType != 'Today'" style="width: 100%; height: 20px; border-bottom: 1px solid black; text-align: center">
                           <span style="font-size: 30px; background-color: #FFFFFF; padding: 0 10px;">
                             {{dateTimes.time}}
@@ -414,6 +422,16 @@ option:nth-child(1) {
                    <!-- </li>-->
                     </div>
                 </div>
+            
+                <button ng-disabled="currentPage == 0" ng-click="currentPage=currentPage-1">
+                    Previous
+                </button>
+                {{currentPage+1}}/{{numberOfPages()}}
+                <button ng-disabled="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">
+                    Next
+                </button>
+            
+            
               </div>
   </body>
 
