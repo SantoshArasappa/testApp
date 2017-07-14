@@ -48,6 +48,7 @@ angular.module('app', ['ngDropdowns', 'ngAnimate', 'ngSanitize', 'ui.bootstrap',
   $scope.currentPage = 0;
   $scope.pageSize = 10;
   this.type = 'individual';
+  $scope.showPagination = false;
   var ical_file = 'https://cdn.rawgit.com/SantoshArasappa/testApp/117485d1/nfcnorth.ics';
   var fileUrl ='https://cdn.rawgit.com/SantoshArasappa/testApp/ac934c65';
   fileUrl = 'https://raw.githubusercontent.com/SantoshArasappa/testApp/master/Games';   
@@ -1547,7 +1548,7 @@ ical_parser = function (feed_url, callback,dateFirst,dateInLoop,countryReceived)
        var sportsNew = $scope.selectedGameNew;
        $scope.eventsResultsFilteredNew = [];
        var FileReadMap = new Map(); 
-       
+       $scope.showPagination = false;
        var dateFirst = false;
       
        if(!(($scope.dateType == 'Today' || $scope.dateType == 'week' || $scope.dateType == 'TwoWeeks' || $scope.dateType == 'Custom')) ){

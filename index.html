@@ -231,7 +231,7 @@ a:hover {
             <div class="row-fluid" ng-show="showPagination">
               <div class="col-xs-4 text-left"><a ng-href="#" ng-hide="currentPage == 0" ng-click="currentPage=currentPage-1">Previous</a> </div>
               <div class="col-xs-4 text-center">{{currentPage+1}}/{{numberOfPages()}}</div>
-              <div class="col-xs-4 text-right"><a color="#C8AA76" ng-href="#" ng-hide="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">Next</a></div>
+              <div class="col-xs-4 text-right"><a ng-href="#" ng-hide="currentPage >= eventsResultsFilteredNew.length/pageSize - 1" ng-click="currentPage=currentPage+1">Next</a></div>
             </div>
     
                 
