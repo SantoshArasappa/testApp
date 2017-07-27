@@ -2,10 +2,10 @@ ISOFFSET:TRUE
 BEGIN:VEVENT
 OFFSETTIME:-9:30
 DTSTART:20170622T192000Z
-SUMMARY:Adelaide Crows v Hawthorn Hawkes
+SUMMARY:Adelaide Crows v Hawthorn Hawks
 DESCRIPTION:AFL Premiership
 LOCATION:Adelaide Oval, Adelaide
-20170622T192000ZAdelaide Crows v Hawthorn Hawkes
+20170622T192000ZAdelaide Crows v Hawthorn Hawks
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-9:30
@@ -122,10 +122,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-08:00
 DTSTART:20170722T174000Z
-SUMMARY:Fremantle Dockers v Hawthorn Hawkes
+SUMMARY:Fremantle Dockers v Hawthorn Hawks
 DESCRIPTION:AFL Premiership
 LOCATION:Domain Stadium, Subiaco
-20170722T174000ZFremantle Dockers v Hawthorn Hawkes
+20170722T174000ZFremantle Dockers v Hawthorn Hawks
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-08:00
@@ -290,10 +290,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170819T192500Z
-SUMMARY:Carlton Blues v Hawthorn Hawkes
+SUMMARY:Carlton Blues v Hawthorn Hawks
 DESCRIPTION:AFL Premiership
 LOCATION:Etihad Stadium, Melbourne
-20170819T192500ZCarlton Blues v Hawthorn Hawkes
+20170819T192500ZCarlton Blues v Hawthorn Hawks
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
@@ -346,10 +346,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170702T152000Z
-SUMMARY:Hawthorn Hawkes v Collingwood Magpies
+SUMMARY:Hawthorn Hawks v Collingwood Magpies
 DESCRIPTION:AFL Premiership
 LOCATION:Melbourne Cricket Ground, Melbourne
-20170702T152000ZHawthorn Hawkes v Collingwood Magpies
+20170702T152000ZHawthorn Hawks v Collingwood Magpies
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
@@ -370,10 +370,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170715T134500Z
-SUMMARY:Geelong Cats v Hawthorn Hawkes
+SUMMARY:Geelong Cats v Hawthorn Hawks
 DESCRIPTION:AFL Premiership
 LOCATION:Melbourne Cricket Ground, Melbourne
-20170715T134500ZGeelong Cats v Hawthorn Hawkes
+20170715T134500ZGeelong Cats v Hawthorn Hawks
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
@@ -402,10 +402,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170728T195000Z
-SUMMARY:Hawthorn Hawkes v Sydney Swans
+SUMMARY:Hawthorn Hawks v Sydney Swans
 DESCRIPTION:AFL Premiership
 LOCATION:Melbourne Cricket Ground, Melbourne
-20170728T195000ZHawthorn Hawkes v Sydney Swans
+20170728T195000ZHawthorn Hawks v Sydney Swans
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
@@ -426,10 +426,10 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170806T152000Z
-SUMMARY:Richmond Tigers v Hawthorn Hawkes
+SUMMARY:Richmond Tigers v Hawthorn Hawks
 DESCRIPTION:AFL Premiership
 LOCATION:Melbourne Cricket Ground, Melbourne
-20170806T152000ZRichmond Tigers v Hawthorn Hawkes
+20170806T152000ZRichmond Tigers v Hawthorn Hawks
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
@@ -626,18 +626,18 @@ END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170708T134500Z
-SUMMARY:Hawthorn Hawkes v Great Western Sydney Giants
+SUMMARY:Hawthorn Hawks v Great Western Sydney Giants
 DESCRIPTION:AFL Premiership
 LOCATION:University of Tasmania Stadium, Launceston
-20170708T134500ZHawthorn Hawkes v Great Western Sydney Giants
+20170708T134500ZHawthorn Hawks v Great Western Sydney Giants
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
 DTSTART:20170813T152000Z
-SUMMARY:Hawthorn Hawkes v North Melbourne Kangaroos
+SUMMARY:Hawthorn Hawks v North Melbourne Kangaroos
 DESCRIPTION:AFL Premiership
 LOCATION:University of Tasmania Stadium, Launceston
-20170813T152000ZHawthorn Hawkes v North Melbourne Kangaroos
+20170813T152000ZHawthorn Hawks v North Melbourne Kangaroos
 END:VEVENT
 BEGIN:VEVENT
 OFFSETTIME:-10:00
