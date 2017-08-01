@@ -19,7 +19,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Worcestershire v Warwickshire
+SUMMARY:North Group Worcestershire v Birmingham
 DTSTART:20170707T163000Z
 DTEND:20170707T203000Z
 LOCATION:County Ground, New Road, Worcester
@@ -117,7 +117,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Nottinghamshire
+SUMMARY:North Group Birmingham v Nottinghamshire
 DTSTART:20170708T180000Z
 DTEND:20170708T220000Z
 LOCATION:Edgbaston, Birmingham
@@ -285,7 +285,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Nottinghamshire
+SUMMARY:North Group Birmingham v Nottinghamshire
 DTSTART:20170714T173000Z
 DTEND:20170714T213000Z
 LOCATION:Edgbaston, Birmingham
@@ -383,7 +383,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Leicestershire
+SUMMARY:North Group Birmingham v Leicestershire
 DTSTART:20170716T133000Z
 DTEND:20170716T173000Z
 LOCATION:Edgbaston, Birmingham
@@ -565,7 +565,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Yorkshire v Warwickshire
+SUMMARY:North Group Yorkshire v Birmingham
 DTSTART:20170721T173000Z
 DTEND:20170721T213000Z
 LOCATION:Headingley, Leeds
@@ -649,7 +649,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Derbyshire
+SUMMARY:North Group Birmingham v Derbyshire
 DTSTART:20170723T133000Z
 DTEND:20170723T173000Z
 LOCATION:Edgbaston, Birmingham
@@ -747,7 +747,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Leicestershire v Warwickshire
+SUMMARY:North Group Leicestershire v Birmingham
 DTSTART:20170725T173000Z
 DTEND:20170725T213000Z
 LOCATION:Grace Road, Leicester
@@ -901,7 +901,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Yorkshire
+SUMMARY:North Group Birmingham v Yorkshire
 DTSTART:20170728T173000Z
 DTEND:20170728T213000Z
 LOCATION:Edgbaston, Birmingham
@@ -1013,7 +1013,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Lancashire
+SUMMARY:North Group Birmingham v Lancashire
 DTSTART:20170730T133000Z
 DTEND:20170730T173000Z
 LOCATION:Edgbaston, Birmingham
@@ -1069,7 +1069,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Northamptonshire v Warwickshire
+SUMMARY:North Group Northamptonshire v Birmingham
 DTSTART:20170801T173000Z
 DTEND:20170801T213000Z
 LOCATION:County Ground, Northampton
@@ -1251,7 +1251,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Warwickshire v Worcestershire
+SUMMARY:North Group Birmingham v Worcestershire
 DTSTART:20170804T180000Z
 DTEND:20170804T220000Z
 LOCATION:Edgbaston, Birmingham
@@ -1391,7 +1391,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Nottinghamshire v Warwickshire
+SUMMARY:North Group Nottinghamshire v Birmingham
 DTSTART:20170811T173000Z
 DTEND:20170811T213000Z
 LOCATION:Trent Bridge, Nottingham
@@ -1503,7 +1503,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Durham v Warwickshire
+SUMMARY:North Group Durham v Birmingham
 DTSTART:20170813T133000Z
 DTEND:20170813T173000Z
 LOCATION:Riverside Ground, Chester-le-Street
@@ -1685,7 +1685,7 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:North Group Lancashire v Warwickshire
+SUMMARY:North Group Lancashire v Birmingham
 DTSTART:20170818T180000Z
 DTEND:20170818T220000Z
 LOCATION:Old Trafford, Manchester
