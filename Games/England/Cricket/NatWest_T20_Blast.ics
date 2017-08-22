@@ -1769,10 +1769,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:1st Quarter-Final TBD v TBD
+SUMMARY:1st Quarter-Final Derbyshire v Hampshire
 DTSTART:20170822T000000Z
 DTEND:20170822T040000Z
-LOCATION:
+LOCATION:County Ground, Derby
 TRANSP:OPAQUE
 UID:1068424_0
 BEGIN:VALARM
@@ -1783,10 +1783,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:2nd Quarter-Final TBD v TBD
+SUMMARY:2nd Quarter-Final Glamorgan v Leicestershire
 DTSTART:20170823T000000Z
 DTEND:20170823T040000Z
-LOCATION:
+LOCATION:Sophia Gardens, Cardiff
 TRANSP:OPAQUE
 UID:1068425_0
 BEGIN:VALARM
@@ -1797,10 +1797,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:3rd Quarter-Final TBD v TBD
+SUMMARY:3rd Quarter-Final Nottinghamshire v Somerset
 DTSTART:20170824T000000Z
 DTEND:20170824T040000Z
-LOCATION:
+LOCATION:Trent Bridge, Nottingham
 TRANSP:OPAQUE
 UID:1068426_0
 BEGIN:VALARM
@@ -1811,10 +1811,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Follow every ball of every international match live on Cricinfo.com.\n\nGet all the latest NatWest t20 Blast news at: http://www.espncricinfo.com/ci/content/series/1068050.html \n\n 
-SUMMARY:4th Quarter-Final TBD v TBD
+SUMMARY:4th Quarter-Final Surrey v Warwickshire
 DTSTART:20170825T000000Z
 DTEND:20170825T040000Z
-LOCATION:
+LOCATION:Kennington Oval, London
 TRANSP:OPAQUE
 UID:1068427_0
 BEGIN:VALARM
